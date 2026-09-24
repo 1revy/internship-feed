@@ -1,5 +1,19 @@
 [
   {
+    "id": "sj:63f4d5fe-1a58-43dc-8299-1dcb69b5b2f6",
+    "company": "Lazard",
+    "title": "AI and Data Transformation Intern",
+    "location": "NYC (New York)",
+    "url": "https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6650"
+  },
+  {
+    "id": "sj:fadc5395-c7d9-4c74-8a5d-4dff2d7fa71c",
+    "company": "Tradeweb",
+    "title": "Market Data Product Management Intern",
+    "location": "NYC (New York)",
+    "url": "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301932"
+  },
+  {
     "id": "sj:10410298-5914-4739-a1e4-898dbd865b17",
     "company": "Hudson River Trading",
     "title": "Data Scientist Intern",
@@ -432,6 +446,20 @@
     "title": "Data Scientist Intern",
     "location": "NYC (New York)",
     "url": "https://www.alixpartners.com/careers/7725335003?gh_jid=7725335003"
+  },
+  {
+    "id": "sj:0f94776b-245c-41ce-8533-969cf33af5d9",
+    "company": "Genesis Molecular AI",
+    "title": "Machine Learning Research Intern",
+    "location": "SF; NYC (New York)",
+    "url": "https://jobs.ashbyhq.com/genesis-molecular-ai/42fc0631-3f81-481a-b496-daa875c9e92e/application?embed=true"
+  },
+  {
+    "id": "sj:80a7e2c3-ed7c-41dc-92a7-85bf12db37f5",
+    "company": "Genesis Molecular AI",
+    "title": "Software Engineer Intern",
+    "location": "San Mateo, CA; NYC (New York)",
+    "url": "https://jobs.ashbyhq.com/genesis-molecular-ai/44e3cbdc-949c-426e-a80a-b41c73ad6a99/application?embed=true"
   },
   {
     "id": "sj:5eb5b284-a13e-460f-8868-b285bb6e1821",
@@ -1484,11 +1512,39 @@
     "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002"
   },
   {
+    "id": "sj:f47bf68f-08e3-4d92-ade8-eff54ae7c108",
+    "company": "State Farm",
+    "title": "Data Science Intern - Magnet Program",
+    "location": "Tempe, AZ (Other)",
+    "url": "https://jobs.statefarm.com/jobs/46353?icims=1"
+  },
+  {
+    "id": "sj:3987bb53-087a-4ba7-8495-a8dd4ff2f912",
+    "company": "CHS",
+    "title": "Data Analyst Intern",
+    "location": "Inver Grove Heights, MN (Other)",
+    "url": "https://careers.chsinc.com/job/Inver-Grove-Heights-Data-Analyst-Intern-MN-55077-1721/1433568700/?ats=successfactors"
+  },
+  {
     "id": "sj:576efb35-6523-4979-8e5d-7188d3bd98b9",
     "company": "Enterprise Holdings",
     "title": "Data Engineer Intern - IT",
     "location": "St. Louis, MO (Other)",
     "url": "https://us-erac.icims.com/jobs/567651/job?mobile=true&needsRedirect=false"
+  },
+  {
+    "id": "sj:5de70651-7d69-4108-95c3-555e83062f78",
+    "company": "Manulife Financial",
+    "title": "Product Management & Risk Technology Co-op",
+    "location": "Toronto, ON, Canada (Other)",
+    "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Winter-Co-op-2027---Product-Management---Risk-Technology_JR26080874"
+  },
+  {
+    "id": "sj:a2e915b7-cd1b-4137-9c87-a2707b3de604",
+    "company": "ABB",
+    "title": "Product Management Intern",
+    "location": "New Berlin, WI (Other)",
+    "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/New-Berlin-Wisconsin-United-States-of-America/Product-Management-Intern---Summer-2027_JR00047280"
   },
   {
     "id": "sj:d71cc21f-dabe-4071-b07e-81c42007e03e",
@@ -3442,61 +3498,5 @@
     "title": "Data Engineering Intern",
     "location": "Omaha, NE (Other)",
     "url": "https://job-boards.greenhouse.io/gallup/jobs/4395454009"
-  },
-  {
-    "id": "sj:93048763-5a4d-430c-bb12-ed0ad0d9cfa7",
-    "company": "Coinbase",
-    "title": "Data Science Intern - Strategy, Execution, & Analytics - Platform",
-    "location": "SF (Other)",
-    "url": "https://boards.greenhouse.io/embed/job_app?token=8175462"
-  },
-  {
-    "id": "sj:96af2834-7e64-41a6-b0d4-d000f97b76cb",
-    "company": "Coinbase",
-    "title": "Data Engineer Intern",
-    "location": "SF (Other)",
-    "url": "https://boards.greenhouse.io/embed/job_app?token=8175459"
-  },
-  {
-    "id": "sj:c588f748-c6d2-459d-90b6-c43d81d4522b",
-    "company": "Coinbase",
-    "title": "Associate Product Manager Intern - Multiple Teams",
-    "location": "SF (Other)",
-    "url": "https://boards.greenhouse.io/embed/job_app?token=8168322"
-  },
-  {
-    "id": "sj:229eef02-3f6a-438c-8418-e238047cac56",
-    "company": "Covestro",
-    "title": "Digital R&D Intern",
-    "location": "Pittsburgh, PA (Other)",
-    "url": "https://covestro.wd3.myworkdayjobs.com/cov_external/job/Pittsburgh-PA/Digital-R-D-Intern_JR-2026-02006"
-  },
-  {
-    "id": "sj:aefb70e4-21a0-4269-b8c0-5a30ccdfa355",
-    "company": "Ovintiv",
-    "title": "Technology Intern - Data & Digital",
-    "location": "The Woodlands, TX; Denver, CO (Other)",
-    "url": "https://ovintiv.wd3.myworkdayjobs.com/ovintivcareers/job/Denver-CO-US/Intern-Technology--Data---Digital_R2587"
-  },
-  {
-    "id": "sj:9f3cbb1e-b4a0-4f15-b1fc-ea0c6a200973",
-    "company": "Xcel Energy",
-    "title": "Residential Energy Product Strategy Intern",
-    "location": "Denver, CO (Other)",
-    "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/Residential-Energy-Product-Strategy-Intern--CO_JR115817-1"
-  },
-  {
-    "id": "sj:b4c471c9-9a26-433f-a75a-81237cee7603",
-    "company": "Cigna Group",
-    "title": "Data & Analytics Engineering Intern - Technology Development Program",
-    "location": "Bloomington, MN; Morris Plains, NJ; St. Louis, MO; Bloomfield, CT (Other)",
-    "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bloomfield-CT/The-Cigna-Group-s-Technology-Development-Program---Data---Analytics-Engineering-Track-Summer-Internship_26009533"
-  },
-  {
-    "id": "sj:aabf19a7-ebea-4712-8c04-87742467726b",
-    "company": "Barclays",
-    "title": "Technology Analyst Intern",
-    "location": "Glasgow, UK (Other)",
-    "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/XMLNAME-2027-Technology-Analyst-Summer-Internship-Programme-Glasgow_JR-0000129503"
   }
 ]
