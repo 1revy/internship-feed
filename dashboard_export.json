@@ -1547,6 +1547,13 @@
     "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/New-Berlin-Wisconsin-United-States-of-America/Product-Management-Intern---Summer-2027_JR00047280"
   },
   {
+    "id": "sj:adf0a40d-85b8-4712-bc55-164c7686e667",
+    "company": "Marathon Petroleum",
+    "title": "Geographic Information Systems Intern/Co-op",
+    "location": "Tulsa, OK (Other)",
+    "url": "https://mpc.wd1.myworkdayjobs.com/en-US/MPCCareers/job/Tulsa-Oklahoma/Intern-Co-op---Midstream-Natural-Gas-and-NGL-Services-Geography-GIS--Summer-2027-_00024411"
+  },
+  {
     "id": "sj:d71cc21f-dabe-4071-b07e-81c42007e03e",
     "company": "Franklin Electric",
     "title": "Global Business Strategy Development Intern",
@@ -3491,12 +3498,5 @@
     "title": "Data Science Intern - Summer 2027",
     "location": "SF (Other)",
     "url": "https://job-boards.greenhouse.io/gallup/jobs/4395491009"
-  },
-  {
-    "id": "sj:35f89fc9-30ca-497a-a6a0-ed005cf0e2af",
-    "company": "Gallup",
-    "title": "Data Engineering Intern",
-    "location": "Omaha, NE (Other)",
-    "url": "https://job-boards.greenhouse.io/gallup/jobs/4395454009"
   }
 ]
