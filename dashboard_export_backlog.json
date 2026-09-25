@@ -1,5 +1,12 @@
 [
   {
+    "id": "sj:35f89fc9-30ca-497a-a6a0-ed005cf0e2af",
+    "company": "Gallup",
+    "title": "Data Engineering Intern",
+    "location": "Omaha, NE (Other)",
+    "url": "https://job-boards.greenhouse.io/gallup/jobs/4395454009"
+  },
+  {
     "id": "sj:93048763-5a4d-430c-bb12-ed0ad0d9cfa7",
     "company": "Coinbase",
     "title": "Data Science Intern - Strategy, Execution, & Analytics - Platform",
@@ -2980,6 +2987,13 @@
     "title": "Product Design Intern, AI Infrastructure - Summer 2027",
     "location": "2 Locations (Other)",
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Design-Intern--AI-Infrastructure---Summer-2027_JR2025784"
+  },
+  {
+    "id": "sj:8309b5a0-8e75-434e-b1e6-419b51f357ae",
+    "company": "Electronic Arts",
+    "title": "Gameplay Engineer Intern",
+    "location": "LA (Other)",
+    "url": "https://jobs.ea.com/en_US/careers/JobDetail/Gameplay-Engineer-Intern/216245"
   },
   {
     "id": "sj:a27b01fe-9ba5-4ec8-894b-61cfd1f1fdf6",
@@ -6984,19 +6998,5 @@
     "title": "Energy Intern",
     "location": "Fort Worth, TX (Other)",
     "url": "https://trwd.wd1.myworkdayjobs.com/TRWDCareers/job/Fort-Worth-TX/Summer-2027-Energy-Intern--T047-_JR100217"
-  },
-  {
-    "id": "sj:c067fe94-7764-4b4b-b95a-74df217fe320",
-    "company": "Booz Allen",
-    "title": "Software Developer Intern",
-    "location": "Huntsville, AL (Other)",
-    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Huntsville-AL/University---2027-Summer-Games-Software-Developer-Intern---Huntsville--AL_R0248394"
-  },
-  {
-    "id": "sj:a6206b6e-60eb-4a46-b839-118d12bfeb6a",
-    "company": "Booz Allen",
-    "title": "Software Developer Intern - University",
-    "location": "Honolulu, HI (Other)",
-    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Honolulu-HI/University---2027-Summer-Games-Software-Developer-Intern---Honolulu--HI_R0248393"
   }
 ]
