@@ -1,5 +1,33 @@
 [
   {
+    "id": "sj:aa9df840-2039-4524-9672-7d4ffd853f89",
+    "company": "Navy Federal",
+    "title": "Summer Associate Intern - Business Intelligence & Data Analytics",
+    "location": "Winchester, VA; Pensacola, FL; Vienna, VA (Other)",
+    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32107"
+  },
+  {
+    "id": "sj:ba118ced-217b-406f-8885-fb001cb6f2ee",
+    "company": "Navy Federal",
+    "title": "Data Scientist Intern",
+    "location": "Vienna, VA (Other)",
+    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32291"
+  },
+  {
+    "id": "sj:84aceb36-b81e-41f2-b127-68507407f1b0",
+    "company": "Navy Federal",
+    "title": "Summer Associate Internship - Fraud Data Governance",
+    "location": "Vienna, VA (Other)",
+    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32310"
+  },
+  {
+    "id": "sj:ae1106ad-2f88-4c54-b438-ae87f9ebdab7",
+    "company": "Navy Federal",
+    "title": "Business Intelligence Analyst Intern",
+    "location": "Vienna, VA (Other)",
+    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32080"
+  },
+  {
     "id": "sj:f1272f1c-3343-48fc-bdbb-ae38de6a39ea",
     "company": "Navy Federal",
     "title": "Business Intelligence Analyst Intern",
@@ -3003,11 +3031,25 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Design-Intern--AI-Infrastructure---Summer-2027_JR2025784"
   },
   {
+    "id": "sj:06121173-b783-44a5-bd34-4a7465768bbb",
+    "company": "Lutron Electronics",
+    "title": "Software Engineering Co-op",
+    "location": "Philadelphia, PA (Other)",
+    "url": "https://careers.lutron.com/jobs/5616?icims=1"
+  },
+  {
     "id": "sj:8309b5a0-8e75-434e-b1e6-419b51f357ae",
     "company": "Electronic Arts",
     "title": "Gameplay Engineer Intern",
     "location": "LA (Other)",
     "url": "https://jobs.ea.com/en_US/careers/JobDetail/Gameplay-Engineer-Intern/216245"
+  },
+  {
+    "id": "sj:f8aa999f-66d3-4ae6-b0bf-286944064197",
+    "company": "Greenheck Group",
+    "title": "Application Developer Co-op",
+    "location": "Schofield, WI (Other)",
+    "url": "https://greenheckgroup.wd5.myworkdayjobs.com/external/job/Schofield-WI/Application-Developer-Co-op_JR104721"
   },
   {
     "id": "sj:a27b01fe-9ba5-4ec8-894b-61cfd1f1fdf6",
@@ -4655,11 +4697,25 @@
     "url": "https://externalhourly-highgate.icims.com/jobs/82510/job?hub=7&mobile=true&needsRedirect=false"
   },
   {
+    "id": "sj:ed6d741a-4749-4428-a9e6-418e0beeee88",
+    "company": "Highgate",
+    "title": "Revenue Management Intern",
+    "location": "LA (Other)",
+    "url": "https://externalhourly-highgate.icims.com/jobs/82509/job?hub=7&mobile=true&needsRedirect=false"
+  },
+  {
     "id": "sj:76ef25fd-801d-4c81-9867-64085601c325",
     "company": "Highgate",
     "title": "Revenue Management Intern - Summer 2027",
     "location": "Boston, MA (Other)",
     "url": "https://externalhourly-highgate.icims.com/jobs/82512/job?hub=7&mobile=true&needsRedirect=false"
+  },
+  {
+    "id": "sj:e7bcc39a-7fdd-453f-b556-1ee9c411c5c9",
+    "company": "Highgate",
+    "title": "Revenue Management Intern - Summer 2027",
+    "location": "Miami, FL (Other)",
+    "url": "https://externalhourly-highgate.icims.com/jobs/82513/job?hub=7&mobile=true&needsRedirect=false"
   },
   {
     "id": "sj:5cb3b2a7-3eeb-40f0-80ff-9f30db32b389",
@@ -6942,61 +6998,5 @@
     "title": "Software Engineer Co-op - Uncrewed Land & Air",
     "location": "Hunt Valley, Cockeysville, MD (Other)",
     "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342650"
-  },
-  {
-    "id": "sj:27ef919b-f4a9-4f27-b484-e742c76fc774",
-    "company": "John Deere",
-    "title": "Information Technology Intern - Technology",
-    "location": "Moline, IL (Other)",
-    "url": "https://johndeere.eightfold.ai/careers/job/137482633322"
-  },
-  {
-    "id": "sj:7db598e3-bc08-420a-a69f-e39447549d49",
-    "company": "Edison International",
-    "title": "Computer Science Intern",
-    "location": "Santa Ana, CA (Other)",
-    "url": "https://apply.edisoncareers.com/job/Santa-Ana-2027-Summer-Internship-Computer-Science-(Santa-Ana)-CA-92705/1425158700/?ats=successfactors"
-  },
-  {
-    "id": "sj:344f9541-1bdc-41ab-8c57-ba63a9e11517",
-    "company": "Edison International",
-    "title": "Computer Science Intern",
-    "location": "Alhambra, CA; Pomona, CA; Rosemead, CA (Other)",
-    "url": "https://apply.edisoncareers.com/job/Alhambra-2027-Summer-Internship-Computer-Science-(AlhambraRosemeadPomona)-CA-91803-0000/1425151100/?ats=successfactors"
-  },
-  {
-    "id": "sj:77203ce5-b7d4-43d5-a610-f97e1ddee542",
-    "company": "Edison International",
-    "title": "Intern - Multiple Teams",
-    "location": "Santa Ana, CA; Fullerton, CA; Irvine, CA; Westminster, CA (Other)",
-    "url": "https://apply.edisoncareers.com/job/Westminster-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-Santa-AnaWestminsterIrvineFullerton-CA-92683-5240/1425178600/?ats=successfactors"
-  },
-  {
-    "id": "sj:a3a30f46-fe3b-48db-8f94-28a5b0a06d39",
-    "company": "Trane Technologies",
-    "title": "AI & Analytics Intern",
-    "location": "Minneapolis, MN; Davidson, NC (Other)",
-    "url": "https://careers.tranetechnologies.com/global/en/job/JR-7591"
-  },
-  {
-    "id": "sj:7ad48361-649c-4efe-abeb-2c80430792f5",
-    "company": "JP Morgan Chase",
-    "title": "Software Engineer Intern - Immersion Program",
-    "location": "Glasgow, UK (Other)",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774813"
-  },
-  {
-    "id": "sj:a9a6f9d5-20b7-4f71-8462-13e56e208848",
-    "company": "First National Bank",
-    "title": "Retail Administration Analytics Intern",
-    "location": "Pittsburgh, PA (Other)",
-    "url": "https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-Retail-Administration-Analytics-Intern_2026-02039"
-  },
-  {
-    "id": "sj:0d13979f-34e6-4863-983f-b931e8619e05",
-    "company": "Momentive",
-    "title": "Service Quality Intern",
-    "location": "Waterford, NY (Other)",
-    "url": "https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Waterford/Summer-2027-Intern---Service-Quality_R9767"
   }
 ]
