@@ -609,6 +609,13 @@
     "url": "https://boards.greenhouse.io/figma/jobs/6143238004"
   },
   {
+    "id": "sj:fecb09fe-d423-4ee4-8ccd-9aa8b90dfd73",
+    "company": "Highgate",
+    "title": "Revenue Management Intern - Summer 2027",
+    "location": "NYC (New York)",
+    "url": "https://externalhourly-highgate.icims.com/jobs/82508/job?hub=7&mobile=true&needsRedirect=false"
+  },
+  {
     "id": "sj:1c64a304-96bc-447e-ab18-b8bcf93f937f",
     "company": "Robinhood",
     "title": "Software Engineer Intern - iOS - Summer 2027",
@@ -1239,6 +1246,13 @@
     "url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383231008"
   },
   {
+    "id": "sj:658fd45f-d93b-40ef-bfad-215f0b6f253d",
+    "company": "Capital Group",
+    "title": "Data & Technology Summer Associate - Capital Group Rotational Program",
+    "location": "London, UK (London / Paris)",
+    "url": "https://capgroup.wd1.myworkdayjobs.com/en-US/capitalgroupcareers/job/London/CAMPUS--Capital-Group-Rotational-Program---Data---Tech-Track-Summer-Associate--London--2027-_JR7451"
+  },
+  {
     "id": "sj:7e861bb5-2026-4aad-aab9-7d36ce34fb11",
     "company": "Hudson River Trading",
     "title": "Data Scientist Intern",
@@ -1510,6 +1524,20 @@
     "title": "Software Engineer Intern",
     "location": "London, UK; Chicago, IL (London / Paris)",
     "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002"
+  },
+  {
+    "id": "sj:074a0da6-73e2-402d-90a7-ca4bf302d862",
+    "company": "First Citizens BancShares",
+    "title": "IT Intern - Software Developer",
+    "location": "Raleigh, NC (Other)",
+    "url": "https://firstcitizens.jibeapply.com/jobs/35709?icims=1"
+  },
+  {
+    "id": "sj:ee8ed5ad-3be9-407e-8020-0d9a037d60be",
+    "company": "Barrios",
+    "title": "Data and Computer Engineering/Computer Science Intern",
+    "location": "Houston, TX (Other)",
+    "url": "https://careers-barrios.icims.com/jobs/2897/job?mobile=true&needsRedirect=false"
   },
   {
     "id": "sj:f47bf68f-08e3-4d92-ade8-eff54ae7c108",
@@ -3470,33 +3498,5 @@
     "title": "Data Scientist Intern",
     "location": "Winchester, VA; Pensacola, FL; Vienna, VA (Other)",
     "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32081"
-  },
-  {
-    "id": "sj:aa9df840-2039-4524-9672-7d4ffd853f89",
-    "company": "Navy Federal",
-    "title": "Summer Associate Intern - Business Intelligence & Data Analytics",
-    "location": "Winchester, VA; Pensacola, FL; Vienna, VA (Other)",
-    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32107"
-  },
-  {
-    "id": "sj:ba118ced-217b-406f-8885-fb001cb6f2ee",
-    "company": "Navy Federal",
-    "title": "Data Scientist Intern",
-    "location": "Vienna, VA (Other)",
-    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32291"
-  },
-  {
-    "id": "sj:84aceb36-b81e-41f2-b127-68507407f1b0",
-    "company": "Navy Federal",
-    "title": "Summer Associate Internship - Fraud Data Governance",
-    "location": "Vienna, VA (Other)",
-    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32310"
-  },
-  {
-    "id": "sj:ae1106ad-2f88-4c54-b438-ae87f9ebdab7",
-    "company": "Navy Federal",
-    "title": "Business Intelligence Analyst Intern",
-    "location": "Vienna, VA (Other)",
-    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32080"
   }
 ]
