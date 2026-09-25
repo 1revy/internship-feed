@@ -1,5 +1,19 @@
 [
   {
+    "id": "sj:f1272f1c-3343-48fc-bdbb-ae38de6a39ea",
+    "company": "Navy Federal",
+    "title": "Business Intelligence Analyst Intern",
+    "location": "Winchester, VA; Virginia Beach, VA; Pensacola, FL; Jacksonville, FL; Vienna, VA (Other)",
+    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32031"
+  },
+  {
+    "id": "sj:ad3bdd89-905d-467f-a04f-55d5e7b18954",
+    "company": "Gallup",
+    "title": "Data Science Intern - Summer 2027",
+    "location": "SF (Other)",
+    "url": "https://job-boards.greenhouse.io/gallup/jobs/4395491009"
+  },
+  {
     "id": "sj:35f89fc9-30ca-497a-a6a0-ed005cf0e2af",
     "company": "Gallup",
     "title": "Data Engineering Intern",
@@ -4634,6 +4648,20 @@
     "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4501054"
   },
   {
+    "id": "sj:1641054b-4682-4012-95fb-6d5cf73457ca",
+    "company": "Highgate",
+    "title": "Revenue Management Intern - Summer 2027",
+    "location": "SF (Other)",
+    "url": "https://externalhourly-highgate.icims.com/jobs/82510/job?hub=7&mobile=true&needsRedirect=false"
+  },
+  {
+    "id": "sj:76ef25fd-801d-4c81-9867-64085601c325",
+    "company": "Highgate",
+    "title": "Revenue Management Intern - Summer 2027",
+    "location": "Boston, MA (Other)",
+    "url": "https://externalhourly-highgate.icims.com/jobs/82512/job?hub=7&mobile=true&needsRedirect=false"
+  },
+  {
     "id": "sj:5cb3b2a7-3eeb-40f0-80ff-9f30db32b389",
     "company": "Emerson Electric",
     "title": "Software Engineer Co-op",
@@ -6970,33 +6998,5 @@
     "title": "Service Quality Intern",
     "location": "Waterford, NY (Other)",
     "url": "https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Waterford/Summer-2027-Intern---Service-Quality_R9767"
-  },
-  {
-    "id": "sj:94b01cac-fcb0-4724-8377-0f5ba298e9b8",
-    "company": "First National Bank",
-    "title": "Corporate Analytics Intern",
-    "location": "Pittsburgh, PA (Other)",
-    "url": "https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-Corporate-Analytics-Intern_2026-01910"
-  },
-  {
-    "id": "sj:4a4488a7-d411-4cdf-bf48-8d34e3a60a68",
-    "company": "First National Bank",
-    "title": "AI and Innovation Intern",
-    "location": "Pittsburgh, PA (Other)",
-    "url": "https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-AI-and-Innovation-Intern---Pittsburgh--PA_2026-01811"
-  },
-  {
-    "id": "sj:5af13882-4022-4a51-8828-29a2ff89a39c",
-    "company": "Teledyne",
-    "title": "Software Engineer Intern",
-    "location": "Huntsville, AL (Other)",
-    "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/EADSIM-Software-Engineering-Intern--Summer-2027-_REQ36667"
-  },
-  {
-    "id": "sj:22d244c4-56e5-4139-a741-e4cdcc0d8842",
-    "company": "Tarrant Regional Water District",
-    "title": "Energy Intern",
-    "location": "Fort Worth, TX (Other)",
-    "url": "https://trwd.wd1.myworkdayjobs.com/TRWDCareers/job/Fort-Worth-TX/Summer-2027-Energy-Intern--T047-_JR100217"
   }
 ]
