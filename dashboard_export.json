@@ -1533,6 +1533,13 @@
     "url": "https://us-erac.icims.com/jobs/567651/job?mobile=true&needsRedirect=false"
   },
   {
+    "id": "sj:9db8fac1-1656-4db7-ad48-26ccb11ca2a8",
+    "company": "Atlassian",
+    "title": "Data Scientist Intern - Multiple Teams",
+    "location": "Seattle, WA (Other)",
+    "url": "https://globalcareers-atlassian.icims.com/jobs/26271/data-scientist-intern%2c-2027-summer-u.s./job"
+  },
+  {
     "id": "sj:5de70651-7d69-4108-95c3-555e83062f78",
     "company": "Manulife Financial",
     "title": "Product Management & Risk Technology Co-op",
@@ -1552,6 +1559,13 @@
     "title": "Geographic Information Systems Intern/Co-op",
     "location": "Tulsa, OK (Other)",
     "url": "https://mpc.wd1.myworkdayjobs.com/en-US/MPCCareers/job/Tulsa-Oklahoma/Intern-Co-op---Midstream-Natural-Gas-and-NGL-Services-Geography-GIS--Summer-2027-_00024411"
+  },
+  {
+    "id": "sj:5a08979e-7e9a-404e-8ff7-08e9387be038",
+    "company": "LabCorp",
+    "title": "Commercial Analytics Intern - ED/Chemistry Solutions Commercial Analytics Team",
+    "location": "Remote in USA; Milwaukee, WI (Other)",
+    "url": "https://labcorp.wd1.myworkdayjobs.com/external/job/USA----WI---Milwaukee---3727-W-Wisconsin-Avenue/Intern---Commercial-Analytics_2633615"
   },
   {
     "id": "sj:d71cc21f-dabe-4071-b07e-81c42007e03e",
@@ -3484,19 +3498,5 @@
     "title": "Business Intelligence Analyst Intern",
     "location": "Vienna, VA (Other)",
     "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32080"
-  },
-  {
-    "id": "sj:f1272f1c-3343-48fc-bdbb-ae38de6a39ea",
-    "company": "Navy Federal",
-    "title": "Business Intelligence Analyst Intern",
-    "location": "Winchester, VA; Virginia Beach, VA; Pensacola, FL; Jacksonville, FL; Vienna, VA (Other)",
-    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32031"
-  },
-  {
-    "id": "sj:ad3bdd89-905d-467f-a04f-55d5e7b18954",
-    "company": "Gallup",
-    "title": "Data Science Intern - Summer 2027",
-    "location": "SF (Other)",
-    "url": "https://job-boards.greenhouse.io/gallup/jobs/4395491009"
   }
 ]
