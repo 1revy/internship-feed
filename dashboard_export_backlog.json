@@ -1,5 +1,12 @@
 [
   {
+    "id": "sj:6f27a249-c5f8-49c5-917a-9eb5679af824",
+    "company": "Navy Federal",
+    "title": "Product Strategist Intern - Student Loans",
+    "location": "Vienna, VA (Other)",
+    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32361"
+  },
+  {
     "id": "sj:e78a0944-02f0-47b9-b397-c0e7ca1f0cd2",
     "company": "Navy Federal",
     "title": "Product Strategist Intern",
@@ -3113,6 +3120,27 @@
     "title": "Product Design Intern, AI Infrastructure - Summer 2027",
     "location": "2 Locations (Other)",
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Design-Intern--AI-Infrastructure---Summer-2027_JR2025784"
+  },
+  {
+    "id": "sj:ec241207-37cb-48f4-aa65-cf19d960f7a2",
+    "company": "Flint",
+    "title": "Engineering Intern - Summer 2027",
+    "location": "SF (Other)",
+    "url": "https://jobs.ashbyhq.com/flint/39f9e665-7037-4dff-b77a-ff7039df2bfc/application?embed=true"
+  },
+  {
+    "id": "sj:557e1909-4373-42e8-847b-ee26942d838b",
+    "company": "Waymo",
+    "title": "Perception Intern - Multiple Teams",
+    "location": "Mountain View, CA (Other)",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8227411"
+  },
+  {
+    "id": "sj:81966fa3-a10b-4a7d-bba2-f75b0ec0c239",
+    "company": "Atlassian",
+    "title": "Research Intern",
+    "location": "Seattle, WA (Other)",
+    "url": "https://campus-americas.icims.com/jobs/26270/research-intern%2c-2027-summer-u.s./job"
   },
   {
     "id": "sj:8f6df37f-2adf-4d38-9a4d-3b01fd227f46",
@@ -6970,33 +6998,5 @@
     "title": "AI Engineer Intern - Summer 2027",
     "location": "Santa Monica, CA (Other)",
     "url": "https://apply.workable.com/twgai/j/772CD136FF/apply"
-  },
-  {
-    "id": "sj:21eafea3-7253-439b-864f-64209efa6579",
-    "company": "Lawrence Livermore National Laboratory (LLNL)",
-    "title": "Computing Intern - Summer Undergraduate Internship Program",
-    "location": "Livermore, CA (Other)",
-    "url": "https://jobs.smartrecruiters.com/LLNL/3743990014982059"
-  },
-  {
-    "id": "sj:111932e9-ef61-4e10-af00-fdf06cb493c7",
-    "company": "Kinder Morgan",
-    "title": "Information Technology Intern - Application Development",
-    "location": "Houston, TX (Other)",
-    "url": "https://careers.kindermorgan.com/jobs/6032?icims=1"
-  },
-  {
-    "id": "sj:768502d1-3bb6-48fe-8605-2c02c23d8e9e",
-    "company": "Hermeus",
-    "title": "Software Engineer Intern - Modeling & Simulation - Multiple Teams",
-    "location": "LA (Other)",
-    "url": "https://jobs.lever.co/hermeus/445db430-6f81-41cf-847a-56a947afb936/apply"
-  },
-  {
-    "id": "sj:2d992297-70f1-4f62-852b-75acf2b9ef3b",
-    "company": "Perpay",
-    "title": "Analytics Intern",
-    "location": "Philadelphia, PA (Other)",
-    "url": "https://job-boards.greenhouse.io/perpay/jobs/4076934007"
   }
 ]
