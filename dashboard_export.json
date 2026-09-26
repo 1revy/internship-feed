@@ -1,5 +1,12 @@
 [
   {
+    "id": "sj:98858d6b-d3a1-44ea-8530-178912a4e6dc",
+    "company": "Cerity Partners",
+    "title": "Investment Data & Technology Intern - Central Solutions",
+    "location": "NYC (New York)",
+    "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/New-York-City-NY/Investment-Data---Technology-Analyst-Internship_R929"
+  },
+  {
     "id": "sj:63f4d5fe-1a58-43dc-8299-1dcb69b5b2f6",
     "company": "Lazard",
     "title": "AI and Data Transformation Intern",
@@ -446,6 +453,13 @@
     "title": "Data Scientist Intern",
     "location": "NYC (New York)",
     "url": "https://www.alixpartners.com/careers/7725335003?gh_jid=7725335003"
+  },
+  {
+    "id": "sj:bc95ef3d-75d4-459b-bd69-5d99d0e7f95c",
+    "company": "DoorDash",
+    "title": "Machine Learning Engineer Intern - Masters",
+    "location": "Seattle, WA; SF; NYC; Sunnyvale, CA (New York)",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8204111"
   },
   {
     "id": "sj:0f94776b-245c-41ce-8533-969cf33af5d9",
@@ -1526,6 +1540,48 @@
     "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002"
   },
   {
+    "id": "sj:1f8a0413-c78d-4d89-a614-ceba126efdf8",
+    "company": "Red Ventures",
+    "title": "Data Science Intern - Launch Program",
+    "location": "Charlotte, NC (Other)",
+    "url": "https://www.redventures.com/careers/positions/open?gh_jid=8233284"
+  },
+  {
+    "id": "sj:dbc5524e-6bc2-4690-b04a-a30cdcabb2ab",
+    "company": "GCM Grosvenor",
+    "title": "Fund Data Reporting and Analytics Intern",
+    "location": "Chicago, IL (Other)",
+    "url": "https://job-boards.greenhouse.io/gcmgrosvenor/jobs/8003490003"
+  },
+  {
+    "id": "sj:e461075c-d030-4455-8fe8-9a52fa5c0551",
+    "company": "Western National Insurance",
+    "title": "Data Engineering Intern - Data & Integrations",
+    "location": "Edina, MN (Other)",
+    "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4537849"
+  },
+  {
+    "id": "sj:865a11a8-4b8f-4167-99a1-2b819a80bdf2",
+    "company": "Waymo",
+    "title": "Systems Engineer Intern - Autonomous Vehicle Networks & Diagnostics",
+    "location": "Mountain View, CA (Other)",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8231711"
+  },
+  {
+    "id": "sj:799d62f1-1dde-4bfb-83e1-3f4c656bf2d8",
+    "company": "Atlassian",
+    "title": "Data Scientist Intern",
+    "location": "Seattle, WA (Other)",
+    "url": "https://campus-americas.icims.com/jobs/26271/data-scientist-intern%2c-2027-summer-u.s./job"
+  },
+  {
+    "id": "sj:fec9533c-b5cc-4a22-b148-01e36f9516d4",
+    "company": "AbbVie",
+    "title": "Business Technology Solutions Intern - Data & Software Engineering",
+    "location": "Irvine, CA (Other)",
+    "url": "https://jobs.smartrecruiters.com/AbbVie/3743990015684476"
+  },
+  {
     "id": "sj:074a0da6-73e2-402d-90a7-ca4bf302d862",
     "company": "First Citizens BancShares",
     "title": "IT Intern - Software Developer",
@@ -1538,6 +1594,34 @@
     "title": "Data and Computer Engineering/Computer Science Intern",
     "location": "Houston, TX (Other)",
     "url": "https://careers-barrios.icims.com/jobs/2897/job?mobile=true&needsRedirect=false"
+  },
+  {
+    "id": "sj:d37558d5-18db-46de-a3b9-2e33b19e8b91",
+    "company": "Northwestern Mutual",
+    "title": "Actuarial Systems Intern",
+    "location": "Milwaukee, WI (Other)",
+    "url": "https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Actuarial-Systems-Intern--Summer-2027_JR-46073"
+  },
+  {
+    "id": "sj:acafb8f1-75b4-44f1-8450-4628ddf3b8a1",
+    "company": "ICF International",
+    "title": "Data Scientist Intern",
+    "location": "Remote in USA; Reston, VA; Denver, CO (Other)",
+    "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Data-Scientist--Reston--VA--Denver--CO--Remote-_R2603252"
+  },
+  {
+    "id": "sj:20de5e49-f3f4-4acd-9ae0-e82d4edd0521",
+    "company": "Pacific Life",
+    "title": "Data Engineering Intern",
+    "location": "Newport Beach, CA (Other)",
+    "url": "https://pacificlife.wd1.myworkdayjobs.com/en-US/PacificLifeCareers/job/Newport-Beach-CA-700/Summer-2027-Data-Engineering-Internship_R17828"
+  },
+  {
+    "id": "sj:127d880c-e16b-43e4-b4b6-c0788fbe90ae",
+    "company": "American Century Investments",
+    "title": "Enterprise Data Intern",
+    "location": "Southlake, TX; Kansas City, MO (Other)",
+    "url": "https://americancentury.wd5.myworkdayjobs.com/AmericanCenturyInvestments/job/Kansas-City-Missouri/Enterprise-Data-Intern_R0005751"
   },
   {
     "id": "sj:f47bf68f-08e3-4d92-ade8-eff54ae7c108",
@@ -3414,89 +3498,5 @@
     "title": "Product Strategist Intern - Student Loans",
     "location": "Vienna, VA (Other)",
     "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32361"
-  },
-  {
-    "id": "sj:e78a0944-02f0-47b9-b397-c0e7ca1f0cd2",
-    "company": "Navy Federal",
-    "title": "Product Strategist Intern",
-    "location": "Vienna, VA (Other)",
-    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32309"
-  },
-  {
-    "id": "sj:21c86ca5-1325-4405-906c-b0752356bf86",
-    "company": "Navy Federal",
-    "title": "Business Intelligence Analyst Intern",
-    "location": "Vienna, VA (Other)",
-    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32354"
-  },
-  {
-    "id": "sj:eeb6c52c-37fb-419b-98d3-d0f4866c100c",
-    "company": "Navy Federal",
-    "title": "Fraud Analyst Intern",
-    "location": "Vienna, VA (Other)",
-    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32293"
-  },
-  {
-    "id": "sj:65ad38a7-2526-4991-8307-6c8daf2a8a35",
-    "company": "Navy Federal",
-    "title": "Data Scientist Intern",
-    "location": "Pensacola, FL; Vienna, VA (Other)",
-    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32288"
-  },
-  {
-    "id": "sj:2f39b3db-1163-4648-abef-3fd3387c0ea2",
-    "company": "Navy Federal",
-    "title": "Associate Data Engineer Intern",
-    "location": "Vienna, VA (Other)",
-    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32292"
-  },
-  {
-    "id": "sj:df89c940-c5aa-4970-98ef-5b3c19d7b0e7",
-    "company": "Navy Federal",
-    "title": "Business Intelligence Analyst Intern",
-    "location": "Vienna, VA (Other)",
-    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32351"
-  },
-  {
-    "id": "sj:b71e17fa-8cfc-4470-998c-563ade508ae9",
-    "company": "Navy Federal",
-    "title": "Business Intelligence Analyst Intern - Consumer Lending",
-    "location": "Pensacola, FL; Vienna, VA (Other)",
-    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32321"
-  },
-  {
-    "id": "sj:ae2da0b2-b823-4adf-ab79-777009b4e8f9",
-    "company": "Navy Federal",
-    "title": "Data Engineer Intern",
-    "location": "Vienna, VA (Other)",
-    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32265"
-  },
-  {
-    "id": "sj:b5d2c671-2d7d-4a2a-9ecb-c337c83d591c",
-    "company": "Navy Federal",
-    "title": "Business Systems Analyst Intern",
-    "location": "Vienna, VA (Other)",
-    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32314"
-  },
-  {
-    "id": "sj:f01e3a70-35d6-473f-823e-f919c1052b42",
-    "company": "Navy Federal",
-    "title": "Business Intelligence Analyst Summer Associate Intern",
-    "location": "Vienna, VA (Other)",
-    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32330"
-  },
-  {
-    "id": "sj:bacd78d3-75f9-4a04-bcb0-8af136f91b7d",
-    "company": "Navy Federal",
-    "title": "Data Scientist Intern",
-    "location": "Vienna, VA (Other)",
-    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32337"
-  },
-  {
-    "id": "sj:4a704151-2d2c-4e76-bc7f-ba706ce80c55",
-    "company": "Navy Federal",
-    "title": "Data Scientist Intern",
-    "location": "Winchester, VA; Pensacola, FL; Vienna, VA (Other)",
-    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32081"
   }
 ]
