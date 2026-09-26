@@ -1,5 +1,89 @@
 [
   {
+    "id": "sj:e78a0944-02f0-47b9-b397-c0e7ca1f0cd2",
+    "company": "Navy Federal",
+    "title": "Product Strategist Intern",
+    "location": "Vienna, VA (Other)",
+    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32309"
+  },
+  {
+    "id": "sj:21c86ca5-1325-4405-906c-b0752356bf86",
+    "company": "Navy Federal",
+    "title": "Business Intelligence Analyst Intern",
+    "location": "Vienna, VA (Other)",
+    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32354"
+  },
+  {
+    "id": "sj:eeb6c52c-37fb-419b-98d3-d0f4866c100c",
+    "company": "Navy Federal",
+    "title": "Fraud Analyst Intern",
+    "location": "Vienna, VA (Other)",
+    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32293"
+  },
+  {
+    "id": "sj:65ad38a7-2526-4991-8307-6c8daf2a8a35",
+    "company": "Navy Federal",
+    "title": "Data Scientist Intern",
+    "location": "Pensacola, FL; Vienna, VA (Other)",
+    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32288"
+  },
+  {
+    "id": "sj:2f39b3db-1163-4648-abef-3fd3387c0ea2",
+    "company": "Navy Federal",
+    "title": "Associate Data Engineer Intern",
+    "location": "Vienna, VA (Other)",
+    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32292"
+  },
+  {
+    "id": "sj:df89c940-c5aa-4970-98ef-5b3c19d7b0e7",
+    "company": "Navy Federal",
+    "title": "Business Intelligence Analyst Intern",
+    "location": "Vienna, VA (Other)",
+    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32351"
+  },
+  {
+    "id": "sj:b71e17fa-8cfc-4470-998c-563ade508ae9",
+    "company": "Navy Federal",
+    "title": "Business Intelligence Analyst Intern - Consumer Lending",
+    "location": "Pensacola, FL; Vienna, VA (Other)",
+    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32321"
+  },
+  {
+    "id": "sj:ae2da0b2-b823-4adf-ab79-777009b4e8f9",
+    "company": "Navy Federal",
+    "title": "Data Engineer Intern",
+    "location": "Vienna, VA (Other)",
+    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32265"
+  },
+  {
+    "id": "sj:b5d2c671-2d7d-4a2a-9ecb-c337c83d591c",
+    "company": "Navy Federal",
+    "title": "Business Systems Analyst Intern",
+    "location": "Vienna, VA (Other)",
+    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32314"
+  },
+  {
+    "id": "sj:f01e3a70-35d6-473f-823e-f919c1052b42",
+    "company": "Navy Federal",
+    "title": "Business Intelligence Analyst Summer Associate Intern",
+    "location": "Vienna, VA (Other)",
+    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32330"
+  },
+  {
+    "id": "sj:bacd78d3-75f9-4a04-bcb0-8af136f91b7d",
+    "company": "Navy Federal",
+    "title": "Data Scientist Intern",
+    "location": "Vienna, VA (Other)",
+    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32337"
+  },
+  {
+    "id": "sj:4a704151-2d2c-4e76-bc7f-ba706ce80c55",
+    "company": "Navy Federal",
+    "title": "Data Scientist Intern",
+    "location": "Winchester, VA; Pensacola, FL; Vienna, VA (Other)",
+    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32081"
+  },
+  {
     "id": "sj:aa9df840-2039-4524-9672-7d4ffd853f89",
     "company": "Navy Federal",
     "title": "Summer Associate Intern - Business Intelligence & Data Analytics",
@@ -3031,6 +3115,55 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Design-Intern--AI-Infrastructure---Summer-2027_JR2025784"
   },
   {
+    "id": "sj:8f6df37f-2adf-4d38-9a4d-3b01fd227f46",
+    "company": "Bedrock Robotics",
+    "title": "State Estimation Intern - Learned Mapping & Semantic SLAM",
+    "location": "SF (Other)",
+    "url": "https://jobs.ashbyhq.com/bedrock-robotics/8c7bad61-50e3-4702-be36-72e9b72a9760/application?embed=true"
+  },
+  {
+    "id": "sj:468b84e5-6585-46ca-a0bc-c17392fa706d",
+    "company": "Bedrock Robotics",
+    "title": "Safety Engineer Intern - Agentic Safety Case Assessment",
+    "location": "SF (Other)",
+    "url": "https://jobs.ashbyhq.com/bedrock-robotics/cb06dc4f-3e78-4546-897d-b39ba12a9178/application?embed=true"
+  },
+  {
+    "id": "sj:44631389-4603-4cbc-bb24-596433854282",
+    "company": "Waymo",
+    "title": "Software Engineer Intern - Driver Refinement Foundations",
+    "location": "Mountain View, CA (Other)",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8224900"
+  },
+  {
+    "id": "sj:7d75bd70-f568-420d-985e-c8ccd2632c8f",
+    "company": "Johns Hopkins Applied Physics Laboratory",
+    "title": "Artificial Intelligence and Machine Learning Intern - Research Assistant",
+    "location": "Laurel, MD (Other)",
+    "url": "https://careers.jhuapl.edu/jobs/60084?icims=1"
+  },
+  {
+    "id": "sj:a21b0917-b7a1-4928-bf8b-80237a4263ff",
+    "company": "TRC Companies",
+    "title": "GIS Intern",
+    "location": "Seattle, WA; Houston, TX; Lakewood, CO; Raleigh, NC; Chicago, IL; Phoenix, AZ (Other)",
+    "url": "https://careers.trccompanies.com/jobs/26961?icims=1"
+  },
+  {
+    "id": "sj:3b1b8e9d-c4cf-4734-856a-c974daf38125",
+    "company": "TRC Companies",
+    "title": "Advanced Energy Intern",
+    "location": "Seattle, WA (Other)",
+    "url": "https://careers.trccompanies.com/jobs/26950?icims=1"
+  },
+  {
+    "id": "sj:d750fe7b-cab1-448d-87f7-d9cc9f2ad969",
+    "company": "RRS Group",
+    "title": "Associate Software Engineer Intern - Sophomore Only",
+    "location": "SF (Other)",
+    "url": "https://jobs.smartrecruiters.com/RRSGroup/744000151931819"
+  },
+  {
     "id": "sj:06121173-b783-44a5-bd34-4a7465768bbb",
     "company": "Lutron Electronics",
     "title": "Software Engineering Co-op",
@@ -3050,6 +3183,69 @@
     "title": "Application Developer Co-op",
     "location": "Schofield, WI (Other)",
     "url": "https://greenheckgroup.wd5.myworkdayjobs.com/external/job/Schofield-WI/Application-Developer-Co-op_JR104721"
+  },
+  {
+    "id": "sj:10a6747a-1b41-4024-955f-6b38e46e5a4d",
+    "company": "Rockwell Automation",
+    "title": "AI Software Engineering Co-op - 6 months - 8 months",
+    "location": "Mayfield Heights, OH; Milwaukee, WI (Other)",
+    "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mayfield-Heights-Ohio-United-States/Co-op--AI-Software-Engineering--6-8-months-_R26-6982"
+  },
+  {
+    "id": "sj:6ea50b0f-5bb0-46f9-9acf-2cb906b4da62",
+    "company": "RTX",
+    "title": "Software Engineer Intern - Summer 2027",
+    "location": "West Valley City, UT (Other)",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineering-Intern--Summer-2027-_01875358"
+  },
+  {
+    "id": "sj:85ec94f8-b794-406d-b74b-06e49b725a08",
+    "company": "Cencora",
+    "title": "Software Intern",
+    "location": "Remote in USA (Other)",
+    "url": "https://myhrabc.wd5.myworkdayjobs.com/Global/job/Remote-USA/Software-Intern_R2613763"
+  },
+  {
+    "id": "sj:f9cecf37-3d67-4284-acf1-bce7d8f9994e",
+    "company": "Rockwell Automation",
+    "title": "AI Software Engineer Intern",
+    "location": "Mayfield Heights, OH; Milwaukee, WI (Other)",
+    "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mayfield-Heights-Ohio-United-States/Intern--AI-Software-Engineering--June-August-2027-_R26-6980"
+  },
+  {
+    "id": "sj:2f66f3c8-4ff6-4ae9-a40e-ab8552e65340",
+    "company": "Motorola",
+    "title": "Software Engineer Intern - Summer 2027",
+    "location": "Elgin, IL (Other)",
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Greater-Chicago-Area/Software-Engineer-Intern---Summer-2027_R68679"
+  },
+  {
+    "id": "sj:68e6a9de-b100-4023-b025-dddbc6addbeb",
+    "company": "Pacific Life",
+    "title": "Software Engineering Intern",
+    "location": "Newport Beach, CA (Other)",
+    "url": "https://pacificlife.wd1.myworkdayjobs.com/en-US/PacificLifeCareers/job/Newport-Beach-CA-700/Summer-2027-Software-Engineering-Internship_R17826"
+  },
+  {
+    "id": "sj:099a34f8-de36-4008-b851-c1546eb7f942",
+    "company": "American Century Investments",
+    "title": "Software Developer Intern",
+    "location": "Kansas City, MO (Other)",
+    "url": "https://americancentury.wd5.myworkdayjobs.com/AmericanCenturyInvestments/job/Kansas-City-Missouri/Software-Developer-Intern_R0005749-1"
+  },
+  {
+    "id": "sj:ba129f03-7efb-479d-b7d3-24cd6f2bff90",
+    "company": "Rockwell Automation",
+    "title": "AI Software Engineering Co-op - 6 months - 8 months",
+    "location": "Mayfield Heights, OH; Milwaukee, WI (Other)",
+    "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Co-op--AI-Software-Engineering--6-8-months-_R26-6982-1"
+  },
+  {
+    "id": "sj:b5399343-6879-4858-98ed-d087567c8913",
+    "company": "Rockwell Automation",
+    "title": "AI Software Engineer Intern",
+    "location": "Mayfield Heights, OH; Milwaukee, WI (Other)",
+    "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Intern--AI-Software-Engineering--June-August-2027-_R26-6980-1"
   },
   {
     "id": "sj:a27b01fe-9ba5-4ec8-894b-61cfd1f1fdf6",
@@ -6802,201 +6998,5 @@
     "title": "Analytics Intern",
     "location": "Philadelphia, PA (Other)",
     "url": "https://job-boards.greenhouse.io/perpay/jobs/4076934007"
-  },
-  {
-    "id": "sj:dab6f443-d39a-4bca-acad-451c8b347549",
-    "company": "Atlassian",
-    "title": "Software Engineer Intern",
-    "location": "Seattle, WA; SF (Other)",
-    "url": "https://careers-americas.icims.com/jobs/26266/software-engineer-intern%2c-2027-summer-u.s./job"
-  },
-  {
-    "id": "sj:83a5554d-b472-42b5-984c-9be068b2bdc4",
-    "company": "Johns Hopkins Applied Physics Laboratory",
-    "title": "Software Development Intern",
-    "location": "Laurel, MD (Other)",
-    "url": "https://careers.jhuapl.edu/jobs/59745?icims=1"
-  },
-  {
-    "id": "sj:a9bac9bd-523b-4eac-9ef9-631dc4ac3919",
-    "company": "Johns Hopkins Applied Physics Laboratory",
-    "title": "2027 Internship - Weapon Control",
-    "location": "Laurel, MD (Other)",
-    "url": "https://careers.jhuapl.edu/jobs/59901?icims=1"
-  },
-  {
-    "id": "sj:b9b2b8a1-c174-460a-9af5-aaeec6fcac26",
-    "company": "Western & Southern Financial Group",
-    "title": "Software Development Intern",
-    "location": "Cincinnati, OH (Other)",
-    "url": "https://careers-westernsouthern.icims.com/jobs/25245/job?mobile=true&needsRedirect=false"
-  },
-  {
-    "id": "sj:cbad6c98-1423-47aa-86c6-25d238ec0bb8",
-    "company": "Dev Technology Group",
-    "title": "AI/Agentic Solution Engineer Intern - Summer 2027",
-    "location": "Reston, VA (Other)",
-    "url": "https://job-boards.greenhouse.io/devtechnology/jobs/8728292002"
-  },
-  {
-    "id": "sj:de6ca294-1126-4454-898d-b2b85359b595",
-    "company": "Dev Technology Group",
-    "title": "React/Node Developer Intern - Summer 2027",
-    "location": "Reston, VA (Other)",
-    "url": "https://job-boards.greenhouse.io/devtechnology/jobs/8726212002"
-  },
-  {
-    "id": "sj:f33a9b6b-aaf2-4d1c-b524-ceb79605cae0",
-    "company": "Dev Technology Group",
-    "title": "Microsoft Power Platform & AI Intern - Summer 2027",
-    "location": "Reston, VA (Other)",
-    "url": "https://job-boards.greenhouse.io/devtechnology/jobs/8726259002"
-  },
-  {
-    "id": "sj:b188985e-7bef-424a-bc46-4d33a76dfd4f",
-    "company": "Dev Technology Group",
-    "title": "AI/ML Intern - Summer 2027",
-    "location": "Reston, VA (Other)",
-    "url": "https://job-boards.greenhouse.io/devtechnology/jobs/8726074002"
-  },
-  {
-    "id": "sj:1b0bb488-c97a-4a6a-acd2-88b042ebf992",
-    "company": "Pella",
-    "title": "Software Intern",
-    "location": "Pella, IA; Urbandale, IA (Other)",
-    "url": "https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/253299"
-  },
-  {
-    "id": "sj:98ba4abf-1726-45e5-a03c-c711dfb81c84",
-    "company": "ByteDance",
-    "title": "Software Engineer Intern - Relational Database",
-    "location": "San Jose, CA (Other)",
-    "url": "https://jobs.bytedance.com/en/position/7678449088065997109/detail"
-  },
-  {
-    "id": "sj:b96c7c0a-e52d-479c-8c01-d4e54118328f",
-    "company": "AMD",
-    "title": "Compiler Engineer Intern/Co-op",
-    "location": "San Jose, CA; Santa Clara, CA (Other)",
-    "url": "https://careers.amd.com/jobs/91865?icims=1"
-  },
-  {
-    "id": "sj:e9f9050a-780c-47dd-b98a-17dda2af0453",
-    "company": "AMD",
-    "title": "Compiler Engineer Intern/Co-op",
-    "location": "Austin, TX; Longmont, CO; Fishkill, NY; Fort Collins, CO; Boxborough, MA (Other)",
-    "url": "https://careers.amd.com/jobs/91864?icims=1"
-  },
-  {
-    "id": "sj:c00cea89-6203-42a3-af35-f98efd65e78a",
-    "company": "AMD",
-    "title": "Compiler Engineer Intern/Co-op - Masters",
-    "location": "Austin, TX; Longmont, CO; Fishkill, NY; Fort Collins, CO; Boxborough, MA (Other)",
-    "url": "https://careers.amd.com/jobs/91867?icims=1"
-  },
-  {
-    "id": "sj:f0736d54-fe0a-4d54-ad35-f1085b1bd50c",
-    "company": "AMD",
-    "title": "Compiler Engineer Intern/Co-op",
-    "location": "San Jose, CA; Santa Clara, CA (Other)",
-    "url": "https://careers.amd.com/jobs/91866?icims=1"
-  },
-  {
-    "id": "sj:307102b6-7bde-45af-b161-e8eab5117a56",
-    "company": "Stoke Space",
-    "title": "Software Intern",
-    "location": "Kent, WA (Other)",
-    "url": "https://stokespace.com/careers/current-openings?gh_jid=6176786004"
-  },
-  {
-    "id": "sj:efa5d293-2ac9-4834-ab66-383fe4779246",
-    "company": "Western & Southern Financial Group",
-    "title": "Software Engineer Intern",
-    "location": "Cincinnati, OH (Other)",
-    "url": "https://careers-westernsouthern.icims.com/jobs/25222/job?mobile=true&needsRedirect=false"
-  },
-  {
-    "id": "sj:049c86d3-c16d-4798-9d63-c15b59e626ce",
-    "company": "Western & Southern Financial Group",
-    "title": "Actuarial Intern - Summer 2027",
-    "location": "Cincinnati, OH (Other)",
-    "url": "https://careers-westernsouthern.icims.com/jobs/25106/job?mobile=true&needsRedirect=false"
-  },
-  {
-    "id": "sj:59aad3fe-5cae-48ca-9e34-608c664e0090",
-    "company": "AMD",
-    "title": "Graphics Software Engineer Intern/Co-op",
-    "location": "Markham, ON, Canada (Other)",
-    "url": "https://careers.amd.com/jobs/90305?icims=1"
-  },
-  {
-    "id": "sj:03a692be-c92c-46ec-92a0-4dc48f6487c1",
-    "company": "AMD",
-    "title": "Software Engineer Intern/Co-op",
-    "location": "Calgary, AB, Canada (Other)",
-    "url": "https://careers.amd.com/jobs/91366?icims=1"
-  },
-  {
-    "id": "sj:93957738-d6d4-434f-bafe-6286a5b454d8",
-    "company": "AMD",
-    "title": "Software Engineer Intern/Co-op",
-    "location": "Vancouver, BC, Canada (Other)",
-    "url": "https://careers.amd.com/jobs/91367?icims=1"
-  },
-  {
-    "id": "sj:68c629c0-ad5e-461a-a2fb-fecaf1808854",
-    "company": "AMD",
-    "title": "AGS Libraries Intern/Co-op",
-    "location": "Calgary, AB, Canada (Other)",
-    "url": "https://careers.amd.com/jobs/90427?icims=1"
-  },
-  {
-    "id": "sj:63f022cb-b4f4-4fd9-869e-9bdd55d6fabe",
-    "company": "AMD",
-    "title": "Machine Learning/Artificial Intelligence Intern/Co-op",
-    "location": "Markham, ON, Canada (Other)",
-    "url": "https://careers.amd.com/jobs/91363?icims=1"
-  },
-  {
-    "id": "sj:369ef34f-cdb6-4df1-a41f-39e63dc980cc",
-    "company": "AMD",
-    "title": "Software Engineer Intern/Co-op",
-    "location": "Markham, ON, Canada (Other)",
-    "url": "https://careers.amd.com/jobs/91368?icims=1"
-  },
-  {
-    "id": "sj:367535fd-b662-48d9-93cf-3caa7e5fb23b",
-    "company": "AMD",
-    "title": "Machine Learning/Artificial Intelligence Intern/Co-op",
-    "location": "Markham, ON, Canada (Other)",
-    "url": "https://careers.amd.com/jobs/90383?icims=1"
-  },
-  {
-    "id": "sj:640797fc-5abf-4222-9bdb-16b62d09607e",
-    "company": "AMD",
-    "title": "Graphics Software Engineer Intern/Co-op",
-    "location": "Markham, ON, Canada (Other)",
-    "url": "https://careers.amd.com/jobs/91359?icims=1"
-  },
-  {
-    "id": "sj:d906473e-9355-4328-8074-8a5479ffac70",
-    "company": "Textron",
-    "title": "Software Engineer Intern",
-    "location": "Waterboro, ME (Other)",
-    "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342550"
-  },
-  {
-    "id": "sj:5489cdce-696e-4c2f-b1ae-e937cff71c6c",
-    "company": "Textron",
-    "title": "Software Engineer Intern - Crewed Land",
-    "location": "Slidell, LA (Other)",
-    "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342915"
-  },
-  {
-    "id": "sj:9562e72a-a657-4f9c-9e2e-f8d62e41c42c",
-    "company": "Textron",
-    "title": "Software Engineer Co-op - Uncrewed Land & Air",
-    "location": "Hunt Valley, Cockeysville, MD (Other)",
-    "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342650"
   }
 ]
