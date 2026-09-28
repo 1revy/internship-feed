@@ -2275,6 +2275,13 @@
     "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Operations---Digital-Technical-Product-Manager-Intern_R0121101"
   },
   {
+    "id": "sj:30a813fa-60dd-46e6-b380-c00124f3422a",
+    "company": "Boston Scientific",
+    "title": "Data Science Co-op",
+    "location": "Maple Grove, MN (Other)",
+    "url": "https://bostonscientific.eightfold.ai/careers/job/563602813600487"
+  },
+  {
     "id": "sj:294d72a8-7250-41fe-bd01-3c9b0ba1996e",
     "company": "Honeywell",
     "title": "Data Science Co-op",
@@ -3491,12 +3498,5 @@
     "title": "Data Scientist Intern",
     "location": "Vienna, VA (Other)",
     "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32079"
-  },
-  {
-    "id": "sj:27da423b-2545-4b9a-a284-47eb573fb2d1",
-    "company": "Navy Federal",
-    "title": "Business Intelligence Analyst Intern",
-    "location": "Vienna, VA (Other)",
-    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32290"
   }
 ]
