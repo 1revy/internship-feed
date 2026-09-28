@@ -1,5 +1,12 @@
 [
   {
+    "id": "sj:27da423b-2545-4b9a-a284-47eb573fb2d1",
+    "company": "Navy Federal",
+    "title": "Business Intelligence Analyst Intern",
+    "location": "Vienna, VA (Other)",
+    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32290"
+  },
+  {
     "id": "sj:6f27a249-c5f8-49c5-917a-9eb5679af824",
     "company": "Navy Federal",
     "title": "Product Strategist Intern - Student Loans",
@@ -6991,12 +6998,5 @@
     "title": "Artificial Intelligence and Machine Learning Intern",
     "location": "Wilmington, NC (Other)",
     "url": "https://corningjobs.corning.com/job/Wilmington-Artificial-Intelligence-and-Machine-Learning-Intern-Summer-2027-NC-28405/1425596800/?ats=successfactors"
-  },
-  {
-    "id": "sj:1e0ac563-c8ac-4d94-a5c6-f43115f22027",
-    "company": "TWG Global",
-    "title": "AI Engineer Intern - Summer 2027",
-    "location": "Santa Monica, CA (Other)",
-    "url": "https://apply.workable.com/twgai/j/772CD136FF/apply"
   }
 ]
