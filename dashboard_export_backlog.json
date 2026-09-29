@@ -1,5 +1,47 @@
 [
   {
+    "id": "sj:e324dbfe-55ba-4099-a9f0-2268a787100e",
+    "company": "Immuta",
+    "title": "Product Engineering Intern",
+    "location": "College Park, MD (Other)",
+    "url": "https://jobs.lever.co/immuta/bf3c9d23-8da9-4a11-adf6-ecb7bce82ad4/apply"
+  },
+  {
+    "id": "sj:a6d9fcc3-2f85-4609-9b2d-2ed435325914",
+    "company": "ITT",
+    "title": "Product Management Co-op - Spring/Summer 2027",
+    "location": "Seneca Falls, NY (Other)",
+    "url": "https://careersenus-itt-inc.icims.com/jobs/17451/job?mobile=true&needsRedirect=false"
+  },
+  {
+    "id": "sj:e7e8e424-49fc-445f-8c93-bc790db57b9f",
+    "company": "Navy Federal",
+    "title": "Business Intelligence Analyst Intern",
+    "location": "Winchester, VA; Pensacola, FL; Vienna, VA (Other)",
+    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32455"
+  },
+  {
+    "id": "sj:3eaaacce-8988-4a88-a792-9f62a91ffac5",
+    "company": "Navy Federal",
+    "title": "Data Scientist Intern",
+    "location": "Pensacola, FL; Vienna, VA (Other)",
+    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32460"
+  },
+  {
+    "id": "sj:ef63f2cb-2deb-4e58-928e-18652d0733b3",
+    "company": "Federated Insurance",
+    "title": "IT Intern",
+    "location": "Owatonna, MN (Other)",
+    "url": "https://careers-federatedinsurance.icims.com/jobs/5718/job?mobile=true&needsRedirect=false"
+  },
+  {
+    "id": "sj:9ad24c3c-3daf-41ba-a2f7-83ac94fb4d92",
+    "company": "Robert Bosch Venture Capital",
+    "title": "Product Management AI-Tool Intern - 8 months/40hrs per week",
+    "location": "Farmington Hills, MI (Other)",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000148575999"
+  },
+  {
     "id": "sj:3ac201b9-c986-40a8-ad3b-b9749cea91c8",
     "company": "Pilot Company",
     "title": "Data Governance Intern",
@@ -2107,6 +2149,13 @@
     "url": "https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/IT-Engineering-Internship--Software--Platform----Network-_R000157503"
   },
   {
+    "id": "sj:2ca29e94-257e-49f3-8ba7-5ad8b1ef12ea",
+    "company": "Freddie Mac",
+    "title": "Multifamily Digital Product Analysis Intern - Summer 2027",
+    "location": "McLean, VA (Other)",
+    "url": "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Multifamily-Digital-Product-Analysis-Intern---Summer-2027_JR17562"
+  },
+  {
     "id": "sj:b59dc602-a7f2-4fe8-b95c-1d885aaf533c",
     "company": "Springs Window Fashions",
     "title": "Data Analyst Intern - Consumer Business Unit",
@@ -3190,6 +3239,55 @@
     "title": "Application Engineer Intern - Investments",
     "location": "Minneapolis, MN (Other)",
     "url": "https://thrivent.wd5.myworkdayjobs.com/external/job/Mpls-Investments-Office/IT-Application-Engineer-Intern--Investments---Summer-2027_REQ-48511-2"
+  },
+  {
+    "id": "sj:d27ce4c9-b5bf-4de0-a7f5-2e540532f643",
+    "company": "Q2",
+    "title": "Software Engineer Intern",
+    "location": "Cary, NC (Other)",
+    "url": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Cary-North-Carolina/XMLNAME-2027-Summer-Internship---Software-Engineer_REQ-12798"
+  },
+  {
+    "id": "sj:51b8b3e7-e7d0-4727-9f90-91917bc88230",
+    "company": "RTX",
+    "title": "Software Engineer Intern",
+    "location": "Woburn, MA (Other)",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineering--Intern--Summer-2027-_01877561"
+  },
+  {
+    "id": "sj:d29e1b26-6366-4790-a9fb-5c7c87927b69",
+    "company": "Invesco",
+    "title": "Early Career Intern - Technology",
+    "location": "Atlanta, GA (Other)",
+    "url": "https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Atlanta-Georgia/Early-Career-Intern---Technology_R-15619-1"
+  },
+  {
+    "id": "sj:7f093b2f-6a53-4d35-b5f2-b8abc4cf3abe",
+    "company": "Invesco",
+    "title": "Early Career Intern - Technology",
+    "location": "Atlanta, GA (Other)",
+    "url": "https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/Atlanta-Georgia/Early-Career-Intern---Technology_R-15619"
+  },
+  {
+    "id": "sj:4b9d78b3-d750-42ee-97cc-51f50e53e928",
+    "company": "Q2",
+    "title": "Machine Learning Engineer Intern",
+    "location": "Cary, NC (Other)",
+    "url": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Cary-North-Carolina/XMLNAME-2027-Summer-Internship---Machine-Learning-Engineer_REQ-12800"
+  },
+  {
+    "id": "sj:2dda6a1e-68a5-41f2-ac16-746b5bf4d7ec",
+    "company": "Cigna Group",
+    "title": "AI/ML Engineer Intern",
+    "location": "Austin, TX; Morris Plains, NJ; St. Louis, MO (Other)",
+    "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Austin-TX/AI-ML-Engineer-Intern_26010877"
+  },
+  {
+    "id": "sj:02f8a929-c160-48c2-818b-cebd23779a18",
+    "company": "CACI",
+    "title": "Software Engineer Intern",
+    "location": "Omaha, NE (Other)",
+    "url": "https://caci.wd1.myworkdayjobs.com/external/job/Omaha-NE-US/Software-Engineer-Intern---Summer-2027_332776"
   },
   {
     "id": "sj:6acc24ca-3ff2-4d56-a40c-e531d2a57522",
@@ -6900,103 +6998,5 @@
     "title": "Software Engineer Intern",
     "location": "Folsom, CA (Other)",
     "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Folsom-CA/Software-Engineering-Intern--Summer-2027-_R0030761-1"
-  },
-  {
-    "id": "sj:ee38a5ce-789c-4457-92fc-8400e8b038bc",
-    "company": "Sierra Nevada Corporation",
-    "title": "Software Engineer Intern - Summer 2027",
-    "location": "Lone Tree, CO (Other)",
-    "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineering-Intern--Summer-2027-_R0030757"
-  },
-  {
-    "id": "sj:b0a16fef-11b5-41ac-9847-3b4ac324f5b7",
-    "company": "Sierra Nevada Corporation",
-    "title": "Software Engineer Intern",
-    "location": "Southern Pines, NC (Other)",
-    "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Southern-Pines-NC/Software-Engineering-Intern--Summer-2027-_R0030759"
-  },
-  {
-    "id": "sj:a01d5838-0b05-459c-b1c7-dec1ce57ac47",
-    "company": "Sierra Nevada Corporation",
-    "title": "Software Engineer Intern",
-    "location": "Sparks, NV (Other)",
-    "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Sparks-NV/Software-Engineering-Intern--Summer-2027-_R0030760"
-  },
-  {
-    "id": "sj:6f603008-25bf-41f8-abb1-bdd082bb931d",
-    "company": "Sierra Nevada Corporation",
-    "title": "Software Engineer Intern - Summer 2027",
-    "location": "Plano, TX (Other)",
-    "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Plano-TX/Software-Engineering-Intern--Summer-2027-_R0030758"
-  },
-  {
-    "id": "sj:46a3b20e-600a-4c23-b027-efd88685a714",
-    "company": "Sierra Nevada Corporation",
-    "title": "Software Engineer Intern - Summer 2027",
-    "location": "Dayton, OH (Other)",
-    "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Dayton-OH/Software-Engineering-Intern--Summer-2027-_R0030754"
-  },
-  {
-    "id": "sj:db1e4fb4-a7e7-4c57-ae1c-7ffdab053208",
-    "company": "DriveTime",
-    "title": "Software Engineer Intern - Summer 2027",
-    "location": "Tempe, AZ (Other)",
-    "url": "https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Software-Engineer-Intern--Summer-2027-_R16294"
-  },
-  {
-    "id": "sj:cfde68f0-412b-47f0-8a31-4b22e88766a9",
-    "company": "DriveTime",
-    "title": "Analytics Intern - Summer 2027",
-    "location": "Dallas, TX; Tempe, AZ (Other)",
-    "url": "https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Analytics-Intern--Summer-2027-_R16295"
-  },
-  {
-    "id": "sj:b7c2c963-6116-45d7-aa64-15930ea624ae",
-    "company": "DriveTime",
-    "title": "Database Engineer Intern",
-    "location": "Tempe, AZ (Other)",
-    "url": "https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Data-Engineer-Intern--Summer-2027-_R16300"
-  },
-  {
-    "id": "sj:8c1d1574-d0f9-4d6a-8a1e-f992224724ea",
-    "company": "GE Vernova",
-    "title": "Software Engineer Co-op - Critical Infrastructure Communication",
-    "location": "Rochester, NY (Other)",
-    "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Rochester/GE-Vernova-Software-Engineering---Co-op---Spring-Summer-2027_R5051780-2"
-  },
-  {
-    "id": "sj:1c3658f7-3aa0-4dec-aa4f-9663af8dc0ab",
-    "company": "GE Vernova",
-    "title": "Software Engineering Co-op - Critical Infrastructure Communication Engineering",
-    "location": "Rochester, NY (Other)",
-    "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Rochester/GE-Vernova-Software-Engineering---Co-op--Summer---Fall_R5051794-2"
-  },
-  {
-    "id": "sj:a35fbd54-2c09-4c0e-8677-4b9065708400",
-    "company": "ByteDance",
-    "title": "Research Intern - AI-Native Databases",
-    "location": "San Jose, CA (Other)",
-    "url": "https://jobs.bytedance.com/en/position/7678450462765254965/detail"
-  },
-  {
-    "id": "sj:3b02c249-20be-43f2-8ef1-e09f6b887db6",
-    "company": "ByteDance",
-    "title": "Research Intern - AI-Native Databases",
-    "location": "Seattle, WA (Other)",
-    "url": "https://jobs.bytedance.com/en/position/7678451067500529925/detail"
-  },
-  {
-    "id": "sj:8b46d013-f73a-4d7b-bd75-7775fa71d342",
-    "company": "Tesla",
-    "title": "Physics Engine Development Engineer Intern - Optimus",
-    "location": "Palo Alto, CA (Other)",
-    "url": "https://www.tesla.com/careers/search/job/282147"
-  },
-  {
-    "id": "sj:1f33dede-1d64-4aeb-8345-18c5ceabdf28",
-    "company": "Textron",
-    "title": "Software Engineer Intern",
-    "location": "Augusta, GA (Other)",
-    "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=343299"
   }
 ]
