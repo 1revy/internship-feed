@@ -1540,6 +1540,34 @@
     "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002"
   },
   {
+    "id": "sj:2535090d-f04a-40f9-afb9-01cd43e2af3f",
+    "company": "W.W. Grainger",
+    "title": "Business Analyst Intern",
+    "location": "Green Bay, WI (Other)",
+    "url": "https://jobs.grainger.com/ImperialSupplies/job/GREEN-BAY-Business-Analyst-Intern-WI-54301-5160/1434550000/?ats=successfactors"
+  },
+  {
+    "id": "sj:810a66c8-0c3f-4ac3-bec1-fb4ae6080325",
+    "company": "Verizon Communications",
+    "title": "Data Scientist Intern - Fiber Engineering & Operations",
+    "location": "Irving, TX (Other)",
+    "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Irving-Texas/Irving-V-Teamer-for-a-Day--Verizon-Data-Science-Summer-2027-Internship_R-1101386"
+  },
+  {
+    "id": "sj:4d75efc0-61e0-48f4-955d-15ea4c188bae",
+    "company": "Verizon Communications",
+    "title": "Data Science Intern - Network and Technology",
+    "location": "Irving, TX (Other)",
+    "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Irving-Texas/Verizon-Network-and-Technology--Data-Science-Summer-2027-Internship_R-1101384"
+  },
+  {
+    "id": "sj:3e456223-d5b0-4c98-9c23-c9658c558899",
+    "company": "Verizon Communications",
+    "title": "Business Intelligence Intern - Fiber Engineering & Operations - Transformation & Business Enablement",
+    "location": "Irving, TX (Other)",
+    "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Irving-Texas/Verizon-Network-and-Technology--Business-Intelligence-Summer-2027-Internship_R-1101387"
+  },
+  {
     "id": "sj:1f8a0413-c78d-4d89-a614-ceba126efdf8",
     "company": "Red Ventures",
     "title": "Data Science Intern - Launch Program",
@@ -3470,33 +3498,5 @@
     "title": "Product Management AI-Tool Intern - 8 months/40hrs per week",
     "location": "Farmington Hills, MI (Other)",
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000148575999"
-  },
-  {
-    "id": "sj:3ac201b9-c986-40a8-ad3b-b9749cea91c8",
-    "company": "Pilot Company",
-    "title": "Data Governance Intern",
-    "location": "Knoxville, TN (Other)",
-    "url": "https://jobs.smartrecruiters.com/PilotCompany/744000148572871"
-  },
-  {
-    "id": "sj:21e88e05-60ca-43a9-a5d8-cb87a20fd268",
-    "company": "Pilot Company",
-    "title": "Revenue Growth Management Intern - Revenue Growth Management",
-    "location": "Knoxville, TN (Other)",
-    "url": "https://jobs.smartrecruiters.com/PilotCompany/744000148576829"
-  },
-  {
-    "id": "sj:a3c8fc71-5658-4914-be57-ce61c100da82",
-    "company": "Peraton",
-    "title": "Data Science Intern",
-    "location": "Blacksburg, VA; Herndon, VA (Other)",
-    "url": "https://careers-peraton.icims.com/jobs/170320/job?mobile=true&needsRedirect=false"
-  },
-  {
-    "id": "sj:a52f9be6-50a2-4946-a09a-dfda0252c072",
-    "company": "Navy Federal",
-    "title": "Data Scientist Intern",
-    "location": "Vienna, VA (Other)",
-    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32079"
   }
 ]
