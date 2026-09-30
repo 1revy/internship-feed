@@ -1,5 +1,26 @@
 [
   {
+    "id": "sj:3ae54954-c218-444e-aaec-8d2b4da82e49",
+    "company": "Constellation Energy",
+    "title": "Business Performance & Analytics Intern",
+    "location": "Houston, TX (Other)",
+    "url": "https://jobs.constellationenergy.com/jobs/138770?icims=1"
+  },
+  {
+    "id": "sj:c854434a-b324-4bf9-844f-e98d319bef95",
+    "company": "CACI",
+    "title": "Configuration Control/Data Management Co-op - Engineering Department",
+    "location": "Danbury, CT (Other)",
+    "url": "https://caci.wd1.myworkdayjobs.com/external/job/Danbury-CT-US/Configuration-Control-Data-Management-Co-op---Spring---Summer-2027_331440"
+  },
+  {
+    "id": "sj:2a1bc16a-fdaf-4a6c-b4c7-61479a915a58",
+    "company": "Barclays",
+    "title": "Technology Analyst Apprentice - AI and Data Science",
+    "location": "Glasgow, UK (Other)",
+    "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/XMLNAME-2027-Technology-Analyst-AI-and-Data-Science-Graduate-Apprenticeship-Programme-Glasgow_JR-0000129128"
+  },
+  {
     "id": "sj:76419dfa-ec98-4250-9937-e2bc66b00b00",
     "company": "USAA",
     "title": "Data Intern - Future Leaders Program",
@@ -3304,6 +3325,13 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Design-Intern--AI-Infrastructure---Summer-2027_JR2025784"
   },
   {
+    "id": "sj:069dfa9c-8d02-4151-9206-14b22adce975",
+    "company": "Wellmark",
+    "title": "Software Engineer Intern - Metadata Enablement Team",
+    "location": "Des Moines, IA (Other)",
+    "url": "https://jobs.smartrecruiters.com/WellmarkInc/744000152679699"
+  },
+  {
     "id": "sj:9cb9b3d0-14d5-47cb-bd55-ce2ce7c5213e",
     "company": "AMCA",
     "title": "Software Engineer Intern",
@@ -3316,6 +3344,13 @@
     "title": "Applied Science Intern - Information & Knowledge Management",
     "location": "Seattle, WA (Other)",
     "url": "https://amazon.jobs/en/jobs/10564585/2027-summer-applied-science-internship-information-knowledge-management-machine-learning-united-states-phd-student-science-recruiting"
+  },
+  {
+    "id": "sj:e6e68252-64e3-4113-87e6-21679405692d",
+    "company": "CACI",
+    "title": "Software/Network Engineering Intern",
+    "location": "Florham Park, NJ (Other)",
+    "url": "https://caci.wd1.myworkdayjobs.com/external/job/Florham-Park-NJ-US/Software-Network-Engineering-Intern---Summer-2027_332895"
   },
   {
     "id": "sj:282a057f-48f4-4133-a52c-2261299e04a8",
@@ -6963,40 +6998,5 @@
     "title": "Analytics & Insights Intern/Co-op",
     "location": "Toronto, ON, Canada (Other)",
     "url": "https://pg.wd5.myworkdayjobs.com/1000/job/TORONTO-GO/Analytics---Insights-Internship-Co-op-Summer-2027--Stage-ou-programme-coopratif-en-Analyse-et-veille-stratgique-t-2027_R000158592"
-  },
-  {
-    "id": "sj:0be76f75-bb28-4d12-b0f5-9d0455bc825b",
-    "company": "GE Vernova",
-    "title": "Project Engineer Intern - Summer 2027",
-    "location": "Bellevue, WA (Other)",
-    "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue/GE-Vernova---Project-Engineer-Intern---Summer-2027_R5050026-2"
-  },
-  {
-    "id": "sj:d0242b0d-eda0-4a81-b130-d0719520e546",
-    "company": "Innovative Systems",
-    "title": "Software Engineer Intern/Co-op",
-    "location": "Pittsburgh, PA (Other)",
-    "url": "http://innovativesystems.applytojob.com/apply/nPMqeNSQOo/InternCoop-Summer-2027-Software-Engineering"
-  },
-  {
-    "id": "sj:b79c18c7-7a18-4a7f-93de-e12a6fa35e27",
-    "company": "The Exploration Company",
-    "title": "Engineering Intern - Software",
-    "location": "LA (Other)",
-    "url": "https://jobs.ashbyhq.com/the-exploration-company/86270058-8eec-4692-b49d-97ce59fd54ac/application?embed=true"
-  },
-  {
-    "id": "sj:d06c9bca-b6bb-4a9e-88dd-5dc6f0b1a038",
-    "company": "Apex",
-    "title": "Ground Software Intern - Spring or Summer 2027",
-    "location": "LA (Other)",
-    "url": "https://jobs.ashbyhq.com/apex-technology-inc/2d5ad921-241f-4e7a-b9ff-9d01763da88c/application?embed=true"
-  },
-  {
-    "id": "sj:1ea4c927-ae9b-4c03-a0ae-cb2af5e5a8cb",
-    "company": "Skyward",
-    "title": "Software Engineer Intern",
-    "location": "Stevens Point, WI (Other)",
-    "url": "https://jobs.smartrecruiters.com/Skyward1/744000147320799"
   }
 ]
