@@ -1,5 +1,61 @@
 [
   {
+    "id": "sj:8a3a2fbf-c843-4e59-936b-52ef8c326944",
+    "company": "Securian Financial Group",
+    "title": "Data Science and Advanced Analytics Intern - Multiple Teams",
+    "location": "St Paul, MN (Other)",
+    "url": "https://hq.wd12.myworkdayjobs.com/Securian_External/job/Saint-Paul-MN-Campus/Data-Science-and-Advanced-Analytics-Internship---Summer-2027_R-010894"
+  },
+  {
+    "id": "sj:631d0528-a176-456e-8072-fb2bd76f4b02",
+    "company": "Booz Allen",
+    "title": "Systems Engineer Intern - Summer Games",
+    "location": "Huntsville, AL (Other)",
+    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Huntsville-AL/University---2027-Summer-Games-Systems-Engineer-Intern---Huntsville--AL_R0249188"
+  },
+  {
+    "id": "sj:4b7557d9-8b53-4ecd-9f14-686d7936f4bf",
+    "company": "Ketjen",
+    "title": "Data Science Intern",
+    "location": "Houston, TX (Other)",
+    "url": "https://albemarle.wd5.myworkdayjobs.com/en-US/ketjenexternal/job/Houston-Texas-United-States-of-America/Ketjen-Summer-2027-Data-Science-Internship_REQ-31411"
+  },
+  {
+    "id": "sj:054b254c-cc0b-47dd-a2c2-98cf50c0269f",
+    "company": "General Dynamics Mission Systems",
+    "title": "Payload Control System Software/Systems Engineering Intern - Summer 2027",
+    "location": "Middletown, RI; Manassas, VA (Other)",
+    "url": "https://careers-gdms.icims.com/jobs/74848/job?mobile=true&needsRedirect=false"
+  },
+  {
+    "id": "sj:e5307ac6-20bb-4dc4-b8f0-1763ebe0d0b3",
+    "company": "Barnes & Thornburg",
+    "title": "Information Technology Data Intern",
+    "location": "Indianapolis, IN (Other)",
+    "url": "https://jobs.ashbyhq.com/barnes/1881dbc0-846e-4805-968f-4e27d663f7b0/application?embed=true"
+  },
+  {
+    "id": "sj:a3d206b4-48dd-4d35-bac9-ea5570f72d3b",
+    "company": "Delta Dental of Iowa",
+    "title": "Marketing Analyst Intern",
+    "location": "Johnston, IA (Other)",
+    "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4491864"
+  },
+  {
+    "id": "sj:53789711-bf05-4e76-ac3d-2aca7cc68bc2",
+    "company": "Delta Dental of Iowa",
+    "title": "Data Analyst Intern",
+    "location": "Johnston, IA (Other)",
+    "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4491829"
+  },
+  {
+    "id": "sj:5f3bc06c-d1dc-4a8c-a2d4-d1e2911c3626",
+    "company": "Immuta",
+    "title": "Product Research Intern",
+    "location": "College Park, MD (Other)",
+    "url": "https://jobs.lever.co/immuta/18aabf0a-8b27-4b7d-8a96-6995a7f8847b/apply"
+  },
+  {
     "id": "sj:e324dbfe-55ba-4099-a9f0-2268a787100e",
     "company": "Immuta",
     "title": "Product Engineering Intern",
@@ -3206,6 +3262,48 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Design-Intern--AI-Infrastructure---Summer-2027_JR2025784"
   },
   {
+    "id": "sj:282a057f-48f4-4133-a52c-2261299e04a8",
+    "company": "Enova",
+    "title": "Software Engineer Intern",
+    "location": "Chicago, IL (Other)",
+    "url": "https://job-boards.greenhouse.io/enova/jobs/8239619"
+  },
+  {
+    "id": "sj:efff5c18-233b-49dd-a516-5c36f19636aa",
+    "company": "Westinghouse Electric Company",
+    "title": "Software Developer Intern - Tools & Apps",
+    "location": "Warrendale, PA (Other)",
+    "url": "https://careers.westinghousenuclear.com/job/Warrendale-Summer-Intern-Tools-&-Apps-OR/1434869300/?ats=successfactors"
+  },
+  {
+    "id": "sj:cdebfd0a-6bc1-4ec9-904b-67106dabdb42",
+    "company": "Waymo",
+    "title": "Planner Machine Learning Intern",
+    "location": "SF (Other)",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8234876"
+  },
+  {
+    "id": "sj:bb27869b-4a6d-4372-a4d6-44e4aa41892d",
+    "company": "Honeywell",
+    "title": "Software Engineering Co-op",
+    "location": "United States (Other)",
+    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/158957"
+  },
+  {
+    "id": "sj:7e94c6d9-c88c-4d70-8bd0-51a2cc801485",
+    "company": "Iridium Communications",
+    "title": "Software Engineering Intern",
+    "location": "Tempe, AZ; McLean, VA (Other)",
+    "url": "https://careers-iridium.icims.com/jobs/5136/job?mobile=true&needsRedirect=false"
+  },
+  {
+    "id": "sj:4bc949a8-4e60-4c6b-90c8-fb7077b8a2b2",
+    "company": "Acuity",
+    "title": "Finance AI Engineering Intern",
+    "location": "Atlanta, GA (Other)",
+    "url": "https://careers.acuityinc.com/job/Atlanta-Finance-AI-Engineering-Intern-Onsite-GA-30309/1434878900/?ats=successfactors"
+  },
+  {
     "id": "sj:9f98eff6-d8a9-41cc-9d73-e31bc31c2617",
     "company": "Boston Scientific",
     "title": "Software Development Engineer Co-op",
@@ -3288,6 +3386,34 @@
     "title": "Software Engineer Intern",
     "location": "Omaha, NE (Other)",
     "url": "https://caci.wd1.myworkdayjobs.com/external/job/Omaha-NE-US/Software-Engineer-Intern---Summer-2027_332776"
+  },
+  {
+    "id": "sj:14448cc0-3d1c-4951-95e8-357816e7a042",
+    "company": "Moderna",
+    "title": "Biometrics Intern",
+    "location": "Cambridge, MA (Other)",
+    "url": "https://modernatx.wd1.myworkdayjobs.com/en-US/M_tx/job/Cambridge-Massachusetts/Intern--Biometrics_R19865"
+  },
+  {
+    "id": "sj:6f576614-627b-4348-9a04-178f26b01381",
+    "company": "Marvell",
+    "title": "AI-Native Development Platform Engineer Intern",
+    "location": "Santa Clara, CA (Other)",
+    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/AI-Native-Development-Platform-Engineer-Intern--MS---Summer-2027_2603848-1"
+  },
+  {
+    "id": "sj:8d8ac70c-4524-4e6c-abd0-378889133e68",
+    "company": "Marvell",
+    "title": "AI-Native Development Platform Engineer Intern",
+    "location": "Santa Clara, CA (Other)",
+    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/AI-Native-Development-Platform-Engineer-Intern--MS---Summer-2027_2603848"
+  },
+  {
+    "id": "sj:05c9b1e2-1f2b-4278-a44f-e94d1a919981",
+    "company": "ICF International",
+    "title": "AI Engineer Intern",
+    "location": "Reston, VA (Other)",
+    "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--AI-Engineer--Reston--VA-_R2603312-1"
   },
   {
     "id": "sj:6acc24ca-3ff2-4d56-a40c-e531d2a57522",
@@ -6188,6 +6314,13 @@
     "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Machine-Learning-Engineering-Graduate-Intern_R016432"
   },
   {
+    "id": "sj:477443e5-44fe-40b9-a621-9daa78a67a6a",
+    "company": "RTX",
+    "title": "Software Engineer Intern",
+    "location": "Aurora, CO (Other)",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S77--16470-E-Hughes-Dr--BLDG-S77/Software-Engineering-Intern--Summer-2027---Open-_01873623"
+  },
+  {
     "id": "sj:5c16ff34-e8ca-4a08-9d69-f9acac0df9a8",
     "company": "RF-SMART",
     "title": "Software Support Engineer Intern - Netsuite",
@@ -6865,138 +6998,5 @@
     "title": "Software Engineer Intern - Command & Control",
     "location": "Atlanta, GA (Other)",
     "url": "https://jobs.lever.co/hermeus/5b08e2df-c9db-4831-aece-67d89e744796/apply"
-  },
-  {
-    "id": "sj:eb02dd97-b6c6-4dbc-94d3-d7db278bf381",
-    "company": "Shure",
-    "title": "Artificial Intelligence Engineer Intern",
-    "location": "Niles, IL (Other)",
-    "url": "https://careersus-shure.icims.com/jobs/4966/job?mobile=true&needsRedirect=false"
-  },
-  {
-    "id": "sj:feb14d7c-0983-4d3c-84e7-6384ed0ae783",
-    "company": "Shure",
-    "title": "Web Analytics Intern",
-    "location": "Niles, IL (Other)",
-    "url": "https://careersus-shure.icims.com/jobs/5027/job?mobile=true&needsRedirect=false"
-  },
-  {
-    "id": "sj:79fa7912-460d-4ed0-8f17-686a0a47afbe",
-    "company": "Shure",
-    "title": "Mobile Applications Intern - iOS",
-    "location": "Niles, IL (Other)",
-    "url": "https://careersus-shure.icims.com/jobs/5007/job?mobile=true&needsRedirect=false"
-  },
-  {
-    "id": "sj:f3552448-ae6f-4db2-8049-cea7fe1d994c",
-    "company": "Shure",
-    "title": "Unified Communications Technology Intern",
-    "location": "Skokie, IL (Other)",
-    "url": "https://careersus-shure.icims.com/jobs/5002/job?mobile=true&needsRedirect=false"
-  },
-  {
-    "id": "sj:d677575f-4784-434b-855b-91bd6c615a7c",
-    "company": "Shure",
-    "title": "Applied Research Science Intern",
-    "location": "Niles, IL (Other)",
-    "url": "https://careersus-shure.icims.com/jobs/4967/job?mobile=true&needsRedirect=false"
-  },
-  {
-    "id": "sj:d137be2c-8b95-45e3-8643-b051bb55469f",
-    "company": "Shure",
-    "title": "Cloud Applications Development Intern",
-    "location": "Niles, IL (Other)",
-    "url": "https://careersus-shure.icims.com/jobs/4965/job?mobile=true&needsRedirect=false"
-  },
-  {
-    "id": "sj:31a9d3a5-6abe-49c9-95e9-6a7fc79eb810",
-    "company": "Shure",
-    "title": "Audio Applied Research Science Intern",
-    "location": "Niles, IL (Other)",
-    "url": "https://careersus-shure.icims.com/jobs/4968/job?mobile=true&needsRedirect=false"
-  },
-  {
-    "id": "sj:052aae75-1cb8-41e7-9062-f49eac2a2fd6",
-    "company": "Shure",
-    "title": "Automated Test Software Engineering Intern",
-    "location": "Niles, IL (Other)",
-    "url": "https://careersus-shure.icims.com/jobs/4964/job?mobile=true&needsRedirect=false"
-  },
-  {
-    "id": "sj:d9dfbdc8-c094-4676-99ce-4f1cb9346b62",
-    "company": "Shure",
-    "title": "Cloud Software Engineer Intern",
-    "location": "Niles, IL (Other)",
-    "url": "https://careersus-shure.icims.com/jobs/4976/job?mobile=true&needsRedirect=false"
-  },
-  {
-    "id": "sj:80bc2f39-e660-4691-aa38-68acbd7b9e84",
-    "company": "Shure",
-    "title": "Software Engineer Intern",
-    "location": "Niles, IL (Other)",
-    "url": "https://careersus-shure.icims.com/jobs/4996/job?mobile=true&needsRedirect=false"
-  },
-  {
-    "id": "sj:d8973231-aa83-4db4-8ff2-34fe4b8cac2e",
-    "company": "Shure",
-    "title": "Mobile Applications Intern - Android",
-    "location": "Niles, IL (Other)",
-    "url": "https://careersus-shure.icims.com/jobs/5006/job?mobile=true&needsRedirect=false"
-  },
-  {
-    "id": "sj:9a6bfc62-3b30-4eb9-ae60-710c5f62d722",
-    "company": "Shure",
-    "title": "Application Software Development Intern",
-    "location": "Niles, IL (Other)",
-    "url": "https://careersus-shure.icims.com/jobs/5020/job?mobile=true&needsRedirect=false"
-  },
-  {
-    "id": "sj:7442c66e-fba5-4b94-bb79-4a94282768f2",
-    "company": "Atlassian",
-    "title": "Software Engineer Intern",
-    "location": "Burnaby, BC, Canada; Vancouver, BC, Canada; Richmond, BC, Canada (Other)",
-    "url": "https://campus-globalcareers-atlassian.icims.com/jobs/26275/software-engineer-intern%2c-2027-canada/job"
-  },
-  {
-    "id": "sj:0299ccd7-7dac-48cc-80eb-9e224cc78f08",
-    "company": "Momentive",
-    "title": "Software Development Intern",
-    "location": "Niskayuna, NY (Other)",
-    "url": "https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Niskayuna/Summer-2027-Intern---Software-Development_R9756"
-  },
-  {
-    "id": "sj:100aa374-4fc4-4766-87fe-7cdd6b8a5ecc",
-    "company": "Motorola",
-    "title": "Android Platform Software Engineer Intern - Summer 2027",
-    "location": "Schaumburg, IL; Plantation, FL (Other)",
-    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Android-Platform-Software-Engineering-Intern---Summer-2027_R68363"
-  },
-  {
-    "id": "sj:c4b04101-1a96-40a4-ab89-9a4100b785eb",
-    "company": "Saab",
-    "title": "Software Engineer Co-op",
-    "location": "East Syracuse, NY (Other)",
-    "url": "https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/East-Syracuse-NY-Collamer/Software-Engineering-Co-Op--Summer-2027-_R-03237-1"
-  },
-  {
-    "id": "sj:9d136976-01e5-4307-a617-04d2b97abacb",
-    "company": "GE Vernova",
-    "title": "Software Engineer Co-op - Critical Infrastructure Communication",
-    "location": "Rochester, NY (Other)",
-    "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Rochester/GE-Vernova-Software-Engineering---Co-op---Spring-Summer-2027_R5051780-1"
-  },
-  {
-    "id": "sj:90873fc6-265d-4b32-9cdf-b4ce1e206cca",
-    "company": "GE Vernova",
-    "title": "Software Engineering Co-op - Critical Infrastructure Communication Engineering",
-    "location": "Rochester, NY (Other)",
-    "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Rochester/GE-Vernova-Software-Engineering---Co-op--Summer---Fall_R5051794-1"
-  },
-  {
-    "id": "sj:f455fc61-2abc-42c1-96e2-b19e6f175508",
-    "company": "Sierra Nevada Corporation",
-    "title": "Software Engineer Intern",
-    "location": "Folsom, CA (Other)",
-    "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Folsom-CA/Software-Engineering-Intern--Summer-2027-_R0030761-1"
   }
 ]
