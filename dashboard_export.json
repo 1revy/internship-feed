@@ -161,6 +161,20 @@
     "url": "https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Life-Product-Development_R000110125"
   },
   {
+    "id": "sj:e02669bd-1cd4-43fc-ac1d-89d029602b6e",
+    "company": "Invesco",
+    "title": "Early Career Intern - Digital Asset Product",
+    "location": "NYC (New York)",
+    "url": "https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/New-York-New-York/Early-Career-Intern---Digital-Asset_R-15476-1"
+  },
+  {
+    "id": "sj:d096b257-6582-4ea3-a158-b1a0dc715999",
+    "company": "Invesco",
+    "title": "Early Career Intern - Digital Asset Product",
+    "location": "NYC (New York)",
+    "url": "https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/New-York-New-York/Early-Career-Intern---Digital-Asset_R-15476"
+  },
+  {
     "id": "sj:267a6347-2627-4027-b5a0-8fc2dce16acf",
     "company": "Lyft",
     "title": "Data Science Intern - Algorithms",
@@ -1503,6 +1517,13 @@
     "title": "Technology Developer Intern",
     "location": "London, UK (London / Paris)",
     "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-London_JR-0000129397"
+  },
+  {
+    "id": "sj:c7bb326d-a5b8-4309-aeeb-22fdd6428e47",
+    "company": "American Express",
+    "title": "Software Engineering Apprentice - Technology",
+    "location": "London, UK (London / Paris)",
+    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25022281"
   },
   {
     "id": "sj:8b07563a-a076-4b83-b485-3f36db4ae47a",
@@ -3477,26 +3498,5 @@
     "title": "Product Management Intern",
     "location": "Lincoln, NE (Other)",
     "url": "https://job-boards.greenhouse.io/hudl/jobs/8155103"
-  },
-  {
-    "id": "sj:3ae54954-c218-444e-aaec-8d2b4da82e49",
-    "company": "Constellation Energy",
-    "title": "Business Performance & Analytics Intern",
-    "location": "Houston, TX (Other)",
-    "url": "https://jobs.constellationenergy.com/jobs/138770?icims=1"
-  },
-  {
-    "id": "sj:c854434a-b324-4bf9-844f-e98d319bef95",
-    "company": "CACI",
-    "title": "Configuration Control/Data Management Co-op - Engineering Department",
-    "location": "Danbury, CT (Other)",
-    "url": "https://caci.wd1.myworkdayjobs.com/external/job/Danbury-CT-US/Configuration-Control-Data-Management-Co-op---Spring---Summer-2027_331440"
-  },
-  {
-    "id": "sj:2a1bc16a-fdaf-4a6c-b4c7-61479a915a58",
-    "company": "Barclays",
-    "title": "Technology Analyst Apprentice - AI and Data Science",
-    "location": "Glasgow, UK (Other)",
-    "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/XMLNAME-2027-Technology-Analyst-AI-and-Data-Science-Graduate-Apprenticeship-Programme-Glasgow_JR-0000129128"
   }
 ]
