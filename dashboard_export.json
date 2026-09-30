@@ -1666,6 +1666,20 @@
     "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Monticello-MN-55362/Computer-Information-Systems-Intern---MN_JR116038"
   },
   {
+    "id": "sj:21792146-80f9-45a6-ade2-d26fd0098c49",
+    "company": "H&R Block",
+    "title": "Financial Services Data Analytics Intern",
+    "location": "Kansas City, MO (Other)",
+    "url": "https://careers-hrblock.icims.com/jobs/76989/job?mobile=true&needsRedirect=false"
+  },
+  {
+    "id": "sj:a273034e-3b57-4e7a-9eaa-23b7e5d751d3",
+    "company": "UL Solutions",
+    "title": "Product Management Intern",
+    "location": "Northbrook, IL; Chicago, IL (Other)",
+    "url": "https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/10625"
+  },
+  {
     "id": "sj:1e39ef9b-ab50-405f-808e-28002f4fc72f",
     "company": "Itron",
     "title": "Data Science Intern - Distributed Intelligence",
@@ -1678,6 +1692,13 @@
     "title": "Data Science Intern - Distributed Intelligence",
     "location": "Liberty Lake, WA (Other)",
     "url": "https://itron.wd5.myworkdayjobs.com/Early_Careers/job/United-States-of-America-Washington-Liberty-Lake/Intern---Data-Science--Distributed-Intelligence_JR102942-2"
+  },
+  {
+    "id": "sj:1c05aeb6-1548-460d-ac98-cca04204d3a7",
+    "company": "POET",
+    "title": "Data Engineer Intern",
+    "location": "Sioux Falls, SD (Other)",
+    "url": "https://poet.wd1.myworkdayjobs.com/POET/job/Sioux-Falls-SD/Data-Engineering-Intern_R101787"
   },
   {
     "id": "sj:1f8a0413-c78d-4d89-a614-ceba126efdf8",
@@ -3477,26 +3498,5 @@
     "title": "Technology Analyst Apprentice - AI and Data Science",
     "location": "Glasgow, UK (Other)",
     "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/XMLNAME-2027-Technology-Analyst-AI-and-Data-Science-Graduate-Apprenticeship-Programme-Glasgow_JR-0000129128"
-  },
-  {
-    "id": "sj:76419dfa-ec98-4250-9937-e2bc66b00b00",
-    "company": "USAA",
-    "title": "Data Intern - Future Leaders Program",
-    "location": "Charlotte, NC; San Antonio, TX (Other)",
-    "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Future-Leaders-Program---Data-Intern_R0120824"
-  },
-  {
-    "id": "sj:3b30c0b3-6106-44e5-8c85-5c67c2116d43",
-    "company": "Cox",
-    "title": "Data Governance and Management Intern",
-    "location": "Atlanta, GA (Other)",
-    "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Data-Governance-and-Management-Intern---Summer-2027_R202682353"
-  },
-  {
-    "id": "sj:5f786704-9f4e-4137-8947-80614fba3b53",
-    "company": "Walmart",
-    "title": "Data Science Intern 3",
-    "location": "Bentonville, AR (Other)",
-    "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern---Data-Science-III_R-2630030"
   }
 ]
