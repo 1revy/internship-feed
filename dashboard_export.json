@@ -1568,6 +1568,13 @@
     "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002"
   },
   {
+    "id": "sj:c436ae49-cb5b-447d-9947-7f790cb0c8d9",
+    "company": "Robinhood",
+    "title": "Data Science Intern",
+    "location": "Menlo Park, CA (Other)",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8241738"
+  },
+  {
     "id": "sj:d31f3a4e-421a-4972-a2ef-2b849b218777",
     "company": "Epic Games",
     "title": "Product Management Intern",
@@ -1657,6 +1664,20 @@
     "title": "Computer Information Systems Intern",
     "location": "Monticello, MN; Welch, MN (Other)",
     "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Monticello-MN-55362/Computer-Information-Systems-Intern---MN_JR116038"
+  },
+  {
+    "id": "sj:1e39ef9b-ab50-405f-808e-28002f4fc72f",
+    "company": "Itron",
+    "title": "Data Science Intern - Distributed Intelligence",
+    "location": "Liberty Lake, WA (Other)",
+    "url": "https://itron.wd5.myworkdayjobs.com/Itron/job/United-States-of-America-Washington-Liberty-Lake/Intern---Data-Science--Distributed-Intelligence_JR102942"
+  },
+  {
+    "id": "sj:6236ea31-fdc8-485d-a8fc-b2fe9c0aa953",
+    "company": "Itron",
+    "title": "Data Science Intern - Distributed Intelligence",
+    "location": "Liberty Lake, WA (Other)",
+    "url": "https://itron.wd5.myworkdayjobs.com/Early_Careers/job/United-States-of-America-Washington-Liberty-Lake/Intern---Data-Science--Distributed-Intelligence_JR102942-2"
   },
   {
     "id": "sj:1f8a0413-c78d-4d89-a614-ceba126efdf8",
@@ -3477,26 +3498,5 @@
     "title": "Data Science Intern 3",
     "location": "Bentonville, AR (Other)",
     "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern---Data-Science-III_R-2630030"
-  },
-  {
-    "id": "sj:90912950-0238-4415-ada4-c22d0cbd6ae8",
-    "company": "Danaher",
-    "title": "Data Analytics Intern",
-    "location": "Logan, UT (Other)",
-    "url": "https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Logan-Utah-United-States/Data-Analytics-Intern-Summer-2027_R1317525"
-  },
-  {
-    "id": "sj:b7359908-b1b9-4e89-befe-99ce05f4df7f",
-    "company": "Walmart",
-    "title": "Senior Data Scientist Intern",
-    "location": "Bentonville, AR (Other)",
-    "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern--Intern--Sr-Data-Science_R-2630032"
-  },
-  {
-    "id": "sj:c95d70e3-c9f4-4b98-8749-e8910a6d50bc",
-    "company": "The Toro Company",
-    "title": "Robotics System Test Intern",
-    "location": "Frederick, CO (Other)",
-    "url": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Frederick-CO/Robotics-System-Test-Intern---The-Toro-Company_JR17004"
   }
 ]
