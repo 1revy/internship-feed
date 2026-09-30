@@ -1,5 +1,26 @@
 [
   {
+    "id": "sj:90912950-0238-4415-ada4-c22d0cbd6ae8",
+    "company": "Danaher",
+    "title": "Data Analytics Intern",
+    "location": "Logan, UT (Other)",
+    "url": "https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Logan-Utah-United-States/Data-Analytics-Intern-Summer-2027_R1317525"
+  },
+  {
+    "id": "sj:b7359908-b1b9-4e89-befe-99ce05f4df7f",
+    "company": "Walmart",
+    "title": "Senior Data Scientist Intern",
+    "location": "Bentonville, AR (Other)",
+    "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern--Intern--Sr-Data-Science_R-2630032"
+  },
+  {
+    "id": "sj:c95d70e3-c9f4-4b98-8749-e8910a6d50bc",
+    "company": "The Toro Company",
+    "title": "Robotics System Test Intern",
+    "location": "Frederick, CO (Other)",
+    "url": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Frederick-CO/Robotics-System-Test-Intern---The-Toro-Company_JR17004"
+  },
+  {
     "id": "sj:8a3a2fbf-c843-4e59-936b-52ef8c326944",
     "company": "Securian Financial Group",
     "title": "Data Science and Advanced Analytics Intern - Multiple Teams",
@@ -3262,6 +3283,20 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Design-Intern--AI-Infrastructure---Summer-2027_JR2025784"
   },
   {
+    "id": "sj:9cb9b3d0-14d5-47cb-bd55-ce2ce7c5213e",
+    "company": "AMCA",
+    "title": "Software Engineer Intern",
+    "location": "El Segundo, CA (Other)",
+    "url": "https://job-boards.greenhouse.io/amca/jobs/4425120009"
+  },
+  {
+    "id": "sj:f80bbf2f-72fe-4eb7-9000-0aa582a04390",
+    "company": "Amazon",
+    "title": "Applied Science Intern - Information & Knowledge Management",
+    "location": "Seattle, WA (Other)",
+    "url": "https://amazon.jobs/en/jobs/10564585/2027-summer-applied-science-internship-information-knowledge-management-machine-learning-united-states-phd-student-science-recruiting"
+  },
+  {
     "id": "sj:282a057f-48f4-4133-a52c-2261299e04a8",
     "company": "Enova",
     "title": "Software Engineer Intern",
@@ -3414,6 +3449,27 @@
     "title": "AI Engineer Intern",
     "location": "Reston, VA (Other)",
     "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--AI-Engineer--Reston--VA-_R2603312-1"
+  },
+  {
+    "id": "sj:e6eed6a3-2c62-4035-8952-30b4577d84e3",
+    "company": "RTX",
+    "title": "Software Engineer Co-op - Spring/Summer 2027",
+    "location": "Cedar Rapids, IA (Other)",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Software-Engineering-Co-op---Embedded-Linux--Spring-Summer-2027-_01876384"
+  },
+  {
+    "id": "sj:d0427656-991f-42e4-96a3-51a38b3e5d8e",
+    "company": "RTX",
+    "title": "Software Engineer Intern",
+    "location": "Cedar Rapids, IA (Other)",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Software-Engineering-Intern--Summer-2027-_01876388"
+  },
+  {
+    "id": "sj:d9192af9-44cc-4afc-bb53-481c9e5acabf",
+    "company": "RTX",
+    "title": "Software Engineer Intern",
+    "location": "Richardson, TX (Other)",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Intern--Summer-2027-_01875411"
   },
   {
     "id": "sj:6acc24ca-3ff2-4d56-a40c-e531d2a57522",
@@ -6942,61 +6998,5 @@
     "title": "Intern",
     "location": "Mountain View, CA (Other)",
     "url": "https://careers.withwaymo.com/jobs?gh_jid=8174099"
-  },
-  {
-    "id": "sj:ecc69c92-2354-4bcc-8af5-c5e605953496",
-    "company": "Transcard Payments",
-    "title": "Artificial Intelligence Intern",
-    "location": "Chattanooga, TN (Other)",
-    "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4476416"
-  },
-  {
-    "id": "sj:f39ef049-309c-48e5-9169-f9eb0d44b087",
-    "company": "Transcard Payments",
-    "title": "Software Engineer Intern",
-    "location": "Chattanooga, TN (Other)",
-    "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4476288"
-  },
-  {
-    "id": "sj:ad9376a4-7196-4ce6-a3b4-e88763b96811",
-    "company": "Hadrian",
-    "title": "Software Engineer Intern",
-    "location": "LA; Torrance, CA (Other)",
-    "url": "https://jobs.ashbyhq.com/hadrian-automation/2b0423c6-947d-4226-8d23-90743bd5e63e/application?embed=true"
-  },
-  {
-    "id": "sj:13bbc7c4-2a80-4fd9-a89b-51601d50188c",
-    "company": "National Information Solutions Cooperative",
-    "title": "Software Development Intern",
-    "location": "Lake St Louis, MO; Mandan, ND; Cedar Rapids, IA (Other)",
-    "url": "https://job-boards.greenhouse.io/nisc/jobs/8092699"
-  },
-  {
-    "id": "sj:85280965-7125-463a-a884-99a9b4d568fb",
-    "company": "National Information Solutions Cooperative",
-    "title": "Software Development Intern",
-    "location": "Mandan, ND (Other)",
-    "url": "https://job-boards.greenhouse.io/testnisc/jobs/8174096"
-  },
-  {
-    "id": "sj:c0048e8d-bc5e-43fe-a26c-8194823003f8",
-    "company": "National Information Solutions Cooperative",
-    "title": "Software Development Intern",
-    "location": "Lake St Louis, MO (Other)",
-    "url": "https://job-boards.greenhouse.io/testnisc/jobs/8174090"
-  },
-  {
-    "id": "sj:d31af359-a2f6-4a81-bf00-bf6e7bc1b133",
-    "company": "National Information Solutions Cooperative",
-    "title": "Software Development Intern",
-    "location": "Lake St Louis, MO; Mandan, ND; Cedar Rapids, IA (Other)",
-    "url": "https://job-boards.greenhouse.io/testnisc/jobs/8174088"
-  },
-  {
-    "id": "sj:7509a79d-1085-4918-bdcc-6c82b44b486b",
-    "company": "Hermeus",
-    "title": "Software Engineer Intern - Command & Control",
-    "location": "Atlanta, GA (Other)",
-    "url": "https://jobs.lever.co/hermeus/5b08e2df-c9db-4831-aece-67d89e744796/apply"
   }
 ]
