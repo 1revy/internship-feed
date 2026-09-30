@@ -1,5 +1,26 @@
 [
   {
+    "id": "sj:76419dfa-ec98-4250-9937-e2bc66b00b00",
+    "company": "USAA",
+    "title": "Data Intern - Future Leaders Program",
+    "location": "Charlotte, NC; San Antonio, TX (Other)",
+    "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Future-Leaders-Program---Data-Intern_R0120824"
+  },
+  {
+    "id": "sj:3b30c0b3-6106-44e5-8c85-5c67c2116d43",
+    "company": "Cox",
+    "title": "Data Governance and Management Intern",
+    "location": "Atlanta, GA (Other)",
+    "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Data-Governance-and-Management-Intern---Summer-2027_R202682353"
+  },
+  {
+    "id": "sj:5f786704-9f4e-4137-8947-80614fba3b53",
+    "company": "Walmart",
+    "title": "Data Science Intern 3",
+    "location": "Bentonville, AR (Other)",
+    "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern---Data-Science-III_R-2630030"
+  },
+  {
     "id": "sj:90912950-0238-4415-ada4-c22d0cbd6ae8",
     "company": "Danaher",
     "title": "Data Analytics Intern",
@@ -3500,6 +3521,13 @@
     "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Software-Tools-and-Assurance-Engineering-Grad-Intern_R016753"
   },
   {
+    "id": "sj:cfd65384-8de0-4673-9086-3e19b4843b5e",
+    "company": "POET",
+    "title": "Software Developer Intern",
+    "location": "Sioux Falls, SD (Other)",
+    "url": "https://poet.wd1.myworkdayjobs.com/POET/job/Sioux-Falls-SD/Software-Developer-Intern_R101786-1"
+  },
+  {
     "id": "sj:ec241207-37cb-48f4-aa65-cf19d960f7a2",
     "company": "Flint",
     "title": "Engineering Intern - Summer 2027",
@@ -6970,33 +6998,5 @@
     "title": "Software Engineer Intern",
     "location": "Stevens Point, WI (Other)",
     "url": "https://jobs.smartrecruiters.com/Skyward1/744000147320799"
-  },
-  {
-    "id": "sj:88c5caad-cb4c-4072-ba31-6de074b0984e",
-    "company": "Hexagon AB",
-    "title": "Positioning Services Intern",
-    "location": "Calgary, AB, Canada (Other)",
-    "url": "https://careers-hexagonpositioning.icims.com/jobs/3085/job?mobile=true&needsRedirect=false"
-  },
-  {
-    "id": "sj:9de8596d-e0f1-4c5f-b3cc-c21f23c0e58a",
-    "company": "Hormel Foods",
-    "title": "Enterprise Analytics Intern - Campus Recruiting",
-    "location": "Austin, MN; Eden Prairie, MN (Other)",
-    "url": "https://ekkh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/35350"
-  },
-  {
-    "id": "sj:27f622fc-a5e9-4b35-bfb1-ac371473556a",
-    "company": "Waymo",
-    "title": "Software Engineering Intern - Behavior Test - MS",
-    "location": "SF (Other)",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=8174504"
-  },
-  {
-    "id": "sj:107e54c4-e35f-4131-8faf-6a6ab9998ca9",
-    "company": "Waymo",
-    "title": "Intern",
-    "location": "Mountain View, CA (Other)",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=8174099"
   }
 ]
