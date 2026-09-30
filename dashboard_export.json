@@ -476,6 +476,20 @@
     "url": "https://www.alixpartners.com/careers/7725335003?gh_jid=7725335003"
   },
   {
+    "id": "sj:7f191783-2ab3-4626-a830-2072091a9f5a",
+    "company": "Dandy",
+    "title": "Software Engineering Intern",
+    "location": "NYC (New York)",
+    "url": "https://jobs.ashbyhq.com/dandy/d43558e9-8e51-4980-b00d-39275063f099/application?embed=true"
+  },
+  {
+    "id": "sj:7ad6c160-b084-4ec2-9be1-3617d01137d1",
+    "company": "MetLife",
+    "title": "Global Technology Intern",
+    "location": "Tampa, FL; Hanover, NJ; Cary, NC; NYC (New York)",
+    "url": "https://metlife.avature.net/en_US/ml/JobDetail/20701"
+  },
+  {
     "id": "sj:1ee79857-d633-45a7-8e77-d969ec16837d",
     "company": "Perchwell",
     "title": "Software Engineer Intern",
@@ -1589,11 +1603,39 @@
     "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002"
   },
   {
+    "id": "sj:e30652f9-cc86-4112-b084-f0cba5f2b4ce",
+    "company": "Noblis",
+    "title": "Data Science and Innovation Intern",
+    "location": "Springfield, VA; Reston, VA (Other)",
+    "url": "https://careers.noblis.org/jobs/27942?icims=1"
+  },
+  {
+    "id": "sj:41f0a82d-c8df-476e-bdf4-626934104325",
+    "company": "ITT",
+    "title": "Data Analytics / AI Intern - Summer 2027",
+    "location": "Irvine, CA (Other)",
+    "url": "https://careersenus-itt-inc.icims.com/jobs/17657/job?mobile=true&needsRedirect=false"
+  },
+  {
     "id": "sj:c436ae49-cb5b-447d-9947-7f790cb0c8d9",
     "company": "Robinhood",
     "title": "Data Science Intern",
     "location": "Menlo Park, CA (Other)",
     "url": "https://boards.greenhouse.io/robinhood/jobs/8241738"
+  },
+  {
+    "id": "sj:6545cac1-80c8-4ecb-9b22-e6dc11411f9d",
+    "company": "Life Fitness",
+    "title": "Marketing Analytics Intern",
+    "location": "Rosemont, IL (Other)",
+    "url": "https://lifefitness.wd1.myworkdayjobs.com/searchLFN/job/Rosemont-IL/Marketing-Analytics-Intern_JR-025253"
+  },
+  {
+    "id": "sj:bf6dc064-bc55-48a6-8d17-7fabcfc86bef",
+    "company": "Dallas Fort Worth International Airport",
+    "title": "Undergraduate Intern - Enterprise Data & Analytics",
+    "location": "Texas (Other)",
+    "url": "https://dfwairport.wd5.myworkdayjobs.com/External/job/DFW-Intl-Airport-Board/XMLNAME-2027-Undergraduate-Summer-Internship---Enterprise-Data---Analytics_JR102162-1"
   },
   {
     "id": "sj:d31f3a4e-421a-4972-a2ef-2b849b218777",
@@ -3456,47 +3498,5 @@
     "title": "Enterprise Data Intern",
     "location": "Carmel, IN (Other)",
     "url": "https://job-boards.greenhouse.io/themjcos/jobs/5418283008"
-  },
-  {
-    "id": "sj:ed605070-d6fd-49c3-a4f4-dc442d4fbc15",
-    "company": "Johns Hopkins Applied Physics Laboratory",
-    "title": "AI & Data Science Intern - Analytic Capabilities",
-    "location": "Laurel, MD (Other)",
-    "url": "https://careers.jhuapl.edu/jobs/60008?icims=1"
-  },
-  {
-    "id": "sj:e1ff445a-9dad-4e51-8528-9a0779013170",
-    "company": "Johns Hopkins Applied Physics Laboratory",
-    "title": "Software Engineer/Data Scientist/Ontologist Intern - Threat Analytic Systems",
-    "location": "Laurel, MD (Other)",
-    "url": "https://careers.jhuapl.edu/jobs/59997?icims=1"
-  },
-  {
-    "id": "sj:0c28ec70-1138-4464-8cfe-9732f94e0dbd",
-    "company": "Johns Hopkins Applied Physics Laboratory",
-    "title": "Engineering/Science Intern - Tailored Autonomous Systems",
-    "location": "Laurel, MD (Other)",
-    "url": "https://careers.jhuapl.edu/jobs/59968?icims=1"
-  },
-  {
-    "id": "sj:e5d509b4-cf02-4596-b607-048396739370",
-    "company": "State Farm",
-    "title": "Data Science Intern - Magnet Program - Online MS Analytics",
-    "location": "Athens, GA (Other)",
-    "url": "https://jobs.statefarm.com/jobs/46057?icims=1"
-  },
-  {
-    "id": "sj:a6139842-69ee-4037-954f-1e2df0a8a6d4",
-    "company": "Demco Products",
-    "title": "IT Intern",
-    "location": "Boyden, IA (Other)",
-    "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4492652"
-  },
-  {
-    "id": "sj:d3494dea-dbb5-4557-a1f2-4676143b6cd5",
-    "company": "Hudl",
-    "title": "Product Management Intern",
-    "location": "Lincoln, NE (Other)",
-    "url": "https://job-boards.greenhouse.io/hudl/jobs/8155103"
   }
 ]
