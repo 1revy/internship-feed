@@ -1,5 +1,47 @@
 [
   {
+    "id": "sj:ed605070-d6fd-49c3-a4f4-dc442d4fbc15",
+    "company": "Johns Hopkins Applied Physics Laboratory",
+    "title": "AI & Data Science Intern - Analytic Capabilities",
+    "location": "Laurel, MD (Other)",
+    "url": "https://careers.jhuapl.edu/jobs/60008?icims=1"
+  },
+  {
+    "id": "sj:e1ff445a-9dad-4e51-8528-9a0779013170",
+    "company": "Johns Hopkins Applied Physics Laboratory",
+    "title": "Software Engineer/Data Scientist/Ontologist Intern - Threat Analytic Systems",
+    "location": "Laurel, MD (Other)",
+    "url": "https://careers.jhuapl.edu/jobs/59997?icims=1"
+  },
+  {
+    "id": "sj:0c28ec70-1138-4464-8cfe-9732f94e0dbd",
+    "company": "Johns Hopkins Applied Physics Laboratory",
+    "title": "Engineering/Science Intern - Tailored Autonomous Systems",
+    "location": "Laurel, MD (Other)",
+    "url": "https://careers.jhuapl.edu/jobs/59968?icims=1"
+  },
+  {
+    "id": "sj:e5d509b4-cf02-4596-b607-048396739370",
+    "company": "State Farm",
+    "title": "Data Science Intern - Magnet Program - Online MS Analytics",
+    "location": "Athens, GA (Other)",
+    "url": "https://jobs.statefarm.com/jobs/46057?icims=1"
+  },
+  {
+    "id": "sj:a6139842-69ee-4037-954f-1e2df0a8a6d4",
+    "company": "Demco Products",
+    "title": "IT Intern",
+    "location": "Boyden, IA (Other)",
+    "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4492652"
+  },
+  {
+    "id": "sj:d3494dea-dbb5-4557-a1f2-4676143b6cd5",
+    "company": "Hudl",
+    "title": "Product Management Intern",
+    "location": "Lincoln, NE (Other)",
+    "url": "https://job-boards.greenhouse.io/hudl/jobs/8155103"
+  },
+  {
     "id": "sj:3ae54954-c218-444e-aaec-8d2b4da82e49",
     "company": "Constellation Energy",
     "title": "Business Performance & Analytics Intern",
@@ -3325,6 +3367,41 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Design-Intern--AI-Infrastructure---Summer-2027_JR2025784"
   },
   {
+    "id": "sj:3652392f-5646-4168-b539-ac3e5a186acd",
+    "company": "Waymo",
+    "title": "Software Engineering Intern - Labeling",
+    "location": "Mountain View, CA (Other)",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8238525"
+  },
+  {
+    "id": "sj:f3437876-fa5c-490c-a81a-74af68437738",
+    "company": "Peraton",
+    "title": "Software Engineering Co-op",
+    "location": "San Diego, CA (Other)",
+    "url": "https://careers-peraton.icims.com/jobs/171547/job?mobile=true&needsRedirect=false"
+  },
+  {
+    "id": "sj:bc6412bd-7dbe-456e-8c67-d2002acadeaa",
+    "company": "Electronic Arts",
+    "title": "Software Engineer Intern",
+    "location": "Orlando, FL (Other)",
+    "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/216263"
+  },
+  {
+    "id": "sj:4b22095f-9ebe-47ac-a266-2aefd5230751",
+    "company": "Electronic Arts",
+    "title": "AI Enablement Intern",
+    "location": "Austin, TX (Other)",
+    "url": "https://jobs.ea.com/en_US/careers/JobDetail/AI-Enablement-Intern-Summer-2027/216185"
+  },
+  {
+    "id": "sj:8333b344-795f-4400-aa23-11358ddd296e",
+    "company": "Patch My PC",
+    "title": "Software Engineer Intern",
+    "location": "Castle Rock, CO (Other)",
+    "url": "https://jobs.lever.co/patchmypc/e2bbd0a9-5810-4cf0-bb71-3fd2e1125341/apply"
+  },
+  {
     "id": "sj:069dfa9c-8d02-4151-9206-14b22adce975",
     "company": "Wellmark",
     "title": "Software Engineer Intern - Metadata Enablement Team",
@@ -3351,6 +3428,34 @@
     "title": "Software/Network Engineering Intern",
     "location": "Florham Park, NJ (Other)",
     "url": "https://caci.wd1.myworkdayjobs.com/external/job/Florham-Park-NJ-US/Software-Network-Engineering-Intern---Summer-2027_332895"
+  },
+  {
+    "id": "sj:4e50989c-28b7-441b-aabc-eb291b528b95",
+    "company": "DraftKings",
+    "title": "Analytics Intern",
+    "location": "Boston, MA (Other)",
+    "url": "https://draftkings.wd1.myworkdayjobs.com/Employee_Referral_Portal/job/Boston-MA/Analyst-Intern-Referral--Summer-2027-_JR15187"
+  },
+  {
+    "id": "sj:a9e99925-f394-4b08-906d-b96b7591cbc8",
+    "company": "Assurant",
+    "title": "Software Engineer Intern",
+    "location": "Miami, FL; Chicago, IL; Atlanta, GA (Other)",
+    "url": "https://assurant.wd1.myworkdayjobs.com/External_Limited_Posting/job/Atlanta-GA/Summer-2027-Intern--Software-Engineering-Intern_R-115727"
+  },
+  {
+    "id": "sj:e8c586d7-f281-4ffc-bd41-078c7158f059",
+    "company": "Northrop Grumman",
+    "title": "Software Engineer Intern",
+    "location": "Morrisville, NC (Other)",
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-North-Carolina-Morrisville/XMLNAME-2027-Software-Engineer-Intern---Morrisville-NC_R10253768"
+  },
+  {
+    "id": "sj:982c416c-c960-4efd-81a7-a87081597d80",
+    "company": "Northrop Grumman",
+    "title": "Software Engineer Intern",
+    "location": "Rolling Meadows, IL (Other)",
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Software-Engineer-Intern---Rolling-Meadows-IL_R10253772"
   },
   {
     "id": "sj:282a057f-48f4-4133-a52c-2261299e04a8",
@@ -4198,6 +4303,13 @@
     "title": "Undergraduate Internship - Environmental Technical Projects",
     "location": "Dallas, TX (Other)",
     "url": "https://dfwairport.wd5.myworkdayjobs.com/External/job/DFW-Intl-Airport-Board/XMLNAME-2027-Undergraduate-Internship---Environmental-Technical-Projects_JR102144"
+  },
+  {
+    "id": "sj:2b8a623c-d139-413c-aff2-d9afce6a38e4",
+    "company": "Northrop Grumman",
+    "title": "Cyber Software Engineer Intern",
+    "location": "Tampa, FL (Other)",
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Tampa/XMLNAME-2027-Cyber-Software-Engineer-Intern---Tampa-FL_R10249530"
   },
   {
     "id": "sj:ed00cc85-198b-4632-b6de-c47acb49112e",
@@ -6886,117 +6998,5 @@
     "title": "Autonomy Engineer Intern - Computer Vision / Deep Learning - Summer 2027",
     "location": "San Mateo, CA (Other)",
     "url": "https://jobs.ashbyhq.com/skydio/ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9/application?embed=true"
-  },
-  {
-    "id": "sj:ea127849-c2ce-48a3-8ef5-8024831dc02e",
-    "company": "Amazon",
-    "title": "Software Development Engineer Intern - Robotics",
-    "location": "Seattle, WA; Nashville, TN; Austin, TX; North Reading, MA; Arlington County, Arlington, VA; Bellevue, WA; Westborough, MA (Other)",
-    "url": "https://amazon.jobs/en/jobs/10529525/software-development-engineer-intern-robotics-2027"
-  },
-  {
-    "id": "sj:4b698c4a-1948-48a8-8175-d6ecf66acdf7",
-    "company": "RSM",
-    "title": "Application Development Intern - Summer 2027",
-    "location": "Des Moines, IA; Chicago, IL; Minneapolis, MN; Denver, CO (Other)",
-    "url": "https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Des-Moines/Application-Development-Intern---Summer-2027_JR120736"
-  },
-  {
-    "id": "sj:7e8834d8-2571-478a-aaeb-8bb9c3fbb656",
-    "company": "GE Vernova",
-    "title": "Project Engineer Intern - Summer 2027",
-    "location": "Bellevue, WA (Other)",
-    "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---Project-Engineer-Intern---Summer-2027_R5050026-1"
-  },
-  {
-    "id": "sj:abf84bbc-9f9b-4db5-8637-7b7772fb25e4",
-    "company": "CACI",
-    "title": "Software Engineer Intern",
-    "location": "Ypsilanti, MI (Other)",
-    "url": "https://caci.wd1.myworkdayjobs.com/external/job/Ypsilanti-MI-US/Software-Engineer-Intern---Summer-2027_331648"
-  },
-  {
-    "id": "sj:4a01e4d3-60e8-452f-a585-accc003f913d",
-    "company": "DIRECTV",
-    "title": "Operational Analytics Intern",
-    "location": "Remote in USA (Other)",
-    "url": "https://directv.wd1.myworkdayjobs.com/careers/job/El-Segundo-CA/DIRECTV-for-Business--Operational-Analytics-Intern_R260282"
-  },
-  {
-    "id": "sj:6cc400a9-db6f-4550-9989-36f65cbe70b1",
-    "company": "Nationwide",
-    "title": "Feature Engineer Intern - Enterprise Analytics Office",
-    "location": "Columbus, OH (Other)",
-    "url": "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Metro/Summer-2027-Feature-Engineer-Internship_100233"
-  },
-  {
-    "id": "sj:99fd2453-9c39-447d-bb66-a0aebc0473e5",
-    "company": "Nationwide",
-    "title": "Generative AI Intern",
-    "location": "Columbus, OH (Other)",
-    "url": "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Metro/Summer-2027-Generative-AI-Internship_100231"
-  },
-  {
-    "id": "sj:58c1c9ca-335b-45dc-b8a9-bb40c95c95dd",
-    "company": "Nationwide",
-    "title": "Analytic Consulting Advisor Intern",
-    "location": "Columbus, OH (Other)",
-    "url": "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Metro/Summer-2027-Analytic-Consulting-Advisor-Internship_100235"
-  },
-  {
-    "id": "sj:867f83e8-8c2d-4871-a154-59496914e89c",
-    "company": "Saab",
-    "title": "Software Engineering Co-op",
-    "location": "East Syracuse, NY (Other)",
-    "url": "https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/East-Syracuse-NY-Collamer/Software-Engineering-Co-Op--Spring---Summer-2027-_R-03240-1"
-  },
-  {
-    "id": "sj:64a35586-2a6e-4c71-9919-ca8c55f250ed",
-    "company": "Barclays",
-    "title": "Technology Developer Intern - Technology",
-    "location": "Hanover, NJ (Other)",
-    "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Building-400-Whippany-Campus-Jefferson-Park/XMLNAME-2027-Technology-Developer-Summer-Internship-Program-Whippany_JR-0000123234"
-  },
-  {
-    "id": "sj:b204537c-692e-4ce8-aa3a-2e01ec6a186a",
-    "company": "Barclays",
-    "title": "Technology Developer Intern",
-    "location": "Wilmington, DE (Other)",
-    "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Wilmington-125-South-West-Street/XMLNAME-2027-Technology-Developer-Summer-Internship-Program-Wilmington_JR-0000123236"
-  },
-  {
-    "id": "sj:5824240e-2adc-4a7c-9e37-ff62114f248e",
-    "company": "CIBC",
-    "title": "Software Engineer Intern",
-    "location": "Chicago, IL (Other)",
-    "url": "https://cibc.wd3.myworkdayjobs.com/search/job/Chicago-IL/XMLNAME-2027-Summer-Intern---Software-Engineering_2618322-1"
-  },
-  {
-    "id": "sj:f087940e-a5b0-4548-a6bc-e189b1848910",
-    "company": "CIBC",
-    "title": "Software Engineer Intern",
-    "location": "Chicago, IL (Other)",
-    "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Chicago-IL/XMLNAME-2027-Summer-Intern---Software-Engineering_2618322"
-  },
-  {
-    "id": "sj:bfc80fee-bb28-459a-be87-125a0fef1495",
-    "company": "Hy-Vee",
-    "title": "Software Engineer Intern",
-    "location": "West Des Moines, IA (Other)",
-    "url": "https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Corporate-Office-Westown-Pkwy-West-Des-Moines-IA/Digital-Software-Engineering-Intern---Summer-2027_R250133"
-  },
-  {
-    "id": "sj:92416bd1-1305-45ff-8558-9427fd6cc2bb",
-    "company": "Allied Solutions",
-    "title": "Sales Analytics Intern",
-    "location": "Carmel, IN (Other)",
-    "url": "https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/Sales-Analytics-Intern_R-011098"
-  },
-  {
-    "id": "sj:f991871e-3a03-45a8-bed8-6e0038e44af8",
-    "company": "Procter & Gamble",
-    "title": "Analytics & Insights Intern/Co-op",
-    "location": "Toronto, ON, Canada (Other)",
-    "url": "https://pg.wd5.myworkdayjobs.com/1000/job/TORONTO-GO/Analytics---Insights-Internship-Co-op-Summer-2027--Stage-ou-programme-coopratif-en-Analyse-et-veille-stratgique-t-2027_R000158592"
   }
 ]
