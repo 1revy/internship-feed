@@ -1,5 +1,26 @@
 [
   {
+    "id": "sj:f42402c6-a3a3-4d0e-bebd-ba0e257a821c",
+    "company": "SeatGeek",
+    "title": "Data Analyst Intern",
+    "location": "NYC (New York)",
+    "url": "https://seatgeek.com/jobs/8247554?gh_jid=8247554"
+  },
+  {
+    "id": "sj:70c5e345-3c27-4d13-be7f-38b995fcf2ce",
+    "company": "Pinterest",
+    "title": "Data Science Intern",
+    "location": "Palo Alto, CA; Seattle, WA; SF; NYC (New York)",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138097"
+  },
+  {
+    "id": "sj:bc5fd93d-1adf-4324-a4e2-4dc91147bf69",
+    "company": "Pinterest",
+    "title": "Data Science Intern",
+    "location": "Palo Alto, CA; Seattle, WA; SF; NYC (New York)",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140169"
+  },
+  {
     "id": "sj:70276fbb-025b-4544-b0c0-db8dc7259234",
     "company": "Perchwell",
     "title": "Data Analytics Engineering Intern",
@@ -474,6 +495,20 @@
     "title": "Data Scientist Intern",
     "location": "NYC (New York)",
     "url": "https://www.alixpartners.com/careers/7725335003?gh_jid=7725335003"
+  },
+  {
+    "id": "sj:e6661949-f6d5-4e66-bdc3-369604231129",
+    "company": "Pinterest",
+    "title": "Machine Learning Intern",
+    "location": "Palo Alto, CA; Seattle, WA; SF; NYC (New York)",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138090"
+  },
+  {
+    "id": "sj:a9d3547a-9704-4e62-9ee4-a04616e64d34",
+    "company": "Pinterest",
+    "title": "Machine Learning Intern",
+    "location": "Palo Alto, CA; Seattle, WA; SF; NYC (New York)",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140140"
   },
   {
     "id": "sj:7f191783-2ab3-4626-a830-2072091a9f5a",
@@ -1603,6 +1638,48 @@
     "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002"
   },
   {
+    "id": "sj:8d2d1d5d-4101-4154-8430-c9b1201db685",
+    "company": "Datacor",
+    "title": "Data Science Intern - Summer 2027 - Program",
+    "location": "Remote in USA (Other)",
+    "url": "https://job-boards.greenhouse.io/datacor/jobs/5242412007"
+  },
+  {
+    "id": "sj:4c0ecb7d-5370-4670-b348-d2eb4e6be3f6",
+    "company": "Intuit",
+    "title": "Business Data Analyst Intern - Strategy & Planning",
+    "location": "Mountain View, CA (Other)",
+    "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-business-data-analyst-intern-strategy-and-planning/27595/101410847360"
+  },
+  {
+    "id": "sj:76dae718-6697-41ec-be26-00f9edfba73e",
+    "company": "Bedrock Robotics",
+    "title": "Product Intern",
+    "location": "SF (Other)",
+    "url": "https://jobs.ashbyhq.com/bedrock-robotics/e199e72a-0361-40dc-8fd3-e02e534af85a/application?embed=true"
+  },
+  {
+    "id": "sj:aeb26266-97f2-4d2b-a7fb-03d7d6fbfa38",
+    "company": "BNY",
+    "title": "Product Management Intern - Program Management",
+    "location": "Pittsburgh, PA (Other)",
+    "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82782"
+  },
+  {
+    "id": "sj:17a2ed7c-005e-47c8-b2d5-36ad1d13675c",
+    "company": "BNY",
+    "title": "Product Management Intern",
+    "location": "Lake Mary, FL (Other)",
+    "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82784"
+  },
+  {
+    "id": "sj:892a9689-16bc-4820-974a-056fab823d5f",
+    "company": "Varda Space",
+    "title": "Mission Operations Intern - Summer 2027",
+    "location": "El Segundo, CA (Other)",
+    "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8010682003"
+  },
+  {
     "id": "sj:fc9d4693-7c8b-4934-816e-ca7ca0a6b8d9",
     "company": "Southwest Airlines",
     "title": "Digital Testing & Optimization Intern",
@@ -1629,6 +1706,48 @@
     "title": "Data Engineer Intern",
     "location": "Dallas, TX (Other)",
     "url": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Summer-2027-Data-Engineer-Internship_R-2026-73271"
+  },
+  {
+    "id": "sj:4a3e68cf-493a-4f4e-814a-431736f6f178",
+    "company": "The Federal Reserve System",
+    "title": "Data Science and Business Analytics Intern",
+    "location": "Chicago, IL (Other)",
+    "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Chicago-IL/Summer-2027-Intern-Data-Science-and-Business-Analytics_R-0000033609"
+  },
+  {
+    "id": "sj:aaeb44bf-c9ec-46e3-989c-e8594be3ac17",
+    "company": "The Federal Reserve System",
+    "title": "Data Science Intern",
+    "location": "Chicago, IL (Other)",
+    "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Chicago-IL/Summer-2027-Intern--PhD-Data-Science-or-Computer-Science_R-0000033634"
+  },
+  {
+    "id": "sj:9ee6f0e7-2c86-445d-a369-22c5227b938f",
+    "company": "Primient",
+    "title": "Digital Data & Analytics Intern",
+    "location": "Schaumburg, IL (Other)",
+    "url": "https://primient.wd1.myworkdayjobs.com/External_Careers/job/Schaumburg-IL/Digital-Data---Analytics-Intern---Summer-2027_JREQ7011"
+  },
+  {
+    "id": "sj:6150d12b-9d14-4251-a01a-b5422b9f7028",
+    "company": "MFS",
+    "title": "Software Data Intern",
+    "location": "Boston, MA (Other)",
+    "url": "https://mfs.wd1.myworkdayjobs.com/en-US/MFS-Careers/job/Boston/Summer-2027-Software-Engineer-Intern--June---August-_MFS-231984"
+  },
+  {
+    "id": "sj:e2eb087e-b56a-42ec-a623-0453920d302b",
+    "company": "Cigna Group",
+    "title": "Product Analytics Intern",
+    "location": "Morris Plains, NJ; St. Louis, MO (Other)",
+    "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Morris-Plains-NJ/Product-Analytics-Summer-Intern---Start-Date--May-24--2027_26010180"
+  },
+  {
+    "id": "sj:5562454d-b04d-48f2-819f-22c84cd26c2c",
+    "company": "NJM Insurance Group",
+    "title": "IT Data Administration Intern",
+    "location": "Trenton, NJ (Other)",
+    "url": "https://njm.wd1.myworkdayjobs.com/njm/job/NJM---Trenton/IT-Data-Administration-Intern_R2008309"
   },
   {
     "id": "sj:e30652f9-cc86-4112-b084-f0cba5f2b4ce",
@@ -1797,6 +1916,13 @@
     "title": "Data Engineer Intern",
     "location": "Sioux Falls, SD (Other)",
     "url": "https://poet.wd1.myworkdayjobs.com/POET/job/Sioux-Falls-SD/Data-Engineering-Intern_R101787"
+  },
+  {
+    "id": "sj:704a57e5-4a0e-4e2a-abb6-64f45c2acb63",
+    "company": "Centene",
+    "title": "Medical Economics Analyst Intern",
+    "location": "Florida; Missouri (Other)",
+    "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Medical-Economics-Intern--Undergraduate---Summer-2027-_1662089"
   },
   {
     "id": "sj:1f8a0413-c78d-4d89-a614-ceba126efdf8",
@@ -3372,131 +3498,5 @@
     "title": "Data Analyst Intern - Multiple Teams",
     "location": "Boston, MA; Johnston, RI; Columbus, OH (Other)",
     "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49282"
-  },
-  {
-    "id": "sj:3238daa0-03ad-4e44-a14b-4d25ad9d4fa0",
-    "company": "Citizens Financial Group",
-    "title": "Data Engineer Intern - Enterprise Technology & Security",
-    "location": "Plano, TX; Johnston, RI; Phoenix, AZ (Other)",
-    "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49285"
-  },
-  {
-    "id": "sj:5cd8a4f6-0d01-4524-bc85-e40a74e53d54",
-    "company": "Citizens Financial Group",
-    "title": "Business Insights Intern - Multiple Teams",
-    "location": "Boston, MA; Johnston, RI; Columbus, OH (Other)",
-    "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49279"
-  },
-  {
-    "id": "sj:e0125f9d-5b88-4e1f-844e-39275d743833",
-    "company": "Citizens Financial Group",
-    "title": "Data Analyst Intern - Multiple Teams",
-    "location": "Boston, MA; Johnston, RI; Columbus, OH (Other)",
-    "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49278"
-  },
-  {
-    "id": "sj:2bd0a1e0-53b9-4154-a4eb-1c4f5c86e603",
-    "company": "Citizens Financial Group",
-    "title": "Data Science Intern - Multiple Teams",
-    "location": "Boston, MA; Johnston, RI; Columbus, OH (Other)",
-    "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49280"
-  },
-  {
-    "id": "sj:81596e8a-9d9f-41c9-aac6-a983293dedc1",
-    "company": "Wellmark",
-    "title": "Data Analytics & Governance Internship",
-    "location": "Des Moines, IA (Other)",
-    "url": "https://jobs.smartrecruiters.com/WellmarkInc/744000148917718"
-  },
-  {
-    "id": "sj:73b3f6a8-64fc-4121-9f03-57845bb24672",
-    "company": "The Toro Company",
-    "title": "Spatial Data R&D Intern",
-    "location": "Bloomington, MN (Other)",
-    "url": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Spatial-Data-R-D-Intern---The-Toro-Company_JR17187"
-  },
-  {
-    "id": "sj:179a03bf-f7de-4c38-bc97-4b4907c41053",
-    "company": "Momentive",
-    "title": "Web Content Support and Administration Intern",
-    "location": "Pearl River, NY (Other)",
-    "url": "https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Pearl-River/Summer-2027-Intern-Web-Content-Support-and-Administration_R9796"
-  },
-  {
-    "id": "sj:03022a61-b516-4ee6-87d5-7cee0f290ac2",
-    "company": "Momentive",
-    "title": "Product Management Intern - Specialty Additives",
-    "location": "Friendly, WV (Other)",
-    "url": "https://momentive.wd1.myworkdayjobs.com/MC/job/US-WV-Friendly/Summer-2027-Product-Management-Intern_R9816"
-  },
-  {
-    "id": "sj:8c86eaf0-f116-4ff4-870a-eb2a2522b34b",
-    "company": "USAA",
-    "title": "Decision Science Analyst Intern",
-    "location": "San Antonio, TX (Other)",
-    "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Decision-Science-Analyst-Intern_R0120923"
-  },
-  {
-    "id": "sj:09e1c7ef-5308-4aa4-b767-2020b75e4811",
-    "company": "Genworth Financial",
-    "title": "Data Analytics Intern - Summer 2027",
-    "location": "Richmond, VA (Other)",
-    "url": "https://gnw.wd1.myworkdayjobs.com/GNW/job/Richmond-Virginia/Data-Analytics-Intern---Summer-2027_REQ-260288-1"
-  },
-  {
-    "id": "sj:a2ce4ce9-8c4d-4478-9be2-770fc5ff210d",
-    "company": "Nationwide",
-    "title": "Personal Lines Business Insights Intern",
-    "location": "Columbus, OH (Other)",
-    "url": "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Summer-2027-Personal-Lines-Business-Insights-Intern_100197"
-  },
-  {
-    "id": "sj:9eef895c-2727-4ebb-92bc-fda2b10c3d34",
-    "company": "Amgen",
-    "title": "Data Scientist Intern",
-    "location": "Remote in USA (Other)",
-    "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Data-Scientist---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255704"
-  },
-  {
-    "id": "sj:811210da-553e-4d37-b262-9897450dc43d",
-    "company": "Amgen",
-    "title": "Data Scientist Intern - Amgen\u2019s Technology & Medical Organizations",
-    "location": "Remote in USA (Other)",
-    "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Data-Scientist---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255722"
-  },
-  {
-    "id": "sj:6e4f094f-682c-4e8f-b9a8-f1ee44c201d3",
-    "company": "Amgen",
-    "title": "Digital Product Intern",
-    "location": "Remote in USA (Other)",
-    "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Digital-Product---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255711"
-  },
-  {
-    "id": "sj:698feec2-81e2-41f9-854b-5a57cc104ace",
-    "company": "Amgen",
-    "title": "Data Engineer Intern",
-    "location": "Remote in USA (Other)",
-    "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Data-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255742"
-  },
-  {
-    "id": "sj:65caec5f-0c22-478c-8e54-2b825e9fd94e",
-    "company": "Amgen",
-    "title": "Data Engineer Intern - Technology & Medical Organizations",
-    "location": "Remote in USA (Other)",
-    "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Data-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255708"
-  },
-  {
-    "id": "sj:27460c05-e022-499c-bcc8-2783559d2639",
-    "company": "Amgen",
-    "title": "Digital Product Intern - Digital Product - Technology & Medical Organizations",
-    "location": "Remote in USA (Other)",
-    "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Digital-Product---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255744"
-  },
-  {
-    "id": "sj:e55a7700-5c93-43ed-a30e-6398ef65a328",
-    "company": "Baird",
-    "title": "IT Data & Analytics Intern",
-    "location": "Madison, WI; Milwaukee, WI (Other)",
-    "url": "https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Internship---IT-Data---Analytics--Year-Round-_R20261012-1"
   }
 ]
