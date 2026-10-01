@@ -1,5 +1,12 @@
 [
   {
+    "id": "sj:03ddbf84-5e23-46af-b5c3-428a7ef7f009",
+    "company": "The MJ Companies",
+    "title": "Enterprise Data Intern",
+    "location": "Carmel, IN (Other)",
+    "url": "https://job-boards.greenhouse.io/themjcos/jobs/5418283008"
+  },
+  {
     "id": "sj:ed605070-d6fd-49c3-a4f4-dc442d4fbc15",
     "company": "Johns Hopkins Applied Physics Laboratory",
     "title": "AI & Data Science Intern - Analytic Capabilities",
@@ -3372,6 +3379,13 @@
     "title": "Software Engineering Intern - Labeling",
     "location": "Mountain View, CA (Other)",
     "url": "https://careers.withwaymo.com/jobs?gh_jid=8238525"
+  },
+  {
+    "id": "sj:48975da5-2bb2-4457-8702-de4898cd805e",
+    "company": "Stripe",
+    "title": "Software Engineer Intern",
+    "location": "Seattle, WA; SF (Other)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8241260"
   },
   {
     "id": "sj:f3437876-fa5c-490c-a81a-74af68437738",
@@ -6984,19 +6998,5 @@
     "title": "Software Engineer Intern - Summer 2027",
     "location": "Charlotte, NC (Other)",
     "url": "https://careers.principal.com/jobs/52513?icims=1"
-  },
-  {
-    "id": "sj:a5f886cf-d5b6-41ac-9bfc-98833aff9bb6",
-    "company": "Primer",
-    "title": "Software Engineer Intern - Full Stack",
-    "location": "SF (Other)",
-    "url": "https://jobs.ashbyhq.com/primer/edd1667b-6323-444a-adc1-40bae5b9a3b0/application?embed=true"
-  },
-  {
-    "id": "sj:d3f54d58-9f89-4689-b91d-f9e03013c3ca",
-    "company": "Skydio",
-    "title": "Autonomy Engineer Intern - Computer Vision / Deep Learning - Summer 2027",
-    "location": "San Mateo, CA (Other)",
-    "url": "https://jobs.ashbyhq.com/skydio/ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9/application?embed=true"
   }
 ]
