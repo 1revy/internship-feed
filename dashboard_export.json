@@ -1603,6 +1603,34 @@
     "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002"
   },
   {
+    "id": "sj:fc9d4693-7c8b-4934-816e-ca7ca0a6b8d9",
+    "company": "Southwest Airlines",
+    "title": "Digital Testing & Optimization Intern",
+    "location": "Dallas, TX (Other)",
+    "url": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Summer-2027-Digital-Testing---Optimization-Internship_R-2026-73012"
+  },
+  {
+    "id": "sj:f9ce3d2d-f8da-4e9d-bbe6-6b64823df085",
+    "company": "Southwest Airlines",
+    "title": "Customer Experience and Analytics Data Science Intern",
+    "location": "Dallas, TX (Other)",
+    "url": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Summer-2027-Customer-Experience---Analytics-Data-Science-Internship_R-2026-73023"
+  },
+  {
+    "id": "sj:d9419501-0152-4c0a-81b6-645f84e65a7c",
+    "company": "Southwest Airlines",
+    "title": "Digital Product Intern",
+    "location": "Dallas, TX (Other)",
+    "url": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Summer-2027-Digital-Product-Internship_R-2026-73049"
+  },
+  {
+    "id": "sj:66d75708-a251-415f-b835-c6766b6c4d61",
+    "company": "Southwest Airlines",
+    "title": "Data Engineer Intern",
+    "location": "Dallas, TX (Other)",
+    "url": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Summer-2027-Data-Engineer-Internship_R-2026-73271"
+  },
+  {
     "id": "sj:e30652f9-cc86-4112-b084-f0cba5f2b4ce",
     "company": "Noblis",
     "title": "Data Science and Innovation Intern",
@@ -3470,33 +3498,5 @@
     "title": "IT Data & Analytics Intern",
     "location": "Madison, WI; Milwaukee, WI (Other)",
     "url": "https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Internship---IT-Data---Analytics--Year-Round-_R20261012-1"
-  },
-  {
-    "id": "sj:80ed798a-4740-4572-bb0b-e99439246dcf",
-    "company": "EMC Insurance",
-    "title": "Data Science Intern",
-    "location": "Iowa (Other)",
-    "url": "https://emcins.wd5.myworkdayjobs.com/en-US/EMC_Careers/job/Iowa/Intern--Data-Science_R6524"
-  },
-  {
-    "id": "sj:8b696511-3eb6-46d7-bd8a-1a07e56a2349",
-    "company": "USAA",
-    "title": "Product Management Analyst Intern - Property and Casualty",
-    "location": "San Antonio, TX (Other)",
-    "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/P-C-Product-Management-Analyst-Intern_R0120949"
-  },
-  {
-    "id": "sj:d5b824b3-f478-49bb-8b20-9c1b283518f4",
-    "company": "RF-SMART",
-    "title": "Software Developer Intern - Product Engineering",
-    "location": "Jacksonville, FL (Other)",
-    "url": "https://job-boards.greenhouse.io/rfsmart/jobs/5407206008"
-  },
-  {
-    "id": "sj:908892d9-b9e6-4b8c-a336-fc705990330a",
-    "company": "Zipline",
-    "title": "Data Analytics Intern",
-    "location": "South SF (Other)",
-    "url": "https://www.zipline.com/open-roles/7990632003?gh_jid=7990632003"
   }
 ]
