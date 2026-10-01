@@ -3430,6 +3430,13 @@
     "url": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Summer-2027-Software-Engineer-Internship_R-2026-73270"
   },
   {
+    "id": "sj:7344ee5e-5174-44c2-acec-12e21379b83f",
+    "company": "RTX",
+    "title": "Software Engineer Intern",
+    "location": "Annapolis, MD (Other)",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MD-ANNAPOLIS-906--2551-Riva-Rd--BLDG-906/Software-Engineering-Intern--Summer-2027-_01873235"
+  },
+  {
     "id": "sj:3652392f-5646-4168-b539-ac3e5a186acd",
     "company": "Waymo",
     "title": "Software Engineering Intern - Labeling",
@@ -6991,12 +6998,5 @@
     "title": "Student Intern - Power Delivery Performance & Analytics",
     "location": "The Woodlands, TX (Other)",
     "url": "https://jobs.entergy.com/job/The-Woodlands-Student,-Intern,-Power-Delivery-Performance-&-Analytics,-Spring-2027-Texa/1426995300/?ats=successfactors"
-  },
-  {
-    "id": "sj:92d19f9f-b983-4fa7-a8f3-2344103d710e",
-    "company": "Nokia",
-    "title": "AI Agent Development Co-op",
-    "location": "San Jose, CA (Other)",
-    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39978"
   }
 ]
