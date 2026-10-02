@@ -1,5 +1,12 @@
 [
   {
+    "id": "sj:e6b8584d-74df-48c0-a475-8fe11a90c9a9",
+    "company": "Lyft",
+    "title": "Data Science Intern - Algorithms",
+    "location": "SF (Other)",
+    "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002"
+  },
+  {
     "id": "sj:d6f03a28-3a65-4557-acdc-30acdc9937bd",
     "company": "Lyft",
     "title": "Data Engineer Intern",
@@ -3605,6 +3612,13 @@
     "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Enterprise-Analytics-Intern---Summer-2027_R9650"
   },
   {
+    "id": "sj:11487bbd-b590-4b02-a2f1-0d88df7fbbd2",
+    "company": "Northrop Grumman",
+    "title": "College Technical Intern",
+    "location": "McLean, VA (Other)",
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-McLean/XMLNAME-2027-College-Technical-Intern---McLean-VA_R10253146"
+  },
+  {
     "id": "sj:d24f3415-d7f3-4935-8bed-730bae30d68d",
     "company": "Riot Games",
     "title": "Software Engineer Intern",
@@ -6984,19 +6998,5 @@
     "title": "AI Engineer Intern",
     "location": "Austin, TX (Other)",
     "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/TX-Austin-11501-Alterra-Pkwy-STE-500/The-Cigna-Group-s-Technology-Development-Program---AI-Engineering-Track-Summer-Internship_26009535"
-  },
-  {
-    "id": "sj:4c33e927-c6a7-4416-bba1-be025fb1558d",
-    "company": "Auto-Owners Insurance",
-    "title": "Marketplace Intelligence Intern",
-    "location": "Lansing, MI (Other)",
-    "url": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Marketplace-Intelligence-Internship---Summer-2027_R_14506"
-  },
-  {
-    "id": "sj:e3d70ac5-dc1d-4c06-b733-8c76af99ef70",
-    "company": "Barclays",
-    "title": "Technology Developer Apprentice",
-    "location": "Glasgow, UK (Other)",
-    "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/XMLNAME-2027-Technology-Developer-Graduate-Apprenticeship-Programme-Glasgow_JR-0000129447"
   }
 ]
