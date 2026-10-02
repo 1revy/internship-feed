@@ -1694,6 +1694,13 @@
     "url": "https://mfs.wd1.myworkdayjobs.com/en-US/MFS-Careers/job/Boston/Summer-2027-Enterprise-Data-Management-Intern--June---August-_MFS-231987"
   },
   {
+    "id": "sj:1c799f05-b926-4be3-ae23-debd91b8eabf",
+    "company": "Regeneron Pharmaceuticals",
+    "title": "Precision Medicine Operations Co-op",
+    "location": "Armonk, NY (Other)",
+    "url": "https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/Armonk/XMLNAME-2027-Co-op-Precision-Medicine-Operations_R51082-1"
+  },
+  {
     "id": "sj:8d2d1d5d-4101-4154-8430-c9b1201db685",
     "company": "Datacor",
     "title": "Data Science Intern - Summer 2027 - Program",
@@ -3491,12 +3498,5 @@
     "title": "IT Data Analytics Intern - Business Systems & AI",
     "location": "Houston, TX (Other)",
     "url": "https://external-careers-friedkin.icims.com/jobs/6759/job?mobile=true&needsRedirect=false"
-  },
-  {
-    "id": "sj:e6b8584d-74df-48c0-a475-8fe11a90c9a9",
-    "company": "Lyft",
-    "title": "Data Science Intern - Algorithms",
-    "location": "SF (Other)",
-    "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002"
   }
 ]
