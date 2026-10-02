@@ -49,6 +49,13 @@
     "url": "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301932"
   },
   {
+    "id": "sj:0ea4c6d9-c64c-48a4-af5c-f9cb2fbb082e",
+    "company": "TikTok",
+    "title": "Product Marketing Management Intern - Systems Strategy & Operations",
+    "location": "NYC (New York)",
+    "url": "https://lifeattiktok.com/search/7683679497136179509"
+  },
+  {
     "id": "sj:10410298-5914-4739-a1e4-898dbd865b17",
     "company": "Hudson River Trading",
     "title": "Data Scientist Intern",
@@ -1351,6 +1358,13 @@
     "url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383231008"
   },
   {
+    "id": "sj:75c9bd55-d962-405d-8b35-8302935fa982",
+    "company": "Google",
+    "title": "Associate Product Manager Intern",
+    "location": "London, UK (London / Paris)",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/103464941339452102"
+  },
+  {
     "id": "sj:658fd45f-d93b-40ef-bfad-215f0b6f253d",
     "company": "Capital Group",
     "title": "Data & Technology Summer Associate - Capital Group Rotational Program",
@@ -1650,6 +1664,34 @@
     "title": "Software Engineer Intern",
     "location": "London, UK; Chicago, IL (London / Paris)",
     "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002"
+  },
+  {
+    "id": "sj:ed5bc2d4-26fb-44d6-82bd-7e1ff254739e",
+    "company": "Gas South",
+    "title": "Analyst Intern",
+    "location": "Atlanta, GA (Other)",
+    "url": "https://job-boards.greenhouse.io/gassouth/jobs/8247586"
+  },
+  {
+    "id": "sj:665e2669-0a2a-4e07-9859-73f9f3e9b83d",
+    "company": "Vanguard",
+    "title": "College to Corporate IT Intern - Application Development",
+    "location": "Malvern, PA (Other)",
+    "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship-Application-Development--PA-_182757"
+  },
+  {
+    "id": "sj:9bb48f7f-80ad-4eca-8055-cc250ab3295f",
+    "company": "Regeneron Pharmaceuticals",
+    "title": "Data Science & Digital Innovation Co-op - Preclinical Manufacturing & Research IT",
+    "location": "Tarrytown, NY (Other)",
+    "url": "https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/TARRYTOWN/XMLNAME-2027-Co-op-Data-Science---Digital-Innovation--Preclinical-Manufacturing---Research-IT-_R51031-1"
+  },
+  {
+    "id": "sj:bde46e9c-18de-4bfe-a880-12c5a4719dbb",
+    "company": "MFS",
+    "title": "Enterprise Data Management Intern",
+    "location": "Boston, MA (Other)",
+    "url": "https://mfs.wd1.myworkdayjobs.com/en-US/MFS-Careers/job/Boston/Summer-2027-Enterprise-Data-Management-Intern--June---August-_MFS-231987"
   },
   {
     "id": "sj:8d2d1d5d-4101-4154-8430-c9b1201db685",
@@ -3456,47 +3498,5 @@
     "title": "Data Science Intern - Algorithms",
     "location": "SF (Other)",
     "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002"
-  },
-  {
-    "id": "sj:d6f03a28-3a65-4557-acdc-30acdc9937bd",
-    "company": "Lyft",
-    "title": "Data Engineer Intern",
-    "location": "Toronto, ON, Canada (Other)",
-    "url": "https://app.careerpuck.com/job-board/lyft/job/8797376002?gh_jid=8797376002"
-  },
-  {
-    "id": "sj:c66b6cc2-a45f-46b5-b66a-8a96899a61ff",
-    "company": "Lyft",
-    "title": "Data Science Intern - Algorithms",
-    "location": "Toronto, ON, Canada (Other)",
-    "url": "https://app.careerpuck.com/job-board/lyft/job/8767697002?gh_jid=8767697002"
-  },
-  {
-    "id": "sj:dbf06c52-75d9-42ed-bf28-b7bd7ff6feeb",
-    "company": "Westinghouse Electric Company",
-    "title": "Finance Analyst Intern",
-    "location": "Madison, PA (Other)",
-    "url": "https://careers.westinghousenuclear.com/job/Madison-Summer-Intern-Finance-Analyst-PA-15663/1427820800/?ats=successfactors"
-  },
-  {
-    "id": "sj:e4891cf7-47bc-4b62-ac00-ef0759846dfa",
-    "company": "Citizens Financial Group",
-    "title": "Data Management Intern - Multiple Teams",
-    "location": "Boston, MA; Johnston, RI; Columbus, OH (Other)",
-    "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49277"
-  },
-  {
-    "id": "sj:f80eca44-d898-4e0d-8399-e64e67e9e67d",
-    "company": "Citizens Financial Group",
-    "title": "Data Science Intern - Multiple Teams",
-    "location": "Boston, MA; Johnston, RI; Columbus, OH (Other)",
-    "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49276"
-  },
-  {
-    "id": "sj:82039341-ea93-4f72-b913-0a78e53dd7d7",
-    "company": "Citizens Financial Group",
-    "title": "Data Management Intern - Enterprise Data and Analytics",
-    "location": "Boston, MA; Johnston, RI; Columbus, OH (Other)",
-    "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49281"
   }
 ]
