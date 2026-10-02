@@ -1,5 +1,12 @@
 [
   {
+    "id": "sj:5ee99f3c-d337-4cf1-87c9-d734f42a1f3f",
+    "company": "Citizens Financial Group",
+    "title": "Data Analyst Intern - Multiple Teams",
+    "location": "Boston, MA; Johnston, RI; Columbus, OH (Other)",
+    "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49282"
+  },
+  {
     "id": "sj:3238daa0-03ad-4e44-a14b-4d25ad9d4fa0",
     "company": "Citizens Financial Group",
     "title": "Data Engineer Intern - Enterprise Technology & Security",
@@ -6991,12 +6998,5 @@
     "title": "Full Stack Software Engineer Intern",
     "location": "SF; LA (Other)",
     "url": "https://jobs.ashbyhq.com/revel/29968ce1-8838-44e8-ac4e-6b1c87ce5314/application?embed=true"
-  },
-  {
-    "id": "sj:7b684d8f-d5d1-4f2a-ae66-c9f8f79aec21",
-    "company": "Revel",
-    "title": "Forward Deployed Engineer Intern - Software",
-    "location": "SF; LA (Other)",
-    "url": "https://jobs.ashbyhq.com/revel/34f97b81-c981-4c4b-9f4d-d471c33b46cc/application?embed=true"
   }
 ]
