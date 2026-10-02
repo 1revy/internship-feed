@@ -1,5 +1,12 @@
 [
   {
+    "id": "sj:123debac-6439-420e-b440-1aa1f1d9e451",
+    "company": "Citizens Financial Group",
+    "title": "Business Insights Intern - Multiple Teams",
+    "location": "Boston, MA; Johnston, RI; Columbus, OH (Other)",
+    "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49283"
+  },
+  {
     "id": "sj:5ee99f3c-d337-4cf1-87c9-d734f42a1f3f",
     "company": "Citizens Financial Group",
     "title": "Data Analyst Intern - Multiple Teams",
@@ -3773,6 +3780,27 @@
     "url": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/AMFAM---2027-Summer-GenAI-Intern_R39561"
   },
   {
+    "id": "sj:827ccc8c-5daf-4ca9-90a9-badca54261a8",
+    "company": "General Motors",
+    "title": "AI/ML Engineer Intern - Autonomous Vehicle: Simulation",
+    "location": "Sunnyvale, CA (Other)",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicle--Simulation_JR-202621508"
+  },
+  {
+    "id": "sj:7747e648-90c3-47bb-a0ae-b1c7f3ebb5e5",
+    "company": "General Motors",
+    "title": "AI/ML Engineer Intern - Autonomous Vehicles: Simulation",
+    "location": "Sunnyvale, CA (Other)",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicles--Simulation--PhD-_JR-202621511"
+  },
+  {
+    "id": "sj:5c721084-2430-498d-ae4c-d36aeaee8fac",
+    "company": "General Motors",
+    "title": "Simulation Intern - Software Engineer - Autonomous Vehicle: Simulation",
+    "location": "Sunnyvale, CA (Other)",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Software-Engineer--Autonomous-Vehicle--Simulation_JR-202621503"
+  },
+  {
     "id": "sj:3652392f-5646-4168-b539-ac3e5a186acd",
     "company": "Waymo",
     "title": "Software Engineering Intern - Labeling",
@@ -6970,33 +6998,5 @@
     "title": "Software Support Engineer Intern - Netsuite",
     "location": "Jacksonville, FL (Other)",
     "url": "https://job-boards.greenhouse.io/rfsmart/jobs/5409034008"
-  },
-  {
-    "id": "sj:2800fc16-c3a8-41ad-a36d-d60bc2c68380",
-    "company": "Semgrep",
-    "title": "Software Engineer Intern - Cloud Platform",
-    "location": "SF (Other)",
-    "url": "https://jobs.ashbyhq.com/semgrep/8e64dc7f-e925-4361-86d5-b01ee518c987/application?embed=true"
-  },
-  {
-    "id": "sj:c7559700-6781-4dfa-9c72-fba7cfd1ce27",
-    "company": "Allen Control Systems",
-    "title": "Computer Vision Intern - Machine Learning",
-    "location": "Austin, TX (Other)",
-    "url": "https://jobs.ashbyhq.com/allen-control-systems/a7831fef-7125-4c03-b828-5f0472989037/application?embed=true"
-  },
-  {
-    "id": "sj:57114f9d-d821-430f-ac60-02a5e53ef385",
-    "company": "ONE Finance",
-    "title": "Software Engineer Intern",
-    "location": "Remote in USA (Other)",
-    "url": "https://jobs.ashbyhq.com/oneapp/ba18d004-3212-44e4-8a0c-bd1215bae770/application?embed=true"
-  },
-  {
-    "id": "sj:b7c13988-0346-4ec4-a700-b203261be2f2",
-    "company": "Revel",
-    "title": "Full Stack Software Engineer Intern",
-    "location": "SF; LA (Other)",
-    "url": "https://jobs.ashbyhq.com/revel/29968ce1-8838-44e8-ac4e-6b1c87ce5314/application?embed=true"
   }
 ]
