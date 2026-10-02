@@ -1,5 +1,47 @@
 [
   {
+    "id": "sj:d6f03a28-3a65-4557-acdc-30acdc9937bd",
+    "company": "Lyft",
+    "title": "Data Engineer Intern",
+    "location": "Toronto, ON, Canada (Other)",
+    "url": "https://app.careerpuck.com/job-board/lyft/job/8797376002?gh_jid=8797376002"
+  },
+  {
+    "id": "sj:c66b6cc2-a45f-46b5-b66a-8a96899a61ff",
+    "company": "Lyft",
+    "title": "Data Science Intern - Algorithms",
+    "location": "Toronto, ON, Canada (Other)",
+    "url": "https://app.careerpuck.com/job-board/lyft/job/8767697002?gh_jid=8767697002"
+  },
+  {
+    "id": "sj:dbf06c52-75d9-42ed-bf28-b7bd7ff6feeb",
+    "company": "Westinghouse Electric Company",
+    "title": "Finance Analyst Intern",
+    "location": "Madison, PA (Other)",
+    "url": "https://careers.westinghousenuclear.com/job/Madison-Summer-Intern-Finance-Analyst-PA-15663/1427820800/?ats=successfactors"
+  },
+  {
+    "id": "sj:e4891cf7-47bc-4b62-ac00-ef0759846dfa",
+    "company": "Citizens Financial Group",
+    "title": "Data Management Intern - Multiple Teams",
+    "location": "Boston, MA; Johnston, RI; Columbus, OH (Other)",
+    "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49277"
+  },
+  {
+    "id": "sj:f80eca44-d898-4e0d-8399-e64e67e9e67d",
+    "company": "Citizens Financial Group",
+    "title": "Data Science Intern - Multiple Teams",
+    "location": "Boston, MA; Johnston, RI; Columbus, OH (Other)",
+    "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49276"
+  },
+  {
+    "id": "sj:82039341-ea93-4f72-b913-0a78e53dd7d7",
+    "company": "Citizens Financial Group",
+    "title": "Data Management Intern - Enterprise Data and Analytics",
+    "location": "Boston, MA; Johnston, RI; Columbus, OH (Other)",
+    "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49281"
+  },
+  {
     "id": "sj:123debac-6439-420e-b440-1aa1f1d9e451",
     "company": "Citizens Financial Group",
     "title": "Business Insights Intern - Multiple Teams",
@@ -3549,6 +3591,20 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Design-Intern--AI-Infrastructure---Summer-2027_JR2025784"
   },
   {
+    "id": "sj:96268a8b-5041-4571-913d-7a04ae9c4c50",
+    "company": "Mindex",
+    "title": "Software Engineer Co-op",
+    "location": "Rochester, NY (Other)",
+    "url": "https://apply.workable.com/mindex/j/84B10DB922/apply"
+  },
+  {
+    "id": "sj:319f5acd-d41e-4a2d-ba38-489c86ff3b27",
+    "company": "Great American Insurance Company",
+    "title": "Enterprise Analytics Intern",
+    "location": "Cincinnati, OH (Other)",
+    "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Enterprise-Analytics-Intern---Summer-2027_R9650"
+  },
+  {
     "id": "sj:d24f3415-d7f3-4935-8bed-730bae30d68d",
     "company": "Riot Games",
     "title": "Software Engineer Intern",
@@ -3624,6 +3680,13 @@
     "title": "Software Engineer Intern",
     "location": "Mountain View, CA (Other)",
     "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4595665005"
+  },
+  {
+    "id": "sj:8c0720bf-747e-4a04-b5c4-846531aa0186",
+    "company": "Helion Energy",
+    "title": "Computational Plasma Research Intern",
+    "location": "Everett, WA (Other)",
+    "url": "https://jobs.ashbyhq.com/helion/d2a1f8af-a310-44af-a5bc-c68816ebb7f6/application?embed=true"
   },
   {
     "id": "sj:f7ee265c-7829-48bb-acd5-5acedabc8878",
@@ -6935,68 +6998,5 @@
     "title": "Technology Developer Apprentice",
     "location": "Glasgow, UK (Other)",
     "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/XMLNAME-2027-Technology-Developer-Graduate-Apprenticeship-Programme-Glasgow_JR-0000129447"
-  },
-  {
-    "id": "sj:2892cb3f-9aea-4076-b536-63a821a5fecd",
-    "company": "Barclays",
-    "title": "Technology Developer Intern - Programme",
-    "location": "Northampton, UK (Other)",
-    "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Northampton-Barclays-Campus-Pavilion-Drive/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Northampton_JR-0000129379"
-  },
-  {
-    "id": "sj:1be31250-7c2e-4be6-8e3d-c3c5b791655a",
-    "company": "Barclays",
-    "title": "Technology Developer Apprentice",
-    "location": "Knutsford, UK (Other)",
-    "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/XMLNAME-2027-Technology-Developer-Degree-Apprenticeship-Programme-Knutsford_JR-0000129443"
-  },
-  {
-    "id": "sj:81a0e97d-9eea-4bd4-bbf6-b511c860fa9c",
-    "company": "Barclays",
-    "title": "Technology Developer Intern",
-    "location": "Glasgow, UK (Other)",
-    "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Glasgow_JR-0000129387"
-  },
-  {
-    "id": "sj:40461c7f-fc5e-4ce9-b353-ec4eb4746300",
-    "company": "HMH",
-    "title": "Software Engineer Intern",
-    "location": "Houston, TX (Other)",
-    "url": "https://hmhw.wd12.myworkdayjobs.com/hmh_careers/job/Houston-TX/Software-Engineering-Intern_JR102384"
-  },
-  {
-    "id": "sj:0da1449e-7007-4294-b336-740b56c5fbfc",
-    "company": "Barclays",
-    "title": "Technology Developer Intern",
-    "location": "Knutsford, UK (Other)",
-    "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Knutsford_JR-0000129381"
-  },
-  {
-    "id": "sj:59607dda-cef3-4eb4-8c26-edee74b6dd72",
-    "company": "USAA",
-    "title": "Technology Intern",
-    "location": "Plano, TX; San Antonio, TX; Phoenix, AZ (Other)",
-    "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Technology-Intern_R0120133"
-  },
-  {
-    "id": "sj:d4635072-e119-4baf-b36e-a727b1f20c52",
-    "company": "The Aerospace Corporation",
-    "title": "Machine Learning Engineering Intern",
-    "location": "Colorado Springs, CO; El Segundo, CA (Other)",
-    "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Machine-Learning-Engineering-Graduate-Intern_R016432"
-  },
-  {
-    "id": "sj:477443e5-44fe-40b9-a621-9daa78a67a6a",
-    "company": "RTX",
-    "title": "Software Engineer Intern",
-    "location": "Aurora, CO (Other)",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S77--16470-E-Hughes-Dr--BLDG-S77/Software-Engineering-Intern--Summer-2027---Open-_01873623"
-  },
-  {
-    "id": "sj:5c16ff34-e8ca-4a08-9d69-f9acac0df9a8",
-    "company": "RF-SMART",
-    "title": "Software Support Engineer Intern - Netsuite",
-    "location": "Jacksonville, FL (Other)",
-    "url": "https://job-boards.greenhouse.io/rfsmart/jobs/5409034008"
   }
 ]
