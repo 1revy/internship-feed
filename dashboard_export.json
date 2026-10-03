@@ -1687,6 +1687,20 @@
     "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002"
   },
   {
+    "id": "sj:fdc152bc-2ce6-48c0-86db-6a70bc5a49f3",
+    "company": "Koch Industries",
+    "title": "Product Management Intern",
+    "location": "Eden Prairie, MN; Lisle, IL (Other)",
+    "url": "https://koch.avature.net/en_US/careers/JobDetail/195099"
+  },
+  {
+    "id": "sj:29da992e-43fd-42b0-bd50-1548d9b595b3",
+    "company": "Electronic Arts",
+    "title": "Product Manager Intern",
+    "location": "LA (Other)",
+    "url": "https://jobs.ea.com/en_US/careers/JobDetail/Product-Manager-Intern-MBA-Level-Summer-2027-Apex-Legends/216272"
+  },
+  {
     "id": "sj:258b1734-67f6-4bc5-8017-6bd816a41b1e",
     "company": "Scout Clean Energy",
     "title": "Operations Engineering Intern",
@@ -1790,6 +1804,20 @@
     "title": "College to Corporate Investment Systems Intern",
     "location": "Malvern, PA (Other)",
     "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship-Investment-Systems--PA-_182782"
+  },
+  {
+    "id": "sj:92c455d6-d3f6-4d95-b523-eeca0104e5a8",
+    "company": "HNTB",
+    "title": "AI Business Process Developer Intern",
+    "location": "Austin, TX (Other)",
+    "url": "https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Austin-TX/Intern---AI-Business-Process-Developer--Summer-2027-_R-31865"
+  },
+  {
+    "id": "sj:7510db54-c95e-441b-b7e1-b239a1119742",
+    "company": "HNTB",
+    "title": "AI Business Process Developer Intern",
+    "location": "Austin, TX (Other)",
+    "url": "https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Austin-TX/Intern---AI-Business-Process-Developer--Summer-2027-_R-31865-1"
   },
   {
     "id": "sj:8d2d1d5d-4101-4154-8430-c9b1201db685",
@@ -3470,33 +3498,5 @@
     "title": "Data Scientist Intern - Summer 2027",
     "location": "Tempe, AZ (Other)",
     "url": "https://slihrms.wd3.myworkdayjobs.com/careers/job/USAZTempe/Data-Scientist-Intern---Summer-2027_R-161183-1"
-  },
-  {
-    "id": "sj:89e69230-379f-4aee-89b4-80a000e2d655",
-    "company": "Wex",
-    "title": "AI & Data Platform Engineering Intern - Undergraduate",
-    "location": "Remote in USA (Other)",
-    "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/AI---Data-Platform-Engineering-Intern--Undergraduate-_R23055"
-  },
-  {
-    "id": "sj:9f24eba1-f1d2-4c28-953b-412af51abd49",
-    "company": "3M",
-    "title": "Business Analyst Intern - Consumer Business Group",
-    "location": "Maplewood, MN (Other)",
-    "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-Business-Analytics-Intern---Consumer-Business-Group--CBG-_R01171049"
-  },
-  {
-    "id": "sj:b2720777-ec3e-4cab-a61d-8437236e8363",
-    "company": "LabCorp",
-    "title": "IT Product Manager Intern - Payer Team",
-    "location": "Durham, NC (Other)",
-    "url": "https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Intern---IT-Product-Manager_2632185"
-  },
-  {
-    "id": "sj:580171f7-4613-4a78-b99a-3b85b469f5d0",
-    "company": "TD Bank",
-    "title": "Software Engineer Intern - Global Technology & Solutions",
-    "location": "Mt Laurel Township, NJ (Other)",
-    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Software-Engineer--SWE-_R_1510796-1"
   }
 ]
