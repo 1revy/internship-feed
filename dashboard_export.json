@@ -1,5 +1,12 @@
 [
   {
+    "id": "sj:6be1a997-592a-4fed-98f8-f00887837e03",
+    "company": "New York Mets",
+    "title": "Data Science Intern",
+    "location": "Queens, NY (New York)",
+    "url": "https://sterlingmets.wd5.myworkdayjobs.com/Mets/job/Citi-Field--Queens-New-York/Intern--Data-Science_R1508"
+  },
+  {
     "id": "sj:f42402c6-a3a3-4d0e-bebd-ba0e257a821c",
     "company": "SeatGeek",
     "title": "Data Analyst Intern",
@@ -502,6 +509,13 @@
     "title": "Data Scientist Intern",
     "location": "NYC (New York)",
     "url": "https://www.alixpartners.com/careers/7725335003?gh_jid=7725335003"
+  },
+  {
+    "id": "sj:b884d6ac-a1a0-4677-80ed-ce53c57be6e9",
+    "company": "Harvey",
+    "title": "Software Engineer Intern",
+    "location": "NYC (New York)",
+    "url": "https://jobs.ashbyhq.com/harvey/06d64648-b84b-48ae-94a2-d9c06dfdcb5d/application?embed=true"
   },
   {
     "id": "sj:7e635a7d-4a28-41ba-a06c-d0b08875dfae",
@@ -1484,6 +1498,13 @@
     "url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/London-UK/Data-Science-Machine-Learning-Internship--Summer-2027-_R1345"
   },
   {
+    "id": "sj:956eedbe-799d-459b-8556-9184a7f7f706",
+    "company": "Databricks",
+    "title": "Software Engineer Intern",
+    "location": "London, UK (London / Paris)",
+    "url": "https://boards.greenhouse.io/embed/job_app?token=8847738002"
+  },
+  {
     "id": "sj:49dad85f-a6af-4fb4-b6e9-20402bab7e9d",
     "company": "Google",
     "title": "Forward Deployed Engineer Intern",
@@ -1666,6 +1687,27 @@
     "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002"
   },
   {
+    "id": "sj:258b1734-67f6-4bc5-8017-6bd816a41b1e",
+    "company": "Scout Clean Energy",
+    "title": "Operations Engineering Intern",
+    "location": "Boulder, CO (Other)",
+    "url": "https://apply.workable.com/scout-clean-energy/j/7BF0CEDF9F/apply"
+  },
+  {
+    "id": "sj:af2c6dba-8d51-48ed-84a8-04702a77d384",
+    "company": "Intuit",
+    "title": "Marketing Intern - AI Tooling for Marketing Efficiency",
+    "location": "SF; Mountain View, CA (Other)",
+    "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-marketing-intern-ai-tooling-for-marketing-efficiency/27595/101444103552"
+  },
+  {
+    "id": "sj:5446e738-df78-4160-98ab-eb05d3f23d8f",
+    "company": "C3.ai",
+    "title": "AI Product Manager Intern - Summer 2027",
+    "location": "Redwood City, CA (Other)",
+    "url": "https://c3.ai/job-description/8860563002?gh_jid=8860563002"
+  },
+  {
     "id": "sj:ed5bc2d4-26fb-44d6-82bd-7e1ff254739e",
     "company": "Gas South",
     "title": "Analyst Intern",
@@ -1699,6 +1741,55 @@
     "title": "Precision Medicine Operations Co-op",
     "location": "Armonk, NY (Other)",
     "url": "https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/Armonk/XMLNAME-2027-Co-op-Precision-Medicine-Operations_R51082-1"
+  },
+  {
+    "id": "sj:aa464423-74c1-4bd6-b3e6-11da3d3102de",
+    "company": "Centene",
+    "title": "Medical Economics Analyst Intern",
+    "location": "Florida (Other)",
+    "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-FL/Medical-Economics-Analyst-Intern--Undergraduate---Summer-2027-_1662248-1"
+  },
+  {
+    "id": "sj:bee2e809-5a33-41d9-8c9b-0dc0c44f7100",
+    "company": "Trimble",
+    "title": "Product Management Intern",
+    "location": "Westminster, CO (Other)",
+    "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Product-Management-Intern_R57893"
+  },
+  {
+    "id": "sj:1379e1b7-e282-4180-bee2-043f56139dd9",
+    "company": "Elevance Health",
+    "title": "Data Analyst Graduate Intern",
+    "location": "Indianapolis, IN; Richmond, VA; Chicago, IL; Atlanta, GA (Other)",
+    "url": "https://elevancehealth.wd1.myworkdayjobs.com/ELV-ET/job/GA-ATLANTA-740-W-PEACHTREE-ST-NW/Data-Analyst-Graduate-Intern---Summer-2027_JR209074-1"
+  },
+  {
+    "id": "sj:70f39f27-a2cd-424b-876f-4837ee7061e4",
+    "company": "Elevance Health",
+    "title": "Data Analytics Intern",
+    "location": "Indianapolis, IN; Richmond, VA; Chicago, IL; Atlanta, GA (Other)",
+    "url": "https://elevancehealth.wd1.myworkdayjobs.com/ELV-ET/job/GA-ATLANTA-740-W-PEACHTREE-ST-NW/Data-Analytics-Undergraduate-Intern---Summer-2027_JR209076"
+  },
+  {
+    "id": "sj:fb114fa5-9998-4bf6-a24b-a36888f142a8",
+    "company": "Vanguard",
+    "title": "IT Intern Application Development",
+    "location": "Charlotte, NC (Other)",
+    "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship-Application-Development--NC-_182781"
+  },
+  {
+    "id": "sj:b761fed7-c990-47a1-884c-8d67dabdcc04",
+    "company": "Nelnet",
+    "title": "IT Software Engineer Intern",
+    "location": "Lincoln, NE (Other)",
+    "url": "https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern---IT-Software-Engineer-NET--Summer-2027-_R23198"
+  },
+  {
+    "id": "sj:7221b5ee-e8cc-4524-8eaa-271123e68f19",
+    "company": "Vanguard",
+    "title": "College to Corporate Investment Systems Intern",
+    "location": "Malvern, PA (Other)",
+    "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship-Investment-Systems--PA-_182782"
   },
   {
     "id": "sj:8d2d1d5d-4101-4154-8430-c9b1201db685",
@@ -3407,96 +3498,5 @@
     "title": "Software Engineer Intern - Global Technology & Solutions",
     "location": "Mt Laurel Township, NJ (Other)",
     "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Software-Engineer--SWE-_R_1510796-1"
-  },
-  {
-    "id": "sj:a78f5a0d-953f-4465-8622-6c6b2ad17d27",
-    "company": "TD Bank",
-    "title": "Data Engineer Intern - Global Technology & Solutions",
-    "location": "Mt Laurel Township, NJ (Other)",
-    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Data-Engineer_R_1510797"
-  },
-  {
-    "id": "sj:00b431d7-b27a-42f0-9b16-db2bb8402cf7",
-    "company": "TD Bank",
-    "title": "Data Analyst Intern - Global Technology & Solutions",
-    "location": "Mt Laurel Township, NJ (Other)",
-    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Data-Analyst_R_1510800"
-  },
-  {
-    "id": "sj:716fd175-ba44-46d7-a0b6-0d77bf93b7c4",
-    "company": "Constellation Energy",
-    "title": "IT Data Engineering Intern",
-    "location": "Baltimore, MD (Other)",
-    "url": "https://jobs.constellationenergy.com/jobs/138716?icims=1"
-  },
-  {
-    "id": "sj:727b49d9-2d25-41d6-b26c-9c75719a8ac8",
-    "company": "Energy Transfer Partners",
-    "title": "Business Transformation and Integration Intern",
-    "location": "Dallas, TX (Other)",
-    "url": "https://energytransfer.taleo.net/careersection/etp_ext/jobdetail.ftl?job=2610003511"
-  },
-  {
-    "id": "sj:4f3b12a6-0ecd-425c-8959-5b8f1ce9d772",
-    "company": "Qualcomm",
-    "title": "Machine Learning Compiler & Performance Engineering Intern - Systems",
-    "location": "Markham, ON, Canada (Other)",
-    "url": "https://qualcomm.eightfold.ai/careers/job/446721064018"
-  },
-  {
-    "id": "sj:2eee6626-9257-4fab-b76a-0a8674d9aa8a",
-    "company": "Perpay",
-    "title": "Data Science Intern",
-    "location": "Philadelphia, PA (Other)",
-    "url": "https://job-boards.greenhouse.io/perpay/jobs/4076978007"
-  },
-  {
-    "id": "sj:2649b240-bda5-4d10-bbcc-5ddb74bb2202",
-    "company": "Perpay",
-    "title": "Data Engineering Intern",
-    "location": "Philadelphia, PA (Other)",
-    "url": "https://job-boards.greenhouse.io/perpay/jobs/4076965007"
-  },
-  {
-    "id": "sj:8b79a805-42b6-4285-b58c-d06a34e663df",
-    "company": "Veeam Software",
-    "title": "Data Analytics & Programs Intern",
-    "location": "Georgia (Other)",
-    "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955300101"
-  },
-  {
-    "id": "sj:14536234-60d9-4e3f-a4e0-395db39bd0ea",
-    "company": "Veeam Software",
-    "title": "Customer Care AI Analyst Intern - Summer 2027",
-    "location": "Columbus, OH (Other)",
-    "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4972324101"
-  },
-  {
-    "id": "sj:c3a3cae1-f9a1-4c9b-bc38-1b3859ce6744",
-    "company": "Amazon",
-    "title": "Machine Learning Systems Software Development Engineer Intern - Annapurna Labs",
-    "location": "Toronto, ON, Canada (Other)",
-    "url": "https://amazon.jobs/en/jobs/10538066/ml-systems-software-development-engineer-intern-annapurna-labs-2027"
-  },
-  {
-    "id": "sj:fd459609-149f-4f12-8894-a6124c4b7163",
-    "company": "AMD",
-    "title": "AI Systems & GPU Performance Engineer Intern",
-    "location": "San Jose, CA; Santa Clara, CA (Other)",
-    "url": "https://careers.amd.com/jobs/92354?icims=1"
-  },
-  {
-    "id": "sj:daf764cc-9f18-4c08-8bf4-fd6a95cb1638",
-    "company": "AMD",
-    "title": "Machine Learning System Engineering Intern/Co-op",
-    "location": "San Jose, CA; Santa Clara, CA (Other)",
-    "url": "https://careers.amd.com/jobs/92342?icims=1"
-  },
-  {
-    "id": "sj:1de3a007-a2fa-4dda-9ba0-055c6f70c3d4",
-    "company": "The Friedkin Group",
-    "title": "IT Data Analytics Intern - Business Systems & AI",
-    "location": "Houston, TX (Other)",
-    "url": "https://external-careers-friedkin.icims.com/jobs/6759/job?mobile=true&needsRedirect=false"
   }
 ]
