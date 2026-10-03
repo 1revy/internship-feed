@@ -1,5 +1,33 @@
 [
   {
+    "id": "sj:89e69230-379f-4aee-89b4-80a000e2d655",
+    "company": "Wex",
+    "title": "AI & Data Platform Engineering Intern - Undergraduate",
+    "location": "Remote in USA (Other)",
+    "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/AI---Data-Platform-Engineering-Intern--Undergraduate-_R23055"
+  },
+  {
+    "id": "sj:9f24eba1-f1d2-4c28-953b-412af51abd49",
+    "company": "3M",
+    "title": "Business Analyst Intern - Consumer Business Group",
+    "location": "Maplewood, MN (Other)",
+    "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-Business-Analytics-Intern---Consumer-Business-Group--CBG-_R01171049"
+  },
+  {
+    "id": "sj:b2720777-ec3e-4cab-a61d-8437236e8363",
+    "company": "LabCorp",
+    "title": "IT Product Manager Intern - Payer Team",
+    "location": "Durham, NC (Other)",
+    "url": "https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Intern---IT-Product-Manager_2632185"
+  },
+  {
+    "id": "sj:580171f7-4613-4a78-b99a-3b85b469f5d0",
+    "company": "TD Bank",
+    "title": "Software Engineer Intern - Global Technology & Solutions",
+    "location": "Mt Laurel Township, NJ (Other)",
+    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Software-Engineer--SWE-_R_1510796-1"
+  },
+  {
     "id": "sj:a78f5a0d-953f-4465-8622-6c6b2ad17d27",
     "company": "TD Bank",
     "title": "Data Engineer Intern - Global Technology & Solutions",
@@ -3689,6 +3717,13 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Design-Intern--AI-Infrastructure---Summer-2027_JR2025784"
   },
   {
+    "id": "sj:b45557a0-8993-4135-8a47-273587c395f5",
+    "company": "Electronic Arts",
+    "title": "Software Engineer Intern",
+    "location": "Austin, TX (Other)",
+    "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern-Summer-2027/216239"
+  },
+  {
     "id": "sj:6e2de8e6-b0dd-45d3-915d-9fc952cc4a7f",
     "company": "Arc",
     "title": "Software Engineer Intern",
@@ -6963,40 +6998,5 @@
     "title": "Risk Intelligence Intern - Asset Protection",
     "location": "Grand Rapids, MI (Other)",
     "url": "https://meijer.wd5.myworkdayjobs.com/en-US/Meijer/job/Grand-Rapids-MI/Risk-Intelligence-Intern--Summer-2027_R000700477"
-  },
-  {
-    "id": "sj:baa23a3b-d414-4373-9c07-e1c15ba9f262",
-    "company": "Wellington Management",
-    "title": "Technology Undergraduate Intern",
-    "location": "Boston, MA (Other)",
-    "url": "https://wellington.wd5.myworkdayjobs.com/Campus/job/Boston-MA-United-States/Technology-Undergraduate-Summer-Internship_R94778"
-  },
-  {
-    "id": "sj:8ee871d8-4385-49e0-9f0d-1f89f3ed0863",
-    "company": "Target",
-    "title": "Software Engineer Intern",
-    "location": "Brooklyn Park, MN (Other)",
-    "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Software-Engineering-Summer-Internship-Minneapolis--MN--Starting-June-2027-_R0000451082"
-  },
-  {
-    "id": "sj:bc964aa6-3faf-4081-85c0-6e13f1d14e51",
-    "company": "RTX",
-    "title": "Software Engineering Co-op",
-    "location": "Cedar Rapids, IA (Other)",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineering-Co-op--Spring-Summer-2027-_01871551"
-  },
-  {
-    "id": "sj:e556f0eb-1ee9-4cd0-b6f2-502f5ba3d435",
-    "company": "Procter & Gamble",
-    "title": "Intern",
-    "location": "Ohio (Other)",
-    "url": "https://pg.wd5.myworkdayjobs.com/1000/job/WHBC---WINTON-HILL-BUS-CENTER/PhD-Intern---Data-Scientist---Generative-AI-in-Femcare_R000158406"
-  },
-  {
-    "id": "sj:f00e8399-0777-4e56-b2cb-0fd0631a0655",
-    "company": "Walmart",
-    "title": "Software Engineer 2 Intern",
-    "location": "Bentonville, AR; Bellevue, WA; Sunnyvale, CA (Other)",
-    "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern---Software-Engineer-II_R-2630029-1"
   }
 ]
