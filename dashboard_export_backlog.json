@@ -1,5 +1,12 @@
 [
   {
+    "id": "sj:43942487-1905-4f16-b4f3-82eafb81e332",
+    "company": "CIBC",
+    "title": "Global Markets Analyst - Electronic Trading",
+    "location": "Toronto, ON, Canada (Other)",
+    "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Global-Markets--Electronic-Trading---Summer-2027-Analyst--4-months-_2618801"
+  },
+  {
     "id": "sj:f58db82d-9113-411b-97bb-b0f24752115a",
     "company": "AtkinsR\u00e9alis",
     "title": "Data Scientist Intern - Summer 2027",
@@ -3043,6 +3050,13 @@
     "title": "Client Solutions & Analytics Analyst Intern",
     "location": "Newport Beach, CA (Other)",
     "url": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Client-Solutions---Analytics-Analyst--US_R106605"
+  },
+  {
+    "id": "sj:27b40008-f015-43f7-b561-8134fe22e524",
+    "company": "Gartner",
+    "title": "IT Intern",
+    "location": "Stamford, CT (Other)",
+    "url": "https://gartner.wd5.myworkdayjobs.com/EXT/job/Stamford-CT/Summer-2027-IT-Intern--May-2028-Graduates-_113095"
   },
   {
     "id": "sj:e83f1c57-b726-4596-b500-63c205af6aa1",
@@ -6984,19 +6998,5 @@
     "title": "Database Conversion Programming Intern",
     "location": "Lake St Louis, MO (Other)",
     "url": "https://job-boards.greenhouse.io/testnisc/jobs/8191885"
-  },
-  {
-    "id": "sj:3e0882ef-3682-46f4-b5a5-bf8dadcf4a08",
-    "company": "Planview",
-    "title": "Software Engineer Intern",
-    "location": "Austin, TX (Other)",
-    "url": "https://careers.planview.com/jobs/5128?icims=1"
-  },
-  {
-    "id": "sj:26b76573-439e-42cf-b4a5-f38f8408610c",
-    "company": "Epic Games",
-    "title": "Backend Services Programmer Intern - Epic Games Services",
-    "location": "Cary, NC (Other)",
-    "url": "https://epicgames.com/careers/jobs/6183293004?gh_jid=6183293004"
   }
 ]
