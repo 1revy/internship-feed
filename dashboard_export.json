@@ -525,6 +525,13 @@
     "url": "https://www.alixpartners.com/careers/7725335003?gh_jid=7725335003"
   },
   {
+    "id": "sj:39440a28-111a-4535-887b-1a683c23ef54",
+    "company": "Pangram Labs",
+    "title": "AI Research Intern",
+    "location": "NYC; Brooklyn, NY (New York)",
+    "url": "https://jobs.ashbyhq.com/pangramlabs/2d00752c-b3f2-40e1-9c50-60147c858d0b/application?embed=true"
+  },
+  {
     "id": "sj:b884d6ac-a1a0-4677-80ed-ce53c57be6e9",
     "company": "Harvey",
     "title": "Software Engineer Intern",
@@ -1734,6 +1741,13 @@
     "title": "Software Engineer Intern",
     "location": "London, UK; Chicago, IL (London / Paris)",
     "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002"
+  },
+  {
+    "id": "sj:16856e96-3bd9-4fee-85e4-ed92164905ae",
+    "company": "Primient",
+    "title": "AI Analyst Intern",
+    "location": "Schaumburg, IL (Other)",
+    "url": "https://primient.wd1.myworkdayjobs.com/External_Careers/job/Schaumburg-IL/AI-Analyst-Intern---Summer-2027_JREQ7056"
   },
   {
     "id": "sj:820b14cc-f1d1-4c26-9a48-d04cc309866f",
@@ -3484,19 +3498,5 @@
     "title": "Private Client Banking Strategy, Analytics & Sales Intern",
     "location": "St. Petersburg, FL (Other)",
     "url": "https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesEarlyCareers/job/Saint-Petersburg-Florida---United-States/XMLNAME-2027-Summer-Internship-Program---Private-Client-Banking-Strategy--Analytics----Sales-Intern--St-Petersburg--FL-_R-0013001"
-  },
-  {
-    "id": "sj:c35fa7e0-84f9-47b5-b3b2-bcf8c4b35214",
-    "company": "Enact Mortgage Insurance",
-    "title": "Process Improvement Analyst Intern",
-    "location": "Raleigh, NC (Other)",
-    "url": "https://gnw.wd1.myworkdayjobs.com/enact_mi/job/Raleigh-North-Carolina/Process-Improvement-Analyst-Intern_REQ-260360"
-  },
-  {
-    "id": "sj:a6d458af-c99e-4109-a0f2-8231e3b60c9d",
-    "company": "Genworth Financial",
-    "title": "Process Improvement Analyst Intern",
-    "location": "Raleigh, NC (Other)",
-    "url": "https://gnw.wd1.myworkdayjobs.com/GNW/job/Raleigh-North-Carolina/Process-Improvement-Analyst-Intern_REQ-260360-1"
   }
 ]
