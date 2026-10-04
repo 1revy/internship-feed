@@ -1,5 +1,19 @@
 [
   {
+    "id": "sj:c35fa7e0-84f9-47b5-b3b2-bcf8c4b35214",
+    "company": "Enact Mortgage Insurance",
+    "title": "Process Improvement Analyst Intern",
+    "location": "Raleigh, NC (Other)",
+    "url": "https://gnw.wd1.myworkdayjobs.com/enact_mi/job/Raleigh-North-Carolina/Process-Improvement-Analyst-Intern_REQ-260360"
+  },
+  {
+    "id": "sj:a6d458af-c99e-4109-a0f2-8231e3b60c9d",
+    "company": "Genworth Financial",
+    "title": "Process Improvement Analyst Intern",
+    "location": "Raleigh, NC (Other)",
+    "url": "https://gnw.wd1.myworkdayjobs.com/GNW/job/Raleigh-North-Carolina/Process-Improvement-Analyst-Intern_REQ-260360-1"
+  },
+  {
     "id": "sj:8f7fcdad-e342-4a99-91d5-65496fcb049a",
     "company": "Johnson & Johnson",
     "title": "Business Intelligence Co-op",
@@ -3850,6 +3864,13 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Design-Intern--AI-Infrastructure---Summer-2027_JR2025784"
   },
   {
+    "id": "wd:nvidia:/job/Germany-Munich/Data-Processing-Developer-Technology-Intern---2027_JR2024708",
+    "company": "nvidia",
+    "title": "Data Processing Developer Technology Intern - 2027",
+    "location": "6 Locations (Other)",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Data-Processing-Developer-Technology-Intern---2027_JR2024708"
+  },
+  {
     "id": "sj:57409b22-372d-4871-b5ff-c7bfa79beb07",
     "company": "Diversified Energy",
     "title": "Information Technology Intern",
@@ -6977,26 +6998,5 @@
     "title": "Software Engineer Co-op - Spring/Summer 2027",
     "location": "Cedar Rapids, IA (Other)",
     "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineering-Co-op--Spring-Summer-2027-_01873682"
-  },
-  {
-    "id": "sj:77dcf2a7-167d-441e-87cb-ad11e7f55bba",
-    "company": "AES",
-    "title": "Performance and Reliability Engineering Intern - Summer 2027",
-    "location": "Dayton, OH; Indianapolis, IN (Other)",
-    "url": "https://aes.wd1.myworkdayjobs.com/AES_US/job/US-Dayton-OH/T-D-Performance-and-Reliability-Engineering-Intern--Summer-2027-_R1064841"
-  },
-  {
-    "id": "sj:93d5d930-8ab2-4a53-aa31-d238b45b41d5",
-    "company": "Corteva",
-    "title": "AI Engineer Intern",
-    "location": "Indianapolis, IN (Other)",
-    "url": "https://corteva.wd5.myworkdayjobs.com/corteva/job/Indianapolis-Indiana-United-States/Agentic-AI-Engineer-Intern_248210W"
-  },
-  {
-    "id": "sj:ce6e7eab-28ed-4bf3-832d-a386a859b37a",
-    "company": "HNTB",
-    "title": "GIS Intern",
-    "location": "Nashville, TN (Other)",
-    "url": "https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Nashville-TN-City-Center/GIS-Intern---Summer-2027_R-31562"
   }
 ]
