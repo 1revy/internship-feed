@@ -6223,6 +6223,13 @@
     "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-cybersecurity/27595/100620927616"
   },
   {
+    "id": "sj:c2a0262e-8fac-4306-9c0f-0ef0424bb16a",
+    "company": "National Life",
+    "title": "Market Research Intern",
+    "location": "Montpelier, VT; Addison, TX (Other)",
+    "url": "https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4403863009"
+  },
+  {
     "id": "sj:efa4bb78-1704-403b-903f-cc0df69e06a1",
     "company": "EquipmentShare",
     "title": "Software Engineer Intern",
@@ -6991,12 +6998,5 @@
     "title": "Backend Services Programmer Intern - Epic Games Services",
     "location": "Cary, NC (Other)",
     "url": "https://epicgames.com/careers/jobs/6183293004?gh_jid=6183293004"
-  },
-  {
-    "id": "sj:b7311fa1-4180-4d5a-8ce3-29a7c2703ea1",
-    "company": "Shield AI",
-    "title": "Software Engineer Intern",
-    "location": "San Diego, CA (Other)",
-    "url": "https://jobs.lever.co/shieldai/8c850c75-081d-4d09-bebf-096379a93010/apply"
   }
 ]
