@@ -1750,6 +1750,13 @@
     "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002"
   },
   {
+    "id": "sj:95c1d1a0-3fe5-4666-a8b9-fd45c3237c63",
+    "company": "Mohawk",
+    "title": "Product Management Intern",
+    "location": "Calhoun, GA (Other)",
+    "url": "https://careers.mohawkind.com/mohawk/job/Calhoun-Product-Management-Intern-Summer-2027-Geor-30701/1436568500/?ats=successfactors"
+  },
+  {
     "id": "sj:16856e96-3bd9-4fee-85e4-ed92164905ae",
     "company": "Primient",
     "title": "AI Analyst Intern",
@@ -3491,12 +3498,5 @@
     "title": "Product Manager Intern - Undergraduate",
     "location": "Burgess Hill, UK (Other)",
     "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013764"
-  },
-  {
-    "id": "sj:7dbdfa67-8f43-4b8f-87fe-13bebb086ad0",
-    "company": "Oshkosh",
-    "title": "Product Intern",
-    "location": "New Hudson, MI (Other)",
-    "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/New-Hudson-Michigan-United-States/Product-Intern---Summer-2027_R50276"
   }
 ]
