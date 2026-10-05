@@ -1,5 +1,19 @@
 [
   {
+    "id": "sj:91922350-2fdd-47f4-adfc-5693fb1ea5d5",
+    "company": "URBN",
+    "title": "Data Science Intern",
+    "location": "Philadelphia, PA (Other)",
+    "url": "https://homeoffice-na-urbn.icims.com/jobs/30444/job?mobile=true&needsRedirect=false"
+  },
+  {
+    "id": "sj:c0e6ac9c-3a51-4bb6-99c2-9d3ed632d897",
+    "company": "American Express",
+    "title": "Product Manager Intern - Undergraduate",
+    "location": "Burgess Hill, UK (Other)",
+    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013764"
+  },
+  {
     "id": "sj:7dbdfa67-8f43-4b8f-87fe-13bebb086ad0",
     "company": "Oshkosh",
     "title": "Product Intern",
@@ -3885,11 +3899,46 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Data-Processing-Developer-Technology-Intern---2027_JR2024708"
   },
   {
+    "id": "sj:726360c4-caf8-48cc-bc62-9dc9ba9eaca4",
+    "company": "Quantum Signal AI",
+    "title": "Software Engineer Intern - Tools and Prototypes",
+    "location": "Saline, MI (Other)",
+    "url": "https://quantumsignalai.applytojob.com/apply/MWrhQD8Hn9/Software-Engineering-Intern-Tools-And-Prototypes"
+  },
+  {
+    "id": "sj:5225e58c-5696-4982-94a4-d20dfef3c850",
+    "company": "Ernst & Young",
+    "title": "Tax Intern - Other Tax - Americas Tax Technology Group",
+    "location": "Nashville, TN; Dallas, TX; Chicago, IL; Atlanta, GA (Other)",
+    "url": "https://eyglobal.yello.co/jobs/yUI0hOKgEZ86mkIsV-EUdw?job_board_id=c1riT--B2O-KySgYWsZO1Q"
+  },
+  {
     "id": "sj:29a143c0-c9f0-47c9-a9d7-fbce82ca89c9",
     "company": "Thales",
     "title": "Software Engineering Apprentice",
     "location": "Cheadle, UK (Other)",
     "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Cheadle/XMLNAME-2027-Software-Engineering-Apprentice_R0337863"
+  },
+  {
+    "id": "sj:4cf30745-6f3b-4afc-b4a7-8c156b74804c",
+    "company": "NVIDIA",
+    "title": "Software Engineer Intern",
+    "location": "Santa Clara, CA (Other)",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Software-Engineering_JR2026958"
+  },
+  {
+    "id": "sj:8c3ef60f-82b8-40a0-a8af-f49d57750b6c",
+    "company": "CACI",
+    "title": "Software Development Intern",
+    "location": "Oklahoma City, OK (Other)",
+    "url": "https://caci.wd1.myworkdayjobs.com/external/job/Oklahoma-City-OK-US/Software-Development-Intern---Summer-2027_333085"
+  },
+  {
+    "id": "sj:670d8a8b-1082-42e8-9009-e35612ea924a",
+    "company": "Motorola",
+    "title": "Android Applications Developer Intern",
+    "location": "Chicago, IL (Other)",
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Android-Applications-Developer-Intern---Summer-2027_R69313"
   },
   {
     "id": "sj:57409b22-372d-4871-b5ff-c7bfa79beb07",
@@ -6949,54 +6998,5 @@
     "title": "Software Engineer Intern",
     "location": "Des Moines, IA (Other)",
     "url": "https://jobs.smartrecruiters.com/WellmarkInc/744000148915793"
-  },
-  {
-    "id": "sj:9cd21651-921e-42a7-a95f-01b1f4bea964",
-    "company": "Tanium",
-    "title": "Software Engineer Intern - Summer 2027",
-    "location": "Emeryville, CA; Durham, NC (Other)",
-    "url": "https://job-boards.greenhouse.io/tanium/jobs/8181017"
-  },
-  {
-    "id": "sj:2dd387a0-88c3-4ee1-b40f-4821aa4a3e31",
-    "company": "Waymo",
-    "title": "Summer Intern - Multiple Teams",
-    "location": "Mountain View, CA (Other)",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=8193295"
-  },
-  {
-    "id": "sj:48fe73cf-84c7-4a22-bfd9-952a666e8607",
-    "company": "Vertiv",
-    "title": "Innovation Lab Engineering Intern 2",
-    "location": "Delaware, OH (Other)",
-    "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20280129"
-  },
-  {
-    "id": "sj:571e7550-1637-482e-9a38-7d49957afb03",
-    "company": "Vertiv",
-    "title": "Innovation Lab Intern",
-    "location": "Delaware, OH (Other)",
-    "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20280126"
-  },
-  {
-    "id": "sj:22d56fc9-ccc4-4ffa-a3da-8e67f2c0df38",
-    "company": "Visier Solutions",
-    "title": "Test Developer Co-op",
-    "location": "Vancouver, BC, Canada (Other)",
-    "url": "https://job-boards.greenhouse.io/visiersolutionsinc/jobs/4711073006"
-  },
-  {
-    "id": "sj:abca08df-81cc-4033-8740-151c214e5686",
-    "company": "Visier Solutions",
-    "title": "Software Developer Co-op",
-    "location": "Vancouver, BC, Canada (Other)",
-    "url": "https://job-boards.greenhouse.io/visiersolutionsinc/jobs/4711071006"
-  },
-  {
-    "id": "sj:fce07d58-8d51-46a0-9ac2-6f8f9be4da7f",
-    "company": "Emerson Electric",
-    "title": "Software Engineer Co-op",
-    "location": "Eden Prairie, MN (Other)",
-    "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010738"
   }
 ]
