@@ -1,5 +1,12 @@
 [
   {
+    "id": "sj:cdb5a574-e710-4dee-8108-35936fc5c297",
+    "company": "Raymond James Financial",
+    "title": "Private Client Banking Strategy, Analytics & Sales Intern",
+    "location": "St. Petersburg, FL (Other)",
+    "url": "https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesEarlyCareers/job/Saint-Petersburg-Florida---United-States/XMLNAME-2027-Summer-Internship-Program---Private-Client-Banking-Strategy--Analytics----Sales-Intern--St-Petersburg--FL-_R-0013001"
+  },
+  {
     "id": "sj:c35fa7e0-84f9-47b5-b3b2-bcf8c4b35214",
     "company": "Enact Mortgage Insurance",
     "title": "Process Improvement Analyst Intern",
@@ -3871,6 +3878,13 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Data-Processing-Developer-Technology-Intern---2027_JR2024708"
   },
   {
+    "id": "sj:29a143c0-c9f0-47c9-a9d7-fbce82ca89c9",
+    "company": "Thales",
+    "title": "Software Engineering Apprentice",
+    "location": "Cheadle, UK (Other)",
+    "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Cheadle/XMLNAME-2027-Software-Engineering-Apprentice_R0337863"
+  },
+  {
     "id": "sj:57409b22-372d-4871-b5ff-c7bfa79beb07",
     "company": "Diversified Energy",
     "title": "Information Technology Intern",
@@ -6984,19 +6998,5 @@
     "title": "Robotics Engineer Intern",
     "location": "Bloomington, MN (Other)",
     "url": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Robotics-Engineering-Intern---The-Toro-Company_JR17194"
-  },
-  {
-    "id": "sj:214f535e-90ec-4cb3-900e-571f33da6d08",
-    "company": "The Toro Company",
-    "title": "Enterprise Analytics Intern",
-    "location": "Bloomington, MN (Other)",
-    "url": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Enterprise-Analytics-Intern---The-Toro-Company_JR17104"
-  },
-  {
-    "id": "sj:8dff8685-3a17-4f9c-b1d4-6d01c0258242",
-    "company": "RTX",
-    "title": "Software Engineer Co-op - Spring/Summer 2027",
-    "location": "Cedar Rapids, IA (Other)",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineering-Co-op--Spring-Summer-2027-_01873682"
   }
 ]
