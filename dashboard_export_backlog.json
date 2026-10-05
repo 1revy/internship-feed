@@ -1,5 +1,12 @@
 [
   {
+    "id": "sj:7dbdfa67-8f43-4b8f-87fe-13bebb086ad0",
+    "company": "Oshkosh",
+    "title": "Product Intern",
+    "location": "New Hudson, MI (Other)",
+    "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/New-Hudson-Michigan-United-States/Product-Intern---Summer-2027_R50276"
+  },
+  {
     "id": "sj:cdb5a574-e710-4dee-8108-35936fc5c297",
     "company": "Raymond James Financial",
     "title": "Private Client Banking Strategy, Analytics & Sales Intern",
@@ -6991,12 +6998,5 @@
     "title": "Software Engineer Co-op",
     "location": "Eden Prairie, MN (Other)",
     "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010738"
-  },
-  {
-    "id": "sj:b3c2da34-6510-4c41-aa40-26d5b8e94c8a",
-    "company": "The Toro Company",
-    "title": "Robotics Engineer Intern",
-    "location": "Bloomington, MN (Other)",
-    "url": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Robotics-Engineering-Intern---The-Toro-Company_JR17194"
   }
 ]
