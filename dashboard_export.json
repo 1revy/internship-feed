@@ -1393,6 +1393,13 @@
     "url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383231008"
   },
   {
+    "id": "sj:9bb8791e-41b7-446b-921c-3e1d267d460d",
+    "company": "Merck",
+    "title": "IT Developer Analyst Intern",
+    "location": "London, UK (London / Paris)",
+    "url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/GBR---London---London-Moorgate-WeWork/Student-Placement---IT-Developer-Analyst_R418573"
+  },
+  {
     "id": "sj:b004876a-4d61-4472-9e85-eabe66783f06",
     "company": "NBCUniversal",
     "title": "Data Analytics Intern",
@@ -3491,12 +3498,5 @@
     "title": "Product Intern",
     "location": "New Hudson, MI (Other)",
     "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/New-Hudson-Michigan-United-States/Product-Intern---Summer-2027_R50276"
-  },
-  {
-    "id": "sj:cdb5a574-e710-4dee-8108-35936fc5c297",
-    "company": "Raymond James Financial",
-    "title": "Private Client Banking Strategy, Analytics & Sales Intern",
-    "location": "St. Petersburg, FL (Other)",
-    "url": "https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesEarlyCareers/job/Saint-Petersburg-Florida---United-States/XMLNAME-2027-Summer-Internship-Program---Private-Client-Banking-Strategy--Analytics----Sales-Intern--St-Petersburg--FL-_R-0013001"
   }
 ]
