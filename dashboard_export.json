@@ -1,5 +1,19 @@
 [
   {
+    "id": "sj:adfa4c3b-1213-4bf2-a61f-026177398245",
+    "company": "Hudson River Trading",
+    "title": "Data Scientist Intern",
+    "location": "London, UK; NYC (New York)",
+    "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8257369"
+  },
+  {
+    "id": "sj:016c5b63-a331-45d0-afd0-fd2f2a92498e",
+    "company": "Jain Global",
+    "title": "Data Engineer Intern",
+    "location": "NYC (New York)",
+    "url": "https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Data-Engineer-Intern_JR100605-1"
+  },
+  {
     "id": "sj:6be1a997-592a-4fed-98f8-f00887837e03",
     "company": "New York Mets",
     "title": "Data Science Intern",
@@ -523,6 +537,13 @@
     "title": "Data Scientist Intern",
     "location": "NYC (New York)",
     "url": "https://www.alixpartners.com/careers/7725335003?gh_jid=7725335003"
+  },
+  {
+    "id": "sj:168a9b2f-3f11-497a-a04f-62c40059bff5",
+    "company": "Figma",
+    "title": "AI Applied Scientist Intern",
+    "location": "SF; NYC (New York)",
+    "url": "https://boards.greenhouse.io/figma/jobs/6207801004"
   },
   {
     "id": "sj:96540543-955c-4dd4-a9ab-4382147f9d78",
@@ -1764,11 +1785,81 @@
     "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002"
   },
   {
+    "id": "sj:814d5fac-0c8f-4eb3-81af-52e7b9509c3a",
+    "company": "AMD",
+    "title": "AI Training Systems and Performance Engineer Intern/Co-op",
+    "location": "San Jose, CA; Santa Clara, CA (Other)",
+    "url": "https://careers.amd.com/jobs/93332?icims=1"
+  },
+  {
+    "id": "sj:44534005-1a4b-4053-b1f5-4569f5b355ce",
+    "company": "Corning",
+    "title": "Engineering Data Analyst Intern",
+    "location": "Keller, TX (Other)",
+    "url": "https://corningjobs.corning.com/job/Keller-Engineering-Data-Analyst-Intern-Summer-2027-TX-76248/1437049900/?ats=successfactors"
+  },
+  {
+    "id": "sj:2d3cd1b8-063f-41a1-a9ba-c834e3114c68",
+    "company": "Atlassian",
+    "title": "Data Engineer Intern",
+    "location": "Seattle, WA (Other)",
+    "url": "https://campus-americas.icims.com/jobs/26272/data-engineer-intern%2c-2027-summer-u.s./job"
+  },
+  {
     "id": "sj:95c1d1a0-3fe5-4666-a8b9-fd45c3237c63",
     "company": "Mohawk",
     "title": "Product Management Intern",
     "location": "Calhoun, GA (Other)",
     "url": "https://careers.mohawkind.com/mohawk/job/Calhoun-Product-Management-Intern-Summer-2027-Geor-30701/1436568500/?ats=successfactors"
+  },
+  {
+    "id": "sj:c44ccf4f-7352-4f14-9f9d-43ce7522c340",
+    "company": "Midland States Bank",
+    "title": "AI Solutions Engineer Intern",
+    "location": "Rockford, IL; St. Louis, MO; Effingham, IL (Other)",
+    "url": "https://midlandsb.wd1.myworkdayjobs.com/msbcareers/job/Effingham-IL/Intern---AI-Solutions-Engineer_JR1461"
+  },
+  {
+    "id": "sj:e3aecdd8-6f13-40ba-9cff-b81b59d50ff5",
+    "company": "Midland States Bank",
+    "title": "Associate Solutions Engineer Intern - Data Warehouse",
+    "location": "St. Louis, MO; Effingham, IL (Other)",
+    "url": "https://midlandsb.wd1.myworkdayjobs.com/msbcareers/job/Effingham-IL/Intern---Associate-Solutions-Engineer---Data-Warehouse_JR1462"
+  },
+  {
+    "id": "sj:7e8c009d-2abb-45ee-8903-e8cae0738447",
+    "company": "RTX",
+    "title": "Data Analytics Intern",
+    "location": "Annapolis, MD (Other)",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MD-ANNAPOLIS-904--2551-Riva-Rd--BLDG-904/Data-Analytics---Reporting-Intern--Summer-2027-_01874271"
+  },
+  {
+    "id": "sj:f6643259-6ee2-4b23-a584-8408459ce08c",
+    "company": "American Family Insurance Group",
+    "title": "Data Analyst Intern",
+    "location": "Madison, WI (Other)",
+    "url": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Intern---Data-Analyst_R39615"
+  },
+  {
+    "id": "sj:0173534b-1a00-43bf-8929-2a7c5bfa842d",
+    "company": "LexisNexis Risk Solutions",
+    "title": "Data Science Intern",
+    "location": "Alpharetta, GA (Other)",
+    "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA-Alderman/Data-Science-Intern_R118955"
+  },
+  {
+    "id": "sj:425c8e2d-cf78-47d2-91a0-5aeca4485643",
+    "company": "LexisNexis Risk Solutions",
+    "title": "Data Analyst Intern",
+    "location": "Alpharetta, GA (Other)",
+    "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA-Alderman/Data-Analyst-Intern_R119377"
+  },
+  {
+    "id": "sj:2560720b-1bc8-410a-8f64-e70a2e539173",
+    "company": "Capital One",
+    "title": "Data Scientist Intern",
+    "location": "Toronto, ON, Canada (Other)",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Data-Scientist---Summer-2027_R1002165-1"
   },
   {
     "id": "sj:16856e96-3bd9-4fee-85e4-ed92164905ae",
@@ -3407,96 +3498,5 @@
     "title": "Business Intelligence Consulting Intern",
     "location": "Des Moines, IA; Irvine, CA; Dallas, TX; Chicago, IL; Denver, CO (Other)",
     "url": "https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Des-Moines/Business-Intelligence-Consulting-Intern---Summer-2027_JR121327"
-  },
-  {
-    "id": "sj:32187507-a443-41a2-946b-517e1ca6ab2d",
-    "company": "Lowe's",
-    "title": "Merchandising Analyst Intern",
-    "location": "Mooresville, NC (Other)",
-    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Mooresville-NC-SSC-1999/Merchandising-Analyst---Undergrad-Internship---Summer-2027_JR-02650526"
-  },
-  {
-    "id": "sj:5bda221a-8620-420c-a38b-48bd4bdc58d3",
-    "company": "OpenGov",
-    "title": "Product Intern",
-    "location": "Boston, MA (Other)",
-    "url": "https://jobs.ashbyhq.com/opengov/163f2c69-851d-4215-ae4b-bb717b2e66d6/application?embed=true"
-  },
-  {
-    "id": "sj:97c6d8b7-2c87-4add-ba42-556232991c09",
-    "company": "OpenGov",
-    "title": "Product Intern",
-    "location": "Atlanta, GA (Other)",
-    "url": "https://jobs.ashbyhq.com/opengov/2581c459-07f2-4bd8-9cbd-1d242beaac66/application?embed=true"
-  },
-  {
-    "id": "sj:8ead9143-b68f-49cb-8f40-309f4206c39a",
-    "company": "ibotta",
-    "title": "Data Engineer Intern",
-    "location": "Denver, CO (Other)",
-    "url": "https://jobs.ashbyhq.com/ibotta/666cac72-9e06-46ee-aea0-576f766338b2/application?embed=true"
-  },
-  {
-    "id": "sj:29efc01f-ded3-4731-b798-5b9a09c13427",
-    "company": "Highgate",
-    "title": "Data Services Intern - Summer 2027",
-    "location": "Irving, TX (Other)",
-    "url": "https://externalhourly-highgate.icims.com/jobs/82546/job?hub=7&mobile=true&needsRedirect=false"
-  },
-  {
-    "id": "sj:83941e88-ca79-490f-8413-e36358109fa0",
-    "company": "Western Digital",
-    "title": "Systems Architecture Co-op - AI Systems Strategy",
-    "location": "Rochester, MN (Other)",
-    "url": "https://jobs.smartrecruiters.com/WesternDigital/744000149367234"
-  },
-  {
-    "id": "sj:ef9f0f9b-5794-4b38-a0c7-b641999f1c49",
-    "company": "Intuit",
-    "title": "Product Manager Intern",
-    "location": "Mountain View, CA; San Diego, CA (Other)",
-    "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-product-manager-intern/27595/100620927632"
-  },
-  {
-    "id": "sj:b8ea1f69-0e58-40a5-b2db-ebf0b0197dca",
-    "company": "National Life",
-    "title": "IT Application Development Intern",
-    "location": "Montpelier, VT; Addison, TX (Other)",
-    "url": "https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4402184009"
-  },
-  {
-    "id": "sj:fe0f0f3d-3ecc-46df-85f6-1122898c33f5",
-    "company": "Constellation Energy",
-    "title": "PMO/Data Analyst Intern",
-    "location": "Chicago, IL (Other)",
-    "url": "https://jobs.constellationenergy.com/jobs/138735?icims=1"
-  },
-  {
-    "id": "sj:15390674-0071-4415-afa1-aefebeb40531",
-    "company": "Ulta Beauty",
-    "title": "Digital Product Management Intern",
-    "location": "Bolingbrook, IL (Other)",
-    "url": "https://careers.ulta.com/jobs/423575?icims=1"
-  },
-  {
-    "id": "sj:ae4d1646-e040-43a9-939a-18ab81955f9a",
-    "company": "Ulta Beauty",
-    "title": "Supply Chain Data & Analytics Intern",
-    "location": "Bolingbrook, IL (Other)",
-    "url": "https://careers.ulta.com/jobs/527097?icims=1"
-  },
-  {
-    "id": "sj:8b40c5b5-364c-4d14-aed5-7c772f3666d1",
-    "company": "Principal Financial Group",
-    "title": "Data and Analytics Intern - Multiple Teams",
-    "location": "Des Moines, IA; Remote in USA; Raleigh, NC; Charlotte, NC (Other)",
-    "url": "https://careers.principal.com/jobs/52574?icims=1"
-  },
-  {
-    "id": "sj:f6b42284-9795-4e37-9fa2-435b51880db7",
-    "company": "Principal Financial Group",
-    "title": "Data Engineer Intern",
-    "location": "Des Moines, IA (Other)",
-    "url": "https://careers.principal.com/jobs/52561?icims=1"
   }
 ]
