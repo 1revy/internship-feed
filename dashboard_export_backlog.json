@@ -1,5 +1,40 @@
 [
   {
+    "id": "sj:c671ab74-606e-409b-a6c6-dabe7d21c602",
+    "company": "AspenTech",
+    "title": "Data Science Intern",
+    "location": "Bedford, MA (Other)",
+    "url": "https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Bedford-Massachusetts/Data-Science-Intern---Summer-2027---Bedford--MA_R9459"
+  },
+  {
+    "id": "sj:da019f62-73d5-4a2c-8601-9b62b96f300c",
+    "company": "Q2",
+    "title": "Data Science Intern",
+    "location": "Austin, TX (Other)",
+    "url": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-Texas/XMLNAME-2027-Summer-Internship---Data-Science_REQ-12796"
+  },
+  {
+    "id": "sj:61044b56-5584-4118-b985-879aa9c86501",
+    "company": "PricewaterhouseCoopers (PwC)",
+    "title": "Product Management Intern - Commercial Tech & Innovation",
+    "location": "Rosemont, IL (Other)",
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Advisory-National---Commercial-Tech---Innovation---Product-Management-Intern---Summer-2027_760527WD"
+  },
+  {
+    "id": "sj:0adb2d84-b56e-47f1-b4ca-f0267547814c",
+    "company": "NJM Insurance Group",
+    "title": "Data Science Intern",
+    "location": "Trenton, NJ (Other)",
+    "url": "https://njm.wd1.myworkdayjobs.com/njm/job/NJM---Trenton/IT-Data-Science-Intern_R2008284"
+  },
+  {
+    "id": "sj:8ba54835-fab0-4ef0-9e30-03da4f4fe24e",
+    "company": "RSM",
+    "title": "Business Intelligence Consulting Intern",
+    "location": "Des Moines, IA; Irvine, CA; Dallas, TX; Chicago, IL; Denver, CO (Other)",
+    "url": "https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Des-Moines/Business-Intelligence-Consulting-Intern---Summer-2027_JR121327"
+  },
+  {
     "id": "sj:32187507-a443-41a2-946b-517e1ca6ab2d",
     "company": "Lowe's",
     "title": "Merchandising Analyst Intern",
@@ -3990,6 +4025,69 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Data-Processing-Developer-Technology-Intern---2027_JR2024708"
   },
   {
+    "id": "sj:9c73b8be-e8be-4a91-9db0-df9eb032917a",
+    "company": "Cadence Solutions",
+    "title": "Software Engineer Intern",
+    "location": "Remote in USA (Other)",
+    "url": "https://job-boards.greenhouse.io/solutions/jobs/4711210006"
+  },
+  {
+    "id": "sj:972de7eb-ddbf-4e57-8217-e7d6cc989614",
+    "company": "Innovative Defense Technologies",
+    "title": "Software Engineer Intern",
+    "location": "Mt Laurel Township, NJ; Arlington County, Arlington, VA; San Diego, CA (Other)",
+    "url": "https://idtus.pinpointhq.com/en/postings/eac7d1ca-2dbd-4c60-8f65-979f0a9e3f33?ats=pinpointhq"
+  },
+  {
+    "id": "sj:0d975f4a-64df-4148-98fd-46ab01f959b8",
+    "company": "Innovative Defense Technologies",
+    "title": "Software Engineer Intern",
+    "location": "Mt Laurel Township, NJ (Other)",
+    "url": "https://idtus.pinpointhq.com/en/postings/20817d1b-bd0e-4aa8-a3d5-78e4614b52a3?ats=pinpointhq"
+  },
+  {
+    "id": "sj:48407e3f-74f1-4eda-a843-3935f4654085",
+    "company": "Innovative Defense Technologies",
+    "title": "Software Engineer Intern",
+    "location": "Mt Laurel Township, NJ; Arlington County, Arlington, VA; San Diego, CA (Other)",
+    "url": "https://idtus.pinpointhq.com/en/postings/0900a5f2-65d5-4cfa-8b14-b2a58d156d53?ats=pinpointhq"
+  },
+  {
+    "id": "sj:532045a4-58bc-4fef-8105-cae7f1bdcccc",
+    "company": "Boston Scientific",
+    "title": "Equipment Engineering Software Engineer Intern",
+    "location": "Maple Grove, MN (Other)",
+    "url": "https://bostonscientific.eightfold.ai/careers/job/563602813584306"
+  },
+  {
+    "id": "sj:a6830740-e492-4a48-bc09-9e1cb04273be",
+    "company": "Atoms",
+    "title": "Machine Learning Engineer Intern",
+    "location": "SF (Other)",
+    "url": "https://job-boards.greenhouse.io/atoms/jobs/8869105002"
+  },
+  {
+    "id": "sj:534bdae1-bb74-415c-bd75-9263c3eecc59",
+    "company": "Liberty Mutual",
+    "title": "Software Development Co-op",
+    "location": "Boston, MA (Other)",
+    "url": "https://campus-libertymutual.icims.com/jobs/261797/job?mobile=true&needsRedirect=false"
+  },
+  {
+    "id": "sj:ecea0a0c-194c-4478-8605-93cac5731cb2",
+    "company": "Signifyd",
+    "title": "Engineering Intern",
+    "location": "Belfast, UK (Other)",
+    "url": "https://job-boards.greenhouse.io/signifyd95/jobs/8240551"
+  },
+  {
+    "id": "sj:97fe6a41-dd50-4193-84c4-3bb8640b1710",
+    "company": "Magnite",
+    "title": "Software Engineer Intern",
+    "location": "Belfast, UK (Other)",
+    "url": "https://osv-rubicon.wd5.myworkdayjobs.com/en-US/MagniteCareers/job/United-Kingdom---Belfast/Software-Engineer---Student-Placement--Queens-University-Only-_R-01418"
+  },
+  {
     "id": "sj:b1048256-c61c-403f-80b6-70efb51fdd0e",
     "company": "Khan Academy",
     "title": "Software Engineer Intern",
@@ -4149,6 +4247,13 @@
     "title": "Machine Learning Intern - Autonomous Vehicles - Software Validation",
     "location": "Sunnyvale, CA (Other)",
     "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Intern--Autonomous-Vehicles--Software-Validation--PhD-_JR-202621649"
+  },
+  {
+    "id": "sj:08a7b32c-c0ec-4cad-b92b-e6e3c027b7d7",
+    "company": "FHLBank Chicago",
+    "title": "AI Intern",
+    "location": "Chicago, IL (Other)",
+    "url": "https://fhlbc.wd1.myworkdayjobs.com/search/job/Chicago/Summer-Internship---AI-Intern_R2600477"
   },
   {
     "id": "sj:57409b22-372d-4871-b5ff-c7bfa79beb07",
@@ -5381,6 +5486,13 @@
     "title": "Generative AI Software Development Intern",
     "location": "Bossier City, LA (Other)",
     "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-Generative-AI-Software-Development-Internship_RQ228933-1"
+  },
+  {
+    "id": "sj:c986d084-22ce-42b2-8117-a1fdd3db77a4",
+    "company": "Hewlett Packard Enterprise",
+    "title": "Software Engineer Intern",
+    "location": "Bristol, UK (Other)",
+    "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Bristol-Avon-United-Kingdom/Software-Engineering-Internship--Placement-Year-_1215804"
   },
   {
     "id": "sj:93ae3a0d-e1e0-4d7a-ad67-4adba9311b49",
@@ -6886,117 +6998,5 @@
     "title": "Technology Intern",
     "location": "Arlington County, Arlington, VA (Other)",
     "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-VA-Arlington/Technology-Intern---Arlington--VA--Summer-2027-_R39666"
-  },
-  {
-    "id": "sj:ef6779b9-6706-4217-8b3a-09ef98f4faf4",
-    "company": "FNBO",
-    "title": "Technology Intern",
-    "location": "Omaha, NE (Other)",
-    "url": "https://firstnational.wd12.myworkdayjobs.com/fnbocareers/job/Omaha---FN-Tower/Summer-2027---Technology-Intern_R-20261653"
-  },
-  {
-    "id": "sj:64041727-7701-4317-bfb8-9e06ee60b1c1",
-    "company": "Clarios",
-    "title": "People Analytics Intern - Summer 2027",
-    "location": "Milwaukee, WI (Other)",
-    "url": "https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Wisconsin-Milwaukee/People-Analytics---AI-Intern--Summer-2027-_WD50216"
-  },
-  {
-    "id": "sj:e80d6106-b8f0-46f9-913a-bb970d461cdf",
-    "company": "Xcel Energy",
-    "title": "Load Research & Energy and Demand Forecasting Intern",
-    "location": "Denver, CO (Other)",
-    "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/Load-Research---Energy-and-Demand-Forecasting-Intern_JR116604-1"
-  },
-  {
-    "id": "sj:e772b664-062b-4315-9007-69460c23019c",
-    "company": "CACI",
-    "title": "Software Engineer Intern - Summer 2027",
-    "location": "Remote in USA; Sterling, VA; Denver, CO (Other)",
-    "url": "https://caci.wd1.myworkdayjobs.com/external/job/437-DENVER-CO/Cleared-Software-Engineer-Intern---Summer-2027_331999"
-  },
-  {
-    "id": "sj:46da9fb1-59b8-4586-9a3e-f058863575ba",
-    "company": "Royal Bank of Canada",
-    "title": "AI Engineer Co-op - Global Equities",
-    "location": "Toronto, ON, Canada (Other)",
-    "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Capital-Markets--Global-Equities--AI-Engineer--16-Months--Co-op-_R-0000187401-1"
-  },
-  {
-    "id": "sj:a9b15888-79e1-4d34-b682-700189ca37f3",
-    "company": "Baird",
-    "title": "Software Developer Intern",
-    "location": "Madison, WI; Milwaukee, WI (Other)",
-    "url": "https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Internship---Software-Developer--Year-Round-_R20261024-1"
-  },
-  {
-    "id": "sj:6be172ec-d3a7-445d-8218-d442e9c6dd1c",
-    "company": "Lowe's",
-    "title": "Software Engineer Intern",
-    "location": "Charlotte, NC (Other)",
-    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Lowes-Charlotte-Technology-Hub-3505/Software-Engineer---Undergrad-Internship---Summer-2027_JR-02623576"
-  },
-  {
-    "id": "sj:16259630-05fe-40a2-bf93-dd529c139975",
-    "company": "Lowe's",
-    "title": "Exploratory Software Engineer Intern",
-    "location": "Charlotte, NC (Other)",
-    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Lowes-Charlotte-Technology-Hub-3505/Exploratory-Software-Engineering---Undergrad-Internship---Summer-2027_JR-02623542"
-  },
-  {
-    "id": "sj:2b3e7e0e-c98f-485f-a747-d5e7d92a1918",
-    "company": "Saab",
-    "title": "Software Engineer Co-op",
-    "location": "East Syracuse, NY (Other)",
-    "url": "https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/East-Syracuse-NY-Collamer/Software-Engineer-Co-Op--Summer-2027-_R-03264-1"
-  },
-  {
-    "id": "sj:89c5e157-f2f0-4797-8fad-377cf5478e3d",
-    "company": "Gordon Food Service",
-    "title": "Category Technology Intern - MMSC",
-    "location": "Wyoming, MI (Other)",
-    "url": "https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/MMSC-Category-Technology-Internship_R-57187"
-  },
-  {
-    "id": "sj:d6dfcbeb-4029-4aad-bf63-959fcd1680cd",
-    "company": "Wex",
-    "title": "Full-Stack Software Engineer Intern - Undergraduate",
-    "location": "Remote in USA (Other)",
-    "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern--Undergraduate-_R22593"
-  },
-  {
-    "id": "sj:3f5cab3c-532c-4b28-ab03-48e5cd935bb0",
-    "company": "Wex",
-    "title": "Software Engineer Intern - AI & Cloud",
-    "location": "Remote in USA (Other)",
-    "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Software-Engineer-Intern---AI---Cloud--Graduate-Master-s-_R22546"
-  },
-  {
-    "id": "sj:d2a2f7eb-19b0-4859-b09e-fefe81a88ceb",
-    "company": "Wex",
-    "title": "Backend Software Engineer Intern - Cloud Security & AI - Undergraduate",
-    "location": "Remote in USA (Other)",
-    "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern---C---Cloud-Security---AI--Undergraduate-_R22589"
-  },
-  {
-    "id": "sj:e8e4de39-fe79-4cb4-9edf-57780d8a6422",
-    "company": "General Motors",
-    "title": "Summer Intern - Performance Analysis",
-    "location": "Concord, NC (Other)",
-    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Concord-North-Carolina-United-States-of-America/XMLNAME-2027-Summer-Intern---Performance-Analysis_JR-202619985"
-  },
-  {
-    "id": "sj:c7e08815-6094-4d47-8fb2-fc3d91a6f1d0",
-    "company": "Xcel Energy",
-    "title": "Customer Insight Intern",
-    "location": "Minneapolis, MN; Denver, CO (Other)",
-    "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55401/Customer-Insight-Intern---MN--CO_JR115814-1"
-  },
-  {
-    "id": "sj:c803678b-ebd2-4b0b-a619-88a5e54aa252",
-    "company": "Xcel Energy",
-    "title": "AI and Analytics Intern",
-    "location": "Minneapolis, MN; Denver, CO (Other)",
-    "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55401/AI-and-Analytics-Intern-MN--CO_JR115877-1"
   }
 ]
