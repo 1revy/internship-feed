@@ -1,5 +1,68 @@
 [
   {
+    "id": "sj:ebbe3e8b-62a0-49ff-9ee8-7c72fc088c36",
+    "company": "Tighe & Bond",
+    "title": "GIS Intern - Geographic Information Systems",
+    "location": "Worcester, MA (Other)",
+    "url": "https://careers-tighebond.icims.com/jobs/1892/job?mobile=true&needsRedirect=false"
+  },
+  {
+    "id": "sj:4e5b7eb9-a36b-44d7-9aed-7228b2acfc5a",
+    "company": "Johns Hopkins Applied Physics Laboratory",
+    "title": "Computer Engineer Intern - Shipboard Systems Group",
+    "location": "Laurel, MD (Other)",
+    "url": "https://careers.jhuapl.edu/jobs/60049?icims=1"
+  },
+  {
+    "id": "sj:38a9bfa8-336d-4c6f-8f7d-cce0d1dfee77",
+    "company": "CAI",
+    "title": "Data Analyst Intern",
+    "location": "Pennsylvania (Other)",
+    "url": "https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Data-Analyst-Intern_R8452"
+  },
+  {
+    "id": "sj:bb1a4a31-3d4f-474b-8718-fca0e46439d1",
+    "company": "QTS",
+    "title": "Tableau Analytics and Business Intelligence Intern",
+    "location": "Overland Park, KS (Other)",
+    "url": "https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Overland-Park-KS/Summer-2027-Internship--Tableau-Analytics-and-Business-Intelligence_R2026-2090"
+  },
+  {
+    "id": "sj:5ffd7690-69c5-4eba-894c-c97068ffa45b",
+    "company": "CAI",
+    "title": "Data Engineer Intern",
+    "location": "Pennsylvania (Other)",
+    "url": "https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Data-Engineering-Intern_R8481"
+  },
+  {
+    "id": "sj:769bec28-a1aa-4a21-854c-4dcde8904154",
+    "company": "LexisNexis Legal & Professional",
+    "title": "Data Science Intern",
+    "location": "Raleigh, NC (Other)",
+    "url": "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/Raleigh-NC/Data-Science-Internship_R118691-1"
+  },
+  {
+    "id": "sj:72d33ab0-b1cb-4f35-8044-370ecc2c7009",
+    "company": "Altar'd State",
+    "title": "Store Operations Data Analyst Intern",
+    "location": "Knoxville, TN (Other)",
+    "url": "https://standoutforgood.wd12.myworkdayjobs.com/StandOutForGood/job/Knoxville-TN/Spring-2027-Store-Operations-Intern_SOSJ12464"
+  },
+  {
+    "id": "sj:9d03317c-6445-4ac3-86fb-093ab57e58ec",
+    "company": "Huntington Bancshares",
+    "title": "Business Innovation & AI Products Intern",
+    "location": "Austin, TX; Chicago, IL; Columbus, OH (Other)",
+    "url": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Austin-TX/Summer-2027-Business-Innovation---AI-Products-Intern_R0075876"
+  },
+  {
+    "id": "sj:21a32efc-4b6e-45b0-88ad-d1295fe970ad",
+    "company": "Dallas Fort Worth International Airport",
+    "title": "Undergraduate Internship - Geospatial Data",
+    "location": "Dallas, TX (Other)",
+    "url": "https://dfwairport.wd5.myworkdayjobs.com/External/job/DFW-Intl-Airport-Board/XMLNAME-2027-Undergraduate-Internship---Geospatial-Data_JR102119-1"
+  },
+  {
     "id": "sj:c671ab74-606e-409b-a6c6-dabe7d21c602",
     "company": "AspenTech",
     "title": "Data Science Intern",
@@ -4025,6 +4088,41 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Data-Processing-Developer-Technology-Intern---2027_JR2024708"
   },
   {
+    "id": "sj:b83f3fb8-0a55-4eed-82f6-9b98a78af0e9",
+    "company": "Space Dynamics Laboratory",
+    "title": "Software Engineer Intern - Software, AI, & Machine Learning",
+    "location": "North Logan, UT (Other)",
+    "url": "https://spacedynamicslaboratory.applytojob.com/apply/3M8cZAl86l/Software-Engineer-Intern-Software-AI-Machine-Learning"
+  },
+  {
+    "id": "sj:2e5df730-d9a8-47e0-aac3-c386a7274276",
+    "company": "Space Dynamics Laboratory",
+    "title": "Software Engineer Intern - AI Enabled Software Development",
+    "location": "North Logan, UT (Other)",
+    "url": "https://spacedynamicslaboratory.applytojob.com/apply/82GBzTsnBq/Software-Engineering-Intern-AI-Enabled-Software-Development"
+  },
+  {
+    "id": "sj:80c856e0-3ec4-4026-9444-8ee61d28bf1e",
+    "company": "Boston Scientific",
+    "title": "Equipment Engineering AI Vision Engineer Intern",
+    "location": "Maple Grove, MN (Other)",
+    "url": "https://bostonscientific.eightfold.ai/careers/job/563602813584308"
+  },
+  {
+    "id": "sj:40f11b76-b951-46c8-a71e-e8182aa18926",
+    "company": "Blue Cross Blue Shield of Michigan",
+    "title": "Epidemiology / Biostatistics Intern",
+    "location": "Detroit, MI (Other)",
+    "url": "https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14949"
+  },
+  {
+    "id": "sj:ca81a621-2f36-49ca-a53c-8b2ade452ded",
+    "company": "IDEMIA",
+    "title": "Engineering Intern",
+    "location": "Reston, VA (Other)",
+    "url": "https://uscareers-idemia.icims.com/jobs/8647/job?mobile=true&needsRedirect=false"
+  },
+  {
     "id": "sj:9c73b8be-e8be-4a91-9db0-df9eb032917a",
     "company": "Cadence Solutions",
     "title": "Software Engineer Intern",
@@ -5017,6 +5115,13 @@
     "title": "Software Engineer Intern",
     "location": "Cedar Rapids, IA (Other)",
     "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-124--400-Collins-Rd-NE--BLDG-124/Software-Engineering-Intern--Summer-2027-_01874556"
+  },
+  {
+    "id": "sj:6d72adc9-d3c0-4b7b-95ee-85e523701bab",
+    "company": "RTX",
+    "title": "Software Engineering Co-op",
+    "location": "Cedar Rapids, IA (Other)",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op--Summer-Fall-2027-_01871232"
   },
   {
     "id": "sj:ec241207-37cb-48f4-aa65-cf19d960f7a2",
@@ -6893,110 +6998,5 @@
     "title": "Software Engineer Co-op",
     "location": "Eden Prairie, MN (Other)",
     "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010048"
-  },
-  {
-    "id": "sj:1cc5a15c-471f-4ae7-8c32-bbed52f939f6",
-    "company": "Waymo",
-    "title": "Software Engineer Intern - BS/MS",
-    "location": "SF (Other)",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=8193731"
-  },
-  {
-    "id": "sj:b0f8239a-22cb-4ff6-8e56-f1c8cfd9ae87",
-    "company": "Principal Financial Group",
-    "title": "Software Engineer Intern - Summer 2027",
-    "location": "Des Moines, IA (Other)",
-    "url": "https://careers.principal.com/jobs/52512?icims=1"
-  },
-  {
-    "id": "sj:d0e51309-271e-4d83-8319-1a61f73bbe94",
-    "company": "Robinhood",
-    "title": "Software Developer Intern",
-    "location": "Toronto, ON, Canada (Other)",
-    "url": "https://boards.greenhouse.io/robinhood/jobs/8142930"
-  },
-  {
-    "id": "sj:fff6e751-d777-477e-aef3-17eb3209eedb",
-    "company": "Robinhood",
-    "title": "Software Developer Intern",
-    "location": "Toronto, ON, Canada (Other)",
-    "url": "https://boards.greenhouse.io/robinhood/jobs/8199744"
-  },
-  {
-    "id": "sj:696584bd-7673-4ec0-a9cd-5a5a62e348f8",
-    "company": "Robinhood",
-    "title": "iOS Software Developer Intern",
-    "location": "Toronto, ON, Canada (Other)",
-    "url": "https://boards.greenhouse.io/robinhood/jobs/8199729"
-  },
-  {
-    "id": "sj:ccb4ec66-4171-4da4-883b-e8d9465464ac",
-    "company": "Robinhood",
-    "title": "People Insights & Analytics Intern - Summer 2027",
-    "location": "Menlo Park, CA (Other)",
-    "url": "https://boards.greenhouse.io/robinhood/jobs/8198255"
-  },
-  {
-    "id": "sj:b7692605-3675-4ede-ac05-2e35ccc95ce8",
-    "company": "SEP",
-    "title": "Software Engineer Intern",
-    "location": "Westfield, IN (Other)",
-    "url": "https://jobs.lever.co/sep/4efbdbce-a753-41b5-8ed7-0661cd193178/apply"
-  },
-  {
-    "id": "sj:f90f94d5-786f-4736-b98d-933eaa6987ef",
-    "company": "URBN",
-    "title": "Software Engineer Intern",
-    "location": "Philadelphia, PA (Other)",
-    "url": "https://homeoffice-na-urbn.icims.com/jobs/30602/job?mobile=true&needsRedirect=false"
-  },
-  {
-    "id": "sj:9ccdafeb-a560-48e7-a199-38d185706e9c",
-    "company": "American Express",
-    "title": "Software Engineer Intern - Undergraduate",
-    "location": "Burgess Hill, UK (Other)",
-    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013771"
-  },
-  {
-    "id": "sj:275ffbf9-4e98-440f-92a7-a43740911ff4",
-    "company": "American Express",
-    "title": "AI Engineer Intern - Undergraduate",
-    "location": "Burgess Hill, UK (Other)",
-    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013756"
-  },
-  {
-    "id": "sj:7f72ef87-208f-40f9-9375-4c3aa13839b1",
-    "company": "Oshkosh",
-    "title": "Autonomy Engineering Intern - Summer 2027",
-    "location": "New Hudson, MI (Other)",
-    "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/New-Hudson-Michigan-United-States/Autonomy-Intern---Summer-2027_R50320"
-  },
-  {
-    "id": "sj:d7aa686a-75f3-47ef-b6da-5f9cd9b85c2a",
-    "company": "Cleveland-Cliffs",
-    "title": "Computer Science Engineer Intern",
-    "location": "Rockport, IN (Other)",
-    "url": "https://aksteel.wd1.myworkdayjobs.com/careers/job/Rockport-Works/Computer-Science-Engineering-Intern_R13553"
-  },
-  {
-    "id": "sj:85d55295-0c76-4133-880c-055ce402b526",
-    "company": "CoStar Group",
-    "title": "Technology Intern - Multiple Teams",
-    "location": "Nashville, TN (Other)",
-    "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-TN-Nashville/Technology-Intern---Nashville--TN--Summer-2027-_R39670"
-  },
-  {
-    "id": "sj:5e63a9e0-387b-437d-983c-017171f32eea",
-    "company": "CoStar Group",
-    "title": "Technology Intern - Summer 2027",
-    "location": "Richmond, VA (Other)",
-    "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-VA-Richmond---CoStar-Tower/Technology-Intern---Richmond--VA--Summer-2027-_R39665"
-  },
-  {
-    "id": "sj:54109f9e-2999-4211-9273-b6d34bc06e25",
-    "company": "CoStar Group",
-    "title": "Technology Intern",
-    "location": "Arlington County, Arlington, VA (Other)",
-    "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-VA-Arlington/Technology-Intern---Arlington--VA--Summer-2027-_R39666"
   }
 ]
