@@ -1,5 +1,40 @@
 [
   {
+    "id": "sj:ff8fadb8-1a36-463a-9258-da2a9fe79a54",
+    "company": "Tradeweb",
+    "title": "Data Management Intern",
+    "location": "NYC (New York)",
+    "url": "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301946"
+  },
+  {
+    "id": "sj:50597a72-b855-4e2f-a7fe-130439c9ff69",
+    "company": "KKR",
+    "title": "Summer Analyst Intern - Insurance Risk - Data Science",
+    "location": "NYC (New York)",
+    "url": "https://www.kkr.com/careers/student-careers/student-career-opportunities/post?gh_jid=6200944004"
+  },
+  {
+    "id": "sj:db62749f-cc63-4330-9dbd-0a828789aba4",
+    "company": "Macy's",
+    "title": "Summer Intern - Consumer Insights: Customer & Digital Intelligence and Analytics",
+    "location": "NYC (New York)",
+    "url": "https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/93380"
+  },
+  {
+    "id": "sj:abb1b26c-9b2c-414f-bc57-31b189bd9466",
+    "company": "Kyndryl",
+    "title": "Marketing Intern - Marketing Analytics",
+    "location": "NYC (New York)",
+    "url": "https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/New-York-NY-USA/Marketing-Internship--Marketing-Analytics_R-69404"
+  },
+  {
+    "id": "sj:deac1153-7f92-4d34-8295-09dfbf1c3183",
+    "company": "Kyndryl",
+    "title": "Marketing Intern - Marketing Analytics",
+    "location": "NYC (New York)",
+    "url": "https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/New-York-NY-USA/Marketing-Internship--Marketing-Analytics_R-69403"
+  },
+  {
     "id": "sj:adfa4c3b-1213-4bf2-a61f-026177398245",
     "company": "Hudson River Trading",
     "title": "Data Scientist Intern",
@@ -537,6 +572,13 @@
     "title": "Data Scientist Intern",
     "location": "NYC (New York)",
     "url": "https://www.alixpartners.com/careers/7725335003?gh_jid=7725335003"
+  },
+  {
+    "id": "sj:f0290968-f103-48af-89e4-6c57d1500413",
+    "company": "Macy's",
+    "title": "Analytics Intern - Multiple Teams",
+    "location": "NYC (New York)",
+    "url": "https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/93389"
   },
   {
     "id": "sj:168a9b2f-3f11-497a-a04f-62c40059bff5",
@@ -1820,6 +1862,20 @@
     "url": "https://campus-libertymutual.icims.com/jobs/261811/job?mobile=true&needsRedirect=false"
   },
   {
+    "id": "sj:c0f389e5-99cf-4fb0-a67e-06d06d9a36b2",
+    "company": "American Family Insurance Group",
+    "title": "Data Analytics Intern",
+    "location": "Madison, WI (Other)",
+    "url": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Intern---Data-Analytics_R39631"
+  },
+  {
+    "id": "sj:04082f6d-c15d-4431-bf6a-5ac5f3fd7dc8",
+    "company": "Procter & Gamble",
+    "title": "IT Technical Specialist Intern",
+    "location": "Newcastle upon Tyne, UK (Other)",
+    "url": "https://pg.wd5.myworkdayjobs.com/1000/job/NEWCASTLE-INNOVATION-CENTRE/IT-Technical-Specialist-Industrial-Placement-2027_R000160302"
+  },
+  {
     "id": "sj:814d5fac-0c8f-4eb3-81af-52e7b9509c3a",
     "company": "AMD",
     "title": "AI Training Systems and Performance Engineer Intern/Co-op",
@@ -2042,6 +2098,13 @@
     "title": "AI Business Process Developer Intern",
     "location": "Austin, TX (Other)",
     "url": "https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Austin-TX/Intern---AI-Business-Process-Developer--Summer-2027-_R-31865-1"
+  },
+  {
+    "id": "sj:f2bb0ff1-d4c7-4c79-9e2a-bcb920182f37",
+    "company": "Associated Bank",
+    "title": "Corporate Intern - Product Development",
+    "location": "Milwaukee, WI (Other)",
+    "url": "https://associatedbank.wd1.myworkdayjobs.com/en-US/external_careers/job/Milwaukee-111-Kilbourn/XMLNAME-2027-Corporate-Intern---Product-Development_JR106518"
   },
   {
     "id": "sj:8d2d1d5d-4101-4154-8430-c9b1201db685",
@@ -3435,68 +3498,5 @@
     "title": "IT Data Analytics Intern",
     "location": "Dallas, TX (Other)",
     "url": "https://careers.hfsinclair.com/job/Dallas-IT-Data-Analytics-Intern-TX-75219/1430072400/?ats=successfactors"
-  },
-  {
-    "id": "sj:ebbe3e8b-62a0-49ff-9ee8-7c72fc088c36",
-    "company": "Tighe & Bond",
-    "title": "GIS Intern - Geographic Information Systems",
-    "location": "Worcester, MA (Other)",
-    "url": "https://careers-tighebond.icims.com/jobs/1892/job?mobile=true&needsRedirect=false"
-  },
-  {
-    "id": "sj:4e5b7eb9-a36b-44d7-9aed-7228b2acfc5a",
-    "company": "Johns Hopkins Applied Physics Laboratory",
-    "title": "Computer Engineer Intern - Shipboard Systems Group",
-    "location": "Laurel, MD (Other)",
-    "url": "https://careers.jhuapl.edu/jobs/60049?icims=1"
-  },
-  {
-    "id": "sj:38a9bfa8-336d-4c6f-8f7d-cce0d1dfee77",
-    "company": "CAI",
-    "title": "Data Analyst Intern",
-    "location": "Pennsylvania (Other)",
-    "url": "https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Data-Analyst-Intern_R8452"
-  },
-  {
-    "id": "sj:bb1a4a31-3d4f-474b-8718-fca0e46439d1",
-    "company": "QTS",
-    "title": "Tableau Analytics and Business Intelligence Intern",
-    "location": "Overland Park, KS (Other)",
-    "url": "https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Overland-Park-KS/Summer-2027-Internship--Tableau-Analytics-and-Business-Intelligence_R2026-2090"
-  },
-  {
-    "id": "sj:5ffd7690-69c5-4eba-894c-c97068ffa45b",
-    "company": "CAI",
-    "title": "Data Engineer Intern",
-    "location": "Pennsylvania (Other)",
-    "url": "https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Data-Engineering-Intern_R8481"
-  },
-  {
-    "id": "sj:769bec28-a1aa-4a21-854c-4dcde8904154",
-    "company": "LexisNexis Legal & Professional",
-    "title": "Data Science Intern",
-    "location": "Raleigh, NC (Other)",
-    "url": "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/Raleigh-NC/Data-Science-Internship_R118691-1"
-  },
-  {
-    "id": "sj:72d33ab0-b1cb-4f35-8044-370ecc2c7009",
-    "company": "Altar'd State",
-    "title": "Store Operations Data Analyst Intern",
-    "location": "Knoxville, TN (Other)",
-    "url": "https://standoutforgood.wd12.myworkdayjobs.com/StandOutForGood/job/Knoxville-TN/Spring-2027-Store-Operations-Intern_SOSJ12464"
-  },
-  {
-    "id": "sj:9d03317c-6445-4ac3-86fb-093ab57e58ec",
-    "company": "Huntington Bancshares",
-    "title": "Business Innovation & AI Products Intern",
-    "location": "Austin, TX; Chicago, IL; Columbus, OH (Other)",
-    "url": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Austin-TX/Summer-2027-Business-Innovation---AI-Products-Intern_R0075876"
-  },
-  {
-    "id": "sj:21a32efc-4b6e-45b0-88ad-d1295fe970ad",
-    "company": "Dallas Fort Worth International Airport",
-    "title": "Undergraduate Internship - Geospatial Data",
-    "location": "Dallas, TX (Other)",
-    "url": "https://dfwairport.wd5.myworkdayjobs.com/External/job/DFW-Intl-Airport-Board/XMLNAME-2027-Undergraduate-Internship---Geospatial-Data_JR102119-1"
   }
 ]
