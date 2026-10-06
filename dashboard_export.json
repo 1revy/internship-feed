@@ -1589,6 +1589,20 @@
     "url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/London-UK/Data-Science-Machine-Learning-Internship--Summer-2027-_R1345"
   },
   {
+    "id": "sj:a5aa21ec-f587-41ab-bbf9-c451cbfe777b",
+    "company": "Cloudflare",
+    "title": "Software Engineer Intern",
+    "location": "London, UK (London / Paris)",
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211"
+  },
+  {
+    "id": "sj:97279dfa-d506-4a6b-be36-a783c8647797",
+    "company": "Arondite",
+    "title": "Software Engineer Intern",
+    "location": "London, UK (London / Paris)",
+    "url": "https://apply.workable.com/arondite/j/D3211449EF/apply"
+  },
+  {
     "id": "sj:2f969be9-c820-4b1d-a6fc-687d05d8de20",
     "company": "DreamWorks Animation",
     "title": "Audience Insights & Analytics Intern",
@@ -1783,6 +1797,27 @@
     "title": "Software Engineer Intern",
     "location": "London, UK; Chicago, IL (London / Paris)",
     "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002"
+  },
+  {
+    "id": "sj:3e820b10-ba47-4208-bb88-525a7dc5290a",
+    "company": "Cadence Solutions",
+    "title": "Product Management Intern",
+    "location": "Remote in USA (Other)",
+    "url": "https://job-boards.greenhouse.io/solutions/jobs/4715294006"
+  },
+  {
+    "id": "sj:b0deb0f8-293e-4d40-add9-69e719586391",
+    "company": "Liberty Mutual",
+    "title": "Data Science Intern",
+    "location": "Boston, MA (Other)",
+    "url": "https://campus-libertymutual.icims.com/jobs/95486/job?mobile=true&needsRedirect=false"
+  },
+  {
+    "id": "sj:632599d0-d99c-438f-a65e-0d843831bd0e",
+    "company": "Liberty Mutual",
+    "title": "Data Science Co-op",
+    "location": "Boston, MA (Other)",
+    "url": "https://campus-libertymutual.icims.com/jobs/261811/job?mobile=true&needsRedirect=false"
   },
   {
     "id": "sj:814d5fac-0c8f-4eb3-81af-52e7b9509c3a",
@@ -3463,40 +3498,5 @@
     "title": "Undergraduate Internship - Geospatial Data",
     "location": "Dallas, TX (Other)",
     "url": "https://dfwairport.wd5.myworkdayjobs.com/External/job/DFW-Intl-Airport-Board/XMLNAME-2027-Undergraduate-Internship---Geospatial-Data_JR102119-1"
-  },
-  {
-    "id": "sj:c671ab74-606e-409b-a6c6-dabe7d21c602",
-    "company": "AspenTech",
-    "title": "Data Science Intern",
-    "location": "Bedford, MA (Other)",
-    "url": "https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Bedford-Massachusetts/Data-Science-Intern---Summer-2027---Bedford--MA_R9459"
-  },
-  {
-    "id": "sj:da019f62-73d5-4a2c-8601-9b62b96f300c",
-    "company": "Q2",
-    "title": "Data Science Intern",
-    "location": "Austin, TX (Other)",
-    "url": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-Texas/XMLNAME-2027-Summer-Internship---Data-Science_REQ-12796"
-  },
-  {
-    "id": "sj:61044b56-5584-4118-b985-879aa9c86501",
-    "company": "PricewaterhouseCoopers (PwC)",
-    "title": "Product Management Intern - Commercial Tech & Innovation",
-    "location": "Rosemont, IL (Other)",
-    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Advisory-National---Commercial-Tech---Innovation---Product-Management-Intern---Summer-2027_760527WD"
-  },
-  {
-    "id": "sj:0adb2d84-b56e-47f1-b4ca-f0267547814c",
-    "company": "NJM Insurance Group",
-    "title": "Data Science Intern",
-    "location": "Trenton, NJ (Other)",
-    "url": "https://njm.wd1.myworkdayjobs.com/njm/job/NJM---Trenton/IT-Data-Science-Intern_R2008284"
-  },
-  {
-    "id": "sj:8ba54835-fab0-4ef0-9e30-03da4f4fe24e",
-    "company": "RSM",
-    "title": "Business Intelligence Consulting Intern",
-    "location": "Des Moines, IA; Irvine, CA; Dallas, TX; Chicago, IL; Denver, CO (Other)",
-    "url": "https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Des-Moines/Business-Intelligence-Consulting-Intern---Summer-2027_JR121327"
   }
 ]
