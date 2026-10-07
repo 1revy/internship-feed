@@ -1,5 +1,19 @@
 [
   {
+    "id": "sj:7f1252c2-2dd8-4334-9c9c-8ace10b21273",
+    "company": "Meta",
+    "title": "Data Scientist Intern - Product Analytics",
+    "location": "Menlo Park, CA; NYC (New York)",
+    "url": "https://www.metacareers.com/jobs/1633096478817942"
+  },
+  {
+    "id": "sj:f4c1cbda-bcc6-4e43-ab84-01f468e54479",
+    "company": "First Citizens BancShares",
+    "title": "Summer Intern - Card Product Management - Business to Business Payments",
+    "location": "NYC (New York)",
+    "url": "https://firstcitizens.jibeapply.com/jobs/35886?icims=1"
+  },
+  {
     "id": "sj:ff8fadb8-1a36-463a-9258-da2a9fe79a54",
     "company": "Tradeweb",
     "title": "Data Management Intern",
@@ -572,6 +586,13 @@
     "title": "Data Scientist Intern",
     "location": "NYC (New York)",
     "url": "https://www.alixpartners.com/careers/7725335003?gh_jid=7725335003"
+  },
+  {
+    "id": "sj:341ad57c-d6c1-47e3-97ae-3056b177f31e",
+    "company": "Courier Health",
+    "title": "Software Engineer Intern",
+    "location": "NYC (New York)",
+    "url": "https://job-boards.greenhouse.io/courierhealth/jobs/5258913007"
   },
   {
     "id": "sj:f0290968-f103-48af-89e4-6c57d1500413",
@@ -1638,6 +1659,13 @@
     "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211"
   },
   {
+    "id": "sj:c9c49f01-51e4-4d6b-99a4-24bad0192c34",
+    "company": "G-Research",
+    "title": "Machine Learning Engineer Intern",
+    "location": "London, UK (London / Paris)",
+    "url": "https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Machine-Learning-Engineer-Intern_R3773"
+  },
+  {
     "id": "sj:97279dfa-d506-4a6b-be36-a783c8647797",
     "company": "Arondite",
     "title": "Software Engineer Intern",
@@ -1841,6 +1869,13 @@
     "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002"
   },
   {
+    "id": "sj:e0b3cbee-7fd0-464e-a195-d3e925f3e990",
+    "company": "Electronic Arts",
+    "title": "Product Management Intern",
+    "location": "Austin, TX (Other)",
+    "url": "https://jobs.ea.com/en_US/careers/JobDetail/Product-Management-Intern-Fan-Care-Community-Care-Summer-2027/216182"
+  },
+  {
     "id": "sj:3e820b10-ba47-4208-bb88-525a7dc5290a",
     "company": "Cadence Solutions",
     "title": "Product Management Intern",
@@ -1874,6 +1909,34 @@
     "title": "IT Technical Specialist Intern",
     "location": "Newcastle upon Tyne, UK (Other)",
     "url": "https://pg.wd5.myworkdayjobs.com/1000/job/NEWCASTLE-INNOVATION-CENTRE/IT-Technical-Specialist-Industrial-Placement-2027_R000160302"
+  },
+  {
+    "id": "sj:e9a5e0b0-0a4d-4c94-9bfc-dc97ba351bf8",
+    "company": "Leidos",
+    "title": "Systems Engineer Intern",
+    "location": "Arlington County, Arlington, VA (Other)",
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Systems-Engineer-Intern_R-00193940"
+  },
+  {
+    "id": "sj:831d2f37-f07a-4fd6-8668-e7af33c405f0",
+    "company": "Leidos",
+    "title": "Data Science Intern",
+    "location": "Arlington County, Arlington, VA (Other)",
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Data-Science-Intern_R-00193937"
+  },
+  {
+    "id": "sj:2b94f977-4dc4-418e-8e20-7004a6af1a13",
+    "company": "American Family Insurance Group",
+    "title": "Backend Digital Sales Intern",
+    "location": "Boston, MA (Other)",
+    "url": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/MA-Boston/Summer-2027-Intern--Backend-Digital-Sales_R39517"
+  },
+  {
+    "id": "sj:fc5e6607-4ac0-4e9c-9d0d-429cb1076eee",
+    "company": "ABB",
+    "title": "AI Engineering Intern - Business Systems",
+    "location": "Cary, NC (Other)",
+    "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/AI-Engineering--Business-Systems-Intern--Summer-2027_JR00048714"
   },
   {
     "id": "sj:814d5fac-0c8f-4eb3-81af-52e7b9509c3a",
@@ -3435,68 +3498,5 @@
     "title": "Product Management Intern - Summer 2027",
     "location": "Erie, PA (Other)",
     "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Erie-PA/Product-Management-Intern---Summer-2027_REQ-020103-1"
-  },
-  {
-    "id": "sj:3d114c80-b3b3-4c00-bd97-baf23f379b01",
-    "company": "McKesson",
-    "title": "Business Analyst Intern - Product Performance",
-    "location": "Irving, TX (Other)",
-    "url": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/Irving-TX-USA---6555-North-State-Highway-161-P001/Business-Analyst-Intern--Product-Performance---Summer-2027_JR0153111"
-  },
-  {
-    "id": "sj:8a9edd16-81d0-4406-9c23-6a35909b252b",
-    "company": "Duolingo",
-    "title": "Associate Product Manager Intern",
-    "location": "Pittsburgh, PA (Other)",
-    "url": "https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8806188002"
-  },
-  {
-    "id": "sj:ca1230ad-cc73-4cd9-a19a-9bfc1d42fb23",
-    "company": "APEX Analytix",
-    "title": "Data Science Intern",
-    "location": "Greensboro, NC (Other)",
-    "url": "https://ats.rippling.com/apexanalytix-careers/jobs/0cfde729-9d23-4186-91a7-464a4b87af53"
-  },
-  {
-    "id": "sj:45fec14d-2001-41b9-802c-251d000290e1",
-    "company": "APEX Analytix",
-    "title": "Data Engineering Intern - Summer 2027",
-    "location": "Greensboro, NC (Other)",
-    "url": "https://ats.rippling.com/apexanalytix-careers/jobs/52353bce-cb36-423f-ae0a-f2057ef3b5d9"
-  },
-  {
-    "id": "sj:00026218-6b9b-420f-a490-b3b29742cf17",
-    "company": "APEX Analytix",
-    "title": "Data Analyst Intern - Summer 2027",
-    "location": "Greensboro, NC (Other)",
-    "url": "https://ats.rippling.com/apexanalytix-careers/jobs/e275fd70-45a3-4a64-8688-cace8a3f87ef"
-  },
-  {
-    "id": "sj:4c81f85e-2b26-4deb-8711-3bf27be310ef",
-    "company": "Illinois Tool Works",
-    "title": "Product Management Intern",
-    "location": "Troy, OH (Other)",
-    "url": "https://careers.itw.com/global/en/job/JR10105"
-  },
-  {
-    "id": "sj:cb134c63-620d-4f0e-966c-ae3c7a03d34b",
-    "company": "Elire",
-    "title": "AI Data Science Consulting Intern - Knowledge Graphs & Enterprise Data",
-    "location": "Remote in USA; Minneapolis, MN (Other)",
-    "url": "https://jobs.jobvite.com/elire/job/oppLAfwT?nl=1&nl=1&fr=false"
-  },
-  {
-    "id": "sj:229689bf-b48d-4ba7-876d-c683215799d0",
-    "company": "Alliance Laundry Systems",
-    "title": "Data & Analytics Intern",
-    "location": "Ripon, WI (Other)",
-    "url": "https://uscareeropenings-alliancelaundry.icims.com/jobs/13162/job?mobile=true&needsRedirect=false"
-  },
-  {
-    "id": "sj:eaba03ef-757c-4560-a1c4-a278da9a00f3",
-    "company": "HF Sinclair",
-    "title": "IT Data Analytics Intern",
-    "location": "Dallas, TX (Other)",
-    "url": "https://careers.hfsinclair.com/job/Dallas-IT-Data-Analytics-Intern-TX-75219/1430072400/?ats=successfactors"
   }
 ]
