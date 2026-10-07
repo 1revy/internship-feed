@@ -1,5 +1,19 @@
 [
   {
+    "id": "sj:8a8f9aee-a750-4b17-a552-e19c07344085",
+    "company": "Lowe's",
+    "title": "Store Operations Corporate Facilities Intern",
+    "location": "Mooresville, NC (Other)",
+    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Mooresville-NC-SSC-1999/Store-Operations-Corporate-Facilities---Undergrad-Internship---Summer-2027_JR-02650834-1"
+  },
+  {
+    "id": "sj:c15b6c17-1727-4aaf-8fe1-537a96872d7b",
+    "company": "Zurn Elkay Water Solutions",
+    "title": "Product Management Intern - Summer 2027",
+    "location": "Erie, PA (Other)",
+    "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Erie-PA/Product-Management-Intern---Summer-2027_REQ-020103-1"
+  },
+  {
     "id": "sj:3d114c80-b3b3-4c00-bd97-baf23f379b01",
     "company": "McKesson",
     "title": "Business Analyst Intern - Product Performance",
@@ -2793,6 +2807,13 @@
     "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/El-Segundo-CA/University--2027-Summer-Games-Data-Scientist-Intern_R0248050"
   },
   {
+    "id": "sj:30f88aa1-c8c9-4587-808f-a3954162cf45",
+    "company": "Marsh",
+    "title": "Summer Analyst Intern - Data and Analytics",
+    "location": "Toronto, ON, Canada (Other)",
+    "url": "https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Toronto---Bremner/Oliver-Wyman---Summer-Analyst-2027---Data-and-Analytics--DNA----Toronto_R_363727-1"
+  },
+  {
     "id": "sj:38a986fa-b190-4465-b469-3c68fa8f62f4",
     "company": "Elk Valley Resources",
     "title": "Geographic Information Systems Co-op",
@@ -4151,6 +4172,13 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Data-Processing-Developer-Technology-Intern---2027_JR2024708"
   },
   {
+    "id": "sj:a6a5ed46-6265-445b-abcd-f0a3316ee4ec",
+    "company": "Waymo",
+    "title": "Research Intern - Perception Foundation Models",
+    "location": "Mountain View, CA (Other)",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8257801"
+  },
+  {
     "id": "sj:8db764f7-caf2-46e5-88d8-976776e63ec3",
     "company": "Niantic Spatial",
     "title": "Software Engineer Intern",
@@ -4184,6 +4212,13 @@
     "title": "Intern",
     "location": "Mountain View, CA (Other)",
     "url": "https://careers.withwaymo.com/jobs?gh_jid=8250220"
+  },
+  {
+    "id": "sj:d4dd7283-a6c1-4f08-a631-ba840bf2b7ef",
+    "company": "Waymo",
+    "title": "Intern - Multiple Teams",
+    "location": "Mountain View, CA (Other)",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8257660"
   },
   {
     "id": "sj:b83f3fb8-0a55-4eed-82f6-9b98a78af0e9",
@@ -4338,6 +4373,20 @@
     "title": "Enterprise Sustainability & Impact Intern - Modeling & Analytics",
     "location": "Milwaukee, WI (Other)",
     "url": "https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Enterprise-Sustainability---Impact-Intern---Modeling---Analytics--Summer-2027_JR-46171"
+  },
+  {
+    "id": "sj:1fd32548-9b70-43de-815b-740a8ac20359",
+    "company": "F5",
+    "title": "Software Developer Intern",
+    "location": "San Jose, CA (Other)",
+    "url": "https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/San-Jose/Software-Development-Engineer-Intern--San-Jose--CA-_RP1039076"
+  },
+  {
+    "id": "sj:f837be5e-a836-41f8-ae75-18dafffcf33a",
+    "company": "Highmark Health",
+    "title": "Market Analytics Graduate Intern",
+    "location": "Pittsburgh, PA (Other)",
+    "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-FAP-5th-Avenue-Place/Summer-2027-Market-Analytics-Graduate-Intern_J285906"
   },
   {
     "id": "sj:b1048256-c61c-403f-80b6-70efb51fdd0e",
@@ -6949,54 +6998,5 @@
     "title": "ISC Analytics Intern",
     "location": "Bloomington, MN (Other)",
     "url": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/ISC-Analytics-Intern---The-Toro-Company_JR17246"
-  },
-  {
-    "id": "sj:c54c66c0-44fb-477d-906d-1544410c81ce",
-    "company": "Philips",
-    "title": "Service Sales Intern - IB Focus",
-    "location": "Nashville, TN (Other)",
-    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Nashville-Tennessee-United-States/Intern--Service-Sales-IB-Focus-Nashville--TN-Summer-2027_590899"
-  },
-  {
-    "id": "sj:232751f3-952f-47d4-922c-fd11763f1d6a",
-    "company": "LexisNexis Legal & Professional",
-    "title": "Software Engineer Intern",
-    "location": "Raleigh, NC (Other)",
-    "url": "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/Raleigh-NC/Software-Engineer-Internship_R118692"
-  },
-  {
-    "id": "sj:6def5885-4069-4cfa-af8b-08cbc9cefa2d",
-    "company": "Plastipak",
-    "title": "Software Engineer Intern",
-    "location": "Plymouth, MI (Other)",
-    "url": "https://plastipak.wd1.myworkdayjobs.com/en-US/Plastipak/job/Plastipak-GBTC---Plymouth-MI/Software-Engineering-Intern---Summer-2027_REQ24512"
-  },
-  {
-    "id": "sj:06de0769-fb7b-4a7e-9229-b21b568a3f92",
-    "company": "U.S. Bank",
-    "title": "Engineering Intern",
-    "location": "Hopkins, MN (Other)",
-    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Hopkins-MN/XMLNAME-2027-Engineering-Summer-Intern_2026-0025769"
-  },
-  {
-    "id": "sj:ca035415-b41d-4d0c-b07f-571c22ab04bb",
-    "company": "RTX",
-    "title": "Software Engineer Intern",
-    "location": "Marlborough, MA (Other)",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA4--1001-Boston-Post-Rd--BLDG-4/Software-Engineering-Intern--Summer-2027-_01874955"
-  },
-  {
-    "id": "sj:3d95bcdf-2f09-4165-bc24-f02c7f7ad6e7",
-    "company": "Dallas Fort Worth International Airport",
-    "title": "Undergraduate Summer Intern",
-    "location": "Dallas, TX (Other)",
-    "url": "https://dfwairport.wd5.myworkdayjobs.com/External/job/DFW-Intl-Airport-Board/XMLNAME-2027-Undergraduate-Summer-Internship---Customer-Experience-Insights---Analytics_JR102114"
-  },
-  {
-    "id": "sj:4c2e5fe2-a3e6-4d00-ac53-11343dc121dc",
-    "company": "Johnson & Johnson",
-    "title": "Software Engineer Intern - Robotics R&D",
-    "location": "Santa Clara, CA (Other)",
-    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/Software-Engineering-Intern---Robotics-R-D_R-099919"
   }
 ]
