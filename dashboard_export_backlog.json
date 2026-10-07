@@ -1,5 +1,33 @@
 [
   {
+    "id": "sj:5a8903ad-99db-44a3-9d28-ce841606a837",
+    "company": "Sun Life",
+    "title": "Reporting Analyst Co-op",
+    "location": "Wellesley, MA (Other)",
+    "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Wellesley-Hills-Massachusetts/Reporting-Analyst-Co-op---Spring-2027_JR00127633"
+  },
+  {
+    "id": "sj:d5ddbbc1-95eb-4897-9439-0d28ec2f608e",
+    "company": "Nasdaq",
+    "title": "Product Owner Intern",
+    "location": "Atlanta, GA (Other)",
+    "url": "https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/GA---Glenridge-Point/Product-Owner-Intern---2027-Summer-Internship_R0026976"
+  },
+  {
+    "id": "sj:674b6824-6b78-406d-80dc-1f26ba47bbd1",
+    "company": "Teledyne",
+    "title": "Systems Engineering Intern - Summer 2027",
+    "location": "Huntsville, AL (Other)",
+    "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/EADSIM-MBSE-Intern--Summer-2027-_REQ36670-1"
+  },
+  {
+    "id": "sj:f82e3471-72f0-48d8-b603-88faa3e7bcc0",
+    "company": "AspenTech",
+    "title": "Project Engineering Intern - Digital Grid Management",
+    "location": "Medina, MN (Other)",
+    "url": "https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Medina-Minnesota/Project-Engineering-Intern---Digital-Grid-Management---Summer-2027_R9457"
+  },
+  {
     "id": "sj:eca868f5-7a43-4aba-a570-ae7f93664ff3",
     "company": "AspenTech",
     "title": "Product Owner Intern - Product Management",
@@ -4193,11 +4221,39 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Data-Processing-Developer-Technology-Intern---2027_JR2024708"
   },
   {
+    "id": "sj:258d5748-3766-4b86-b1f1-7672e1c66cef",
+    "company": "S&C Electric Company",
+    "title": "Software Engineer Intern",
+    "location": "Chicago, IL (Other)",
+    "url": "https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107374"
+  },
+  {
     "id": "sj:a6a5ed46-6265-445b-abcd-f0a3316ee4ec",
     "company": "Waymo",
     "title": "Research Intern - Perception Foundation Models",
     "location": "Mountain View, CA (Other)",
     "url": "https://careers.withwaymo.com/jobs?gh_jid=8257801"
+  },
+  {
+    "id": "sj:63ef67dc-65c7-4d5c-bda2-83d8c17308b5",
+    "company": "Autodesk",
+    "title": "Research Intern - AI Research",
+    "location": "Toronto, ON, Canada (Other)",
+    "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/PhD-Researcher--AI-Research_26WD101373-1"
+  },
+  {
+    "id": "sj:c9d78b85-421a-47ce-87a0-06184243c324",
+    "company": "Autodesk",
+    "title": "Research Intern - AI Research",
+    "location": "Toronto, ON, Canada (Other)",
+    "url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Toronto-ON-CAN/PhD-Researcher--AI-Research_26WD101373"
+  },
+  {
+    "id": "sj:78a00951-890f-474e-94ee-6e0cc1a2b9f7",
+    "company": "Northrop Grumman",
+    "title": "Software Developer Intern",
+    "location": "Chantilly, VA (Other)",
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Chantilly/XMLNAME-2027-Software-Developer-Intern--Chantilly-VA_R10254863-1"
   },
   {
     "id": "sj:8db764f7-caf2-46e5-88d8-976776e63ec3",
@@ -6942,61 +6998,5 @@
     "title": "AI Agent Development Intern",
     "location": "New Orleans, LA; The Woodlands, TX; Hammond, LA (Other)",
     "url": "https://jobs.entergy.com/job/New-Orleans-Student-Intern-AI-Summer-2027-Loui/1430182400/?ats=successfactors"
-  },
-  {
-    "id": "sj:5d113196-e5fd-48bb-9ca5-3ffccfb4683d",
-    "company": "SimVentions",
-    "title": "Software Development Intern",
-    "location": "Fredericksburg, VA (Other)",
-    "url": "https://simventions.jibeapply.com/jobs/1631?icims=1"
-  },
-  {
-    "id": "sj:522c9cc1-46d9-410c-b293-fd64ac385b20",
-    "company": "Wellmark",
-    "title": "Software Engineer Intern",
-    "location": "Des Moines, IA (Other)",
-    "url": "https://jobs.smartrecruiters.com/WellmarkInc/744000149684819"
-  },
-  {
-    "id": "sj:fba89481-0b7d-445a-8095-d1343c53c916",
-    "company": "HF Sinclair",
-    "title": "Reporting & Analytics Intern",
-    "location": "Dallas, TX (Other)",
-    "url": "https://careers.hfsinclair.com/job/Dallas-Reporting-&-Analytics-Intern-TX-75219/1430067400/?ats=successfactors"
-  },
-  {
-    "id": "sj:a8c12424-098d-4d97-9658-8820b0fdac3e",
-    "company": "Huntington Ingalls Industries",
-    "title": "Computer Engineering Intern",
-    "location": "Pascagoula, MS (Other)",
-    "url": "https://careers.huntingtoningalls.com/job/Pascagoula-2027-COLLEGE-SUMMER-INTERN-COMPUTER-ENGINEERING-Miss/1430053700/?ats=successfactors"
-  },
-  {
-    "id": "sj:ea0fba80-15e5-4a2e-829e-38a6fde13be8",
-    "company": "DoorDash",
-    "title": "Software Engineer Intern",
-    "location": "Toronto, ON, Canada (Other)",
-    "url": "https://job-boards.greenhouse.io/doordashcanada/jobs/8170944"
-  },
-  {
-    "id": "sj:26b3de5f-72c0-4567-8e63-fac11ea93bff",
-    "company": "Superhuman",
-    "title": "Software Engineer Intern",
-    "location": "Toronto, ON, Canada (Other)",
-    "url": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/5f1f25ee-709d-4ae0-ada4-d1f243bde89c/application?embed=true"
-  },
-  {
-    "id": "sj:593f743d-dbf9-4e74-97a9-3e11236aaddd",
-    "company": "CAI",
-    "title": "Software Developer Intern",
-    "location": "Pennsylvania (Other)",
-    "url": "https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Software-Developer-Intern_R8462"
-  },
-  {
-    "id": "sj:3b8a1e9c-95f0-48a6-9240-24d3f59f6835",
-    "company": "General Dynamics Information Technology",
-    "title": "Software Development Intern",
-    "location": "Falls Church, VA (Other)",
-    "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church/Summer-2027-Software-Development-Internship_RQ228406"
   }
 ]
