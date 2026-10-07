@@ -1673,6 +1673,13 @@
     "url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/London-UK/Data-Science-Machine-Learning-Internship--Summer-2027-_R1345"
   },
   {
+    "id": "sj:9e2e6559-0af7-4f08-8cca-e4a650d95b46",
+    "company": "Anduril",
+    "title": "Software Engineer Intern",
+    "location": "London, UK (London / Paris)",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5255902007"
+  },
+  {
     "id": "sj:a5aa21ec-f587-41ab-bbf9-c451cbfe777b",
     "company": "Cloudflare",
     "title": "Software Engineer Intern",
@@ -1890,11 +1897,25 @@
     "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002"
   },
   {
+    "id": "sj:b02141a2-8d29-4f0b-b7a7-280a77592468",
+    "company": "GuideWell Mutual",
+    "title": "IT Graduate Internship - Multiple Teams",
+    "location": "Jacksonville, FL (Other)",
+    "url": "http://fa-etum-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/42182"
+  },
+  {
     "id": "sj:bb6a3336-da15-4b50-b989-9e84766d0e86",
     "company": "Meta",
     "title": "Data Scientist Intern - Product Analytics",
     "location": "Menlo Park, CA (Other)",
     "url": "https://www.metacareers.com/jobs/929757023499411"
+  },
+  {
+    "id": "sj:26dd2b73-7f9e-47f3-8c63-9003aec2977e",
+    "company": "Auto-Owners Insurance",
+    "title": "Business Intelligence Engineer Intern",
+    "location": "Lansing, MI (Other)",
+    "url": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Business-Intelligence-Engineering-Intern---Summer-2027_R_14662"
   },
   {
     "id": "sj:e0b3cbee-7fd0-464e-a195-d3e925f3e990",
@@ -2455,6 +2476,13 @@
     "title": "Product Management Intern",
     "location": "Northbrook, IL; Chicago, IL (Other)",
     "url": "https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/10625"
+  },
+  {
+    "id": "sj:d1dc4ba6-e31d-45f7-951e-0d48b6d86048",
+    "company": "Boston Scientific",
+    "title": "R&D Research Data Science Intern",
+    "location": "United States (Other)",
+    "url": "https://bostonscientific.eightfold.ai/careers/job/563602813667382"
   },
   {
     "id": "sj:1e39ef9b-ab50-405f-808e-28002f4fc72f",
@@ -3470,33 +3498,5 @@
     "title": "IT Developer Intern",
     "location": "Springfield, MO (Other)",
     "url": "https://basspro.wd1.myworkdayjobs.com/careers/job/Springfield-MO-Bass-Pro-Shops-Base-Camp/IT-Developer-Intern-Summer-2027_R267441-1"
-  },
-  {
-    "id": "sj:5a8903ad-99db-44a3-9d28-ce841606a837",
-    "company": "Sun Life",
-    "title": "Reporting Analyst Co-op",
-    "location": "Wellesley, MA (Other)",
-    "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Wellesley-Hills-Massachusetts/Reporting-Analyst-Co-op---Spring-2027_JR00127633"
-  },
-  {
-    "id": "sj:d5ddbbc1-95eb-4897-9439-0d28ec2f608e",
-    "company": "Nasdaq",
-    "title": "Product Owner Intern",
-    "location": "Atlanta, GA (Other)",
-    "url": "https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/GA---Glenridge-Point/Product-Owner-Intern---2027-Summer-Internship_R0026976"
-  },
-  {
-    "id": "sj:674b6824-6b78-406d-80dc-1f26ba47bbd1",
-    "company": "Teledyne",
-    "title": "Systems Engineering Intern - Summer 2027",
-    "location": "Huntsville, AL (Other)",
-    "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/EADSIM-MBSE-Intern--Summer-2027-_REQ36670-1"
-  },
-  {
-    "id": "sj:f82e3471-72f0-48d8-b603-88faa3e7bcc0",
-    "company": "AspenTech",
-    "title": "Project Engineering Intern - Digital Grid Management",
-    "location": "Medina, MN (Other)",
-    "url": "https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Medina-Minnesota/Project-Engineering-Intern---Digital-Grid-Management---Summer-2027_R9457"
   }
 ]
