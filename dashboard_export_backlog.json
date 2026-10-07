@@ -1,5 +1,68 @@
 [
   {
+    "id": "sj:3d114c80-b3b3-4c00-bd97-baf23f379b01",
+    "company": "McKesson",
+    "title": "Business Analyst Intern - Product Performance",
+    "location": "Irving, TX (Other)",
+    "url": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/Irving-TX-USA---6555-North-State-Highway-161-P001/Business-Analyst-Intern--Product-Performance---Summer-2027_JR0153111"
+  },
+  {
+    "id": "sj:8a9edd16-81d0-4406-9c23-6a35909b252b",
+    "company": "Duolingo",
+    "title": "Associate Product Manager Intern",
+    "location": "Pittsburgh, PA (Other)",
+    "url": "https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8806188002"
+  },
+  {
+    "id": "sj:ca1230ad-cc73-4cd9-a19a-9bfc1d42fb23",
+    "company": "APEX Analytix",
+    "title": "Data Science Intern",
+    "location": "Greensboro, NC (Other)",
+    "url": "https://ats.rippling.com/apexanalytix-careers/jobs/0cfde729-9d23-4186-91a7-464a4b87af53"
+  },
+  {
+    "id": "sj:45fec14d-2001-41b9-802c-251d000290e1",
+    "company": "APEX Analytix",
+    "title": "Data Engineering Intern - Summer 2027",
+    "location": "Greensboro, NC (Other)",
+    "url": "https://ats.rippling.com/apexanalytix-careers/jobs/52353bce-cb36-423f-ae0a-f2057ef3b5d9"
+  },
+  {
+    "id": "sj:00026218-6b9b-420f-a490-b3b29742cf17",
+    "company": "APEX Analytix",
+    "title": "Data Analyst Intern - Summer 2027",
+    "location": "Greensboro, NC (Other)",
+    "url": "https://ats.rippling.com/apexanalytix-careers/jobs/e275fd70-45a3-4a64-8688-cace8a3f87ef"
+  },
+  {
+    "id": "sj:4c81f85e-2b26-4deb-8711-3bf27be310ef",
+    "company": "Illinois Tool Works",
+    "title": "Product Management Intern",
+    "location": "Troy, OH (Other)",
+    "url": "https://careers.itw.com/global/en/job/JR10105"
+  },
+  {
+    "id": "sj:cb134c63-620d-4f0e-966c-ae3c7a03d34b",
+    "company": "Elire",
+    "title": "AI Data Science Consulting Intern - Knowledge Graphs & Enterprise Data",
+    "location": "Remote in USA; Minneapolis, MN (Other)",
+    "url": "https://jobs.jobvite.com/elire/job/oppLAfwT?nl=1&nl=1&fr=false"
+  },
+  {
+    "id": "sj:229689bf-b48d-4ba7-876d-c683215799d0",
+    "company": "Alliance Laundry Systems",
+    "title": "Data & Analytics Intern",
+    "location": "Ripon, WI (Other)",
+    "url": "https://uscareeropenings-alliancelaundry.icims.com/jobs/13162/job?mobile=true&needsRedirect=false"
+  },
+  {
+    "id": "sj:eaba03ef-757c-4560-a1c4-a278da9a00f3",
+    "company": "HF Sinclair",
+    "title": "IT Data Analytics Intern",
+    "location": "Dallas, TX (Other)",
+    "url": "https://careers.hfsinclair.com/job/Dallas-IT-Data-Analytics-Intern-TX-75219/1430072400/?ats=successfactors"
+  },
+  {
     "id": "sj:ebbe3e8b-62a0-49ff-9ee8-7c72fc088c36",
     "company": "Tighe & Bond",
     "title": "GIS Intern - Geographic Information Systems",
@@ -4088,6 +4151,41 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Data-Processing-Developer-Technology-Intern---2027_JR2024708"
   },
   {
+    "id": "sj:8db764f7-caf2-46e5-88d8-976776e63ec3",
+    "company": "Niantic Spatial",
+    "title": "Software Engineer Intern",
+    "location": "SF (Other)",
+    "url": "https://jobs.ashbyhq.com/niantic-spatial/898b2da7-03cd-486e-96e3-3430a148c8fd/application?embed=true"
+  },
+  {
+    "id": "sj:4e64cdd2-076a-4cc8-9b19-76a36026ca2a",
+    "company": "Space Dynamics Laboratory",
+    "title": "Computer Vision Engineer Intern",
+    "location": "North Logan, UT (Other)",
+    "url": "https://spacedynamicslaboratory.applytojob.com/apply/x1yVybua0f/Computer-Vision-Engineer-Intern"
+  },
+  {
+    "id": "sj:4bed7671-153b-4cbc-84ad-30fbb5e3f1f1",
+    "company": "Pure Storage",
+    "title": "Software Engineer Intern",
+    "location": "Santa Clara, CA (Other)",
+    "url": "https://job-boards.greenhouse.io/purestorage/jobs/8249749"
+  },
+  {
+    "id": "sj:978a06db-60f9-4e14-8508-fd5a6dc1b731",
+    "company": "Electronic Arts",
+    "title": "Software Engineer Intern",
+    "location": "Austin, TX (Other)",
+    "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineering-Intern/216240"
+  },
+  {
+    "id": "sj:f5387b71-b243-4149-b269-544b787a751e",
+    "company": "Waymo",
+    "title": "Intern",
+    "location": "Mountain View, CA (Other)",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8250220"
+  },
+  {
     "id": "sj:b83f3fb8-0a55-4eed-82f6-9b98a78af0e9",
     "company": "Space Dynamics Laboratory",
     "title": "Software Engineer Intern - Software, AI, & Machine Learning",
@@ -4184,6 +4282,62 @@
     "title": "Software Engineer Intern",
     "location": "Belfast, UK (Other)",
     "url": "https://osv-rubicon.wd5.myworkdayjobs.com/en-US/MagniteCareers/job/United-Kingdom---Belfast/Software-Engineer---Student-Placement--Queens-University-Only-_R-01418"
+  },
+  {
+    "id": "sj:7247481e-2c0a-4c44-8cec-06c87a3a591e",
+    "company": "Leidos",
+    "title": "Software Engineer Intern",
+    "location": "Arlington County, Arlington, VA (Other)",
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Software-Engineer-Intern_R-00193933"
+  },
+  {
+    "id": "sj:6682ab3e-72f8-49a9-928c-220d51a81e0d",
+    "company": "F5",
+    "title": "Software Development Engineer Intern",
+    "location": "Seattle, WA (Other)",
+    "url": "https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/Seattle/Software-Development-Engineer-Intern--Seattle--WA-_RP1039073"
+  },
+  {
+    "id": "sj:e0c88ae2-81b7-41b3-9fde-093c76046d48",
+    "company": "RTX",
+    "title": "Software Engineer Intern",
+    "location": "Cedar Rapids, IA (Other)",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-124--400-Collins-Rd-NE--BLDG-124/Software-Engineering-Intern--Summer-2027-_01871884"
+  },
+  {
+    "id": "sj:95c4cff1-400b-4054-ab5a-96b8ea6662dd",
+    "company": "Royal Bank of Canada",
+    "title": "Capital Markets Intern - Quantitative Technology Services",
+    "location": "Raleigh, NC (Other)",
+    "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/8081-ARCO-CORPORATE-DRIVERALEIGH/XMLNAME-2027-Capital-Markets--Quantitative-Technology-Services-Summer--Raleigh_R-0000189675"
+  },
+  {
+    "id": "sj:f8e5913f-abf8-4eed-838d-d784c5b7907b",
+    "company": "ABB",
+    "title": "AI Engineering ERP Intern",
+    "location": "Cary, NC (Other)",
+    "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/AI-Engineering--ERP-Intern--Summer-2027_JR00048711"
+  },
+  {
+    "id": "sj:8589e736-e764-4e59-af65-09175e33184b",
+    "company": "Capital One",
+    "title": "Full Stack Software Engineer Intern",
+    "location": "Toronto, ON, Canada (Other)",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Summer-2027_R1003143"
+  },
+  {
+    "id": "sj:b422fbdd-5320-4c3c-898d-cf986da0640f",
+    "company": "Jabil",
+    "title": "AI Transformation Intern",
+    "location": "Austin, TX (Other)",
+    "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Austin-TX/AI-Transformation-Intern_J2466044"
+  },
+  {
+    "id": "sj:900cb2e6-bb32-47f1-b267-ed7ef0f7142a",
+    "company": "Northwestern Mutual",
+    "title": "Enterprise Sustainability & Impact Intern - Modeling & Analytics",
+    "location": "Milwaukee, WI (Other)",
+    "url": "https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Enterprise-Sustainability---Impact-Intern---Modeling---Analytics--Summer-2027_JR-46171"
   },
   {
     "id": "sj:b1048256-c61c-403f-80b6-70efb51fdd0e",
@@ -6844,159 +6998,5 @@
     "title": "Software Engineer Intern - Robotics R&D",
     "location": "Santa Clara, CA (Other)",
     "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/Software-Engineering-Intern---Robotics-R-D_R-099919"
-  },
-  {
-    "id": "sj:4746059c-ea14-45da-b685-80d31e68d2e2",
-    "company": "Q2",
-    "title": "Software Engineer Intern",
-    "location": "Austin, TX (Other)",
-    "url": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-Texas/XMLNAME-2027-Summer-Internship---Software-Engineer_REQ-12794"
-  },
-  {
-    "id": "sj:40089e3d-a032-4dd1-845c-110e7d0a7481",
-    "company": "Q2",
-    "title": "Machine Learning Intern",
-    "location": "Austin, TX (Other)",
-    "url": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-Texas/XMLNAME-2027-Summer-Internship---Machine-Learning-Engineer_REQ-12797"
-  },
-  {
-    "id": "sj:825ddc18-52db-497b-a5b3-68807da12886",
-    "company": "RTX",
-    "title": "Software Engineer Intern",
-    "location": "Annapolis, MD (Other)",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MD-ANNAPOLIS-905--2551-Riva-Rd--BLDG-905/Software-Engineer-Intern--Summer-2027-_01873556"
-  },
-  {
-    "id": "sj:4d33923f-011e-4c9c-8e39-4a4f417686d7",
-    "company": "Waymo",
-    "title": "Software Engineering Intern - Commercialization",
-    "location": "SF; Mountain View, CA (Other)",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=8198218"
-  },
-  {
-    "id": "sj:b7be327f-10fa-4775-8a1c-183ea4b062ce",
-    "company": "Awardco",
-    "title": "Front-End Software Engineer Intern",
-    "location": "Lindon, UT (Other)",
-    "url": "https://award.co/position?gh_jid=4136562004"
-  },
-  {
-    "id": "sj:c64a512f-2622-44bb-9b61-40e707833008",
-    "company": "Awardco",
-    "title": "Back-End Software Engineer Intern",
-    "location": "Lindon, UT (Other)",
-    "url": "https://award.co/position?gh_jid=4322220004"
-  },
-  {
-    "id": "sj:36e1c66a-1cae-4b36-b414-d74b38a44a7f",
-    "company": "Workshop",
-    "title": "Software Engineer Intern",
-    "location": "Omaha, NE (Other)",
-    "url": "https://job-boards.greenhouse.io/workshop/jobs/5237900007"
-  },
-  {
-    "id": "sj:e2f7c0c3-2949-4bbc-bd78-e4cc58de5884",
-    "company": "OpenGov",
-    "title": "Software Engineer Intern",
-    "location": "Boston, MA (Other)",
-    "url": "https://jobs.ashbyhq.com/opengov/c31622c1-be01-4d4a-b7cf-d116be84cc08/application?embed=true"
-  },
-  {
-    "id": "sj:5dd56415-18be-4d9a-9af3-671669a58563",
-    "company": "Intuit",
-    "title": "AI Research Intern",
-    "location": "Mountain View, CA (Other)",
-    "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-phd-ai-research-intern/27595/100620927776"
-  },
-  {
-    "id": "sj:a57d347e-4ce0-4590-bf80-9368dd106660",
-    "company": "Intuit",
-    "title": "Software Engineer Intern - Cybersecurity",
-    "location": "Mountain View, CA (Other)",
-    "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-cybersecurity/27595/100620927616"
-  },
-  {
-    "id": "sj:c2a0262e-8fac-4306-9c0f-0ef0424bb16a",
-    "company": "National Life",
-    "title": "Market Research Intern",
-    "location": "Montpelier, VT; Addison, TX (Other)",
-    "url": "https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4403863009"
-  },
-  {
-    "id": "sj:efa4bb78-1704-403b-903f-cc0df69e06a1",
-    "company": "EquipmentShare",
-    "title": "Software Engineer Intern",
-    "location": "Columbia, MO (Other)",
-    "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=8188926"
-  },
-  {
-    "id": "sj:b527b34d-0364-42a6-9fbc-c21274a053eb",
-    "company": "EquipmentShare",
-    "title": "Software Engineer Intern",
-    "location": "Columbia, MO (Other)",
-    "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=8188474"
-  },
-  {
-    "id": "sj:b87b3f2f-c0e6-456a-a1b6-6c62b7d65970",
-    "company": "EquipmentShare",
-    "title": "Software Engineer Intern",
-    "location": "Columbia, MO (Other)",
-    "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=8188802"
-  },
-  {
-    "id": "sj:9d613826-b169-4950-9be3-779d329aab98",
-    "company": "Tive",
-    "title": "Software Engineer Co-op",
-    "location": "Boston, MA (Other)",
-    "url": "https://ats.rippling.com/tive-careers/jobs/c88ab3d3-a8e7-4639-b95b-d6c9b5290dd0"
-  },
-  {
-    "id": "sj:555a5129-471f-4c93-8e7b-aa4a1996fa61",
-    "company": "Waymo",
-    "title": "Human Behavior Analytics Intern - Safety Research",
-    "location": "Mountain View, CA (Other)",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=8197899"
-  },
-  {
-    "id": "sj:a9c87258-44b4-479b-b798-056f263de8b8",
-    "company": "North Atlantic Industries",
-    "title": "Full Stack Software Engineer Intern - Summer 2027",
-    "location": "Bohemia, NY (Other)",
-    "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4501054"
-  },
-  {
-    "id": "sj:1641054b-4682-4012-95fb-6d5cf73457ca",
-    "company": "Highgate",
-    "title": "Revenue Management Intern - Summer 2027",
-    "location": "SF (Other)",
-    "url": "https://externalhourly-highgate.icims.com/jobs/82510/job?hub=7&mobile=true&needsRedirect=false"
-  },
-  {
-    "id": "sj:ed6d741a-4749-4428-a9e6-418e0beeee88",
-    "company": "Highgate",
-    "title": "Revenue Management Intern",
-    "location": "LA (Other)",
-    "url": "https://externalhourly-highgate.icims.com/jobs/82509/job?hub=7&mobile=true&needsRedirect=false"
-  },
-  {
-    "id": "sj:76ef25fd-801d-4c81-9867-64085601c325",
-    "company": "Highgate",
-    "title": "Revenue Management Intern - Summer 2027",
-    "location": "Boston, MA (Other)",
-    "url": "https://externalhourly-highgate.icims.com/jobs/82512/job?hub=7&mobile=true&needsRedirect=false"
-  },
-  {
-    "id": "sj:e7bcc39a-7fdd-453f-b556-1ee9c411c5c9",
-    "company": "Highgate",
-    "title": "Revenue Management Intern - Summer 2027",
-    "location": "Miami, FL (Other)",
-    "url": "https://externalhourly-highgate.icims.com/jobs/82513/job?hub=7&mobile=true&needsRedirect=false"
-  },
-  {
-    "id": "sj:5cb3b2a7-3eeb-40f0-80ff-9f30db32b389",
-    "company": "Emerson Electric",
-    "title": "Software Engineer Co-op",
-    "location": "Eden Prairie, MN (Other)",
-    "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010048"
   }
 ]
