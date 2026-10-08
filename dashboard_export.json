@@ -1932,6 +1932,13 @@
     "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002"
   },
   {
+    "id": "sj:cc8ac2c6-0874-480d-89fe-1ba79e6af0d9",
+    "company": "Koch Industries",
+    "title": "Data Science Intern",
+    "location": "Atlanta, GA (Other)",
+    "url": "https://koch.avature.net/en_US/careers/JobDetail/195341"
+  },
+  {
     "id": "sj:60881082-3930-422a-9543-38028c8e9208",
     "company": "Amazon",
     "title": "Business Intelligence Engineer Intern",
@@ -3491,12 +3498,5 @@
     "title": "Data Engineering Intern - Atlanta Tech Hub - Data Engineering",
     "location": "Atlanta, GA (Other)",
     "url": "https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Atlanta-Georgia/Data-Engineering-Internship_R-57330"
-  },
-  {
-    "id": "sj:0e448097-d3c8-4048-ba9b-48eed71328d0",
-    "company": "Generac",
-    "title": "Data Science Intern - Summer 2027",
-    "location": "Pewaukee, WI; Waukesha, WI (Other)",
-    "url": "https://generac.wd5.myworkdayjobs.com/en-US/external/job/Waukesha-WI---USA/Data-Science-Intern---Summer-2027_JR17001"
   }
 ]
