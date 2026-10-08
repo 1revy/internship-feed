@@ -1,5 +1,12 @@
 [
   {
+    "id": "sj:0e448097-d3c8-4048-ba9b-48eed71328d0",
+    "company": "Generac",
+    "title": "Data Science Intern - Summer 2027",
+    "location": "Pewaukee, WI; Waukesha, WI (Other)",
+    "url": "https://generac.wd5.myworkdayjobs.com/en-US/external/job/Waukesha-WI---USA/Data-Science-Intern---Summer-2027_JR17001"
+  },
+  {
     "id": "sj:5304fddb-8f6b-4252-8dcd-417e6095ccf9",
     "company": "Gordon Food Service",
     "title": "Digital Product Management Intern",
@@ -4368,6 +4375,27 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Data-Processing-Developer-Technology-Intern---2027_JR2024708"
   },
   {
+    "id": "sj:06c059c8-97ea-4a18-89f3-647a18372e06",
+    "company": "Rugged Robotics",
+    "title": "Robotics Software Intern Co-op",
+    "location": "Houston, TX (Other)",
+    "url": "https://job-boards.greenhouse.io/ruggedrobotics/jobs/4730908005"
+  },
+  {
+    "id": "sj:66fcf084-7f7c-43ed-8947-83179031963c",
+    "company": "DoorDash",
+    "title": "Software Engineer Intern",
+    "location": "SF; Sunnyvale, CA (Other)",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8263774"
+  },
+  {
+    "id": "sj:5b324f86-93db-4206-a6be-2406d36267e0",
+    "company": "TikTok",
+    "title": "Machine Learning Engineer Intern - Monetization Technology - Ads Core Global",
+    "location": "San Jose, CA (Other)",
+    "url": "https://lifeattiktok.com/search/7687630614472149301"
+  },
+  {
     "id": "sj:f5c083c4-8c51-47e5-b0b9-9e74ab87ed5f",
     "company": "TikTok",
     "title": "Machine Learning Engineer Intern",
@@ -4387,6 +4415,13 @@
     "title": "Machine Learning Engineer Intern",
     "location": "San Jose, CA (Other)",
     "url": "https://lifeattiktok.com/search/7694044547207268661"
+  },
+  {
+    "id": "sj:6ef197b4-1ae6-4a42-a81e-80e6283959fd",
+    "company": "Lowe's",
+    "title": "PRO Services Reporting Intern",
+    "location": "Mooresville, NC (Other)",
+    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Mooresville-NC-SSC-1999/PRO-Services-Reporting-Intern---Undergrad-Internship---Summer-2027-_JR-02672698"
   },
   {
     "id": "sj:a8655c72-8299-4087-b0ad-d93807cef979",
@@ -6963,40 +6998,5 @@
     "title": "Software Engineer Intern",
     "location": "Houston, TX (Other)",
     "url": "https://axiomspace.wd5.myworkdayjobs.com/External_Career_Site/job/Software-Engineering-Intern--Summer-2026-_JR100691"
-  },
-  {
-    "id": "sj:5efdb72a-819f-4637-a0fb-6f7ed73f2383",
-    "company": "Waymo",
-    "title": "Machine Learning Intern - Computer Vision",
-    "location": "Mountain View, CA (Other)",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=8202025"
-  },
-  {
-    "id": "sj:e30c1cc5-e220-4fd3-acc3-db8af1dcd0f5",
-    "company": "Waymo",
-    "title": "Quantitative Software Engineer Intern",
-    "location": "SF; Mountain View, CA (Other)",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=8197554"
-  },
-  {
-    "id": "sj:0e6b54b7-af1e-4918-8224-6720703ec563",
-    "company": "Apera AI",
-    "title": "Software Developer Co-op - Full Stack",
-    "location": "Vancouver, BC, Canada (Other)",
-    "url": "https://job-boards.greenhouse.io/aperaaiinc/jobs/5240259007"
-  },
-  {
-    "id": "sj:b3b5a172-409f-4e54-9248-583177d1ac17",
-    "company": "Persona",
-    "title": "Software Engineer Intern",
-    "location": "SF (Other)",
-    "url": "https://jobs.ashbyhq.com/persona/eb77c97c-fa9d-4bf0-9566-e5ba4453b7d3/application?embed=true"
-  },
-  {
-    "id": "sj:886b58df-3da6-4888-8b8d-ac9eef06b1a7",
-    "company": "Decagon",
-    "title": "Engineering Intern",
-    "location": "SF (Other)",
-    "url": "https://jobs.ashbyhq.com/decagon/16529089-a048-4bc3-8456-3f197135e00b/application?embed=true"
   }
 ]
