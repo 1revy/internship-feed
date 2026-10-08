@@ -1,5 +1,26 @@
 [
   {
+    "id": "sj:5304fddb-8f6b-4252-8dcd-417e6095ccf9",
+    "company": "Gordon Food Service",
+    "title": "Digital Product Management Intern",
+    "location": "Wyoming, MI (Other)",
+    "url": "https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Digital-Product-Management-Internship_R-57336"
+  },
+  {
+    "id": "sj:612d47bb-ecd4-42e3-8669-3af521907136",
+    "company": "The Hartford",
+    "title": "Data Science Intern - Summer 2027",
+    "location": "Chicago, IL; Charlotte, NC; Hartford, CT (Other)",
+    "url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Data-Science-Intern---Summer-2027_R2627114"
+  },
+  {
+    "id": "sj:f1460942-4193-48e7-9877-b9760b3894d0",
+    "company": "Fidelity National Information Services",
+    "title": "Product Management Intern - FIS University Program",
+    "location": "Milwaukee, WI; Jacksonville, FL; Atlanta, GA (Other)",
+    "url": "https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-FL-JAX-347/Intern--Product-Management--FIS-University-Program_JR0309691"
+  },
+  {
     "id": "sj:4d6f38d1-0167-4de7-85c8-e77d8500c99f",
     "company": "Fidelity National Information Services",
     "title": "Data Analytics and AI Intern - FIS University Program",
@@ -4347,6 +4368,27 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Data-Processing-Developer-Technology-Intern---2027_JR2024708"
   },
   {
+    "id": "sj:f5c083c4-8c51-47e5-b0b9-9e74ab87ed5f",
+    "company": "TikTok",
+    "title": "Machine Learning Engineer Intern",
+    "location": "San Jose, CA (Other)",
+    "url": "https://lifeattiktok.com/search/7694045967754889477"
+  },
+  {
+    "id": "sj:c86990e8-5906-48ea-8deb-30f4e1e7d069",
+    "company": "TikTok",
+    "title": "Machine Learning Engineer Intern",
+    "location": "San Jose, CA (Other)",
+    "url": "https://lifeattiktok.com/search/7694045969156426037"
+  },
+  {
+    "id": "sj:168a65f0-560f-4f1d-bdb8-105eaa141d0f",
+    "company": "TikTok",
+    "title": "Machine Learning Engineer Intern",
+    "location": "San Jose, CA (Other)",
+    "url": "https://lifeattiktok.com/search/7694044547207268661"
+  },
+  {
     "id": "sj:a8655c72-8299-4087-b0ad-d93807cef979",
     "company": "Illinois Tool Works",
     "title": "Software Engineer Intern - Application Software",
@@ -4457,6 +4499,34 @@
     "title": "AI Enablement Intern",
     "location": "Texas; Florida; Missouri (Other)",
     "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/AI-Enablement-Intern--Undergraduate---Summer-2027-_1662038"
+  },
+  {
+    "id": "sj:69466e79-6419-41e0-9f96-b3560e811b54",
+    "company": "Salesforce",
+    "title": "Tableau Research Intern",
+    "location": "Palo Alto, CA; Seattle, WA (Other)",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---Palo-Alto/Summer-2027-Intern---Tableau-Research_JR363252-1"
+  },
+  {
+    "id": "sj:59e8e5c0-e495-4bf8-b281-4b11abaa4653",
+    "company": "Salesforce",
+    "title": "Tableau Research Intern",
+    "location": "Palo Alto, CA; Seattle, WA (Other)",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---Palo-Alto/Summer-2027-Intern---Tableau-Research_JR363252"
+  },
+  {
+    "id": "sj:9824f95e-030c-4a9f-984a-a8e683459e9a",
+    "company": "Motorola",
+    "title": "Software Engineer Intern",
+    "location": "Westminster, CO (Other)",
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Westminster-CO/Software-Engineer---Summer-2027-Internship_R68997"
+  },
+  {
+    "id": "sj:53e2d2ca-2bf9-417b-8c18-b1af4a682042",
+    "company": "Motorola",
+    "title": "Software Development Intern",
+    "location": "St. Petersburg, FL (Other)",
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/St-Petersburg-Business-Center/Software-Development-Intern---Summer-2027-Internship_R68576"
   },
   {
     "id": "sj:8db764f7-caf2-46e5-88d8-976776e63ec3",
@@ -6928,75 +6998,5 @@
     "title": "Engineering Intern",
     "location": "SF (Other)",
     "url": "https://jobs.ashbyhq.com/decagon/16529089-a048-4bc3-8456-3f197135e00b/application?embed=true"
-  },
-  {
-    "id": "sj:b6b0bc09-5fc8-4d8e-ad3f-ffdd70e0315e",
-    "company": "Collier Aerospace",
-    "title": "AI Feature Development Intern - NCSG",
-    "location": "Raleigh, NC (Other)",
-    "url": "https://ats.rippling.com/collieraerospace/jobs/5a8bf9a3-c4f5-4c5a-ba9a-188979106827"
-  },
-  {
-    "id": "sj:7be2e4ed-d0ba-4c23-b8da-b92cee3f07f1",
-    "company": "Ragle Inc",
-    "title": "Software Engineer Intern",
-    "location": "North Richland Hills, TX (Other)",
-    "url": "https://ragleinc.applytojob.com/apply/lonTfWhOqm/Software-Engineer-Intern"
-  },
-  {
-    "id": "sj:18657dfc-cf96-4382-b7e9-95fdbede5696",
-    "company": "AMD",
-    "title": "AI Model Optimization & Software Engineer Intern/Co-op",
-    "location": "San Jose, CA; Santa Clara, CA (Other)",
-    "url": "https://careers.amd.com/jobs/92522?icims=1"
-  },
-  {
-    "id": "sj:3a8e2760-1a1a-4d40-ab39-93714d09030d",
-    "company": "AMD",
-    "title": "AI Model Optimization & Software Engineer Intern/Co-op",
-    "location": "Austin, TX (Other)",
-    "url": "https://careers.amd.com/jobs/92526?icims=1"
-  },
-  {
-    "id": "sj:c582b6e2-b69e-4277-a7e9-2871a23168c4",
-    "company": "CoVar",
-    "title": "Machine Learning Intern",
-    "location": "Durham, NC (Other)",
-    "url": "https://job-boards.greenhouse.io/covar/jobs/5240360007"
-  },
-  {
-    "id": "sj:0b2f3c82-2d4d-43f4-a00c-a4f3cf62a217",
-    "company": "Relay",
-    "title": "Software Engineer Intern - AI/ML",
-    "location": "Raleigh, NC (Other)",
-    "url": "https://job-boards.greenhouse.io/relaypro/jobs/8176774"
-  },
-  {
-    "id": "sj:c4d18418-d4a9-4c9d-900d-4ffe42c1b1c6",
-    "company": "Relay",
-    "title": "Software Engineer Intern - Device Team",
-    "location": "Raleigh, NC (Other)",
-    "url": "https://job-boards.greenhouse.io/relaypro/jobs/8180836"
-  },
-  {
-    "id": "sj:a05d7a49-eb81-476c-8100-ee50da876874",
-    "company": "Enterprise Holdings",
-    "title": "Software Engineer Intern - Summer 2027",
-    "location": "St. Louis, MO (Other)",
-    "url": "https://us-erac.icims.com/jobs/566721/job?mobile=true&needsRedirect=false"
-  },
-  {
-    "id": "sj:25e34297-e8b4-4e9c-8141-ab4dfc4fac2c",
-    "company": "V2X",
-    "title": "Artificial Intelligence Intern",
-    "location": "Indianapolis, IN (Other)",
-    "url": "https://careers.gov2x.com/jobs/62843?icims=1"
-  },
-  {
-    "id": "sj:181b715a-ae37-4310-a5c9-e789017053ec",
-    "company": "Wabash Valley Power Alliance",
-    "title": "Energy Efficiency & Demand Response Intern",
-    "location": "Indianapolis, IN (Other)",
-    "url": "https://jobs.smartrecruiters.com/WabashValleyPowerAlliance/744000149873771"
   }
 ]
