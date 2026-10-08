@@ -1932,6 +1932,20 @@
     "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002"
   },
   {
+    "id": "sj:60881082-3930-422a-9543-38028c8e9208",
+    "company": "Amazon",
+    "title": "Business Intelligence Engineer Intern",
+    "location": "Seattle, WA (Other)",
+    "url": "https://amazon.jobs/en/jobs/10553765/business-intelligence-engineer-internship-2027-us"
+  },
+  {
+    "id": "sj:2ffedaf1-5e57-4490-b50b-d2db5c9c049c",
+    "company": "Amazon",
+    "title": "Data Engineer Intern",
+    "location": "Seattle, WA (Other)",
+    "url": "https://amazon.jobs/en/jobs/10553907/data-engineer-internship-2027-us"
+  },
+  {
     "id": "sj:8ec5b787-1112-4732-8445-4ebc05410902",
     "company": "Phillips 66",
     "title": "Digital & AI Analyst Placement Intern",
@@ -2630,6 +2644,13 @@
     "title": "Medical Economics Analyst Intern",
     "location": "Florida; Missouri (Other)",
     "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Medical-Economics-Intern--Undergraduate---Summer-2027-_1662089"
+  },
+  {
+    "id": "sj:6a1545b0-b5cd-4c8f-8e2b-432ee694bd7d",
+    "company": "Philips",
+    "title": "Digital Healthtech Product Management Intern",
+    "location": "Bothell, WA (Other)",
+    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bothell-Washington-United-States/Intern---Digital-Healthtech-Product-Management---Bothell--WA---Summer-2027_585564"
   },
   {
     "id": "sj:1f8a0413-c78d-4d89-a614-ceba126efdf8",
@@ -3477,26 +3498,5 @@
     "title": "Data Science Intern - Summer 2027",
     "location": "Pewaukee, WI; Waukesha, WI (Other)",
     "url": "https://generac.wd5.myworkdayjobs.com/en-US/external/job/Waukesha-WI---USA/Data-Science-Intern---Summer-2027_JR17001"
-  },
-  {
-    "id": "sj:5304fddb-8f6b-4252-8dcd-417e6095ccf9",
-    "company": "Gordon Food Service",
-    "title": "Digital Product Management Intern",
-    "location": "Wyoming, MI (Other)",
-    "url": "https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Digital-Product-Management-Internship_R-57336"
-  },
-  {
-    "id": "sj:612d47bb-ecd4-42e3-8669-3af521907136",
-    "company": "The Hartford",
-    "title": "Data Science Intern - Summer 2027",
-    "location": "Chicago, IL; Charlotte, NC; Hartford, CT (Other)",
-    "url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Data-Science-Intern---Summer-2027_R2627114"
-  },
-  {
-    "id": "sj:f1460942-4193-48e7-9877-b9760b3894d0",
-    "company": "Fidelity National Information Services",
-    "title": "Product Management Intern - FIS University Program",
-    "location": "Milwaukee, WI; Jacksonville, FL; Atlanta, GA (Other)",
-    "url": "https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-FL-JAX-347/Intern--Product-Management--FIS-University-Program_JR0309691"
   }
 ]
