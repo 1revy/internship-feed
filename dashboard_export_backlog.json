@@ -1,5 +1,26 @@
 [
   {
+    "id": "sj:30a813fa-60dd-46e6-b380-c00124f3422a",
+    "company": "Boston Scientific",
+    "title": "Data Science Co-op",
+    "location": "Maple Grove, MN (Other)",
+    "url": "https://bostonscientific.eightfold.ai/careers/job/563602813600487"
+  },
+  {
+    "id": "sj:294d72a8-7250-41fe-bd01-3c9b0ba1996e",
+    "company": "Honeywell",
+    "title": "Data Science Co-op",
+    "location": "Pittsford, NY (Other)",
+    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/157903"
+  },
+  {
+    "id": "sj:895534e7-93b3-4f74-a9d4-5ed7e45671f7",
+    "company": "W.R. Berkley",
+    "title": "Product Management Analyst Intern - Claims",
+    "location": "Manassas, VA (Other)",
+    "url": "https://careers-berkley.icims.com/jobs/14439/job?mobile=true&needsRedirect=false"
+  },
+  {
     "id": "sj:3b6dc022-3c3c-4202-b427-b53c873fb2d0",
     "company": "onsemi",
     "title": "Data and Visualization Intern",
@@ -4445,6 +4466,27 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Data-Processing-Developer-Technology-Intern---2027_JR2024708"
   },
   {
+    "id": "sj:1564dff4-1455-4c39-8484-e1940718b5df",
+    "company": "WTW",
+    "title": "Software Developer Intern",
+    "location": "Reigate, UK (Other)",
+    "url": "https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202605435"
+  },
+  {
+    "id": "sj:612b75fd-3a87-4038-8d14-df65b4ef144a",
+    "company": "NVIDIA",
+    "title": "CPU Compiler Intern",
+    "location": "Cambridge, UK (Other)",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Cambridge/CPU-Compiler-Intern---2027_JR2027251"
+  },
+  {
+    "id": "sj:d3a06147-0758-442a-a7b5-578fcc38219a",
+    "company": "Johnson & Johnson",
+    "title": "Strategic Insight and Analytics Co-op",
+    "location": "Horsham, PA (Other)",
+    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Horsham-Pennsylvania-United-States-of-America/Strategic-Insight-and-Analytics-Co-Op-Off-Cycle--March---August-_R-103640"
+  },
+  {
     "id": "sj:a88c4837-dfcb-4510-8be0-2b25c43d5754",
     "company": "Waymo",
     "title": "Summer Intern - Machine Learning - Planning/Prediction",
@@ -6956,47 +6998,5 @@
     "title": "Software Engineer Intern",
     "location": "Wyoming, MI (Other)",
     "url": "https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Software-Engineer-Internship_R-57377"
-  },
-  {
-    "id": "sj:0198141b-bbd1-4584-9152-523efb2cd1c8",
-    "company": "United Parcel Service",
-    "title": "Industrial Engineering Intern - Americas Region",
-    "location": "United States (Other)",
-    "url": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/XMLNAME-2027-Americas-Region-Industrial-Engineering-Summer-Intern_R26032989"
-  },
-  {
-    "id": "sj:b50df64e-0d8e-4631-a2c7-2da5eb33aaa2",
-    "company": "RTX",
-    "title": "Software Engineering Intern",
-    "location": "Sterling, VA (Other)",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--Summer-2027-_01875780"
-  },
-  {
-    "id": "sj:b1ddd57b-bd0d-4f01-acd3-b803848a6f3f",
-    "company": "Centene",
-    "title": "Analytics Intern",
-    "location": "Florida (Other)",
-    "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-FL/Centene-2027-Graduate-Summer-Intern_1660479"
-  },
-  {
-    "id": "sj:371c8592-d416-40cf-88fb-3f95ac049ad3",
-    "company": "Waymo",
-    "title": "Scenes Intern",
-    "location": "Mountain View, CA (Other)",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=8210170"
-  },
-  {
-    "id": "sj:b2cc2a88-efd8-4b00-b346-0f29ab47dc4f",
-    "company": "Geneva Trading",
-    "title": "AI Engineer Intern",
-    "location": "Chicago, IL (Other)",
-    "url": "https://job-boards.greenhouse.io/genevatrading/jobs/5240107007"
-  },
-  {
-    "id": "sj:3fc82b32-e0d8-454e-9338-670f6758c02e",
-    "company": "Tower Research Capital",
-    "title": "Software Developer Intern",
-    "location": "Montreal, QC, Canada (Other)",
-    "url": "https://www.tower-research.com/open-positions/?gh_jid=8212179"
   }
 ]
