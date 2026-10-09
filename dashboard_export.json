@@ -42,6 +42,13 @@
     "url": "https://www.kkr.com/careers/student-careers/student-career-opportunities/post?gh_jid=6200944004"
   },
   {
+    "id": "sj:05912fa9-0a66-430e-9feb-f3411c4ef531",
+    "company": "Macy's",
+    "title": "Data Systems Intern - Multiple Teams",
+    "location": "NYC (New York)",
+    "url": "https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/93388"
+  },
+  {
     "id": "sj:db62749f-cc63-4330-9dbd-0a828789aba4",
     "company": "Macy's",
     "title": "Summer Intern - Consumer Insights: Customer & Digital Intelligence and Analytics",
@@ -1946,6 +1953,20 @@
     "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002"
   },
   {
+    "id": "sj:8b95518e-7880-4858-a78a-07273d000e53",
+    "company": "Papa John's",
+    "title": "Data Science Intern",
+    "location": "Atlanta, GA (Other)",
+    "url": "https://papajohns.wd1.myworkdayjobs.com/papajohnscareers/job/HQ_Atlanta/XMLNAME-2027-Summer-Intern---Data-Science_R26_0000002157"
+  },
+  {
+    "id": "sj:21f70fe2-fdef-49f7-a4f9-b5dd331e3acd",
+    "company": "Papa John's",
+    "title": "Digital Development Intern",
+    "location": "Atlanta, GA (Other)",
+    "url": "https://papajohns.wd1.myworkdayjobs.com/papajohnscareers/job/HQ_Atlanta/XMLNAME-2027-Summer-Intern---Digital-Development_R26_0000002155"
+  },
+  {
     "id": "sj:d09259a7-0192-472c-a240-c348186c241d",
     "company": "Walgreens",
     "title": "Data Science Intern",
@@ -3477,26 +3498,5 @@
     "title": "Data Science Intern - Multiple Teams",
     "location": "Welwyn Garden City, UK (Other)",
     "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Welwyn/Data-Science-Industrial-Placement---Multiple-roles-within-Biostats--Data-Management--Real-World-Data-and-more_202609-122536"
-  },
-  {
-    "id": "sj:30a813fa-60dd-46e6-b380-c00124f3422a",
-    "company": "Boston Scientific",
-    "title": "Data Science Co-op",
-    "location": "Maple Grove, MN (Other)",
-    "url": "https://bostonscientific.eightfold.ai/careers/job/563602813600487"
-  },
-  {
-    "id": "sj:294d72a8-7250-41fe-bd01-3c9b0ba1996e",
-    "company": "Honeywell",
-    "title": "Data Science Co-op",
-    "location": "Pittsford, NY (Other)",
-    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/157903"
-  },
-  {
-    "id": "sj:895534e7-93b3-4f74-a9d4-5ed7e45671f7",
-    "company": "W.R. Berkley",
-    "title": "Product Management Analyst Intern - Claims",
-    "location": "Manassas, VA (Other)",
-    "url": "https://careers-berkley.icims.com/jobs/14439/job?mobile=true&needsRedirect=false"
   }
 ]
