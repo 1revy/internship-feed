@@ -602,6 +602,20 @@
     "url": "https://www.alixpartners.com/careers/7725335003?gh_jid=7725335003"
   },
   {
+    "id": "sj:c81df585-c144-4df1-8111-2a31dee7970f",
+    "company": "IMC Trading",
+    "title": "Machine Learning Engineer Intern",
+    "location": "NYC (New York)",
+    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4962456101"
+  },
+  {
+    "id": "sj:b449def0-7da4-4dfc-b873-38eb657e5911",
+    "company": "RTX",
+    "title": "AI Engineering Intern",
+    "location": "NYC (New York)",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-NY-REMOTE/AI-Engineering-Intern--Summer-2027-_01880596"
+  },
+  {
     "id": "sj:b29f7462-630f-4a75-8dca-924bcd83bd11",
     "company": "Sigma Computing",
     "title": "Software Engineer Intern - Summer 2027",
@@ -1932,6 +1946,27 @@
     "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002"
   },
   {
+    "id": "sj:d09259a7-0192-472c-a240-c348186c241d",
+    "company": "Walgreens",
+    "title": "Data Science Intern",
+    "location": "Deerfield, IL (Other)",
+    "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=26336&siteid=5014&PageType=JobDetails&jobid=1933902"
+  },
+  {
+    "id": "sj:40023184-e683-401b-8f3c-c48358d79459",
+    "company": "Westinghouse Electric Company",
+    "title": "Fuel Engineering Data Analyst Intern",
+    "location": "Cranberry Township, PA (Other)",
+    "url": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Summer-Intern-Fuel-Engineering-Data-Analyst-NC/1438463700/?ats=successfactors"
+  },
+  {
+    "id": "sj:e149e65e-265d-4273-bc2c-9fe3740f6c41",
+    "company": "General Dynamics Mission Systems",
+    "title": "Software/Systems Engineering Intern",
+    "location": "Middletown, RI (Other)",
+    "url": "https://careers-gdms.icims.com/jobs/75463/job?mobile=true&needsRedirect=false"
+  },
+  {
     "id": "sj:cc8ac2c6-0874-480d-89fe-1ba79e6af0d9",
     "company": "Koch Industries",
     "title": "Data Science Intern",
@@ -1951,6 +1986,41 @@
     "title": "Data Engineer Intern",
     "location": "Seattle, WA (Other)",
     "url": "https://amazon.jobs/en/jobs/10553907/data-engineer-internship-2027-us"
+  },
+  {
+    "id": "sj:2355c32e-a301-4b8a-bf6b-352e71daf514",
+    "company": "WSFS Bank",
+    "title": "Product Intern",
+    "location": "Wilmington, DE (Other)",
+    "url": "https://wsfsbank.wd1.myworkdayjobs.com/wsfscareers/job/Wilmington-DE/XMLNAME-2027-Summer-Internship---Product_R-104113-2"
+  },
+  {
+    "id": "sj:fa7cf02a-d414-467e-897f-f8c3723d809a",
+    "company": "USAA",
+    "title": "Product Management Advisor Intern",
+    "location": "San Antonio, TX (Other)",
+    "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Product-Management-Advisor-Intern_R0121653"
+  },
+  {
+    "id": "sj:a0ee9167-79ab-4d47-a4a3-de77e881b285",
+    "company": "Nissan Global",
+    "title": "Manufacturing Digital Data Intern",
+    "location": "Decherd, TN (Other)",
+    "url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Decherd-Tennessee---United-States-of-America/Manufacturing-Digital-Data-Intern---Summer-2027---Decherd--TN_R00214881"
+  },
+  {
+    "id": "sj:813721e4-50a0-4bf9-baed-49735d2940d4",
+    "company": "7-Eleven",
+    "title": "Digital Product Manager Intern",
+    "location": "Irving, TX (Other)",
+    "url": "https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/Digital-Product-Manager-Intern_R26_5991"
+  },
+  {
+    "id": "sj:c9744d9d-5ddd-408e-816a-786dbe51e32e",
+    "company": "Manulife Financial",
+    "title": "Product Management & Risk Technology Intern",
+    "location": "Toronto, ON, Canada (Other)",
+    "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---Product-Management---Risk-Technology_JR26080875"
   },
   {
     "id": "sj:8ec5b787-1112-4732-8445-4ebc05410902",
@@ -3428,75 +3498,5 @@
     "title": "Product Management Analyst Intern - Claims",
     "location": "Manassas, VA (Other)",
     "url": "https://careers-berkley.icims.com/jobs/14439/job?mobile=true&needsRedirect=false"
-  },
-  {
-    "id": "sj:3b6dc022-3c3c-4202-b427-b53c873fb2d0",
-    "company": "onsemi",
-    "title": "Data and Visualization Intern",
-    "location": "Hopewell Junction, NY (Other)",
-    "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506638"
-  },
-  {
-    "id": "sj:aacdb2a7-7399-4a61-a456-f1b8651ac552",
-    "company": "Smith+Nephew",
-    "title": "Data Science Intern - AI Center of Excellence",
-    "location": "Pittsburgh, PA (Other)",
-    "url": "https://smithnephew.wd5.myworkdayjobs.com/External/job/US---Pittsburgh-PA/Intern-AI-Center-of-Excellence-Data-Science_R92480-1"
-  },
-  {
-    "id": "sj:c2b22bcb-6acb-4a82-9529-96398b207061",
-    "company": "Visa",
-    "title": "Associate Product Manager Intern - APM",
-    "location": "Austin, TX (Other)",
-    "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Job-Posting-Title-Associate-Product-Manager--APM--Intern---Summer-2027_REF088604W"
-  },
-  {
-    "id": "sj:b61abd66-a7ce-474e-b65b-858c33660c84",
-    "company": "British Columbia Investment",
-    "title": "Software Engineer Co-op Intern - Investment Tech/Data & Analytics",
-    "location": "Victoria, BC, Canada; Vancouver, BC, Canada (Other)",
-    "url": "https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Victoria-BC/Investment-Tech-Data---Analytics----Software-Engineer-Co-op-Internship--Winter-2027-or-Winter---Summer-2027-_JR101596"
-  },
-  {
-    "id": "sj:2f8f7f03-7f64-409a-9edc-6c4c62398221",
-    "company": "Visa",
-    "title": "Associate Product Manager Intern - APM",
-    "location": "Foster City, CA (Other)",
-    "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Associate-Product-Manager--APM--Intern---Summer-2027_REF088603W-1"
-  },
-  {
-    "id": "sj:94de9c2f-79c0-484e-a4c4-f930292172f8",
-    "company": "Avis Budget Group",
-    "title": "Data Analytics Intern",
-    "location": "Parsippany-Troy Hills, NJ (Other)",
-    "url": "https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/379-Interpace-Pkwy-Parsippany-07054/Accelerate---Data-Analytics-Intern-Summer-2027_R0190389"
-  },
-  {
-    "id": "sj:4552c6b4-8bda-4519-9764-dcd28af299cf",
-    "company": "Avis Budget Group",
-    "title": "IT Engineering Intern - Accelerate",
-    "location": "Parsippany-Troy Hills, NJ (Other)",
-    "url": "https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/379-Interpace-Pkwy-Parsippany-07054/Accelerate---IT-Engineering-Intern-Summer-2027_R0190463"
-  },
-  {
-    "id": "sj:4bde8bc5-067e-4676-9a52-d07891e1cb78",
-    "company": "Zurn Elkay Water Solutions",
-    "title": "Product Management Intern",
-    "location": "Paso Robles, CA (Other)",
-    "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Paso-Robles-CA/Product-Management-Intern--Summer-2027-_REQ-020109"
-  },
-  {
-    "id": "sj:0cf03a99-5927-44d1-b6d0-24ed2a172416",
-    "company": "Northwestern Mutual",
-    "title": "Investment Data & Analytics Intern",
-    "location": "Milwaukee, WI (Other)",
-    "url": "https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Investment-Data---Analytics-Intern--Summer-2027_JR-46050"
-  },
-  {
-    "id": "sj:93fa34ac-b6d0-4b02-87d8-5c14b2deb4a9",
-    "company": "Gordon Food Service",
-    "title": "Data Engineering Intern - Atlanta Tech Hub - Data Engineering",
-    "location": "Atlanta, GA (Other)",
-    "url": "https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Atlanta-Georgia/Data-Engineering-Internship_R-57330"
   }
 ]
