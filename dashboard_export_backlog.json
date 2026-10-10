@@ -1,5 +1,68 @@
 [
   {
+    "id": "sj:7b0bc5f5-b7eb-4ee8-905a-aff3cc7c2c4f",
+    "company": "Altar'd State",
+    "title": "IT Analytics Intern",
+    "location": "Knoxville, TN (Other)",
+    "url": "https://standoutforgood.wd12.myworkdayjobs.com/StandOutForGood/job/Knoxville-TN/Spring-2027-IT-Analytics-Intern_SOSJ12499"
+  },
+  {
+    "id": "sj:f9a08de0-d633-4b19-b444-8002689fc795",
+    "company": "General Motors",
+    "title": "Product Management Intern - Digital Product",
+    "location": "Austin, TX; Warren, MI (Other)",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Product-Management--MBA-_JR-202620538"
+  },
+  {
+    "id": "sj:c639bbc2-7340-465e-b311-f2a6a96cc06d",
+    "company": "American Family Insurance Group",
+    "title": "Internal Data and Analytics Intern - Summer 2027",
+    "location": "Madison, WI (Other)",
+    "url": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Internal-Data-and-Analytics-Intern---Summer-2027_R39401"
+  },
+  {
+    "id": "sj:e2dab9b3-410e-452f-8887-b5fe754550ad",
+    "company": "Guardian Life",
+    "title": "Summer Intern - Group Benefits Product Management",
+    "location": "Boston, MA (Other)",
+    "url": "https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/Boston/XMLNAME-2027-Guardian-Summer-Intern--Group-Benefits-Product-Management_R000110299"
+  },
+  {
+    "id": "sj:a3df12be-fbf0-4c4f-a784-f55100ad8aaa",
+    "company": "Centene",
+    "title": "Data and Analytics Intern - Undergraduate",
+    "location": "Missouri (Other)",
+    "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Data-and-Analytics-Summer-2027-Intern--Undergraduate-_1660515"
+  },
+  {
+    "id": "sj:721628f6-7dc9-47f6-8d08-1283695301ad",
+    "company": "Gordon Food Service",
+    "title": "Category Insights Analyst Intern",
+    "location": "Wyoming, MI (Other)",
+    "url": "https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/NA-Category-Insights-Analyst-Intern_R-57366-1"
+  },
+  {
+    "id": "sj:1ce187ae-c250-4b22-8bee-28e3422d6cba",
+    "company": "Flex",
+    "title": "Manufacturing Data & Analytics Co-op",
+    "location": "Libertyville, IL (Other)",
+    "url": "https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-IL-Libertyville/Manufacturing-Data---Analytics-Co-Op---Spring-2027_WD229700"
+  },
+  {
+    "id": "sj:4dd9988e-27de-4329-ab39-c71804316a70",
+    "company": "USAA",
+    "title": "Digital/Technical Product Manager Intern - Digital and Omnichannel Servicing",
+    "location": "San Antonio, TX (Other)",
+    "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Operations---Digital-Technical-Product-Manager-Intern_R0121101"
+  },
+  {
+    "id": "sj:854b0375-7239-4af1-824a-67ccffe9066a",
+    "company": "Roche",
+    "title": "Data Science Intern - Multiple Teams",
+    "location": "Welwyn Garden City, UK (Other)",
+    "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Welwyn/Data-Science-Industrial-Placement---Multiple-roles-within-Biostats--Data-Management--Real-World-Data-and-more_202609-122536"
+  },
+  {
     "id": "sj:30a813fa-60dd-46e6-b380-c00124f3422a",
     "company": "Boston Scientific",
     "title": "Data Science Co-op",
@@ -4466,6 +4529,62 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Data-Processing-Developer-Technology-Intern---2027_JR2024708"
   },
   {
+    "id": "sj:bf0ea2ee-b924-45bc-bbd7-c84d4eba7fd4",
+    "company": "Electronic Arts",
+    "title": "Software Engineer Intern",
+    "location": "Vancouver, BC, Canada (Other)",
+    "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern-Summer-2027-8-Months-Sports-Technology/216225"
+  },
+  {
+    "id": "sj:d5b1be21-ea3d-442a-ac92-5df1ec91238c",
+    "company": "Electronic Arts",
+    "title": "Software Engineer Co-op",
+    "location": "Vancouver, BC, Canada (Other)",
+    "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Co-op/216231"
+  },
+  {
+    "id": "sj:c150fc14-14cb-445f-b7a5-4f8d6b827ffc",
+    "company": "Electronic Arts",
+    "title": "Gameplay Software Engineer Co-op",
+    "location": "Vancouver, BC, Canada (Other)",
+    "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Co-op/216230"
+  },
+  {
+    "id": "sj:dd2973ae-073f-4dfb-a211-94b50b8b7a19",
+    "company": "GCM Grosvenor",
+    "title": "Software Engineer Intern",
+    "location": "Chicago, IL (Other)",
+    "url": "https://job-boards.greenhouse.io/gcmgrosvenor/jobs/8015792003"
+  },
+  {
+    "id": "sj:b17cd560-c6e3-41da-9178-9503bee4c38f",
+    "company": "AMD",
+    "title": "AI Agentic Flow for GPU ASIC Design Co-op Intern",
+    "location": "Orlando, FL (Other)",
+    "url": "https://careers.amd.com/jobs/91341?icims=1"
+  },
+  {
+    "id": "sj:8277b93b-f1ee-4795-ac80-d8304e6f9a1b",
+    "company": "Panasonic Holdings",
+    "title": "Panasonic Transformation Group Intern",
+    "location": "Sparks, NV (Other)",
+    "url": "https://careers.na.panasonic.com/jobs/51646?icims=1"
+  },
+  {
+    "id": "sj:a0015321-3910-49d2-a77a-ad553c7aa760",
+    "company": "Panasonic Holdings",
+    "title": "Panasonic Transformation Group Intern",
+    "location": "Sparks, NV (Other)",
+    "url": "https://careers.na.panasonic.com/jobs/51652?icims=1"
+  },
+  {
+    "id": "sj:0ce82a9a-8c9e-4bf3-899e-c70c905f1707",
+    "company": "Panasonic Holdings",
+    "title": "Panasonic Transformation Group Intern",
+    "location": "Sparks, NV (Other)",
+    "url": "https://careers.na.panasonic.com/jobs/51629?icims=1"
+  },
+  {
     "id": "sj:1564dff4-1455-4c39-8484-e1940718b5df",
     "company": "WTW",
     "title": "Software Developer Intern",
@@ -4485,6 +4604,55 @@
     "title": "Strategic Insight and Analytics Co-op",
     "location": "Horsham, PA (Other)",
     "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Horsham-Pennsylvania-United-States-of-America/Strategic-Insight-and-Analytics-Co-Op-Off-Cycle--March---August-_R-103640"
+  },
+  {
+    "id": "sj:6a4e45f8-1b33-43c4-ad0c-eff30becd150",
+    "company": "Wawa",
+    "title": "Information Technology Development Intern",
+    "location": "Media, PA (Other)",
+    "url": "https://wawa.wd1.myworkdayjobs.com/careers/job/WAWA---Wawa-Inc---Corporate-Office/Information-Technology-Development-Internship_JR122392"
+  },
+  {
+    "id": "sj:fcd2b529-7cb4-4cb6-9304-f651bc5df96a",
+    "company": "Elanco",
+    "title": "Pet Health Sales Excellence Intern - AI Innovation & Enablement",
+    "location": "Indianapolis, IN (Other)",
+    "url": "https://elanco.wd5.myworkdayjobs.com/en-US/External_Career/job/Indianapolis-IN/US-Pet-Health-Sales-Excellence-Intern---AI-Innovation---Enablement--Summer-2027-_R0027467"
+  },
+  {
+    "id": "sj:e41412f4-5392-4dee-bf68-676610efe34c",
+    "company": "General Motors",
+    "title": "AI Research Intern - Embodied AI",
+    "location": "Sunnyvale, CA (Other)",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-Research--Embodied-AI_JR-202622146"
+  },
+  {
+    "id": "sj:dc5c3700-b9be-4f68-91f9-b1dc509c147b",
+    "company": "General Motors",
+    "title": "Summer Intern - Onboard Autonomy - Embodied AI",
+    "location": "Sunnyvale, CA (Other)",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--Onboard-Autonomy--Embodied-AI_JR-202622135"
+  },
+  {
+    "id": "sj:8becf5e4-874b-49a7-bc91-15d24c4e5d6f",
+    "company": "Nissan Global",
+    "title": "EA & Cloud Intern",
+    "location": "Franklin, TN (Other)",
+    "url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/EA---Cloud-Intern---Summer-2027---Franklin--TN_R00214214"
+  },
+  {
+    "id": "sj:1b619bab-8ca8-46a3-8e31-c92637db8a6a",
+    "company": "General Motors",
+    "title": "Seam Intern - Embodied AI",
+    "location": "Sunnyvale, CA (Other)",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--SEAM--Embodied-AI_JR-202622143"
+  },
+  {
+    "id": "sj:2be561b9-160a-48ef-bd5b-6428e001f402",
+    "company": "GlobalFoundries",
+    "title": "Software Engineer Intern",
+    "location": "Austin, TX; Santa Clara, CA (Other)",
+    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Software-Engineering-Intern--Summer-2027-_JR-2604039"
   },
   {
     "id": "sj:a88c4837-dfcb-4510-8be0-2b25c43d5754",
@@ -6830,173 +6998,5 @@
     "title": "Claims Intern - Workers' Compensation",
     "location": "Iowa (Other)",
     "url": "https://emcins.wd5.myworkdayjobs.com/EMC_Internships/job/Iowa---Work-From-Home/Claims-Intern---Worker-s-Compensation_R6548"
-  },
-  {
-    "id": "sj:358e91d0-b574-450b-8f1a-c8785fc0cfc2",
-    "company": "EMC Insurance",
-    "title": "Claims Intern - Property",
-    "location": "Iowa (Other)",
-    "url": "https://emcins.wd5.myworkdayjobs.com/en-US/EMC_Careers/job/Iowa/Intern--Claims--Property-_R6553-1"
-  },
-  {
-    "id": "sj:a7c9aea2-4419-4128-b445-65d7c1f33bfe",
-    "company": "EMC Insurance",
-    "title": "Claims Intern - Property",
-    "location": "Iowa (Other)",
-    "url": "https://emcins.wd5.myworkdayjobs.com/EMC_Internships/job/Iowa/Intern--Claims--Property-_R6553"
-  },
-  {
-    "id": "sj:b96cf9b7-1f8d-47c4-8c9c-6c70376ffe7c",
-    "company": "EMC Insurance",
-    "title": "Claims Intern - Workers' Compensation",
-    "location": "Iowa (Other)",
-    "url": "https://emcins.wd5.myworkdayjobs.com/en-US/EMC_Careers/job/Iowa---Work-From-Home/Claims-Intern---Worker-s-Compensation_R6548-1"
-  },
-  {
-    "id": "sj:69ea85f3-65e9-45c2-aa5c-55508565467d",
-    "company": "The Aerospace Corporation",
-    "title": "Reliability and Statistics Intern",
-    "location": "El Segundo, CA (Other)",
-    "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Reliability-and-Statistics-Undergraduate-Intern_R016594"
-  },
-  {
-    "id": "sj:e4639935-0247-4578-b4a3-814cab5c5c8e",
-    "company": "Epic Games",
-    "title": "Tools Programmer Intern",
-    "location": "Cary, NC (Other)",
-    "url": "https://epicgames.com/careers/jobs/6200355004?gh_jid=6200355004"
-  },
-  {
-    "id": "sj:bbe59360-d6e5-4189-9126-da097b9c93c6",
-    "company": "RTX",
-    "title": "Software Engineer Intern",
-    "location": "Cambridge, MA (Other)",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-CAMBRIDGE-BBN06--10--50-Moulton-St--MOULTON-B6/Software-Engineer-Intern--Summer-2027----Onsite_01873017"
-  },
-  {
-    "id": "sj:f42adf96-f242-4f29-8953-d237b9a04ad2",
-    "company": "Waymo",
-    "title": "Learning-Based Behavior Intern",
-    "location": "Mountain View, CA (Other)",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=8203191"
-  },
-  {
-    "id": "sj:5bd84b46-5f5b-4bd6-acd2-13e9a0918f91",
-    "company": "Together AI",
-    "title": "Software Engineer Intern",
-    "location": "SF (Other)",
-    "url": "https://job-boards.greenhouse.io/togetherai/jobs/5232036007"
-  },
-  {
-    "id": "sj:c44d5bae-3113-405a-844d-b54205f48458",
-    "company": "Together AI",
-    "title": "Research Intern - Frontier Agents",
-    "location": "SF (Other)",
-    "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238468007"
-  },
-  {
-    "id": "sj:464ccc3f-81f5-4e38-b8ac-aeac069c2533",
-    "company": "Together AI",
-    "title": "Research Intern - Model Shaping",
-    "location": "SF (Other)",
-    "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238466007"
-  },
-  {
-    "id": "sj:0e0fdf41-a922-4b76-8eaf-6445d1277b48",
-    "company": "Together AI",
-    "title": "Research Intern - Inference",
-    "location": "SF (Other)",
-    "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238462007"
-  },
-  {
-    "id": "sj:9d3485fc-e9c9-4315-b9af-f839b852b2a6",
-    "company": "Amazon",
-    "title": "Software Development Engineer Intern - Summer 2027",
-    "location": "Vancouver, BC, Canada (Other)",
-    "url": "https://amazon.jobs/en/jobs/10553947/software-development-engineer-intern-summer-2027-can"
-  },
-  {
-    "id": "sj:edd61cb3-1077-4e8f-96ef-4862eaefa5b8",
-    "company": "CoBank",
-    "title": "Software Engineer Intern",
-    "location": "Greenwood Village, CO (Other)",
-    "url": "https://careers.cobank.com/jobs/7940?icims=1"
-  },
-  {
-    "id": "sj:170b4dbe-36bf-488f-8c87-9759f8f3fc2b",
-    "company": "Tyler Technologies",
-    "title": "Software Development Intern",
-    "location": "Lawrenceville, GA (Other)",
-    "url": "https://jobs.jobvite.com/tylertech/job/oAVOAfwD?nl=1&nl=1&fr=false"
-  },
-  {
-    "id": "sj:9e8ec50b-4857-4cc5-b158-8915ba1d6071",
-    "company": "TRC Companies",
-    "title": "Software Engineer Intern",
-    "location": "Calgary, AB, Canada (Other)",
-    "url": "https://careers.trccompanies.com/jobs/26840?icims=1"
-  },
-  {
-    "id": "sj:1ab1a45d-f5cc-4187-9f03-f2e2c5c3e021",
-    "company": "Amazon",
-    "title": "Software Development Engineer Intern - Summer",
-    "location": "Seattle, WA; Arlington County, Arlington, VA (Other)",
-    "url": "https://amazon.jobs/en/jobs/10552937/software-development-engineer-internship-summer-2027-usa"
-  },
-  {
-    "id": "sj:61b9a212-f545-496c-b822-3bae971775e3",
-    "company": "Thrivent",
-    "title": "Associate Software Engineer Intern",
-    "location": "Minnesota (Other)",
-    "url": "https://thrivent.wd5.myworkdayjobs.com/external/job/Remote-Minnesota/Associate-Software-Engineer---Sophomore-Intern-Summer-2027_REQ-48457"
-  },
-  {
-    "id": "sj:5d469294-b2e6-427c-b2dd-8da3dad68eee",
-    "company": "CME Group",
-    "title": "Software Engineering Intern - Summer 2027",
-    "location": "Chicago, IL (Other)",
-    "url": "https://cmegroup.wd1.myworkdayjobs.com/en-US/cme_careers/job/Chicago---20-S-Wacker/Software-Engineering-Internship---Summer-2027_34821"
-  },
-  {
-    "id": "sj:440a7b43-921e-4e0a-b2b8-0b66d1366483",
-    "company": "Thrivent",
-    "title": "Associate Software Engineer Intern",
-    "location": "Minnesota (Other)",
-    "url": "https://thrivent.wd5.myworkdayjobs.com/external/job/Remote-Minnesota/Associate-Software-Engineer---Junior-Intern-Summer-2027_REQ-48334"
-  },
-  {
-    "id": "sj:09f40dda-2ded-4174-ba81-78b97c133f7e",
-    "company": "Gordon Food Service",
-    "title": "Software Engineer Intern - Low Code",
-    "location": "Wyoming, MI (Other)",
-    "url": "https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Software-Engineer-Intern--Low-Code-_R-57375"
-  },
-  {
-    "id": "sj:046d231f-21e2-41ac-95bd-f0126e3505bd",
-    "company": "Gordon Food Service",
-    "title": "Category Technology Intern",
-    "location": "Wyoming, MI (Other)",
-    "url": "https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/MMSC-Category-Technology-Intern_R-57362"
-  },
-  {
-    "id": "sj:91247b54-ac3d-4bae-a026-d7d1b1f59880",
-    "company": "Royal Bank of Canada",
-    "title": "Wealth Management Technology Intern",
-    "location": "Minneapolis, MN (Other)",
-    "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/Minneapolis-Minnesota-United-States-of-America/Summer-2027-Wealth-Management-Technology-Internship_R-0000187852"
-  },
-  {
-    "id": "sj:8aed5327-2fc7-4616-9983-929999e4d871",
-    "company": "Athene",
-    "title": "Software Developer Intern",
-    "location": "West Des Moines, IA (Other)",
-    "url": "https://athene.wd5.myworkdayjobs.com/athene_careers/job/West-Des-Moines-Iowa/Software-Developer-Internship-_R255125"
-  },
-  {
-    "id": "sj:058f883b-7a38-49f1-8ad9-45811313157b",
-    "company": "Gordon Food Service",
-    "title": "Software Engineer Intern",
-    "location": "Wyoming, MI (Other)",
-    "url": "https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Software-Engineer-Internship_R-57377"
   }
 ]
