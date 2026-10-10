@@ -1,5 +1,12 @@
 [
   {
+    "id": "sj:6af37fd6-50dd-4415-b8fd-2213d7e19394",
+    "company": "Kyndryl",
+    "title": "Marketing Intern - Marketing Analysis",
+    "location": "NYC (New York)",
+    "url": "https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/New-York-NY-USA/Marketing-Internship--Marketing-Analysis_R-70007-1"
+  },
+  {
     "id": "sj:4fad9043-edfc-44f1-82bf-a9f8834796b5",
     "company": "Dow Jones",
     "title": "Data Analyst Intern",
@@ -607,6 +614,20 @@
     "title": "Data Scientist Intern",
     "location": "NYC (New York)",
     "url": "https://www.alixpartners.com/careers/7725335003?gh_jid=7725335003"
+  },
+  {
+    "id": "sj:4dacd1f1-1a63-461f-9329-95162f1c14bd",
+    "company": "Coinbase",
+    "title": "Forward Deployed Engineer Intern - HR Technology",
+    "location": "NYC (New York)",
+    "url": "https://boards.greenhouse.io/embed/job_app?token=8175510"
+  },
+  {
+    "id": "sj:65d5f968-db70-4ced-968a-605604c841f5",
+    "company": "Capstone Investment Advisors",
+    "title": "Tech Execution Intern",
+    "location": "NYC (New York)",
+    "url": "https://job-boards.greenhouse.io/capstoneinvestmentadvisors/jobs/8882130002"
   },
   {
     "id": "sj:c81df585-c144-4df1-8111-2a31dee7970f",
@@ -1953,6 +1974,27 @@
     "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002"
   },
   {
+    "id": "sj:b5bd0081-1033-4882-b221-b3f4cc06d1ec",
+    "company": "TikTok",
+    "title": "Creative Product Manager Intern - Multiple Teams",
+    "location": "San Jose, CA (Other)",
+    "url": "https://lifeattiktok.com/search/7693732178706974981"
+  },
+  {
+    "id": "sj:ffaf0532-3d86-47e9-913d-f140b9704039",
+    "company": "TikTok",
+    "title": "Creative Product Operations Intern - Multiple Teams",
+    "location": "San Jose, CA (Other)",
+    "url": "https://lifeattiktok.com/search/7693727532178229509"
+  },
+  {
+    "id": "sj:be9e2ad0-7cfb-43e2-8167-a1c650e84de9",
+    "company": "Affirm",
+    "title": "IT Engineer Intern - Early Careers",
+    "location": "SF (Other)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8011375003"
+  },
+  {
     "id": "sj:8b95518e-7880-4858-a78a-07273d000e53",
     "company": "Papa John's",
     "title": "Data Science Intern",
@@ -1965,6 +2007,27 @@
     "title": "Digital Development Intern",
     "location": "Atlanta, GA (Other)",
     "url": "https://papajohns.wd1.myworkdayjobs.com/papajohnscareers/job/HQ_Atlanta/XMLNAME-2027-Summer-Intern---Digital-Development_R26_0000002155"
+  },
+  {
+    "id": "sj:dcc47656-238c-4190-a9a0-2dba499a3a07",
+    "company": "NVIDIA",
+    "title": "Research Intern - World Models and Synthetic Data for Autonomous Driving",
+    "location": "Santa Clara, CA (Other)",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--World-Models-and-Synthetic-Data-for-Autonomous-Driving---Summer-2027_JR2026839-1"
+  },
+  {
+    "id": "sj:d7d6d6ac-4612-4182-a3de-e0c1037f87a7",
+    "company": "American Family Insurance Group",
+    "title": "Data Analyst Intern",
+    "location": "Madison, WI (Other)",
+    "url": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Intern---Data-Analyst_R39404"
+  },
+  {
+    "id": "sj:91251409-4b30-4f80-a849-57426b7a2c9c",
+    "company": "General Motors",
+    "title": "Data Scaling Intern - Data Scaling - Embodied AI",
+    "location": "Sunnyvale, CA (Other)",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Data-Scaling--Embodied-AI_JR-202622132"
   },
   {
     "id": "sj:d09259a7-0192-472c-a240-c348186c241d",
@@ -3435,68 +3498,5 @@
     "title": "Machine Learning Engineer Intern - E-Commerce Recommendation Mall",
     "location": "San Jose, CA (Other)",
     "url": "https://lifeattiktok.com/search/7686283601340369205"
-  },
-  {
-    "id": "sj:7b0bc5f5-b7eb-4ee8-905a-aff3cc7c2c4f",
-    "company": "Altar'd State",
-    "title": "IT Analytics Intern",
-    "location": "Knoxville, TN (Other)",
-    "url": "https://standoutforgood.wd12.myworkdayjobs.com/StandOutForGood/job/Knoxville-TN/Spring-2027-IT-Analytics-Intern_SOSJ12499"
-  },
-  {
-    "id": "sj:f9a08de0-d633-4b19-b444-8002689fc795",
-    "company": "General Motors",
-    "title": "Product Management Intern - Digital Product",
-    "location": "Austin, TX; Warren, MI (Other)",
-    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Product-Management--MBA-_JR-202620538"
-  },
-  {
-    "id": "sj:c639bbc2-7340-465e-b311-f2a6a96cc06d",
-    "company": "American Family Insurance Group",
-    "title": "Internal Data and Analytics Intern - Summer 2027",
-    "location": "Madison, WI (Other)",
-    "url": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Internal-Data-and-Analytics-Intern---Summer-2027_R39401"
-  },
-  {
-    "id": "sj:e2dab9b3-410e-452f-8887-b5fe754550ad",
-    "company": "Guardian Life",
-    "title": "Summer Intern - Group Benefits Product Management",
-    "location": "Boston, MA (Other)",
-    "url": "https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/Boston/XMLNAME-2027-Guardian-Summer-Intern--Group-Benefits-Product-Management_R000110299"
-  },
-  {
-    "id": "sj:a3df12be-fbf0-4c4f-a784-f55100ad8aaa",
-    "company": "Centene",
-    "title": "Data and Analytics Intern - Undergraduate",
-    "location": "Missouri (Other)",
-    "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Data-and-Analytics-Summer-2027-Intern--Undergraduate-_1660515"
-  },
-  {
-    "id": "sj:721628f6-7dc9-47f6-8d08-1283695301ad",
-    "company": "Gordon Food Service",
-    "title": "Category Insights Analyst Intern",
-    "location": "Wyoming, MI (Other)",
-    "url": "https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/NA-Category-Insights-Analyst-Intern_R-57366-1"
-  },
-  {
-    "id": "sj:1ce187ae-c250-4b22-8bee-28e3422d6cba",
-    "company": "Flex",
-    "title": "Manufacturing Data & Analytics Co-op",
-    "location": "Libertyville, IL (Other)",
-    "url": "https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-IL-Libertyville/Manufacturing-Data---Analytics-Co-Op---Spring-2027_WD229700"
-  },
-  {
-    "id": "sj:4dd9988e-27de-4329-ab39-c71804316a70",
-    "company": "USAA",
-    "title": "Digital/Technical Product Manager Intern - Digital and Omnichannel Servicing",
-    "location": "San Antonio, TX (Other)",
-    "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Operations---Digital-Technical-Product-Manager-Intern_R0121101"
-  },
-  {
-    "id": "sj:854b0375-7239-4af1-824a-67ccffe9066a",
-    "company": "Roche",
-    "title": "Data Science Intern - Multiple Teams",
-    "location": "Welwyn Garden City, UK (Other)",
-    "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Welwyn/Data-Science-Industrial-Placement---Multiple-roles-within-Biostats--Data-Management--Real-World-Data-and-more_202609-122536"
   }
 ]
