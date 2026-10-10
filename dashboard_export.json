@@ -1995,6 +1995,13 @@
     "url": "https://job-boards.greenhouse.io/affirm/jobs/8011375003"
   },
   {
+    "id": "sj:35aa37ee-4d30-400a-9cda-51c1ab96d32a",
+    "company": "Vertiv",
+    "title": "Energy Storage Product Management Intern",
+    "location": "Delaware, OH (Other)",
+    "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279379"
+  },
+  {
     "id": "sj:8b95518e-7880-4858-a78a-07273d000e53",
     "company": "Papa John's",
     "title": "Data Science Intern",
@@ -2028,6 +2035,27 @@
     "title": "Data Scaling Intern - Data Scaling - Embodied AI",
     "location": "Sunnyvale, CA (Other)",
     "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Data-Scaling--Embodied-AI_JR-202622132"
+  },
+  {
+    "id": "sj:ffc142d8-54ce-4628-b359-7770b0566d0e",
+    "company": "Itron",
+    "title": "HR AI Data Science Intern",
+    "location": "Austin, TX (Other)",
+    "url": "https://itron.wd5.myworkdayjobs.com/Itron/job/United-States-of-America-Texas-Austin/Intern---HR-AI-Data-Science--Summer-2027-_JR103034-1"
+  },
+  {
+    "id": "sj:4513c863-7b6b-483e-a7ff-f04c90abc55e",
+    "company": "Itron",
+    "title": "HR AI Data Science Intern",
+    "location": "Austin, TX (Other)",
+    "url": "https://itron.wd5.myworkdayjobs.com/Early_Careers/job/United-States-of-America-Texas-Austin/Intern---HR-AI-Data-Science--Summer-2027-_JR103034"
+  },
+  {
+    "id": "sj:a2992424-eba5-4abe-a57d-d8c6c12fc0ce",
+    "company": "Workday",
+    "title": "Product Manager Intern",
+    "location": "Vancouver, BC, Canada (Other)",
+    "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/Canada-BC-Vancouver/Product-Manager-Intern_JR-0110808"
   },
   {
     "id": "sj:d09259a7-0192-472c-a240-c348186c241d",
@@ -3470,33 +3498,5 @@
     "title": "Engineer/Scientist Intern - Health Systems and Human-Machine Systems",
     "location": "Laurel, MD (Other)",
     "url": "https://careers.jhuapl.edu/jobs/60054?icims=1"
-  },
-  {
-    "id": "sj:a4432340-1e42-4079-be3e-d590b4a323ec",
-    "company": "Publicis Groupe",
-    "title": "Product Manager Intern - Class of 2028",
-    "location": "Chicago, IL (Other)",
-    "url": "https://careers.publicisgroupe.com/jobs/172574?icims=1"
-  },
-  {
-    "id": "sj:fe4fdd20-3b89-49f6-9ae2-83e3a3305efd",
-    "company": "Klaviyo",
-    "title": "Product Manager Co-op - Spring 2027",
-    "location": "Boston, MA (Other)",
-    "url": "https://job-boards.greenhouse.io/klaviyocampus/jobs/7990059003"
-  },
-  {
-    "id": "sj:5eeb71a2-4362-490d-91b2-80bec3bb466d",
-    "company": "Tesla",
-    "title": "Internship - Software Engineering - People Products - Summer 2027",
-    "location": "Palo Alto, CA (Other)",
-    "url": "https://www.tesla.com/careers/search/job/284004"
-  },
-  {
-    "id": "sj:7c51e306-a24c-4fac-b188-b36e0bc3f128",
-    "company": "TikTok",
-    "title": "Machine Learning Engineer Intern - E-Commerce Recommendation Mall",
-    "location": "San Jose, CA (Other)",
-    "url": "https://lifeattiktok.com/search/7686283601340369205"
   }
 ]
