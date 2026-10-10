@@ -2058,6 +2058,13 @@
     "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/Canada-BC-Vancouver/Product-Manager-Intern_JR-0110808"
   },
   {
+    "id": "sj:3bcb752a-418d-4efe-88b2-389292a7eed0",
+    "company": "Workday",
+    "title": "Product Manager Intern",
+    "location": "Pleasanton, CA (Other)",
+    "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Product-Manager-Intern_JR-0110813"
+  },
+  {
     "id": "sj:d09259a7-0192-472c-a240-c348186c241d",
     "company": "Walgreens",
     "title": "Data Science Intern",
@@ -3491,12 +3498,5 @@
     "title": "Systems Research Engineer Intern - GPU Programming",
     "location": "SF (Other)",
     "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238460007"
-  },
-  {
-    "id": "sj:3b1559b0-8937-4979-9507-9155ae62314f",
-    "company": "Johns Hopkins Applied Physics Laboratory",
-    "title": "Engineer/Scientist Intern - Health Systems and Human-Machine Systems",
-    "location": "Laurel, MD (Other)",
-    "url": "https://careers.jhuapl.edu/jobs/60054?icims=1"
   }
 ]
