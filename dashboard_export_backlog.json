@@ -1,5 +1,33 @@
 [
   {
+    "id": "sj:a4432340-1e42-4079-be3e-d590b4a323ec",
+    "company": "Publicis Groupe",
+    "title": "Product Manager Intern - Class of 2028",
+    "location": "Chicago, IL (Other)",
+    "url": "https://careers.publicisgroupe.com/jobs/172574?icims=1"
+  },
+  {
+    "id": "sj:fe4fdd20-3b89-49f6-9ae2-83e3a3305efd",
+    "company": "Klaviyo",
+    "title": "Product Manager Co-op - Spring 2027",
+    "location": "Boston, MA (Other)",
+    "url": "https://job-boards.greenhouse.io/klaviyocampus/jobs/7990059003"
+  },
+  {
+    "id": "sj:5eeb71a2-4362-490d-91b2-80bec3bb466d",
+    "company": "Tesla",
+    "title": "Internship - Software Engineering - People Products - Summer 2027",
+    "location": "Palo Alto, CA (Other)",
+    "url": "https://www.tesla.com/careers/search/job/284004"
+  },
+  {
+    "id": "sj:7c51e306-a24c-4fac-b188-b36e0bc3f128",
+    "company": "TikTok",
+    "title": "Machine Learning Engineer Intern - E-Commerce Recommendation Mall",
+    "location": "San Jose, CA (Other)",
+    "url": "https://lifeattiktok.com/search/7686283601340369205"
+  },
+  {
     "id": "sj:7b0bc5f5-b7eb-4ee8-905a-aff3cc7c2c4f",
     "company": "Altar'd State",
     "title": "IT Analytics Intern",
@@ -4529,6 +4557,20 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Data-Processing-Developer-Technology-Intern---2027_JR2024708"
   },
   {
+    "id": "sj:32a867ab-36be-40f9-8242-5da26a5ee011",
+    "company": "Waymo",
+    "title": "Summer Intern - Research - Post Training",
+    "location": "SF; Mountain View, CA (Other)",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8257006"
+  },
+  {
+    "id": "sj:90fc898a-0084-4663-aec5-a815133f8492",
+    "company": "Waymo",
+    "title": "Research Intern - AV Planning",
+    "location": "Mountain View, CA (Other)",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8258070"
+  },
+  {
     "id": "sj:bf0ea2ee-b924-45bc-bbd7-c84d4eba7fd4",
     "company": "Electronic Arts",
     "title": "Software Engineer Intern",
@@ -4653,6 +4695,48 @@
     "title": "Software Engineer Intern",
     "location": "Austin, TX; Santa Clara, CA (Other)",
     "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Software-Engineering-Intern--Summer-2027-_JR-2604039"
+  },
+  {
+    "id": "sj:ed0e6ec5-7165-477e-8fba-4a7e20450a6f",
+    "company": "Itron",
+    "title": "People Analytics Intern",
+    "location": "Liberty Lake, WA (Other)",
+    "url": "https://itron.wd5.myworkdayjobs.com/Early_Careers/job/United-States-of-America-Washington-Liberty-Lake/Intern---People-Analytics--Summer-2027-_JR103033"
+  },
+  {
+    "id": "sj:02902ce1-e453-4b13-95d6-e35d14fa4d60",
+    "company": "Itron",
+    "title": "People Analytics Intern",
+    "location": "Liberty Lake, WA (Other)",
+    "url": "https://itron.wd5.myworkdayjobs.com/Itron/job/United-States-of-America-Washington-Liberty-Lake/Intern---People-Analytics--Summer-2027-_JR103033-1"
+  },
+  {
+    "id": "sj:9187fc2c-03e7-4644-8d01-d1d0a44fc73d",
+    "company": "Workday",
+    "title": "Machine Learning Engineer Intern",
+    "location": "Toronto, ON, Canada; Vancouver, BC, Canada (Other)",
+    "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/Canada-BC-Vancouver/Machine-Learning-Engineer-Intern_JR-0110806"
+  },
+  {
+    "id": "sj:7d29e9a8-e116-43c5-a3b9-267f864cddfc",
+    "company": "Workday",
+    "title": "Machine Learning Engineer Intern",
+    "location": "Pleasanton, CA (Other)",
+    "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Machine-Learning-Engineer-Intern_JR-0110812"
+  },
+  {
+    "id": "sj:0a37326a-6eb6-4459-8249-044ccfac8600",
+    "company": "Workday",
+    "title": "Software Application Development Engineer Intern",
+    "location": "Pleasanton, CA (Other)",
+    "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Software-Application-Development-Engineer-Intern_JR-0110811"
+  },
+  {
+    "id": "sj:2ab54297-543e-4470-b71e-2e95b53cd687",
+    "company": "Workday",
+    "title": "Software Engineer Intern",
+    "location": "Pleasanton, CA (Other)",
+    "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Software-Development-Engineer-Intern_JR-0110810"
   },
   {
     "id": "sj:a88c4837-dfcb-4510-8be0-2b25c43d5754",
@@ -6914,89 +6998,5 @@
     "title": "Software Developer Intern - Summer Games",
     "location": "Annapolis Junction, MD (Other)",
     "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Annapolis-Junction-MD/University---2027-Summer-Games-Software-Developer-Intern---Annapolis-Junction--MD_R0249873"
-  },
-  {
-    "id": "sj:d1ab33ae-00ef-4a5c-9f42-af71a13f9f68",
-    "company": "Booz Allen",
-    "title": "Software Developer Intern - University",
-    "location": "McLean, VA (Other)",
-    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern---McLean--VA_R0249827"
-  },
-  {
-    "id": "sj:6c19dbb0-d334-4197-a3b2-1a2b7952b5f0",
-    "company": "Booz Allen",
-    "title": "Software Developer Intern - University",
-    "location": "McLean, VA (Other)",
-    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern---McLean--VA_R0249828"
-  },
-  {
-    "id": "sj:bb8a4664-4f0f-425c-bdb0-8c200228a024",
-    "company": "AeroVironment",
-    "title": "Autonomy & Robotics Engineer Intern",
-    "location": "Moorpark, CA (Other)",
-    "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Moorpark-CA/Summer-2027-Autonomy---Robotics-Engineering-Intern_8551"
-  },
-  {
-    "id": "sj:876c3f6f-84b9-4e5d-a61c-3f403eeed9bb",
-    "company": "NVIDIA",
-    "title": "Research Intern - Robotics",
-    "location": "Seattle, WA; Santa Clara, CA (Other)",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-WA-Seattle/Research-Intern--Robotics---Summer-2027_JR2025647"
-  },
-  {
-    "id": "sj:7d669b5f-60d8-41f2-8c63-353b9b7240a7",
-    "company": "GE Healthcare",
-    "title": "Software Engineer Intern",
-    "location": "Salt Lake City, UT (Other)",
-    "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Salt-Lake-City/Software-Engineering-Summer-Intern-2027_R4046481-1"
-  },
-  {
-    "id": "sj:5b34661b-6ae3-4276-8322-3005f82d5721",
-    "company": "Nebraska Medicine",
-    "title": "Forward Deployed AI Engineer Intern",
-    "location": "Omaha, NE (Other)",
-    "url": "https://nebraskamed.wd5.myworkdayjobs.com/nm/job/Omaha-NE/Intern---Forward-Deployed-AI-Engineer_REQ-38924"
-  },
-  {
-    "id": "sj:bc4117e4-8373-4215-901c-689e3476cdfb",
-    "company": "Live Oak Bank",
-    "title": "Software Engineering Intern - Summer Internship Program",
-    "location": "Wilmington, NC (Other)",
-    "url": "https://liveoakbancshares.wd1.myworkdayjobs.com/en-US/Live_Oak/job/Wilmington-NC/Summer-2027-Intern--Software-Engineering_R-002643"
-  },
-  {
-    "id": "sj:4c9dd806-b8fb-45f1-902c-57dd9eea449b",
-    "company": "Booz Allen",
-    "title": "Software Developer Intern - University",
-    "location": "McLean, VA (Other)",
-    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern---McLean--VA_R0249801"
-  },
-  {
-    "id": "sj:f5a57f30-b133-43ba-b8f8-1de07dc17078",
-    "company": "Booz Allen",
-    "title": "Software Developer Intern - University",
-    "location": "McLean, VA (Other)",
-    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern---McLean--VA_R0249805"
-  },
-  {
-    "id": "sj:6dd0e33a-c6c2-49ff-9275-1db9cd952dcd",
-    "company": "Booz Allen",
-    "title": "Software Developer Intern - University",
-    "location": "McLean, VA (Other)",
-    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern---McLean--VA_R0249815"
-  },
-  {
-    "id": "sj:64b4e84b-a833-403e-81dc-0e503d734f8c",
-    "company": "Booz Allen",
-    "title": "Software Developer Intern",
-    "location": "Huntsville, AL (Other)",
-    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Huntsville-AL/University---2027-Summer-Games-Software-Developer-Intern---Huntsville--AL_R0249872"
-  },
-  {
-    "id": "sj:722989ed-df3d-4611-83a2-26c5369b1e66",
-    "company": "EMC Insurance",
-    "title": "Claims Intern - Workers' Compensation",
-    "location": "Iowa (Other)",
-    "url": "https://emcins.wd5.myworkdayjobs.com/EMC_Internships/job/Iowa---Work-From-Home/Claims-Intern---Worker-s-Compensation_R6548"
   }
 ]
