@@ -4746,6 +4746,13 @@
     "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Software-Development-Engineer-Intern_JR-0110810"
   },
   {
+    "id": "sj:8f6341ff-47e2-4a91-8d5d-fca1f79014c0",
+    "company": "RTX",
+    "title": "Software Engineer Intern",
+    "location": "Melbourne, FL (Other)",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-312--795-W-Nasa-Blvd--BLDG-312/Software-Engineering-Intern--Summer-2027-_01876918"
+  },
+  {
     "id": "sj:a88c4837-dfcb-4510-8be0-2b25c43d5754",
     "company": "Waymo",
     "title": "Summer Intern - Machine Learning - Planning/Prediction",
@@ -6991,12 +6998,5 @@
     "title": "Sustainability Intern",
     "location": "Wyoming, MI (Other)",
     "url": "https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Sustainability-Intern_R-57405"
-  },
-  {
-    "id": "sj:c3d7feb6-9d19-4d95-a50c-aca69e2aac06",
-    "company": "Booz Allen",
-    "title": "Software Developer Intern",
-    "location": "San Diego, CA (Other)",
-    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Diego-CA/University---2027-Summer-Games-Software-Developer-Intern---San-Diego--CA_R0249799"
   }
 ]
