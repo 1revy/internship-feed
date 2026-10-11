@@ -1974,6 +1974,13 @@
     "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002"
   },
   {
+    "id": "sj:cc5558b2-1bda-49b9-a95f-0a93489f72e2",
+    "company": "Johns Hopkins Applied Physics Laboratory",
+    "title": "Data Science & Autonomous Systems Intern - Data Science & Autonomous Systems - Critical Infrastructure Protection",
+    "location": "Laurel, MD (Other)",
+    "url": "https://careers.jhuapl.edu/jobs/60432?icims=1"
+  },
+  {
     "id": "sj:b5bd0081-1033-4882-b221-b3f4cc06d1ec",
     "company": "TikTok",
     "title": "Creative Product Manager Intern - Multiple Teams",
@@ -3491,12 +3498,5 @@
     "title": "Energy Analyst Intern - Economics - Multiple Teams",
     "location": "Toronto, ON, Canada (Other)",
     "url": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4736066005"
-  },
-  {
-    "id": "sj:71d40ca7-1546-417c-8bf5-c360ac814bb0",
-    "company": "Together AI",
-    "title": "Systems Research Engineer Intern - GPU Programming",
-    "location": "SF (Other)",
-    "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238460007"
   }
 ]
