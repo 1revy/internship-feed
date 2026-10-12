@@ -616,6 +616,13 @@
     "url": "https://www.alixpartners.com/careers/7725335003?gh_jid=7725335003"
   },
   {
+    "id": "sj:68895e12-9a1f-4ca5-8dfb-b050f2ea8a43",
+    "company": "Google",
+    "title": "Forward Deployed Engineer Intern",
+    "location": "NYC; Sunnyvale, CA (New York)",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/75665705386549958"
+  },
+  {
     "id": "sj:4dacd1f1-1a63-461f-9329-95162f1c14bd",
     "company": "Coinbase",
     "title": "Forward Deployed Engineer Intern - HR Technology",
@@ -1750,6 +1757,13 @@
     "url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/London-UK/Data-Science-Machine-Learning-Internship--Summer-2027-_R1345"
   },
   {
+    "id": "sj:3ecc98e5-8773-49d5-bc52-d82191e50a8e",
+    "company": "Capula",
+    "title": "Technology Intern",
+    "location": "London, UK (London / Paris)",
+    "url": "https://apply.workable.com/capula-investment-management-ltd/j/96EBCF5617/apply"
+  },
+  {
     "id": "sj:9e2e6559-0af7-4f08-8cca-e4a650d95b46",
     "company": "Anduril",
     "title": "Software Engineer Intern",
@@ -1972,6 +1986,20 @@
     "title": "Software Engineer Intern",
     "location": "London, UK; Chicago, IL (London / Paris)",
     "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002"
+  },
+  {
+    "id": "sj:e5ebe73e-fdc6-49c8-b94f-5e6b5c176831",
+    "company": "Bosch Home Comfort",
+    "title": "AI Business Solutions Intern",
+    "location": "Coventry, UK (Other)",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154992819"
+  },
+  {
+    "id": "sj:bd284fb3-53b0-4465-abd6-86445c4a9a0a",
+    "company": "CapTech Consulting",
+    "title": "Data Analysis/Data Engineering Intern",
+    "location": "Richmond, VA (Other)",
+    "url": "https://jobs.smartrecruiters.com/CapTechConsulting/744000155023169"
   },
   {
     "id": "sj:cc5558b2-1bda-49b9-a95f-0a93489f72e2",
@@ -3470,33 +3498,5 @@
     "title": "Claims Intern - Data",
     "location": "Iowa (Other)",
     "url": "https://emcins.wd5.myworkdayjobs.com/EMC_Internships/job/Iowa/Intern--Claims--Data-_R6552"
-  },
-  {
-    "id": "sj:d473bd44-d390-41bc-b173-144940110b9e",
-    "company": "Waymo",
-    "title": "Product Data Science Intern",
-    "location": "SF (Other)",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=8199365"
-  },
-  {
-    "id": "sj:01adde08-7298-47e1-8394-bb946ac7ec13",
-    "company": "MetOx International",
-    "title": "Data Science Intern - Spring 2027",
-    "location": "Houston, TX (Other)",
-    "url": "https://job-boards.greenhouse.io/metoxinternationalinc/jobs/5427064008"
-  },
-  {
-    "id": "sj:43906c1b-7f09-425f-89c4-c110033758ce",
-    "company": "The Brattle Group",
-    "title": "Energy Analyst Intern - Economics",
-    "location": "Boston, MA (Other)",
-    "url": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735999005"
-  },
-  {
-    "id": "sj:7fcad71e-65cc-40d4-8b02-4bb089e20989",
-    "company": "The Brattle Group",
-    "title": "Energy Analyst Intern - Economics - Multiple Teams",
-    "location": "Toronto, ON, Canada (Other)",
-    "url": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4736066005"
   }
 ]
