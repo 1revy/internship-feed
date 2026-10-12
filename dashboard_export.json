@@ -1988,6 +1988,20 @@
     "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002"
   },
   {
+    "id": "sj:182b2433-7798-4b89-991d-e3734677029c",
+    "company": "ADT",
+    "title": "Product Management & Product Operations Intern",
+    "location": "Boca Raton, FL (Other)",
+    "url": "https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3022393"
+  },
+  {
+    "id": "sj:3907d445-1dab-4abd-b818-4a2fef38adab",
+    "company": "CHS",
+    "title": "Data Analyst Intern",
+    "location": "Inver Grove Heights, MN (Other)",
+    "url": "https://careers.chsinc.com/job/Inver-Grove-Heights-Data-Analyst-Intern-MN-55077-1721/1439313500/?ats=successfactors"
+  },
+  {
     "id": "sj:e5ebe73e-fdc6-49c8-b94f-5e6b5c176831",
     "company": "Bosch Home Comfort",
     "title": "AI Business Solutions Intern",
@@ -3484,19 +3498,5 @@
     "title": "Systems Engineer Intern - Summer Games",
     "location": "Huntsville, AL (Other)",
     "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Huntsville-AL/University---2027-Summer-Games-Systems-Engineer-Intern---Huntsville--AL_R0249877"
-  },
-  {
-    "id": "sj:a3bd1d15-060a-447a-a1fe-ebc41d4f7a50",
-    "company": "Commerce Bank",
-    "title": "Data Analyst Intern - Summer 2027",
-    "location": "Kansas City, MO (Other)",
-    "url": "https://commercebank.wd1.myworkdayjobs.com/CommerceJobs/job/MO---Kansas-City-DowntownPlaza---Kansas-City---KC-Downtown-Trust-Building-922-Walnut-64106/Intern-EABI---Data-Analyst-Summer-2027_38484"
-  },
-  {
-    "id": "sj:cb8e36f2-8593-4793-bcf8-e10743512481",
-    "company": "EMC Insurance",
-    "title": "Claims Intern - Data",
-    "location": "Iowa (Other)",
-    "url": "https://emcins.wd5.myworkdayjobs.com/EMC_Internships/job/Iowa/Intern--Claims--Data-_R6552"
   }
 ]
