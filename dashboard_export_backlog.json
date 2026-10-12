@@ -1,5 +1,33 @@
 [
   {
+    "id": "sj:d473bd44-d390-41bc-b173-144940110b9e",
+    "company": "Waymo",
+    "title": "Product Data Science Intern",
+    "location": "SF (Other)",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8199365"
+  },
+  {
+    "id": "sj:01adde08-7298-47e1-8394-bb946ac7ec13",
+    "company": "MetOx International",
+    "title": "Data Science Intern - Spring 2027",
+    "location": "Houston, TX (Other)",
+    "url": "https://job-boards.greenhouse.io/metoxinternationalinc/jobs/5427064008"
+  },
+  {
+    "id": "sj:43906c1b-7f09-425f-89c4-c110033758ce",
+    "company": "The Brattle Group",
+    "title": "Energy Analyst Intern - Economics",
+    "location": "Boston, MA (Other)",
+    "url": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735999005"
+  },
+  {
+    "id": "sj:7fcad71e-65cc-40d4-8b02-4bb089e20989",
+    "company": "The Brattle Group",
+    "title": "Energy Analyst Intern - Economics - Multiple Teams",
+    "location": "Toronto, ON, Canada (Other)",
+    "url": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4736066005"
+  },
+  {
     "id": "sj:71d40ca7-1546-417c-8bf5-c360ac814bb0",
     "company": "Together AI",
     "title": "Systems Research Engineer Intern - GPU Programming",
@@ -4571,6 +4599,13 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Data-Processing-Developer-Technology-Intern---2027_JR2024708"
   },
   {
+    "id": "sj:bc103376-8439-4692-9318-35e66b23cded",
+    "company": "CapTech Consulting",
+    "title": "Consulting Software Engineer Intern",
+    "location": "Richmond, VA (Other)",
+    "url": "https://jobs.smartrecruiters.com/CapTechConsulting/744000155019115"
+  },
+  {
     "id": "sj:8c0c58e2-09a5-4405-af40-3b87b72fd72f",
     "company": "Kainos",
     "title": "Placement Technologist Intern",
@@ -4590,6 +4625,13 @@
     "title": "Technologist Intern",
     "location": "Birmingham, UK (Other)",
     "url": "https://kainos.wd3.myworkdayjobs.com/kainos/job/Birmingham/Placement-Technologist--Birmingham----July-2027-Start-Date_JR_18558"
+  },
+  {
+    "id": "sj:551b27cd-0375-45c3-8b66-039b365faebc",
+    "company": "LSEG",
+    "title": "Engineering Intern",
+    "location": "Nottingham, UK (Other)",
+    "url": "https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/Nottingham-United-Kingdom/Engineering-Summer-Internship-Programme_R0124221"
   },
   {
     "id": "sj:32a867ab-36be-40f9-8242-5da26a5ee011",
@@ -6956,47 +6998,5 @@
     "title": "AI Research Intern - Reinforcement Learning and LLM Post-Training",
     "location": "Santa Clara, CA (Other)",
     "url": "https://careers.amd.com/jobs/91013?icims=1"
-  },
-  {
-    "id": "sj:515f1b04-c8f4-4920-ba4c-8564e312dca9",
-    "company": "Wellmark",
-    "title": "Software Engineer Intern - Technology Healthcare Innovation",
-    "location": "Des Moines, IA (Other)",
-    "url": "https://jobs.smartrecruiters.com/WellmarkInc/744000150732768"
-  },
-  {
-    "id": "sj:7d5c4b26-9d58-4de0-b0fe-0ee845b9d45e",
-    "company": "AutoZone",
-    "title": "Information Technology Intern",
-    "location": "Memphis, TN (Other)",
-    "url": "https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155451"
-  },
-  {
-    "id": "sj:952056a2-b2cc-495f-b6f7-1ea3d4caf8a1",
-    "company": "MFS",
-    "title": "Consultant Relations Co-op - January - June",
-    "location": "Boston, MA (Other)",
-    "url": "https://mfs.wd1.myworkdayjobs.com/en-US/MFS-Careers/job/Boston/Global-Institutional-Strategic-Accounts-Co-op-Spring-2027--January---June-_MFS-231931"
-  },
-  {
-    "id": "sj:08b81f58-c3c3-4212-a0ac-e8bc42112895",
-    "company": "Acima",
-    "title": "Software Engineer Intern",
-    "location": "Draper, UT (Other)",
-    "url": "https://upbound.wd501.myworkdayjobs.com/Acima/job/Draper-UT/Software-Engineer-Intern_R-100759-1"
-  },
-  {
-    "id": "sj:9cada06b-51c0-417f-8863-1c0468182c31",
-    "company": "Fidelity Investments",
-    "title": "Undergraduate Internship - Software",
-    "location": "Boston, MA; Westlake, TX; Durham, NC (Other)",
-    "url": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/One-Destiny-Way-Westlake-TX/Summer-2027-Undergraduate-Internship---Software_2134524"
-  },
-  {
-    "id": "sj:7e9e1d77-26aa-43b1-b980-8af6e516c6c4",
-    "company": "Upbound Group",
-    "title": "Software Engineer Intern",
-    "location": "Plano, TX (Other)",
-    "url": "https://upbound.wd501.myworkdayjobs.com/Upbound/job/Plano-TX/Software-Engineer-Intern_R-100761"
   }
 ]
