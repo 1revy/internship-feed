@@ -623,6 +623,13 @@
     "url": "https://www.alixpartners.com/careers/7725335003?gh_jid=7725335003"
   },
   {
+    "id": "sj:191ec10e-48aa-42a6-a296-acd2f1d46586",
+    "company": "Boston Consulting Group",
+    "title": "Forward Deployed AI Engineer Intern",
+    "location": "Boston, MA; LA; Chicago, IL; NYC (New York)",
+    "url": "https://careers.bcg.com/global/en/job/59702"
+  },
+  {
     "id": "sj:68895e12-9a1f-4ca5-8dfb-b050f2ea8a43",
     "company": "Google",
     "title": "Forward Deployed Engineer Intern",
@@ -1330,6 +1337,13 @@
     "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4719119005"
   },
   {
+    "id": "sj:2751af83-9f4f-48b8-8aba-6f534e9681e7",
+    "company": "Atoms",
+    "title": "Software Engineer Intern - Summer 2027",
+    "location": "Seattle, WA; SF; LA; NYC; Mountain View, CA (New York)",
+    "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687896002"
+  },
+  {
     "id": "sj:6bb2553b-f9bc-4c0b-ae90-ae4d6dabeeee",
     "company": "Two Sigma",
     "title": "AI Research Scientist Intern - 2027 Summer",
@@ -1785,6 +1799,13 @@
     "url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/London-UK/Data-Science-Machine-Learning-Internship--Summer-2027-_R1345"
   },
   {
+    "id": "sj:e80ebee1-3fe9-4a36-ad51-08f17f3179c8",
+    "company": "Waymo",
+    "title": "Intern - Multiple Teams",
+    "location": "London, UK (London / Paris)",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8265868"
+  },
+  {
     "id": "sj:c5851f1f-3f5a-43ff-b66c-1176dd50e3d3",
     "company": "Goodlord",
     "title": "Engineering Intern",
@@ -2023,6 +2044,13 @@
     "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002"
   },
   {
+    "id": "sj:bda4abe8-aa5b-41a0-bb34-7806e4ff2679",
+    "company": "Gallup",
+    "title": "Data Engineer Intern",
+    "location": "SF (Other)",
+    "url": "https://job-boards.greenhouse.io/gallup/jobs/4449991009"
+  },
+  {
     "id": "sj:d791060f-6a57-4c7b-a9fb-c69548cdac7e",
     "company": "Vertiv",
     "title": "Data Analytics Intern",
@@ -2035,6 +2063,34 @@
     "title": "IT Business Analyst Intern",
     "location": "Perry, OK (Other)",
     "url": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Perry-OK/IT-Business-Analyst-Intern---Ditch-Witch_JR17608"
+  },
+  {
+    "id": "sj:dc12ad6e-94a3-4674-995b-d23b3b5013e8",
+    "company": "CoStar Group",
+    "title": "Product Intern",
+    "location": "Richmond, VA (Other)",
+    "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-VA-Richmond---CoStar-Tower/Product-Intern---Richmond--VA--Summer-2027-_R39900"
+  },
+  {
+    "id": "sj:7c9b6750-0d26-497a-bb9c-75cbaede0d91",
+    "company": "General Dynamics Information Technology",
+    "title": "AI and Data Analytics Intern",
+    "location": "Sterling, VA (Other)",
+    "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Sterling/AI-and-Data-Analytics-Intern_RQ230269"
+  },
+  {
+    "id": "sj:ebb1e212-e617-4401-b8c1-187cf3be6bd3",
+    "company": "DriveTime",
+    "title": "Data Analytics Intern",
+    "location": "Dallas, TX; Tempe, AZ (Other)",
+    "url": "https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Analyst-Intern--Summer-2027-_R16502"
+  },
+  {
+    "id": "sj:19a4fd72-3ca2-426e-bd97-8a97d3d6aa8e",
+    "company": "Avis Budget Group",
+    "title": "Product Innovation Intern",
+    "location": "Parsippany-Troy Hills, NJ (Other)",
+    "url": "https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/379-Interpace-Pkwy-Parsippany-07054/Accelerate---Product-Innovation-Intern---Summer-2027_R0191163"
   },
   {
     "id": "sj:3270ba05-496f-4b60-b1fe-7fb7cfb915bd",
@@ -3003,6 +3059,13 @@
     "url": "https://careers-hrblock.icims.com/jobs/76989/job?mobile=true&needsRedirect=false"
   },
   {
+    "id": "sj:c952a747-7189-4687-a073-04347d98d705",
+    "company": "H&R Block",
+    "title": "Product Management Intern - S",
+    "location": "Kansas City, MO (Other)",
+    "url": "https://careers.hrblock.com/jobs/76986?icims=1"
+  },
+  {
     "id": "sj:a273034e-3b57-4e7a-9eaa-23b7e5d751d3",
     "company": "UL Solutions",
     "title": "Product Management Intern",
@@ -3435,68 +3498,5 @@
     "title": "Strategic Operations Analyst Intern",
     "location": "Montpelier, VT; Addison, TX (Other)",
     "url": "https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4410899009"
-  },
-  {
-    "id": "sj:1a872d07-40d8-4b98-8f0f-15127543ae64",
-    "company": "Boston Scientific",
-    "title": "Data Engineer Intern",
-    "location": "Maple Grove, MN (Other)",
-    "url": "https://bostonscientific.eightfold.ai/careers/job/563602813501949"
-  },
-  {
-    "id": "sj:11d3d160-862a-4d48-9f6c-fc735d0c1383",
-    "company": "Koch Industries",
-    "title": "Business Analytics & Insights Intern",
-    "location": "Green Bay, WI (Other)",
-    "url": "https://koch.avature.net/en_US/careers/JobDetail/194813"
-  },
-  {
-    "id": "sj:3ced3a3b-c1dc-406e-9949-2fbc2be31d0c",
-    "company": "Zimmer Biomet Holdings",
-    "title": "Product Management Intern - Artificial Intelligence Product Management",
-    "location": "Remote in USA (Other)",
-    "url": "https://careers.zimmerbiomet.com/us/en/job/12745"
-  },
-  {
-    "id": "sj:052eb803-66af-435a-9f6d-069e2aa8d052",
-    "company": "Zimmer Biomet Holdings",
-    "title": "Summer Intern - Data Mesh Platform",
-    "location": "Remote in USA (Other)",
-    "url": "https://careers.zimmerbiomet.com/us/en/job/12688"
-  },
-  {
-    "id": "sj:62014017-f39b-4e2f-969b-4520e27dc627",
-    "company": "Zimmer Biomet Holdings",
-    "title": "Data Management Intern",
-    "location": "Warsaw, IN (Other)",
-    "url": "https://careers.zimmerbiomet.com/us/en/job/12746"
-  },
-  {
-    "id": "sj:bc661e4d-29a0-4de4-bbeb-52f943d960c8",
-    "company": "Grow Financial Federal Credit Union",
-    "title": "Systems Analyst Intern",
-    "location": "Remote in USA (Other)",
-    "url": "https://careers-growfinancial.icims.com/jobs/2754/job?mobile=true&needsRedirect=false"
-  },
-  {
-    "id": "sj:673a3035-f4bb-47d2-912f-bee053a64f17",
-    "company": "Erie Insurance Group",
-    "title": "Data Intern 2",
-    "location": "Erie, PA (Other)",
-    "url": "https://jobs.erieinsurance.com/job/Erie-Intern-II-(Data)-PA-16506/1432176200/?ats=successfactors"
-  },
-  {
-    "id": "sj:e5beef36-6b63-4638-857d-5e50db300042",
-    "company": "Resultant",
-    "title": "Data & Analytics Consultant Intern - Summer 2027",
-    "location": "Indianapolis, IN (Other)",
-    "url": "https://jobs.smartrecruiters.com/Resultant/744000150785390"
-  },
-  {
-    "id": "sj:2e8bb17d-0726-4482-af62-5f868bede92c",
-    "company": "AutoZone",
-    "title": "Data Science Intern",
-    "location": "Memphis, TN (Other)",
-    "url": "https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155461"
   }
 ]
