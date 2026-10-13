@@ -1,5 +1,26 @@
 [
   {
+    "id": "sj:85721ea7-7039-4fed-bd43-becafa1de541",
+    "company": "AutoZone",
+    "title": "Ecommerce Intern",
+    "location": "Memphis, TN (Other)",
+    "url": "https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155427"
+  },
+  {
+    "id": "sj:a3c5a65f-8eba-4d2e-a9b8-a50cceb40ad6",
+    "company": "RSM",
+    "title": "Tax Digital Services Intern - AI Engineering",
+    "location": "Charlotte, NC (Other)",
+    "url": "https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Charlotte/Tax-Digital-Services-Intern---AI-Engineering---Summer-2027_JR121297"
+  },
+  {
+    "id": "sj:8494c8ac-a047-43cf-a4ba-874bc62f8213",
+    "company": "Upbound Group",
+    "title": "Digital Commerce Intern",
+    "location": "Plano, TX (Other)",
+    "url": "https://upbound.wd501.myworkdayjobs.com/Upbound/job/Plano-TX/Digital-Commerce-Intern_R-100767"
+  },
+  {
     "id": "sj:329555bd-4a7e-4ef4-abf7-73122cec8112",
     "company": "Mastercard",
     "title": "Product Management Intern",
@@ -4746,6 +4767,13 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Data-Processing-Developer-Technology-Intern---2027_JR2024708"
   },
   {
+    "id": "sj:2bda6894-9fdb-4005-a6e9-43d2f626fd06",
+    "company": "RTX",
+    "title": "Software Engineer Intern",
+    "location": "Annapolis Junction, MD (Other)",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MD-ANNAPOLIS-JUNCTION-339--306-Sentinel-Dr--339-BLDG/Software-Engineering-Intern--Summer-2027-_01880895-1"
+  },
+  {
     "id": "sj:c63a51bb-9db9-4bab-91a4-279cec884af5",
     "company": "Scout Clean Energy",
     "title": "Geospatial Intern",
@@ -6970,33 +6998,5 @@
     "title": "Software Developer Intern - HR&D",
     "location": "Tempe, AZ; Dunwoody, GA; Richardson, TX; Bloomington, IL (Other)",
     "url": "https://jobs.statefarm.com/jobs/45689?icims=1"
-  },
-  {
-    "id": "sj:27be24cd-78e1-4eca-9e66-1c1004286831",
-    "company": "Zipline",
-    "title": "Autonomy Intern",
-    "location": "South SF (Other)",
-    "url": "https://www.zipline.com/open-roles/8002829003?gh_jid=8002829003"
-  },
-  {
-    "id": "sj:cd26cfb9-50c6-440f-8b4a-6d6f97b14d32",
-    "company": "Bedrock Robotics",
-    "title": "Evaluation Engineer Intern - Metric Prototyping",
-    "location": "SF (Other)",
-    "url": "https://jobs.ashbyhq.com/bedrock-robotics/07b55743-d5c4-4347-bfac-000821317b13/application?embed=true"
-  },
-  {
-    "id": "sj:772904d0-c686-441a-b5dd-5c8e650d5b36",
-    "company": "Ralliant",
-    "title": "Research and Development Co-op",
-    "location": "Fairport, NY (Other)",
-    "url": "https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/10637"
-  },
-  {
-    "id": "sj:ffb0610a-df2f-4c18-a196-a2ef4d949d7b",
-    "company": "Astranis",
-    "title": "Backend Software Engineer Intern - Summer 2027",
-    "location": "SF (Other)",
-    "url": "https://job-boards.greenhouse.io/astranis/jobs/4705214006"
   }
 ]
