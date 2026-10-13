@@ -2023,6 +2023,20 @@
     "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002"
   },
   {
+    "id": "sj:d791060f-6a57-4c7b-a9fb-c69548cdac7e",
+    "company": "Vertiv",
+    "title": "Data Analytics Intern",
+    "location": "Delaware, OH (Other)",
+    "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278852"
+  },
+  {
+    "id": "sj:638d533f-86ec-4b57-9f63-ae7fbb3d6d31",
+    "company": "The Toro Company",
+    "title": "IT Business Analyst Intern",
+    "location": "Perry, OK (Other)",
+    "url": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Perry-OK/IT-Business-Analyst-Intern---Ditch-Witch_JR17608"
+  },
+  {
     "id": "sj:3270ba05-496f-4b60-b1fe-7fb7cfb915bd",
     "company": "Koch Industries",
     "title": "Digital Technology & Data Intern",
@@ -2497,6 +2511,13 @@
     "title": "AI Engineering Intern - Business Systems",
     "location": "Cary, NC (Other)",
     "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/AI-Engineering--Business-Systems-Intern--Summer-2027_JR00048714"
+  },
+  {
+    "id": "sj:a5225dca-6c4a-48c9-880a-02b636fa5c57",
+    "company": "American Family Insurance Group",
+    "title": "Front End Developer Intern - Digital Sales",
+    "location": "Madison, WI; Boston, MA (Other)",
+    "url": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Intern--Digital-Sales_R39491"
   },
   {
     "id": "sj:814d5fac-0c8f-4eb3-81af-52e7b9509c3a",
@@ -3477,26 +3498,5 @@
     "title": "Data Science Intern",
     "location": "Memphis, TN (Other)",
     "url": "https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155461"
-  },
-  {
-    "id": "sj:85721ea7-7039-4fed-bd43-becafa1de541",
-    "company": "AutoZone",
-    "title": "Ecommerce Intern",
-    "location": "Memphis, TN (Other)",
-    "url": "https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155427"
-  },
-  {
-    "id": "sj:a3c5a65f-8eba-4d2e-a9b8-a50cceb40ad6",
-    "company": "RSM",
-    "title": "Tax Digital Services Intern - AI Engineering",
-    "location": "Charlotte, NC (Other)",
-    "url": "https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Charlotte/Tax-Digital-Services-Intern---AI-Engineering---Summer-2027_JR121297"
-  },
-  {
-    "id": "sj:8494c8ac-a047-43cf-a4ba-874bc62f8213",
-    "company": "Upbound Group",
-    "title": "Digital Commerce Intern",
-    "location": "Plano, TX (Other)",
-    "url": "https://upbound.wd501.myworkdayjobs.com/Upbound/job/Plano-TX/Digital-Commerce-Intern_R-100767"
   }
 ]
