@@ -1,5 +1,68 @@
 [
   {
+    "id": "sj:1a872d07-40d8-4b98-8f0f-15127543ae64",
+    "company": "Boston Scientific",
+    "title": "Data Engineer Intern",
+    "location": "Maple Grove, MN (Other)",
+    "url": "https://bostonscientific.eightfold.ai/careers/job/563602813501949"
+  },
+  {
+    "id": "sj:11d3d160-862a-4d48-9f6c-fc735d0c1383",
+    "company": "Koch Industries",
+    "title": "Business Analytics & Insights Intern",
+    "location": "Green Bay, WI (Other)",
+    "url": "https://koch.avature.net/en_US/careers/JobDetail/194813"
+  },
+  {
+    "id": "sj:3ced3a3b-c1dc-406e-9949-2fbc2be31d0c",
+    "company": "Zimmer Biomet Holdings",
+    "title": "Product Management Intern - Artificial Intelligence Product Management",
+    "location": "Remote in USA (Other)",
+    "url": "https://careers.zimmerbiomet.com/us/en/job/12745"
+  },
+  {
+    "id": "sj:052eb803-66af-435a-9f6d-069e2aa8d052",
+    "company": "Zimmer Biomet Holdings",
+    "title": "Summer Intern - Data Mesh Platform",
+    "location": "Remote in USA (Other)",
+    "url": "https://careers.zimmerbiomet.com/us/en/job/12688"
+  },
+  {
+    "id": "sj:62014017-f39b-4e2f-969b-4520e27dc627",
+    "company": "Zimmer Biomet Holdings",
+    "title": "Data Management Intern",
+    "location": "Warsaw, IN (Other)",
+    "url": "https://careers.zimmerbiomet.com/us/en/job/12746"
+  },
+  {
+    "id": "sj:bc661e4d-29a0-4de4-bbeb-52f943d960c8",
+    "company": "Grow Financial Federal Credit Union",
+    "title": "Systems Analyst Intern",
+    "location": "Remote in USA (Other)",
+    "url": "https://careers-growfinancial.icims.com/jobs/2754/job?mobile=true&needsRedirect=false"
+  },
+  {
+    "id": "sj:673a3035-f4bb-47d2-912f-bee053a64f17",
+    "company": "Erie Insurance Group",
+    "title": "Data Intern 2",
+    "location": "Erie, PA (Other)",
+    "url": "https://jobs.erieinsurance.com/job/Erie-Intern-II-(Data)-PA-16506/1432176200/?ats=successfactors"
+  },
+  {
+    "id": "sj:e5beef36-6b63-4638-857d-5e50db300042",
+    "company": "Resultant",
+    "title": "Data & Analytics Consultant Intern - Summer 2027",
+    "location": "Indianapolis, IN (Other)",
+    "url": "https://jobs.smartrecruiters.com/Resultant/744000150785390"
+  },
+  {
+    "id": "sj:2e8bb17d-0726-4482-af62-5f868bede92c",
+    "company": "AutoZone",
+    "title": "Data Science Intern",
+    "location": "Memphis, TN (Other)",
+    "url": "https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155461"
+  },
+  {
     "id": "sj:85721ea7-7039-4fed-bd43-becafa1de541",
     "company": "AutoZone",
     "title": "Ecommerce Intern",
@@ -1307,6 +1370,13 @@
     "title": "Enterprise Data Intern",
     "location": "Carmel, IN (Other)",
     "url": "https://job-boards.greenhouse.io/themjcos/jobs/5418283008"
+  },
+  {
+    "id": "sj:fb4ab5cb-e947-410e-a3e5-1ff45d3c9a72",
+    "company": "ISN Software",
+    "title": "Product Strategy Intern",
+    "location": "Dallas, TX (Other)",
+    "url": "https://isnetworld.com/en/about/careers/jobs?gh_jid=6188490004"
   },
   {
     "id": "sj:ed605070-d6fd-49c3-a4f4-dc442d4fbc15",
@@ -4767,11 +4837,95 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Data-Processing-Developer-Technology-Intern---2027_JR2024708"
   },
   {
+    "id": "sj:2599beb7-cad8-4b9b-9020-7baf41143bfb",
+    "company": "Armadin",
+    "title": "Frontend Engineer Intern - Member of Technical Staff",
+    "location": "Palo Alto, CA (Other)",
+    "url": "https://jobs.ashbyhq.com/armadin/571d7673-ce4b-414c-b736-38297d1d2b8b/application?embed=true"
+  },
+  {
+    "id": "sj:74893cea-eee0-4585-b084-f9d4652bc4ee",
+    "company": "Carbon Robotics",
+    "title": "Engineering Intern - Hardware & Software",
+    "location": "Seattle, WA (Other)",
+    "url": "https://carbonrobotics.com/job-openings?gh_jid=4721558006"
+  },
+  {
+    "id": "sj:504555e2-06ee-4bcb-a0aa-e8c7d79b0652",
+    "company": "Electronic Arts",
+    "title": "Technical Artist Co-op",
+    "location": "Vancouver, BC, Canada (Other)",
+    "url": "https://jobs.ea.com/en_US/careers/JobDetail/Technical-Artist-Co-op/216406"
+  },
+  {
+    "id": "sj:fa621e40-4b60-4912-8246-670d0d5554a6",
+    "company": "Netflix",
+    "title": "Software Engineer Intern",
+    "location": "LA; Los Gatos, CA (Other)",
+    "url": "https://explore.jobs.netflix.net/careers/job/790318904468"
+  },
+  {
+    "id": "sj:ae3e214d-ad36-44cf-9706-a3988951b4d2",
+    "company": "Medpace",
+    "title": "Python Developer Intern",
+    "location": "Cincinnati, OH (Other)",
+    "url": "https://careers.medpace.com/jobs/13059?icims=1"
+  },
+  {
+    "id": "sj:e76320a7-376a-4fcb-a89b-c5f1d4aca9a7",
+    "company": "Rhombus",
+    "title": "Software Engineer Intern",
+    "location": "Sacramento, CA (Other)",
+    "url": "https://jobs.lever.co/rhombus-systems/59e7a5f3-b457-491d-af08-b629ad35e380/apply"
+  },
+  {
+    "id": "sj:342edb51-b682-4daa-80fd-21c355143f3e",
+    "company": "Waymo",
+    "title": "Machine Learning Intern - Planning/Prediction",
+    "location": "Mountain View, CA (Other)",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8279620"
+  },
+  {
+    "id": "sj:e7154c19-1906-4634-9226-1da16eb77416",
+    "company": "ServiceNow",
+    "title": "AI Engineering Associate Software Engineer Intern",
+    "location": "Santa Clara, CA; West Palm Beach, FL; Kirkland, WA; San Diego, CA (Other)",
+    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000155345889"
+  },
+  {
+    "id": "sj:290dbd18-b2d1-4c4d-b9a7-99c6c3b2511a",
+    "company": "ServiceNow",
+    "title": "Software Engineer Intern",
+    "location": "Santa Clara, CA; West Palm Beach, FL; Kirkland, WA; San Diego, CA (Other)",
+    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000155345689"
+  },
+  {
+    "id": "sj:e93466ad-f96b-44c2-b4a5-5537e957772b",
+    "company": "TRC Companies",
+    "title": "Safety Intern",
+    "location": "Exton, PA (Other)",
+    "url": "https://careers.trccompanies.com/jobs/27074?icims=1"
+  },
+  {
     "id": "sj:2bda6894-9fdb-4005-a6e9-43d2f626fd06",
     "company": "RTX",
     "title": "Software Engineer Intern",
     "location": "Annapolis Junction, MD (Other)",
     "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MD-ANNAPOLIS-JUNCTION-339--306-Sentinel-Dr--339-BLDG/Software-Engineering-Intern--Summer-2027-_01880895-1"
+  },
+  {
+    "id": "sj:891648a3-4448-4a46-8766-35e298d86a6e",
+    "company": "CAI",
+    "title": "Programmer Intern",
+    "location": "Allentown, PA (Other)",
+    "url": "https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Programmer-Intern_R8523"
+  },
+  {
+    "id": "sj:41449f01-bdeb-458c-9422-d62de8a1f245",
+    "company": "NVIDIA",
+    "title": "Sparse Linear Algebra Libraries Intern",
+    "location": "Santa Clara, CA (Other)",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Sparse-Linear-Algebra-Libraries-Intern---Summer-2027_JR2027429"
   },
   {
     "id": "sj:c63a51bb-9db9-4bab-91a4-279cec884af5",
@@ -6608,6 +6762,13 @@
     "url": "https://app.careerpuck.com/job-board/lyft/job/8843341002?gh_jid=8843341002"
   },
   {
+    "id": "sj:cb062e22-3c1a-451f-a4b8-bcb8167ea270",
+    "company": "H&R Block",
+    "title": "Software Engineer Intern",
+    "location": "Kansas City, MO (Other)",
+    "url": "https://careers.hrblock.com/jobs/76987?icims=1"
+  },
+  {
     "id": "sj:e1129632-f5f5-4638-a460-e45b79df40b2",
     "company": "TC Energy",
     "title": "Measurement Services Intern",
@@ -6837,166 +6998,5 @@
     "title": "Software Engineer Intern - R&D",
     "location": "Arden Hills, MN (Other)",
     "url": "https://bostonscientific.eightfold.ai/careers/job/563602813542900"
-  },
-  {
-    "id": "sj:2b447abf-4a95-4c48-a2bb-10f5a7870bdc",
-    "company": "Astranis",
-    "title": "Network Software Intern",
-    "location": "SF (Other)",
-    "url": "https://job-boards.greenhouse.io/astranis/jobs/4705597006"
-  },
-  {
-    "id": "sj:56a971f3-b99a-4529-adf4-d9c950b25ef5",
-    "company": "Corning",
-    "title": "Measurements Engineering Intern - Summer 2027",
-    "location": "Corning, NY (Other)",
-    "url": "https://corningjobs.corning.com/job/Corning-Intern,-Measurements-Summer-2027-NY-14831/1433453700/?ats=successfactors"
-  },
-  {
-    "id": "sj:60174f6d-1cb4-49c4-93db-3cf3d5dc9382",
-    "company": "Arconic",
-    "title": "Software Developer Intern",
-    "location": "Davenport, IA (Other)",
-    "url": "https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/114233"
-  },
-  {
-    "id": "sj:79807b51-faf5-46c1-9880-7c1b2a77905f",
-    "company": "Motorola",
-    "title": "CPE Software End-to-End Triage Intern - Summer 2027",
-    "location": "Plantation, FL (Other)",
-    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/CPE-SW-E2E-Triage-Intern---Summer-2027_R68165"
-  },
-  {
-    "id": "sj:dffa3f5f-d496-43e5-90e0-105b940da03c",
-    "company": "Motorola",
-    "title": "Software Engineer Intern - Summer 2027",
-    "location": "Plantation, FL (Other)",
-    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Software-Engineering-Intern---Summer-2027_R69136"
-  },
-  {
-    "id": "sj:544076ef-ca22-485c-8793-4770c7d30023",
-    "company": "Radiance Technologies",
-    "title": "Software Engineer Intern",
-    "location": "Dayton, OH (Other)",
-    "url": "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Dayton-Office/Software-Engineer-Intern-Spring-Summer-2027_HR102442"
-  },
-  {
-    "id": "sj:6aab9099-e210-40cb-8088-d27b253dd0a7",
-    "company": "Radiance Technologies",
-    "title": "Modeling Engineer Intern - Analytics, Simulation Sciences, Mass",
-    "location": "Beavercreek, OH (Other)",
-    "url": "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/XMLNAME-2027-Modeling--Analytics----Simulation-Sciences--MASS--Engineer-Intern_HR102440-1"
-  },
-  {
-    "id": "sj:7cff5b3d-c314-4456-ae2f-2dc4125f5ecf",
-    "company": "Radiance Technologies",
-    "title": "Modeling Engineer Intern - Analytics - Simulation Sciences",
-    "location": "Beavercreek, OH (Other)",
-    "url": "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/XMLNAME-2027-Modeling--Analytics----Simulation-Sciences--MASS--Engineer-Intern_HR102439"
-  },
-  {
-    "id": "sj:2447c030-f0b3-45ba-8dd4-df6ca2b82259",
-    "company": "Radiance Technologies",
-    "title": "Modeling Engineer Intern - Analytics and Simulation Sciences",
-    "location": "Beavercreek, OH (Other)",
-    "url": "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/XMLNAME-2027-Modeling--Analytics----Simulation-Sciences--MASS--Engineer-Intern_HR102438"
-  },
-  {
-    "id": "sj:9a22b713-73b1-4482-866d-cf1543e650e4",
-    "company": "Radiance Technologies",
-    "title": "Software Engineer Intern",
-    "location": "Dayton, OH (Other)",
-    "url": "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Dayton-Office/Software-Engineer-Intern-Spring-Summer-2027_HR102445"
-  },
-  {
-    "id": "sj:9533e1df-ae69-41b8-90cc-a9c76dae5b88",
-    "company": "Radiance Technologies",
-    "title": "Software Engineer Intern",
-    "location": "Dayton, OH (Other)",
-    "url": "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Dayton-Office/Software-Engineer-Intern-Spring-Summer-2027_HR102446"
-  },
-  {
-    "id": "sj:5a520635-ec7f-4867-add0-a06b434d8203",
-    "company": "Radiance Technologies",
-    "title": "Software Engineer Intern",
-    "location": "Dayton, OH (Other)",
-    "url": "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Dayton-Office/Software-Engineer-Intern-Spring-Summer-2027_HR102443"
-  },
-  {
-    "id": "sj:20e60473-ab0b-483d-8db0-683b9665e97c",
-    "company": "Radiance Technologies",
-    "title": "Modeling Engineer Intern - Analytics & Simulation Sciences - Mass",
-    "location": "Beavercreek, OH (Other)",
-    "url": "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/Modeling--Analytics----Simulation-Sciences--MASS--Engineer-Intern_HR102436"
-  },
-  {
-    "id": "sj:b651ebc4-6d28-49c4-86b6-85437f9cd16a",
-    "company": "Radiance Technologies",
-    "title": "Software Engineer Intern",
-    "location": "Dayton, OH (Other)",
-    "url": "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Dayton-Office/Software-Engineer-Intern-Spring-Summer-2027_HR102444"
-  },
-  {
-    "id": "sj:140fab22-0b1d-498c-a250-8373856250d9",
-    "company": "Radiance Technologies",
-    "title": "Modeling Engineer Intern - Analytics, Simulation Sciences, Mass",
-    "location": "Beavercreek, OH (Other)",
-    "url": "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/XMLNAME-2027-Modeling--Analytics----Simulation-Sciences--MASS--Engineer-Intern_HR102441"
-  },
-  {
-    "id": "sj:90c4aeeb-3983-4bd2-9dfe-15097a7f2d59",
-    "company": "Waymo",
-    "title": "Machine Learning Engineer Intern - Road Understanding",
-    "location": "Mountain View, CA (Other)",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=8224746"
-  },
-  {
-    "id": "sj:9e770238-e3ff-491f-baa6-08a85518e661",
-    "company": "Illinois Tool Works",
-    "title": "Software Engineer Intern",
-    "location": "Eden Prairie, MN (Other)",
-    "url": "https://careers.itw.com/global/en/job/JR10261"
-  },
-  {
-    "id": "sj:c2cbd149-9096-42ca-b785-b8ab7d96e3cf",
-    "company": "Qumulo",
-    "title": "Software Development Engineer Intern",
-    "location": "Seattle, WA (Other)",
-    "url": "https://jobs.ashbyhq.com/qumulo/43855947-3a85-4d1c-8b8e-e0c0ddcaf183/application?embed=true"
-  },
-  {
-    "id": "sj:c101ff9c-9897-4854-bc18-a135671acfc2",
-    "company": "GM financial",
-    "title": "Software Development Engineer Intern",
-    "location": "Arlington, TX (Other)",
-    "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260943"
-  },
-  {
-    "id": "sj:4dd92b4d-fcb3-4e7f-ab7e-984aa0260f5e",
-    "company": "AMD",
-    "title": "AI Engineering Intern",
-    "location": "Santa Clara, CA (Other)",
-    "url": "https://careers.amd.com/jobs/91005?icims=1"
-  },
-  {
-    "id": "sj:f3d05ac2-889f-41af-8897-4ebab63cc29b",
-    "company": "AMD",
-    "title": "Applied Artificial Intelligence Engineering Intern - Hardware AI",
-    "location": "Santa Clara, CA (Other)",
-    "url": "https://careers.amd.com/jobs/90997?icims=1"
-  },
-  {
-    "id": "sj:195612f9-142a-49fb-9059-cfc4fe8c83de",
-    "company": "Klaviyo",
-    "title": "Machine Learning Engineer Intern",
-    "location": "Palo Alto, CA (Other)",
-    "url": "https://job-boards.greenhouse.io/klaviyocampus/jobs/7999274003"
-  },
-  {
-    "id": "sj:d824265f-dd15-4d91-8ad3-661f123098c7",
-    "company": "State Farm",
-    "title": "Software Developer Intern - HR&D",
-    "location": "Tempe, AZ; Dunwoody, GA; Richardson, TX; Bloomington, IL (Other)",
-    "url": "https://jobs.statefarm.com/jobs/45689?icims=1"
   }
 ]
