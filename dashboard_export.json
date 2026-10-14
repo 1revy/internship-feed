@@ -1638,6 +1638,13 @@
     "url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383231008"
   },
   {
+    "id": "sj:6f2c73a3-0420-441e-89a0-480e9cf9735a",
+    "company": "BP",
+    "title": "Digital, Data, AI & Engineering Intern",
+    "location": "London, UK (London / Paris)",
+    "url": "https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/GB-London---25-North-Colonnade/Summer-Internship---Digital---Data--AI---Engineering---UK_RQ117081"
+  },
+  {
     "id": "sj:9bb8791e-41b7-446b-921c-3e1d267d460d",
     "company": "Merck",
     "title": "IT Developer Analyst Intern",
@@ -2042,6 +2049,20 @@
     "title": "Software Engineer Intern",
     "location": "London, UK; Chicago, IL (London / Paris)",
     "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002"
+  },
+  {
+    "id": "sj:82b6632f-b168-481a-8a24-958666999060",
+    "company": "TikTok",
+    "title": "Machine Learning Engineer Intern - E-Commerce User Growth",
+    "location": "Seattle, WA (Other)",
+    "url": "https://lifeattiktok.com/search/7694357619162532149"
+  },
+  {
+    "id": "sj:05db4a21-e875-4682-901f-209b175e2597",
+    "company": "Phillips 66",
+    "title": "University Intern - ERI Analytical Solutions",
+    "location": "Bartlesville, OK (Other)",
+    "url": "https://careers.phillips66.com/job/Bartlesville-West-2027-University-Intern-ERI-Analytical-Solutions-OK-74004/1439555700/?ats=successfactors"
   },
   {
     "id": "sj:bda4abe8-aa5b-41a0-bb34-7806e4ff2679",
@@ -3477,26 +3498,5 @@
     "title": "Data & Technology Summer Associate",
     "location": "Irvine, CA (Other)",
     "url": "https://capgroup.wd1.myworkdayjobs.com/en-US/capitalgroupcareers/job/Irvine/CAMPUS--Data---Technology-Summer-Associate--Irvine--CA--2027-_JR7384"
-  },
-  {
-    "id": "sj:1612b1ec-0741-41c1-b8d3-31f1060dc2aa",
-    "company": "Capital Group",
-    "title": "Data & Technology Summer Associate",
-    "location": "Charlotte, NC (Other)",
-    "url": "https://capgroup.wd1.myworkdayjobs.com/en-US/capitalgroupcareers/job/Charlotte/CAMPUS--Data---Technology-Summer-Associate--Charlotte-NC--2027-_JR7385"
-  },
-  {
-    "id": "sj:3faca9c1-e66c-437c-a5bd-9ab5cd608a2f",
-    "company": "The Aerospace Corporation",
-    "title": "Software Tools and Assurance Intern - Information Systems and Cyber Division",
-    "location": "El Segundo, CA (Other)",
-    "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Software-Tools-and-Assurance-Intern_R016429"
-  },
-  {
-    "id": "sj:dc90a21c-25c2-4735-abbe-bee451203aa2",
-    "company": "National Life",
-    "title": "Strategic Operations Analyst Intern",
-    "location": "Montpelier, VT; Addison, TX (Other)",
-    "url": "https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4410899009"
   }
 ]
