@@ -1,5 +1,12 @@
 [
   {
+    "id": "sj:07d9a5af-4f9d-4e8b-bd5b-609ba7e2a32e",
+    "company": "Point72",
+    "title": "Data Scientist Intern",
+    "location": "NYC (New York)",
+    "url": "https://boards.greenhouse.io/point72/jobs/8885299002"
+  },
+  {
     "id": "sj:02985926-4e37-4219-a8ab-21d9d6594ab2",
     "company": "MEMX",
     "title": "Data Engineer Intern",
@@ -621,6 +628,13 @@
     "title": "Data Scientist Intern",
     "location": "NYC (New York)",
     "url": "https://www.alixpartners.com/careers/7725335003?gh_jid=7725335003"
+  },
+  {
+    "id": "sj:bcdcec45-2483-4ebd-8b02-b763219eecec",
+    "company": "Point72",
+    "title": "Software Engineer Intern",
+    "location": "NYC (New York)",
+    "url": "https://boards.greenhouse.io/point72/jobs/8885733002"
   },
   {
     "id": "sj:191ec10e-48aa-42a6-a296-acd2f1d46586",
@@ -2051,6 +2065,13 @@
     "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002"
   },
   {
+    "id": "sj:5cdde90a-cf70-4281-9189-5e921c57dd2d",
+    "company": "BNY",
+    "title": "Product Management Intern",
+    "location": "Greater Manchester, UK (Other)",
+    "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/83098"
+  },
+  {
     "id": "sj:82b6632f-b168-481a-8a24-958666999060",
     "company": "TikTok",
     "title": "Machine Learning Engineer Intern - E-Commerce User Growth",
@@ -2070,6 +2091,13 @@
     "title": "Data Support Analyst Intern",
     "location": "Chicago, IL (Other)",
     "url": "https://assurant.wd1.myworkdayjobs.com/en-US/Assurant_Careers/job/Illinois-Virtual/Summer-2027-Intern--Data-Support-Analyst_R-115717"
+  },
+  {
+    "id": "sj:a42bb64b-5118-4414-b5bb-ebe063b71b10",
+    "company": "GE Vernova",
+    "title": "Power System Intern",
+    "location": "Bellevue, WA (Other)",
+    "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---AGI---Grid-Foundational-Models-Intern---Summer-2027_R5054820-2"
   },
   {
     "id": "sj:bda4abe8-aa5b-41a0-bb34-7806e4ff2679",
@@ -3470,33 +3498,5 @@
     "title": "Digital Integration Intern",
     "location": "Mequon, WI (Other)",
     "url": "https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Manufacturing-Company-Inc---Mequon-WI/Digital-Integration-Intern--Year-Round-_R08129"
-  },
-  {
-    "id": "sj:e85fe564-c92c-4c56-b2ce-41f4ca778811",
-    "company": "RTX",
-    "title": "Operations Software Engineering Intern - Summer 2027",
-    "location": "Burnsville, MN (Other)",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Operations-Software-Engineering-Intern--Summer-2027-_01874620"
-  },
-  {
-    "id": "sj:c3c60bf7-f580-4aaa-ab45-84224b74cdbb",
-    "company": "USAA",
-    "title": "Data Scientist Intern",
-    "location": "Plano, TX (Other)",
-    "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/Plano-Legacy/Data-Scientist-Intern_R0121200"
-  },
-  {
-    "id": "sj:30ae95c4-00f0-47e7-92b1-79e8bfd69c6a",
-    "company": "CAI",
-    "title": "Data Analyst Intern",
-    "location": "Pennsylvania (Other)",
-    "url": "https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Data-Analyst-Intern_R8551"
-  },
-  {
-    "id": "sj:fb864212-d3c0-4051-9019-29f9bcfde6ac",
-    "company": "Stryker",
-    "title": "Data Analytics Intern",
-    "location": "Fort Wayne, IN (Other)",
-    "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Wayne-Indiana/Data-Engineering-Intern_R572901"
   }
 ]
