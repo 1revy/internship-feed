@@ -1,5 +1,33 @@
 [
   {
+    "id": "sj:e85fe564-c92c-4c56-b2ce-41f4ca778811",
+    "company": "RTX",
+    "title": "Operations Software Engineering Intern - Summer 2027",
+    "location": "Burnsville, MN (Other)",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Operations-Software-Engineering-Intern--Summer-2027-_01874620"
+  },
+  {
+    "id": "sj:c3c60bf7-f580-4aaa-ab45-84224b74cdbb",
+    "company": "USAA",
+    "title": "Data Scientist Intern",
+    "location": "Plano, TX (Other)",
+    "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/Plano-Legacy/Data-Scientist-Intern_R0121200"
+  },
+  {
+    "id": "sj:30ae95c4-00f0-47e7-92b1-79e8bfd69c6a",
+    "company": "CAI",
+    "title": "Data Analyst Intern",
+    "location": "Pennsylvania (Other)",
+    "url": "https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Data-Analyst-Intern_R8551"
+  },
+  {
+    "id": "sj:fb864212-d3c0-4051-9019-29f9bcfde6ac",
+    "company": "Stryker",
+    "title": "Data Analytics Intern",
+    "location": "Fort Wayne, IN (Other)",
+    "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Wayne-Indiana/Data-Engineering-Intern_R572901"
+  },
+  {
     "id": "sj:5d2cc0a7-797d-469c-8dd8-e309a7441bca",
     "company": "Capital Group",
     "title": "Data & Technology Summer Associate",
@@ -4872,6 +4900,13 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Data-Processing-Developer-Technology-Intern---2027_JR2024708"
   },
   {
+    "id": "wd:nvidia:/job/Poland-Remote/System-Software-Engineering-Intern--GPU---2027_JR2025334",
+    "company": "nvidia",
+    "title": "System Software Engineering Intern, GPU - 2027",
+    "location": "2 Locations (Other)",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Remote/System-Software-Engineering-Intern--GPU---2027_JR2025334"
+  },
+  {
     "id": "sj:bbebb6e2-86e8-4f06-a6e9-3c5620309fcb",
     "company": "Electronic Arts",
     "title": "Software Engineer Intern",
@@ -4891,6 +4926,55 @@
     "title": "Robotics Research Intern - Embodied AI",
     "location": "Irvine, CA (Other)",
     "url": "https://jobs.lever.co/field-ai/ef35c537-b864-479f-9dbe-b30429ac7704/apply"
+  },
+  {
+    "id": "sj:e03ff208-7120-46eb-9f94-cf23a4aa840e",
+    "company": "GE Vernova",
+    "title": "Grid Foundational Models Intern - AGI",
+    "location": "Bellevue, WA (Other)",
+    "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue/GE-Vernova---AGI---Grid-Foundational-Models-Intern---Summer-2027_R5054820-3"
+  },
+  {
+    "id": "sj:dfc6d5d9-fa48-468c-999b-1116299c47c2",
+    "company": "GE Vernova",
+    "title": "AI Post-Training and Model Alignment Intern",
+    "location": "Bellevue, WA (Other)",
+    "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---AGI---AI-Post-Training-and-Model-Alignment-Intern---Summer-2027_R5054822-1"
+  },
+  {
+    "id": "sj:b135be7e-bf73-4526-9c91-0158ffed7bce",
+    "company": "Parsons",
+    "title": "Software Engineer Intern",
+    "location": "Huntsville, AL (Other)",
+    "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---AL-Huntsville/Software-Engineering-Intern--Summer-2027-_R187299"
+  },
+  {
+    "id": "sj:52d27012-e8f4-44a4-a41e-6b12bff77a14",
+    "company": "GE Vernova",
+    "title": "AI Evaluation & Benchmarking Intern - AGI",
+    "location": "Bellevue, WA (Other)",
+    "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---AGI---AI-Evaluation---Benchmarking-Intern---Summer-2027_R5054821-1"
+  },
+  {
+    "id": "sj:42f5973e-2aff-404f-84c2-f2aaba6998d1",
+    "company": "GE Vernova",
+    "title": "AI Post-Training and Model Alignment Intern",
+    "location": "Bellevue, WA (Other)",
+    "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue/GE-Vernova---AGI---AI-Post-Training-and-Model-Alignment-Intern---Summer-2027_R5054822-2"
+  },
+  {
+    "id": "sj:74ab41ac-2b49-458f-98f3-d3c4172f9e1f",
+    "company": "GE Vernova",
+    "title": "AI Evaluation & Benchmarking Intern",
+    "location": "Bellevue, WA (Other)",
+    "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue/GE-Vernova---AGI---AI-Evaluation---Benchmarking-Intern---Summer-2027_R5054821-2"
+  },
+  {
+    "id": "sj:53234b9a-baaf-49c1-88e1-4e5356cdcbd8",
+    "company": "J.M. Smucker",
+    "title": "Net Revenue Optimization Intern",
+    "location": "Orrville, OH (Other)",
+    "url": "https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Orrville-OH/Net-Revenue-Optimization-Intern--Summer-2027_116006"
   },
   {
     "id": "sj:2599beb7-cad8-4b9b-9020-7baf41143bfb",
@@ -6914,89 +6998,5 @@
     "title": "Software Engineer Intern - Driver Refinement Foundations",
     "location": "Mountain View, CA (Other)",
     "url": "https://careers.withwaymo.com/jobs?gh_jid=8224900"
-  },
-  {
-    "id": "sj:7d75bd70-f568-420d-985e-c8ccd2632c8f",
-    "company": "Johns Hopkins Applied Physics Laboratory",
-    "title": "Artificial Intelligence and Machine Learning Intern - Research Assistant",
-    "location": "Laurel, MD (Other)",
-    "url": "https://careers.jhuapl.edu/jobs/60084?icims=1"
-  },
-  {
-    "id": "sj:a21b0917-b7a1-4928-bf8b-80237a4263ff",
-    "company": "TRC Companies",
-    "title": "GIS Intern",
-    "location": "Seattle, WA; Houston, TX; Lakewood, CO; Raleigh, NC; Chicago, IL; Phoenix, AZ (Other)",
-    "url": "https://careers.trccompanies.com/jobs/26961?icims=1"
-  },
-  {
-    "id": "sj:3b1b8e9d-c4cf-4734-856a-c974daf38125",
-    "company": "TRC Companies",
-    "title": "Advanced Energy Intern",
-    "location": "Seattle, WA (Other)",
-    "url": "https://careers.trccompanies.com/jobs/26950?icims=1"
-  },
-  {
-    "id": "sj:d750fe7b-cab1-448d-87f7-d9cc9f2ad969",
-    "company": "RRS Group",
-    "title": "Associate Software Engineer Intern - Sophomore Only",
-    "location": "SF (Other)",
-    "url": "https://jobs.smartrecruiters.com/RRSGroup/744000151931819"
-  },
-  {
-    "id": "sj:06121173-b783-44a5-bd34-4a7465768bbb",
-    "company": "Lutron Electronics",
-    "title": "Software Engineering Co-op",
-    "location": "Philadelphia, PA (Other)",
-    "url": "https://careers.lutron.com/jobs/5616?icims=1"
-  },
-  {
-    "id": "sj:8309b5a0-8e75-434e-b1e6-419b51f357ae",
-    "company": "Electronic Arts",
-    "title": "Gameplay Engineer Intern",
-    "location": "LA (Other)",
-    "url": "https://jobs.ea.com/en_US/careers/JobDetail/Gameplay-Engineer-Intern/216245"
-  },
-  {
-    "id": "sj:f8aa999f-66d3-4ae6-b0bf-286944064197",
-    "company": "Greenheck Group",
-    "title": "Application Developer Co-op",
-    "location": "Schofield, WI (Other)",
-    "url": "https://greenheckgroup.wd5.myworkdayjobs.com/external/job/Schofield-WI/Application-Developer-Co-op_JR104721"
-  },
-  {
-    "id": "sj:10a6747a-1b41-4024-955f-6b38e46e5a4d",
-    "company": "Rockwell Automation",
-    "title": "AI Software Engineering Co-op - 6 months - 8 months",
-    "location": "Mayfield Heights, OH; Milwaukee, WI (Other)",
-    "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mayfield-Heights-Ohio-United-States/Co-op--AI-Software-Engineering--6-8-months-_R26-6982"
-  },
-  {
-    "id": "sj:6ea50b0f-5bb0-46f9-9acf-2cb906b4da62",
-    "company": "RTX",
-    "title": "Software Engineer Intern - Summer 2027",
-    "location": "West Valley City, UT (Other)",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineering-Intern--Summer-2027-_01875358"
-  },
-  {
-    "id": "sj:85ec94f8-b794-406d-b74b-06e49b725a08",
-    "company": "Cencora",
-    "title": "Software Intern",
-    "location": "Remote in USA (Other)",
-    "url": "https://myhrabc.wd5.myworkdayjobs.com/Global/job/Remote-USA/Software-Intern_R2613763"
-  },
-  {
-    "id": "sj:f9cecf37-3d67-4284-acf1-bce7d8f9994e",
-    "company": "Rockwell Automation",
-    "title": "AI Software Engineer Intern",
-    "location": "Mayfield Heights, OH; Milwaukee, WI (Other)",
-    "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mayfield-Heights-Ohio-United-States/Intern--AI-Software-Engineering--June-August-2027-_R26-6980"
-  },
-  {
-    "id": "sj:2f66f3c8-4ff6-4ae9-a40e-ab8552e65340",
-    "company": "Motorola",
-    "title": "Software Engineer Intern - Summer 2027",
-    "location": "Elgin, IL (Other)",
-    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Greater-Chicago-Area/Software-Engineer-Intern---Summer-2027_R68679"
   }
 ]
