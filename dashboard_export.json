@@ -2065,6 +2065,13 @@
     "url": "https://careers.phillips66.com/job/Bartlesville-West-2027-University-Intern-ERI-Analytical-Solutions-OK-74004/1439555700/?ats=successfactors"
   },
   {
+    "id": "sj:e4f05acb-267f-4e89-a2e9-9ab46db0ddab",
+    "company": "Assurant",
+    "title": "Data Support Analyst Intern",
+    "location": "Chicago, IL (Other)",
+    "url": "https://assurant.wd1.myworkdayjobs.com/en-US/Assurant_Careers/job/Illinois-Virtual/Summer-2027-Intern--Data-Support-Analyst_R-115717"
+  },
+  {
     "id": "sj:bda4abe8-aa5b-41a0-bb34-7806e4ff2679",
     "company": "Gallup",
     "title": "Data Engineer Intern",
@@ -2133,6 +2140,13 @@
     "title": "Data Science Intern",
     "location": "St. Louis, MO (Other)",
     "url": "https://jobs.ascension.org/us/en/job/2026-465186"
+  },
+  {
+    "id": "sj:7787c1ea-7ca3-47f9-913d-8d035d331bd9",
+    "company": "Ascension",
+    "title": "Integrated Participant Solutions Analytics Intern",
+    "location": "St. Louis, MO (Other)",
+    "url": "https://jobs.ascension.org/us/en/job/2026-465198"
   },
   {
     "id": "sj:9c64ea05-ef86-4f4e-a20c-74a25b071a10",
@@ -3484,19 +3498,5 @@
     "title": "Data Analytics Intern",
     "location": "Fort Wayne, IN (Other)",
     "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Wayne-Indiana/Data-Engineering-Intern_R572901"
-  },
-  {
-    "id": "sj:5d2cc0a7-797d-469c-8dd8-e309a7441bca",
-    "company": "Capital Group",
-    "title": "Data & Technology Summer Associate",
-    "location": "LA (Other)",
-    "url": "https://capgroup.wd1.myworkdayjobs.com/en-US/capitalgroupcareers/job/Los-Angeles/CAMPUS--Data---Technology-Summer-Associate--Los-Angeles--2027-_JR7382"
-  },
-  {
-    "id": "sj:861dcad9-ed8f-4469-9f30-7137335a4cda",
-    "company": "Capital Group",
-    "title": "Data & Technology Summer Associate",
-    "location": "Irvine, CA (Other)",
-    "url": "https://capgroup.wd1.myworkdayjobs.com/en-US/capitalgroupcareers/job/Irvine/CAMPUS--Data---Technology-Summer-Associate--Irvine--CA--2027-_JR7384"
   }
 ]
