@@ -637,6 +637,20 @@
     "url": "https://boards.greenhouse.io/point72/jobs/8885733002"
   },
   {
+    "id": "sj:81f6a6a0-ca1b-4a27-aafa-49735204bc0e",
+    "company": "LSEG",
+    "title": "Software Engineer Intern",
+    "location": "NYC (New York)",
+    "url": "https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/New-York-City-United-States/Intern---Software-Engineer_R0124266-1"
+  },
+  {
+    "id": "sj:d58e6fdc-c150-4d88-bff1-16000fd3a8c1",
+    "company": "Jain Global",
+    "title": "Compliance Technology Intern",
+    "location": "NYC (New York)",
+    "url": "https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Compliance-Technology-Intern_JR100607"
+  },
+  {
     "id": "sj:191ec10e-48aa-42a6-a296-acd2f1d46586",
     "company": "Boston Consulting Group",
     "title": "Forward Deployed AI Engineer Intern",
@@ -1442,6 +1456,13 @@
     "url": "https://jobs.ashbyhq.com/ellipsislabs/02136b22-35b1-4b3d-8bef-567c3380a849/application"
   },
   {
+    "id": "sj:dc3a9143-cfc6-4926-a93c-e8f88ee84555",
+    "company": "Nasdaq",
+    "title": "Intelligent Automation Intern",
+    "location": "NYC (New York)",
+    "url": "https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/USA---New-York-City---New-York/Intelligent-Automation-Intern---2027-Summer-Internship_R0027113"
+  },
+  {
     "id": "sj:1e295cb0-851c-4444-95da-daa70198fa7d",
     "company": "Apple Bank",
     "title": "IT Data Intern - Analytics, & Automation",
@@ -1659,6 +1680,20 @@
     "url": "https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/GB-London---25-North-Colonnade/Summer-Internship---Digital---Data--AI---Engineering---UK_RQ117081"
   },
   {
+    "id": "sj:d9602858-e28e-46ab-b478-6c83f0271cdf",
+    "company": "Visa",
+    "title": "Data Science Intern",
+    "location": "London, UK (London / Paris)",
+    "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/GB---London-United-Kingdom/VCA-Intern--IDS-_REF086121W-1"
+  },
+  {
+    "id": "sj:3a9ac048-7ce1-4731-9a1e-c0e030247f6e",
+    "company": "Visa",
+    "title": "Data Science Intern",
+    "location": "London, UK (London / Paris)",
+    "url": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/GB---London-United-Kingdom/VCA-Intern--IDS-_REF086121W"
+  },
+  {
     "id": "sj:9bb8791e-41b7-446b-921c-3e1d267d460d",
     "company": "Merck",
     "title": "IT Developer Analyst Intern",
@@ -1818,6 +1853,20 @@
     "title": "Data Science Machine Learning Intern",
     "location": "London, UK (London / Paris)",
     "url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/London-UK/Data-Science-Machine-Learning-Internship--Summer-2027-_R1345"
+  },
+  {
+    "id": "sj:ac5c0aa0-973b-4add-966c-686afeebbf87",
+    "company": "BP",
+    "title": "Summer Intern - Multiple Teams",
+    "location": "London, UK (London / Paris)",
+    "url": "https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/GB-London---25-North-Colonnade/Summer-Internship---Digital---Data--AI---Engineering---UK_RQ117182"
+  },
+  {
+    "id": "sj:112ac640-41ea-4a8d-9297-a0fab277b9a9",
+    "company": "LSEG",
+    "title": "Software Engineer Intern",
+    "location": "London, UK (London / Paris)",
+    "url": "https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/London-United-Kingdom/Intern---Software-Engineer_R0124267"
   },
   {
     "id": "sj:e80ebee1-3fe9-4a36-ad51-08f17f3179c8",
@@ -2065,6 +2114,76 @@
     "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002"
   },
   {
+    "id": "sj:b7a2ad59-b10e-44b4-bc5c-53410f04e335",
+    "company": "TikTok",
+    "title": "Machine Learning Engineer Intern - E-Commerce Recommendation/Search Alliance",
+    "location": "Seattle, WA (Other)",
+    "url": "https://lifeattiktok.com/search/7694360101507762485"
+  },
+  {
+    "id": "sj:6a52bbeb-8e4d-4bdc-a47d-146909ee1af7",
+    "company": "TikTok",
+    "title": "Machine Learning Engineer Intern - E-Commerce Recommendation Video",
+    "location": "Seattle, WA (Other)",
+    "url": "https://lifeattiktok.com/search/7694362230074673461"
+  },
+  {
+    "id": "sj:e8eec34a-bd13-454c-b322-cab784a820fa",
+    "company": "TikTok",
+    "title": "Machine Learning Engineer Intern - E-Commerce Recommendation Live",
+    "location": "Seattle, WA (Other)",
+    "url": "https://lifeattiktok.com/search/7694360097210861829"
+  },
+  {
+    "id": "sj:d55e2c80-cc43-4f0d-b77b-2bb8884e57b0",
+    "company": "TikTok",
+    "title": "Machine Learning Engineer Intern - E-Commerce Knowledge Graph",
+    "location": "Seattle, WA (Other)",
+    "url": "https://lifeattiktok.com/search/7679220954338494773"
+  },
+  {
+    "id": "sj:5dc52d6c-5a68-444c-93ad-dada1108efae",
+    "company": "TikTok",
+    "title": "Machine Learning Engineer Intern - E-Commerce Recommendation Mall",
+    "location": "Seattle, WA (Other)",
+    "url": "https://lifeattiktok.com/search/7694362229701069109"
+  },
+  {
+    "id": "sj:2a4e1069-9cf2-40f7-8610-0110cfc1fdeb",
+    "company": "TikTok",
+    "title": "Machine Learning Engineer Intern - E-Commerce Governance",
+    "location": "Seattle, WA (Other)",
+    "url": "https://lifeattiktok.com/search/7694366551807265029"
+  },
+  {
+    "id": "sj:0db77cad-7627-4766-bd99-7c9e76aebc99",
+    "company": "TikTok",
+    "title": "Machine Learning Engineer Intern - E-Commerce Supply Chain & Logistics-LLM / Agent",
+    "location": "Seattle, WA (Other)",
+    "url": "https://lifeattiktok.com/search/7694365861943953717"
+  },
+  {
+    "id": "sj:008ce178-6fee-4916-a564-da1d1f5ada95",
+    "company": "AGCO",
+    "title": "Business Intelligence Intern",
+    "location": "United States (Other)",
+    "url": "https://careers.agcocorp.com/job/Business-Intelligence-Intern-Spring-2027/1440110900/?ats=successfactors"
+  },
+  {
+    "id": "sj:4139dc2e-f7dd-46c5-a327-21b811637059",
+    "company": "National Life",
+    "title": "Data Science Intern",
+    "location": "Montpelier, VT; Addison, TX (Other)",
+    "url": "https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4449670009"
+  },
+  {
+    "id": "sj:92df1c73-b83b-4d1f-9366-ef07d2fa6bd7",
+    "company": "AECOM",
+    "title": "Engineering/Data Analytics Intern",
+    "location": "Atlanta, GA (Other)",
+    "url": "https://jobs.smartrecruiters.com/AECOM2/744000155565444"
+  },
+  {
     "id": "sj:5cdde90a-cf70-4281-9189-5e921c57dd2d",
     "company": "BNY",
     "title": "Product Management Intern",
@@ -2098,6 +2217,20 @@
     "title": "Power System Intern",
     "location": "Bellevue, WA (Other)",
     "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---AGI---Grid-Foundational-Models-Intern---Summer-2027_R5054820-2"
+  },
+  {
+    "id": "sj:cd4adf61-4026-464d-8208-c2d4c6258943",
+    "company": "Philips",
+    "title": "Insights and Analytics Intern - Health Systems Marketing",
+    "location": "Cambridge, MA (Other)",
+    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Intern-Insights-and-Analytics--Health-Systems-Marketing--Cambridge--MA---Summer-2027_593454"
+  },
+  {
+    "id": "sj:2b4f0591-67a0-4766-a1d6-6e8758c4128f",
+    "company": "Nissan Global",
+    "title": "Aftersales Business Planning Intern",
+    "location": "Franklin, TN (Other)",
+    "url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Aftersales-Business-Planning-Intern---Summer-2027---Franklin--TN_R00214226"
   },
   {
     "id": "sj:bda4abe8-aa5b-41a0-bb34-7806e4ff2679",
@@ -3365,138 +3498,5 @@
     "title": "Product Manager Intern",
     "location": "Mountain View, CA (Other)",
     "url": "https://apply.careers.microsoft.com/careers/job/1970393557004836"
-  },
-  {
-    "id": "sj:3ef4e51d-c8f0-4792-b2b3-bca136dbe3bb",
-    "company": "West Bend Insurance",
-    "title": "Data Scientist Intern",
-    "location": "Madison, WI; West Bend, WI (Other)",
-    "url": "https://careers-thesilverlining.icims.com/jobs/3785/job?mobile=true&needsRedirect=false"
-  },
-  {
-    "id": "sj:80fb1054-5f89-41bf-9c32-1132bd4aad16",
-    "company": "West Bend Insurance",
-    "title": "Data Solution Engineer Intern",
-    "location": "Madison, WI; West Bend, WI (Other)",
-    "url": "https://careers-thesilverlining.icims.com/jobs/3786/job?mobile=true&needsRedirect=false"
-  },
-  {
-    "id": "sj:5b597914-e71c-489d-b3ad-77a3e48f7c58",
-    "company": "Astranis",
-    "title": "Software Engineer Enterprise Systems Intern - Summer 2027",
-    "location": "SF (Other)",
-    "url": "https://job-boards.greenhouse.io/astranis/jobs/4705610006"
-  },
-  {
-    "id": "sj:d69cc4b1-6d03-4c5e-8430-4c567709546c",
-    "company": "RTX",
-    "title": "Factory Enablement Digital Engineer Co-op",
-    "location": "Cedar Rapids, IA (Other)",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Factory-Enablement-Digital-Engineer--Spring-Summer-Co-op-_01876474"
-  },
-  {
-    "id": "sj:355ed1b0-6a7f-4f62-9f79-2eabc525e9cd",
-    "company": "RTX",
-    "title": "Factory Enablement Digital Engineer Co-op",
-    "location": "Cedar Rapids, IA (Other)",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Factory-Enablement-Digital-Engineer--Spring-Summer-Co-op-_01876473"
-  },
-  {
-    "id": "sj:2afb885b-d426-47bd-9dc0-80b026d499f5",
-    "company": "CACI",
-    "title": "AI Systems Engineer Intern - Summer 2027",
-    "location": "Annapolis Junction, MD; Fort Meade, MD (Other)",
-    "url": "https://caci.wd1.myworkdayjobs.com/external/job/Annapolis-Junction-MD-US/AI-Systems-Engineering-Intern----Summer-2027_332506"
-  },
-  {
-    "id": "sj:4efd65a5-ab75-4d14-a2df-fe1659f9a1c1",
-    "company": "Excellus BCBS",
-    "title": "College Intern - Data Governance & AI Governance",
-    "location": "Rochester, NY; De Witt, NY; Utica, NY; Albany, NY; Binghamton, NY; Buffalo, NY (Other)",
-    "url": "https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027---Data-Governance---AI-Governance_JR104033-1"
-  },
-  {
-    "id": "sj:239a42c1-942f-4900-85bb-45486d858a6d",
-    "company": "Excellus BCBS",
-    "title": "College Intern - Digital Analytics",
-    "location": "Rochester, NY; De Witt, NY; Utica, NY; Albany, NY; Binghamton, NY; Buffalo, NY (Other)",
-    "url": "https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027---Digital-Analytics_JR104050-2"
-  },
-  {
-    "id": "sj:94633c06-dba7-4588-8490-dce1ed065b8d",
-    "company": "The Federal Reserve System",
-    "title": "Research Business Survey Intern",
-    "location": "Richmond, VA (Other)",
-    "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Richmond-VA/Federal-Reserve-Summer-2027-Research-Business-Survey-Internship_R-0000033218"
-  },
-  {
-    "id": "sj:fe98fa31-597a-4003-89f0-89fa37a7c563",
-    "company": "Jabil",
-    "title": "Data Engineer Intern",
-    "location": "Tampa, FL; St. Petersburg, FL (Other)",
-    "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Data-Engineering-Intern_J2465581"
-  },
-  {
-    "id": "sj:1e568492-ddb0-486c-80f3-1280cbfe1b5d",
-    "company": "Jabil",
-    "title": "Operations Analytics & Reporting Intern",
-    "location": "Tampa, FL; St. Petersburg, FL (Other)",
-    "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Operations-Analytics---Reporting-Intern_J2465601"
-  },
-  {
-    "id": "sj:9fa2b794-7b44-4ff6-876c-7dc3d18b49b4",
-    "company": "Zekelman Industries",
-    "title": "Business Intelligence Intern - Program Development",
-    "location": "Austin, TX; Troy, MI (Other)",
-    "url": "https://zekelman.wd12.myworkdayjobs.com/Careers/job/Troy-MI/Intern--Business-Intelligence_JR002769"
-  },
-  {
-    "id": "sj:2f8b3696-a0e4-4b49-ae6a-ab6bbe7b640d",
-    "company": "Emerson Electric",
-    "title": "Software Engineer Intern - Process Systems and Solutions",
-    "location": "Round Rock, TX (Other)",
-    "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011295"
-  },
-  {
-    "id": "sj:5b1eb0f8-7bed-43e1-8273-c4c58b2eca9e",
-    "company": "West Bend Insurance",
-    "title": "IT Data Engineer Intern",
-    "location": "Madison, WI; West Bend, WI (Other)",
-    "url": "https://careers-thesilverlining.icims.com/jobs/3759/job?mobile=true&needsRedirect=false"
-  },
-  {
-    "id": "sj:c6ad75c6-e86c-4602-8344-eb52b14bb37e",
-    "company": "Epic Games",
-    "title": "Data Science Intern",
-    "location": "Cary, NC (Other)",
-    "url": "https://epicgames.com/careers/jobs/6202675004?gh_jid=6202675004"
-  },
-  {
-    "id": "sj:02dee7ff-6975-4a5e-8aea-ee0dc2ebfde9",
-    "company": "ByteDance",
-    "title": "Product Management Project Intern - Global Payment",
-    "location": "San Jose, CA (Other)",
-    "url": "https://jobs.bytedance.com/en/position/7686394581777631541/detail"
-  },
-  {
-    "id": "sj:5d227451-4207-4ac4-a935-92a8fadbcfce",
-    "company": "Mastercard",
-    "title": "Product Management Intern - Summer 2027",
-    "location": "O'Fallon, MO (Other)",
-    "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Product-Management-Intern--Summer-2027---St-Louis--MO--US-_R-287625"
-  },
-  {
-    "id": "sj:065b10a2-9daa-48ff-a88d-aecedc177330",
-    "company": "Mastercard",
-    "title": "Product Management Intern - Summer 2027",
-    "location": "O'Fallon, MO (Other)",
-    "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Product-Management-Intern--Summer-2027---St-Louis--MO--US-_R-287625-1"
-  },
-  {
-    "id": "sj:6a018490-0c94-49df-9ad0-bfecd8fdad21",
-    "company": "Charter Manufacturing",
-    "title": "Digital Integration Intern",
-    "location": "Mequon, WI (Other)",
-    "url": "https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Manufacturing-Company-Inc---Mequon-WI/Digital-Integration-Intern--Year-Round-_R08129"
   }
 ]
