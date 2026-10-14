@@ -1,5 +1,26 @@
 [
   {
+    "id": "sj:1612b1ec-0741-41c1-b8d3-31f1060dc2aa",
+    "company": "Capital Group",
+    "title": "Data & Technology Summer Associate",
+    "location": "Charlotte, NC (Other)",
+    "url": "https://capgroup.wd1.myworkdayjobs.com/en-US/capitalgroupcareers/job/Charlotte/CAMPUS--Data---Technology-Summer-Associate--Charlotte-NC--2027-_JR7385"
+  },
+  {
+    "id": "sj:3faca9c1-e66c-437c-a5bd-9ab5cd608a2f",
+    "company": "The Aerospace Corporation",
+    "title": "Software Tools and Assurance Intern - Information Systems and Cyber Division",
+    "location": "El Segundo, CA (Other)",
+    "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Software-Tools-and-Assurance-Intern_R016429"
+  },
+  {
+    "id": "sj:dc90a21c-25c2-4735-abbe-bee451203aa2",
+    "company": "National Life",
+    "title": "Strategic Operations Analyst Intern",
+    "location": "Montpelier, VT; Addison, TX (Other)",
+    "url": "https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4410899009"
+  },
+  {
     "id": "sj:1a872d07-40d8-4b98-8f0f-15127543ae64",
     "company": "Boston Scientific",
     "title": "Data Engineer Intern",
@@ -4837,6 +4858,27 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Data-Processing-Developer-Technology-Intern---2027_JR2024708"
   },
   {
+    "id": "sj:bbebb6e2-86e8-4f06-a6e9-3c5620309fcb",
+    "company": "Electronic Arts",
+    "title": "Software Engineer Intern",
+    "location": "Vancouver, BC, Canada (Other)",
+    "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/216287"
+  },
+  {
+    "id": "sj:9e2e7d36-c343-4fed-b4da-67a7639a8fc0",
+    "company": "Field AI",
+    "title": "Research Scientist Intern - Robot Learning & Manipulation",
+    "location": "Irvine, CA (Other)",
+    "url": "https://jobs.lever.co/field-ai/b37569c3-d07f-4968-82dc-44020f34e54e/apply"
+  },
+  {
+    "id": "sj:e7524d34-3342-448c-83e8-2de9a3502b9b",
+    "company": "Field AI",
+    "title": "Robotics Research Intern - Embodied AI",
+    "location": "Irvine, CA (Other)",
+    "url": "https://jobs.lever.co/field-ai/ef35c537-b864-479f-9dbe-b30429ac7704/apply"
+  },
+  {
     "id": "sj:2599beb7-cad8-4b9b-9020-7baf41143bfb",
     "company": "Armadin",
     "title": "Frontend Engineer Intern - Member of Technical Staff",
@@ -6956,47 +6998,5 @@
     "title": "AI Software Engineering Co-op - 6 months - 8 months",
     "location": "Mayfield Heights, OH; Milwaukee, WI (Other)",
     "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Co-op--AI-Software-Engineering--6-8-months-_R26-6982-1"
-  },
-  {
-    "id": "sj:b5399343-6879-4858-98ed-d087567c8913",
-    "company": "Rockwell Automation",
-    "title": "AI Software Engineer Intern",
-    "location": "Mayfield Heights, OH; Milwaukee, WI (Other)",
-    "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Intern--AI-Software-Engineering--June-August-2027-_R26-6980-1"
-  },
-  {
-    "id": "sj:a27b01fe-9ba5-4ec8-894b-61cfd1f1fdf6",
-    "company": "Waymo",
-    "title": "Intern - Multiple Teams",
-    "location": "Mountain View, CA (Other)",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=8227640"
-  },
-  {
-    "id": "sj:8f85be1b-0295-405b-b168-84fc834d7d8a",
-    "company": "DRW",
-    "title": "Software Developer Intern",
-    "location": "Chicago, IL (Other)",
-    "url": "https://job-boards.greenhouse.io/drwuniversityjobs/jobs/8220587"
-  },
-  {
-    "id": "sj:b785f9ef-f9c9-4d16-aae2-973ad2a1b2dc",
-    "company": "Boston Scientific",
-    "title": "Software Development Engineer Intern",
-    "location": "Waltham, MA (Other)",
-    "url": "https://bostonscientific.eightfold.ai/careers/job/563602813567960"
-  },
-  {
-    "id": "sj:e7777af9-8bca-4dd7-b5b6-6ec86fff06f9",
-    "company": "Boston Scientific",
-    "title": "Software Development Engineer Co-op",
-    "location": "Waltham, MA (Other)",
-    "url": "https://bostonscientific.eightfold.ai/careers/job/563602813567963"
-  },
-  {
-    "id": "sj:521a56a4-f683-4861-8565-e081a72736c1",
-    "company": "Boston Scientific",
-    "title": "Software Engineer Intern - R&D",
-    "location": "Arden Hills, MN (Other)",
-    "url": "https://bostonscientific.eightfold.ai/careers/job/563602813542900"
   }
 ]
