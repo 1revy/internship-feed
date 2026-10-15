@@ -1862,6 +1862,27 @@
     "url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/London-UK/Data-Science-Machine-Learning-Internship--Summer-2027-_R1345"
   },
   {
+    "id": "sj:ef5110ac-e253-4654-896d-f186344b7c1d",
+    "company": "Expedia Group",
+    "title": "Applied Science Intern",
+    "location": "London, UK (London / Paris)",
+    "url": "https://expedia.wd108.myworkdayjobs.com/private/job/UK---London/Applied-Science-Intern---Masters---2027---London_R-110540"
+  },
+  {
+    "id": "sj:3b537031-55e0-438c-9aee-888baa79d6cd",
+    "company": "Expedia Group",
+    "title": "Software Development Engineer Intern",
+    "location": "London, UK (London / Paris)",
+    "url": "https://expedia.wd108.myworkdayjobs.com/private/job/UK---London/Software-Development-Engineering-Intern---June-2027---London_R-110551"
+  },
+  {
+    "id": "sj:7b06c1c0-8cf5-43d9-bcb0-391457d8ffbb",
+    "company": "Expedia Group",
+    "title": "Mobile Engineer Intern",
+    "location": "London, UK (London / Paris)",
+    "url": "https://expedia.wd108.myworkdayjobs.com/private/job/UK---London/Mobile-Engineering-Intern---2027---London_R-110545"
+  },
+  {
     "id": "sj:ac5c0aa0-973b-4add-966c-686afeebbf87",
     "company": "BP",
     "title": "Summer Intern - Multiple Teams",
@@ -3477,26 +3498,5 @@
     "title": "Global Business Strategy Development Intern",
     "location": "Fort Wayne, IN (Other)",
     "url": "https://franklin-electric.pinpointhq.com/en/postings/a8e0afdd-63ce-4817-aaca-056018010f06?ats=pinpointhq"
-  },
-  {
-    "id": "sj:8e1d2d44-a43d-4241-9e7d-fc23ed939862",
-    "company": "AMD",
-    "title": "ML Systems Research Engineering Intern",
-    "location": "Santa Clara, CA (Other)",
-    "url": "https://careers.amd.com/jobs/90993?icims=1"
-  },
-  {
-    "id": "sj:d9f1e414-b254-48f5-8e45-37a9a6b883cf",
-    "company": "Vertiv",
-    "title": "Product Management Intern - Summer 2027",
-    "location": "Lincoln, NE (Other)",
-    "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278558"
-  },
-  {
-    "id": "sj:c5ee9256-18ef-4d2d-bac5-ebc90cde5887",
-    "company": "Resultant",
-    "title": "Data & Analytics Consultant Intern - Summer 2027",
-    "location": "Indianapolis, IN (Other)",
-    "url": "https://jobs.smartrecruiters.com/Resultant/744000151474719"
   }
 ]
