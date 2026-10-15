@@ -1,5 +1,26 @@
 [
   {
+    "id": "sj:8e1d2d44-a43d-4241-9e7d-fc23ed939862",
+    "company": "AMD",
+    "title": "ML Systems Research Engineering Intern",
+    "location": "Santa Clara, CA (Other)",
+    "url": "https://careers.amd.com/jobs/90993?icims=1"
+  },
+  {
+    "id": "sj:d9f1e414-b254-48f5-8e45-37a9a6b883cf",
+    "company": "Vertiv",
+    "title": "Product Management Intern - Summer 2027",
+    "location": "Lincoln, NE (Other)",
+    "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278558"
+  },
+  {
+    "id": "sj:c5ee9256-18ef-4d2d-bac5-ebc90cde5887",
+    "company": "Resultant",
+    "title": "Data & Analytics Consultant Intern - Summer 2027",
+    "location": "Indianapolis, IN (Other)",
+    "url": "https://jobs.smartrecruiters.com/Resultant/744000151474719"
+  },
+  {
     "id": "sj:c0eb9672-bc08-4846-9ef2-741b0178ea00",
     "company": "Resultant",
     "title": "Data & Analytics Consultant Intern - Summer 2027",
@@ -6977,26 +6998,5 @@
     "title": "Software Engineer Intern",
     "location": "Morrisville, NC (Other)",
     "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-North-Carolina-Morrisville/XMLNAME-2027-Software-Engineer-Intern---Morrisville-NC_R10253768"
-  },
-  {
-    "id": "sj:982c416c-c960-4efd-81a7-a87081597d80",
-    "company": "Northrop Grumman",
-    "title": "Software Engineer Intern",
-    "location": "Rolling Meadows, IL (Other)",
-    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Software-Engineer-Intern---Rolling-Meadows-IL_R10253772"
-  },
-  {
-    "id": "sj:282a057f-48f4-4133-a52c-2261299e04a8",
-    "company": "Enova",
-    "title": "Software Engineer Intern",
-    "location": "Chicago, IL (Other)",
-    "url": "https://job-boards.greenhouse.io/enova/jobs/8239619"
-  },
-  {
-    "id": "sj:efff5c18-233b-49dd-a516-5c36f19636aa",
-    "company": "Westinghouse Electric Company",
-    "title": "Software Developer Intern - Tools & Apps",
-    "location": "Warrendale, PA (Other)",
-    "url": "https://careers.westinghousenuclear.com/job/Warrendale-Summer-Intern-Tools-&-Apps-OR/1434869300/?ats=successfactors"
   }
 ]
