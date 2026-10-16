@@ -1,5 +1,12 @@
 [
   {
+    "id": "sj:f47bf68f-08e3-4d92-ade8-eff54ae7c108",
+    "company": "State Farm",
+    "title": "Data Science Intern - Magnet Program",
+    "location": "Tempe, AZ (Other)",
+    "url": "https://jobs.statefarm.com/jobs/46353?icims=1"
+  },
+  {
     "id": "sj:3987bb53-087a-4ba7-8495-a8dd4ff2f912",
     "company": "CHS",
     "title": "Data Analyst Intern",
@@ -5131,6 +5138,27 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Remote/System-Software-Engineering-Intern--GPU---2027_JR2025334"
   },
   {
+    "id": "sj:c6cf89af-fd3e-48e3-b886-b14efade21e6",
+    "company": "TikTok",
+    "title": "Software Engineer Intern - Recommendation Performance Efficiency",
+    "location": "San Jose, CA (Other)",
+    "url": "https://lifeattiktok.com/search/7673636206961641781"
+  },
+  {
+    "id": "sj:abedfbfb-5d56-4e56-a4bc-2ce1b5424f8d",
+    "company": "Abridge",
+    "title": "Member of Technical Staff Intern",
+    "location": "SF (Other)",
+    "url": "https://jobs.ashbyhq.com/abridge/aab11857-7ed3-4fc5-aab3-35256601117e/application?embed=true"
+  },
+  {
+    "id": "sj:4cc3f124-5683-4993-b06a-196a262faaaa",
+    "company": "Healthpeak Properties",
+    "title": "Forward Deployed Software Engineer Intern",
+    "location": "Irvine, CA (Other)",
+    "url": "https://healthpeak.applytojob.com/apply/RTf9TfJE4h/Forward-Deployed-Software-Engineer-Internship"
+  },
+  {
     "id": "sj:ddca61ef-e1db-4670-a09d-a0d95c626118",
     "company": "Royal Caribbean Group",
     "title": "Guest Travel Services Intern",
@@ -5241,6 +5269,20 @@
     "title": "Healthcare Analytics Intern",
     "location": "Morris Plains, NJ (Other)",
     "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Morris-Plains-NJ/Healthcare-Analytics-Summer-Intern---Morris-Plains--NJ---Start-Date--May-24--2027_26009483"
+  },
+  {
+    "id": "sj:55d8577a-649c-47a8-a60f-2fc353841220",
+    "company": "Axiom Space",
+    "title": "Software Engineer Intern",
+    "location": "Houston, TX (Other)",
+    "url": "https://axiomspace.wd5.myworkdayjobs.com/External_Career_Site/job/Houston/Software-Engineering-Intern--Summer-2027-_JR100767"
+  },
+  {
+    "id": "sj:a8967f38-53a7-4716-80c1-8ba4fc0fb06b",
+    "company": "T-Mobile",
+    "title": "Software Engineer Intern",
+    "location": "Bellevue, WA (Other)",
+    "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Software-Engineering-Intern_REQ368322"
   },
   {
     "id": "sj:99d9f40c-43fa-4ed7-9813-99c784ef3e43",
@@ -6956,47 +6998,5 @@
     "title": "Statistics and Analysis Intern",
     "location": "Cleveland, OH (Other)",
     "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Cleveland-OH/SCS---Statistics-and-Analysis-Intern---2027_R-0000033645"
-  },
-  {
-    "id": "sj:c98ee5a9-83ca-46b0-9316-40dee3d63f62",
-    "company": "RTX",
-    "title": "Software Engineer Intern",
-    "location": "Cedar Rapids, IA (Other)",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Intern--Summer-2027-_01870343"
-  },
-  {
-    "id": "sj:be949df0-0657-4f39-b1f3-e45962a3eee3",
-    "company": "CoStar Group",
-    "title": "Technology Intern",
-    "location": "Sunnyvale, CA (Other)",
-    "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Summer-2027-Technology-Intern---Sunnyvale--CA_R39945"
-  },
-  {
-    "id": "sj:89b1d0e6-d40e-4e29-857a-17f380391687",
-    "company": "CoStar Group",
-    "title": "Embedded Software Engineer Intern",
-    "location": "Sunnyvale, CA (Other)",
-    "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Embedded-Software-Engineering-Intern_R39950"
-  },
-  {
-    "id": "sj:a63f1342-abee-4e15-bd4c-988628442f07",
-    "company": "Invesco",
-    "title": "Early Career Intern - Fixed Income Global Technology",
-    "location": "Atlanta, GA (Other)",
-    "url": "https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Atlanta-Georgia/Early-Career-Intern---Fixed-Income-Global-Technology_R-15621-1"
-  },
-  {
-    "id": "sj:b8689bb2-f5e6-445c-89be-129f7429fb26",
-    "company": "Invesco",
-    "title": "Early Career Intern - Fixed Income Global Technology",
-    "location": "Atlanta, GA (Other)",
-    "url": "https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/Atlanta-Georgia/Early-Career-Intern---Fixed-Income-Global-Technology_R-15621"
-  },
-  {
-    "id": "sj:f28f57ef-d9b4-4201-95d1-2c55f337532f",
-    "company": "Northrop Grumman",
-    "title": "Software Engineer Intern",
-    "location": "Roy, UT (Other)",
-    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs-CO_R10254007"
   }
 ]
