@@ -1575,6 +1575,13 @@
     "url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383236008"
   },
   {
+    "id": "sj:7eb2dc1e-a2d8-4cd8-a3cf-70178e3bc5d2",
+    "company": "American Bankers Association",
+    "title": "Banking Policy and Economic Research Intern",
+    "location": "Washington, DC (Washington DC / Central NJ)",
+    "url": "https://aba.wd1.myworkdayjobs.com/aba/job/US-DC-Main-Office/Intern--Banking-Policy-and-Economic-Research_R625"
+  },
+  {
     "id": "sj:d66fb15d-3f14-497d-9099-9814aef7e5a3",
     "company": "Johnson & Johnson",
     "title": "IDAR Summer Intern - C&SP",
@@ -1869,6 +1876,13 @@
     "url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/London-UK/Data-Science-Machine-Learning-Internship--Summer-2027-_R1345"
   },
   {
+    "id": "sj:1962fda2-9358-4d0b-a814-d0e55e225392",
+    "company": "Amazon",
+    "title": "Software Developer Intern",
+    "location": "London, UK; Edinburgh, UK; Bristol, UK; Cambridge, UK (London / Paris)",
+    "url": "https://amazon.jobs/en/jobs/10554586/2027-software-dev-engineer-intern-united-kingdom"
+  },
+  {
     "id": "sj:ef5110ac-e253-4654-896d-f186344b7c1d",
     "company": "Expedia Group",
     "title": "Applied Science Intern",
@@ -2147,6 +2161,20 @@
     "title": "Software Engineer Intern",
     "location": "London, UK; Chicago, IL (London / Paris)",
     "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002"
+  },
+  {
+    "id": "sj:0a8ec819-e5fa-47ae-abbe-075d7e73a845",
+    "company": "Cummins",
+    "title": "IT Systems Intern - Engine Plant IT Systems",
+    "location": "Darlington, UK (Other)",
+    "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2436714"
+  },
+  {
+    "id": "sj:f351f3ac-9b5b-4f88-b7bf-8c3cce1a1df0",
+    "company": "Nutanix",
+    "title": "Support Analytics & Operations Intern",
+    "location": "Durham, NC (Other)",
+    "url": "https://jobs.jobvite.com/nutanix/job/oqjOAfwR?nl=1&nl=1&fr=false"
   },
   {
     "id": "sj:9ba3a79f-40de-421a-a13b-f37a0fa52e78",
@@ -3470,33 +3498,5 @@
     "title": "Actuarial Systems Intern",
     "location": "Milwaukee, WI (Other)",
     "url": "https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Actuarial-Systems-Intern--Summer-2027_JR-46073"
-  },
-  {
-    "id": "sj:acafb8f1-75b4-44f1-8450-4628ddf3b8a1",
-    "company": "ICF International",
-    "title": "Data Scientist Intern",
-    "location": "Remote in USA; Reston, VA; Denver, CO (Other)",
-    "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Data-Scientist--Reston--VA--Denver--CO--Remote-_R2603252"
-  },
-  {
-    "id": "sj:20de5e49-f3f4-4acd-9ae0-e82d4edd0521",
-    "company": "Pacific Life",
-    "title": "Data Engineering Intern",
-    "location": "Newport Beach, CA (Other)",
-    "url": "https://pacificlife.wd1.myworkdayjobs.com/en-US/PacificLifeCareers/job/Newport-Beach-CA-700/Summer-2027-Data-Engineering-Internship_R17828"
-  },
-  {
-    "id": "sj:127d880c-e16b-43e4-b4b6-c0788fbe90ae",
-    "company": "American Century Investments",
-    "title": "Enterprise Data Intern",
-    "location": "Southlake, TX; Kansas City, MO (Other)",
-    "url": "https://americancentury.wd5.myworkdayjobs.com/AmericanCenturyInvestments/job/Kansas-City-Missouri/Enterprise-Data-Intern_R0005751"
-  },
-  {
-    "id": "sj:6db9023a-15b9-4dfa-a544-4779d19c4277",
-    "company": "The Aerospace Corporation",
-    "title": "Software Systems Engineer Intern - Acquisition",
-    "location": "Chantilly, VA; El Segundo, CA (Other)",
-    "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Software-Systems-Engineer-and-Acquisition-Intern_R016431"
   }
 ]
