@@ -1,5 +1,33 @@
 [
   {
+    "id": "sj:acafb8f1-75b4-44f1-8450-4628ddf3b8a1",
+    "company": "ICF International",
+    "title": "Data Scientist Intern",
+    "location": "Remote in USA; Reston, VA; Denver, CO (Other)",
+    "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Data-Scientist--Reston--VA--Denver--CO--Remote-_R2603252"
+  },
+  {
+    "id": "sj:20de5e49-f3f4-4acd-9ae0-e82d4edd0521",
+    "company": "Pacific Life",
+    "title": "Data Engineering Intern",
+    "location": "Newport Beach, CA (Other)",
+    "url": "https://pacificlife.wd1.myworkdayjobs.com/en-US/PacificLifeCareers/job/Newport-Beach-CA-700/Summer-2027-Data-Engineering-Internship_R17828"
+  },
+  {
+    "id": "sj:127d880c-e16b-43e4-b4b6-c0788fbe90ae",
+    "company": "American Century Investments",
+    "title": "Enterprise Data Intern",
+    "location": "Southlake, TX; Kansas City, MO (Other)",
+    "url": "https://americancentury.wd5.myworkdayjobs.com/AmericanCenturyInvestments/job/Kansas-City-Missouri/Enterprise-Data-Intern_R0005751"
+  },
+  {
+    "id": "sj:6db9023a-15b9-4dfa-a544-4779d19c4277",
+    "company": "The Aerospace Corporation",
+    "title": "Software Systems Engineer Intern - Acquisition",
+    "location": "Chantilly, VA; El Segundo, CA (Other)",
+    "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Software-Systems-Engineer-and-Acquisition-Intern_R016431"
+  },
+  {
     "id": "sj:f47bf68f-08e3-4d92-ade8-eff54ae7c108",
     "company": "State Farm",
     "title": "Data Science Intern - Magnet Program",
@@ -5138,6 +5166,34 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Remote/System-Software-Engineering-Intern--GPU---2027_JR2025334"
   },
   {
+    "id": "sj:3ace9955-fb8a-4ca0-a716-7b9d6f86671f",
+    "company": "Electronic Arts",
+    "title": "Software Engineer Intern - Gameplay UI",
+    "location": "Birmingham, UK (Other)",
+    "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern-Gameplay-UI/216190"
+  },
+  {
+    "id": "sj:2171d14a-e271-49bf-95cf-d6a749318018",
+    "company": "Electronic Arts",
+    "title": "Client AI Software Engineer Intern",
+    "location": "Manchester, UK (Other)",
+    "url": "https://jobs.ea.com/en_US/careers/JobDetail/Client-AI-Software-Engineer-Intern/216364"
+  },
+  {
+    "id": "sj:e77870f3-55c7-4d18-8364-57029d5adc18",
+    "company": "Electronic Arts",
+    "title": "Software Engineer Tools Intern",
+    "location": "Birmingham, UK (Other)",
+    "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern-Tools/216192"
+  },
+  {
+    "id": "sj:3040c492-d83d-4c3a-ba12-bfc0edc75a1f",
+    "company": "Electronic Arts",
+    "title": "UI Scripter Intern",
+    "location": "Guildford, UK (Other)",
+    "url": "https://jobs.ea.com/en_US/careers/JobDetail/UI-Scripter-Intern/216359"
+  },
+  {
     "id": "sj:c6cf89af-fd3e-48e3-b886-b14efade21e6",
     "company": "TikTok",
     "title": "Software Engineer Intern - Recommendation Performance Efficiency",
@@ -5157,6 +5213,13 @@
     "title": "Forward Deployed Software Engineer Intern",
     "location": "Irvine, CA (Other)",
     "url": "https://healthpeak.applytojob.com/apply/RTf9TfJE4h/Forward-Deployed-Software-Engineer-Internship"
+  },
+  {
+    "id": "sj:59893888-211a-4a3c-9b02-8095e93f2051",
+    "company": "Hilb Group",
+    "title": "Benefits Analytics Intern",
+    "location": "Hunt Valley, Cockeysville, MD (Other)",
+    "url": "https://hilbgroup.wd5.myworkdayjobs.com/HG-Careers/job/Hunt-Valley-MD/Benefits-Analytics-Intern_JR100866"
   },
   {
     "id": "sj:ddca61ef-e1db-4670-a09d-a0d95c626118",
@@ -6935,68 +6998,5 @@
     "title": "Computational Plasma Research Intern",
     "location": "Everett, WA (Other)",
     "url": "https://jobs.ashbyhq.com/helion/d2a1f8af-a310-44af-a5bc-c68816ebb7f6/application?embed=true"
-  },
-  {
-    "id": "sj:f7ee265c-7829-48bb-acd5-5acedabc8878",
-    "company": "Southwest Airlines",
-    "title": "Safety Analytics Intern",
-    "location": "Dallas, TX (Other)",
-    "url": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Safety-Analytics-Summer-2027-Intern_R-2026-73047"
-  },
-  {
-    "id": "sj:a4bef05e-5e81-43b1-97b4-e8b5350371a4",
-    "company": "Southwest Airlines",
-    "title": "Sales Analytics Intern",
-    "location": "Dallas, TX (Other)",
-    "url": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Summer-2027-Sales-Analytics-Internship_R-2026-73022"
-  },
-  {
-    "id": "sj:8b6adedc-bcf4-4553-9fa2-ff61cdd5425f",
-    "company": "Southwest Airlines",
-    "title": "Software Engineer Intern",
-    "location": "Dallas, TX (Other)",
-    "url": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Summer-2027-Software-Engineer-Internship_R-2026-73270"
-  },
-  {
-    "id": "sj:7344ee5e-5174-44c2-acec-12e21379b83f",
-    "company": "RTX",
-    "title": "Software Engineer Intern",
-    "location": "Annapolis, MD (Other)",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MD-ANNAPOLIS-906--2551-Riva-Rd--BLDG-906/Software-Engineering-Intern--Summer-2027-_01873235"
-  },
-  {
-    "id": "sj:e470118f-ee2f-4095-806d-7e2252f1d4a1",
-    "company": "Autodesk",
-    "title": "Software Development Intern",
-    "location": "Toronto, ON, Canada (Other)",
-    "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Software-Development-Internship--Summer-2027-_26WD101436-1"
-  },
-  {
-    "id": "sj:6490f830-6cd7-42a5-9a36-ebb4d42d176b",
-    "company": "Autodesk",
-    "title": "Software Developer Intern",
-    "location": "Toronto, ON, Canada (Other)",
-    "url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Toronto-ON-CAN/Software-Development-Internship--Summer-2027-_26WD101436"
-  },
-  {
-    "id": "sj:8ec2033a-ce88-4b22-8928-f0bcfa00049a",
-    "company": "The Federal Reserve System",
-    "title": "Computer Science and Software Engineering Intern",
-    "location": "Chicago, IL (Other)",
-    "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Chicago-IL/Summer-2027-Intern-Computer-Science-and-Software-Engineering_R-0000033637"
-  },
-  {
-    "id": "sj:531577c4-883e-4ac7-9563-ab1ef47be527",
-    "company": "The Federal Reserve System",
-    "title": "Advanced Analytics Intern",
-    "location": "Cleveland, OH (Other)",
-    "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Cleveland-OH/SCS---Advanced-Analytics-Intern---2027_R-0000033622"
-  },
-  {
-    "id": "sj:6a49ef5e-35b1-491d-a761-59e0a5779a89",
-    "company": "The Federal Reserve System",
-    "title": "Statistics and Analysis Intern",
-    "location": "Cleveland, OH (Other)",
-    "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Cleveland-OH/SCS---Statistics-and-Analysis-Intern---2027_R-0000033645"
   }
 ]
