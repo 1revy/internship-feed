@@ -1694,6 +1694,13 @@
     "url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383231008"
   },
   {
+    "id": "sj:5d49b8ae-c032-452a-9a2c-c036c1e404fc",
+    "company": "Barclays",
+    "title": "Client Data and Engineering Group Internship",
+    "location": "London, UK (London / Paris)",
+    "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Client-Data-and-Engineering-Group-Summer-Internship-Programme-2027-London_JR-0000135782"
+  },
+  {
     "id": "sj:6f2c73a3-0420-441e-89a0-480e9cf9735a",
     "company": "BP",
     "title": "Digital, Data, AI & Engineering Intern",
@@ -2163,6 +2170,27 @@
     "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002"
   },
   {
+    "id": "sj:732644b7-8839-4c00-a810-134934432245",
+    "company": "Boston Scientific",
+    "title": "AI/Data Science Intern",
+    "location": "Maple Grove, MN (Other)",
+    "url": "https://bostonscientific.eightfold.ai/careers/job/563602813519129"
+  },
+  {
+    "id": "sj:f51bdd40-5f4d-429e-a22b-1e826726e2ad",
+    "company": "CenturyLink",
+    "title": "Data Internship - Analytics & Decision Science",
+    "location": "Remote in USA (Other)",
+    "url": "https://internaljobs.centurylink.com/job/Remote-Data,-Analytics-&-Decision-Science-Summer-2027-Internship-Pathway/1440961600/?ats=successfactors"
+  },
+  {
+    "id": "sj:ce00eaa7-df83-4141-bab1-3a0646ca5c07",
+    "company": "Veeam Software",
+    "title": "Data & Analytics Engineering Intern",
+    "location": "Alpharetta, GA (Other)",
+    "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4996533101"
+  },
+  {
     "id": "sj:0a8ec819-e5fa-47ae-abbe-075d7e73a845",
     "company": "Cummins",
     "title": "IT Systems Intern - Engine Plant IT Systems",
@@ -2175,6 +2203,13 @@
     "title": "Support Analytics & Operations Intern",
     "location": "Durham, NC (Other)",
     "url": "https://jobs.jobvite.com/nutanix/job/oqjOAfwR?nl=1&nl=1&fr=false"
+  },
+  {
+    "id": "sj:ffd69a94-dc9e-4734-b09a-90e056934918",
+    "company": "American Family Insurance Group",
+    "title": "Data Engineering / Data Science Intern",
+    "location": "Madison, WI (Other)",
+    "url": "https://amfam.wd1.myworkdayjobs.com/en-US/Careers/job/WI-Madison/Summer-2027-Intern---Data-Engineering_R39674"
   },
   {
     "id": "sj:9ba3a79f-40de-421a-a13b-f37a0fa52e78",
@@ -3463,40 +3498,5 @@
     "title": "Data Engineering Intern - Data & Integrations",
     "location": "Edina, MN (Other)",
     "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4537849"
-  },
-  {
-    "id": "sj:865a11a8-4b8f-4167-99a1-2b819a80bdf2",
-    "company": "Waymo",
-    "title": "Systems Engineer Intern - Autonomous Vehicle Networks & Diagnostics",
-    "location": "Mountain View, CA (Other)",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=8231711"
-  },
-  {
-    "id": "sj:799d62f1-1dde-4bfb-83e1-3f4c656bf2d8",
-    "company": "Atlassian",
-    "title": "Data Scientist Intern",
-    "location": "Seattle, WA (Other)",
-    "url": "https://campus-americas.icims.com/jobs/26271/data-scientist-intern%2c-2027-summer-u.s./job"
-  },
-  {
-    "id": "sj:fec9533c-b5cc-4a22-b148-01e36f9516d4",
-    "company": "AbbVie",
-    "title": "Business Technology Solutions Intern - Data & Software Engineering",
-    "location": "Irvine, CA (Other)",
-    "url": "https://jobs.smartrecruiters.com/AbbVie/3743990015684476"
-  },
-  {
-    "id": "sj:074a0da6-73e2-402d-90a7-ca4bf302d862",
-    "company": "First Citizens BancShares",
-    "title": "IT Intern - Software Developer",
-    "location": "Raleigh, NC (Other)",
-    "url": "https://firstcitizens.jibeapply.com/jobs/35709?icims=1"
-  },
-  {
-    "id": "sj:ee8ed5ad-3be9-407e-8020-0d9a037d60be",
-    "company": "Barrios",
-    "title": "Data and Computer Engineering/Computer Science Intern",
-    "location": "Houston, TX (Other)",
-    "url": "https://careers-barrios.icims.com/jobs/2897/job?mobile=true&needsRedirect=false"
   }
 ]
