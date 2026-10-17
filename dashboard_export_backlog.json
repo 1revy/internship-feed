@@ -5208,6 +5208,13 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Remote/System-Software-Engineering-Intern--GPU---2027_JR2025334"
   },
   {
+    "id": "sj:c7ca0cf8-1365-4043-bd33-60b444281d4b",
+    "company": "Together AI",
+    "title": "Research Intern",
+    "location": "SF (Other)",
+    "url": "https://job-boards.greenhouse.io/togetherai/jobs/5267198007"
+  },
+  {
     "id": "sj:cb0ce8da-b4a3-49f2-b6b3-ae0734bd4bc1",
     "company": "Waabi",
     "title": "Safety Methodologies Intern Co-op",
@@ -5388,6 +5395,20 @@
     "title": "Application Development Intern",
     "location": "Plano, TX (Other)",
     "url": "https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Plano/Summer-2027-Intern--Application-Development_R0020820-1"
+  },
+  {
+    "id": "sj:9ca48e9a-a09b-4300-802e-47d9b4466d99",
+    "company": "Ryan",
+    "title": "Software Engineer Intern",
+    "location": "Plano, TX (Other)",
+    "url": "https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Plano/Summer-2027-Intern--Software-Engineering_R0020843-1"
+  },
+  {
+    "id": "sj:18cf7b99-7951-4d0b-aa42-6f2427d59c44",
+    "company": "Ryan",
+    "title": "Software Engineer Intern",
+    "location": "Plano, TX (Other)",
+    "url": "https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/Plano/Summer-2027-Intern--Software-Engineering_R0020843"
   },
   {
     "id": "sj:ddca61ef-e1db-4670-a09d-a0d95c626118",
@@ -6977,26 +6998,5 @@
     "title": "Software Engineer Intern/Co-op",
     "location": "Palo Alto, CA (Other)",
     "url": "https://job-boards.greenhouse.io/xai/jobs/5255111007"
-  },
-  {
-    "id": "sj:96268a8b-5041-4571-913d-7a04ae9c4c50",
-    "company": "Mindex",
-    "title": "Software Engineer Co-op",
-    "location": "Rochester, NY (Other)",
-    "url": "https://apply.workable.com/mindex/j/84B10DB922/apply"
-  },
-  {
-    "id": "sj:319f5acd-d41e-4a2d-ba38-489c86ff3b27",
-    "company": "Great American Insurance Company",
-    "title": "Enterprise Analytics Intern",
-    "location": "Cincinnati, OH (Other)",
-    "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Enterprise-Analytics-Intern---Summer-2027_R9650"
-  },
-  {
-    "id": "sj:11487bbd-b590-4b02-a2f1-0d88df7fbbd2",
-    "company": "Northrop Grumman",
-    "title": "College Technical Intern",
-    "location": "McLean, VA (Other)",
-    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-McLean/XMLNAME-2027-College-Technical-Intern---McLean-VA_R10253146"
   }
 ]
