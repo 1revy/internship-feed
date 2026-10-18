@@ -5222,6 +5222,13 @@
     "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Basildon/Summer-Placement-Software-Engineer_R0034282"
   },
   {
+    "id": "sj:3d611c48-2d70-4344-b72a-4c767608aed5",
+    "company": "Leonardo",
+    "title": "Software Engineer Intern",
+    "location": "Newcastle upon Tyne, UK (Other)",
+    "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Newcastle/Summer-Placement-Software-Engineer_R0033874"
+  },
+  {
     "id": "sj:c7ca0cf8-1365-4043-bd33-60b444281d4b",
     "company": "Together AI",
     "title": "Research Intern",
@@ -6991,12 +6998,5 @@
     "title": "Finance Transformation & Analytics Intern",
     "location": "Mountain View, CA (Other)",
     "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-finance-transformation-and-analytics-intern/27595/101444103184"
-  },
-  {
-    "id": "sj:b7368293-9c8c-4b02-8787-dddbcf2af626",
-    "company": "Affirm",
-    "title": "Software Engineer Intern - Machine Learning",
-    "location": "SF (Other)",
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/8008645003"
   }
 ]
