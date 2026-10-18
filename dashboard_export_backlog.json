@@ -5208,6 +5208,20 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Remote/System-Software-Engineering-Intern--GPU---2027_JR2025334"
   },
   {
+    "id": "sj:3b980755-8a95-43af-a208-b5bb7cdd90bc",
+    "company": "Leonardo",
+    "title": "Software Engineer Intern",
+    "location": "Edinburgh, UK (Other)",
+    "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Edinburgh/Summer-Placement-Software-Engineer_R0033869-1"
+  },
+  {
+    "id": "sj:09d295fd-d8bf-43be-b771-d4daf5e511fe",
+    "company": "Leonardo",
+    "title": "Software Engineer Placement Intern",
+    "location": "Basildon, UK (Other)",
+    "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Basildon/Summer-Placement-Software-Engineer_R0034282"
+  },
+  {
     "id": "sj:c7ca0cf8-1365-4043-bd33-60b444281d4b",
     "company": "Together AI",
     "title": "Research Intern",
@@ -6984,19 +6998,5 @@
     "title": "Software Engineer Intern - Machine Learning",
     "location": "SF (Other)",
     "url": "https://job-boards.greenhouse.io/affirm/jobs/8008645003"
-  },
-  {
-    "id": "sj:55d83f42-3073-4394-a485-5f539341ffe1",
-    "company": "Affirm",
-    "title": "Software Engineer Intern - Summer 2027",
-    "location": "SF (Other)",
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/8011590003"
-  },
-  {
-    "id": "sj:507939af-b1b0-42a5-b103-4c941f8ec184",
-    "company": "xAI",
-    "title": "Software Engineer Intern/Co-op",
-    "location": "Palo Alto, CA (Other)",
-    "url": "https://job-boards.greenhouse.io/xai/jobs/5255111007"
   }
 ]
