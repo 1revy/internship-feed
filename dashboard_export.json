@@ -1883,6 +1883,13 @@
     "url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/London-UK/Data-Science-Machine-Learning-Internship--Summer-2027-_R1345"
   },
   {
+    "id": "sj:9dd99ce3-b29a-44bc-afef-611ed1cdc75f",
+    "company": "ZS",
+    "title": "Decision Analytics Associate Intern",
+    "location": "London, UK (London / Paris)",
+    "url": "https://jobs.zs.com/jobs/68243?icims=1"
+  },
+  {
     "id": "sj:1962fda2-9358-4d0b-a814-d0e55e225392",
     "company": "Amazon",
     "title": "Software Developer Intern",
@@ -2121,6 +2128,13 @@
     "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774716"
   },
   {
+    "id": "sj:49740871-4c1c-4e2d-9d6d-42cca17e1b2f",
+    "company": "Lendable",
+    "title": "Intern",
+    "location": "London, UK (London / Paris)",
+    "url": "https://jobs.ashbyhq.com/lendable/e001dc0b-6e0f-46a7-95ba-38a3733db2f4/application?embed=true"
+  },
+  {
     "id": "sj:b723e864-0d78-4dec-835e-0f2da12a40db",
     "company": "Optiver",
     "title": "Software Engineer Intern",
@@ -2168,6 +2182,27 @@
     "title": "Software Engineer Intern",
     "location": "London, UK; Chicago, IL (London / Paris)",
     "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002"
+  },
+  {
+    "id": "sj:72e8c51b-2573-4cd6-b027-e42a785f7038",
+    "company": "Bosch Home Comfort",
+    "title": "Data Analyst & Marketing/Sales Intern",
+    "location": "Denham, UK (Other)",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000156251739"
+  },
+  {
+    "id": "sj:d786d131-7861-40ca-a9c7-534a3dd2e8b5",
+    "company": "PA Consulting",
+    "title": "Digital Intern - Digital - Digital & Data",
+    "location": "Manchester, UK (Other)",
+    "url": "https://jobs.smartrecruiters.com/PAConsulting/744000156260214"
+  },
+  {
+    "id": "sj:c9f2736c-ca54-46f8-98a1-81570a3bd159",
+    "company": "Johnson & Johnson",
+    "title": "Quality Data Science Co-op",
+    "location": "Cincinnati, OH (Other)",
+    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Quality-Data-Science-Co-Op---Summer-2027_R-103629"
   },
   {
     "id": "sj:732644b7-8839-4c00-a810-134934432245",
@@ -3463,40 +3498,5 @@
     "title": "Data Engineer Intern",
     "location": "Sioux Falls, SD (Other)",
     "url": "https://poet.wd1.myworkdayjobs.com/POET/job/Sioux-Falls-SD/Data-Engineering-Intern_R101787"
-  },
-  {
-    "id": "sj:704a57e5-4a0e-4e2a-abb6-64f45c2acb63",
-    "company": "Centene",
-    "title": "Medical Economics Analyst Intern",
-    "location": "Florida; Missouri (Other)",
-    "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Medical-Economics-Intern--Undergraduate---Summer-2027-_1662089"
-  },
-  {
-    "id": "sj:6a1545b0-b5cd-4c8f-8e2b-432ee694bd7d",
-    "company": "Philips",
-    "title": "Digital Healthtech Product Management Intern",
-    "location": "Bothell, WA (Other)",
-    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bothell-Washington-United-States/Intern---Digital-Healthtech-Product-Management---Bothell--WA---Summer-2027_585564"
-  },
-  {
-    "id": "sj:1f8a0413-c78d-4d89-a614-ceba126efdf8",
-    "company": "Red Ventures",
-    "title": "Data Science Intern - Launch Program",
-    "location": "Charlotte, NC (Other)",
-    "url": "https://www.redventures.com/careers/positions/open?gh_jid=8233284"
-  },
-  {
-    "id": "sj:dbc5524e-6bc2-4690-b04a-a30cdcabb2ab",
-    "company": "GCM Grosvenor",
-    "title": "Fund Data Reporting and Analytics Intern",
-    "location": "Chicago, IL (Other)",
-    "url": "https://job-boards.greenhouse.io/gcmgrosvenor/jobs/8003490003"
-  },
-  {
-    "id": "sj:e461075c-d030-4455-8fe8-9a52fa5c0551",
-    "company": "Western National Insurance",
-    "title": "Data Engineering Intern - Data & Integrations",
-    "location": "Edina, MN (Other)",
-    "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4537849"
   }
 ]
