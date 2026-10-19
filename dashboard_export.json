@@ -1694,6 +1694,13 @@
     "url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383231008"
   },
   {
+    "id": "sj:4f038232-125e-40c1-aa88-2701ec7c0353",
+    "company": "Wise",
+    "title": "Data Science Intern",
+    "location": "London, UK (London / Paris)",
+    "url": "https://jobs.smartrecruiters.com/Wise/744000156265544"
+  },
+  {
     "id": "sj:5d49b8ae-c032-452a-9a2c-c036c1e404fc",
     "company": "Barclays",
     "title": "Client Data and Engineering Group Internship",
@@ -1881,6 +1888,27 @@
     "title": "Data Science Machine Learning Intern",
     "location": "London, UK (London / Paris)",
     "url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/London-UK/Data-Science-Machine-Learning-Internship--Summer-2027-_R1345"
+  },
+  {
+    "id": "sj:1a7232dc-f554-4d51-a14c-0119b05d8672",
+    "company": "Rothesay",
+    "title": "Software Engineer Intern",
+    "location": "London, UK (London / Paris)",
+    "url": "https://job-boards.greenhouse.io/rothesaygraduates/jobs/8811551002"
+  },
+  {
+    "id": "sj:e23e8b39-0bb4-40d5-8ffc-74ac90837a8e",
+    "company": "Wise",
+    "title": "Software Engineer Intern",
+    "location": "London, UK (London / Paris)",
+    "url": "https://jobs.smartrecruiters.com/Wise/744000156266767"
+  },
+  {
+    "id": "sj:ab308341-4749-47aa-901c-995b58db10ab",
+    "company": "Wise",
+    "title": "Analytics Intern",
+    "location": "London, UK (London / Paris)",
+    "url": "https://jobs.smartrecruiters.com/Wise/744000156269320"
   },
   {
     "id": "sj:9dd99ce3-b29a-44bc-afef-611ed1cdc75f",
@@ -2203,6 +2231,34 @@
     "title": "Quality Data Science Co-op",
     "location": "Cincinnati, OH (Other)",
     "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Quality-Data-Science-Co-Op---Summer-2027_R-103629"
+  },
+  {
+    "id": "sj:c35aada5-ad17-4000-baae-c7099528eabb",
+    "company": "Marvell",
+    "title": "AI Data Science Intern",
+    "location": "Santa Clara, CA (Other)",
+    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/AI-Data-Science-Intern--MS---Summer-2027_2603846"
+  },
+  {
+    "id": "sj:e833887c-581f-413b-a51e-ce5f540cdda1",
+    "company": "Autodesk",
+    "title": "Research Intern - Context and Knowledge Systems for AI",
+    "location": "Remote in UK (Other)",
+    "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/United-Kingdom---Remote/Intern--Research---Context-and-Knowledge-Systems-for-AI_26WD101097-2"
+  },
+  {
+    "id": "sj:226b2e00-45e3-4969-ae52-9edd0338ac22",
+    "company": "Marvell",
+    "title": "AI Data Science Intern",
+    "location": "Santa Clara, CA (Other)",
+    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/AI-Data-Science-Intern--MS---Summer-2027_2603846-1"
+  },
+  {
+    "id": "sj:21094604-b4f6-408c-8e58-7b56b88e5d37",
+    "company": "Autodesk",
+    "title": "Research Intern - Context and Knowledge Systems for AI",
+    "location": "Remote in UK (Other)",
+    "url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/United-Kingdom---Remote/Intern--Research---Context-and-Knowledge-Systems-for-AI_26WD101097-1"
   },
   {
     "id": "sj:732644b7-8839-4c00-a810-134934432245",
@@ -3442,61 +3498,5 @@
     "title": "Ecommerce Data Analytics Intern",
     "location": "Bloomington, MN (Other)",
     "url": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/eCommerce-Data-Analytics-Intern---The-Toro-Company_JR17458"
-  },
-  {
-    "id": "sj:4ef4ca83-8d9c-4cd1-8e29-f387730d3a3b",
-    "company": "Xcel Energy",
-    "title": "Computer Information Systems Intern",
-    "location": "Monticello, MN; Welch, MN (Other)",
-    "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Monticello-MN-55362/Computer-Information-Systems-Intern---MN_JR116038"
-  },
-  {
-    "id": "sj:21792146-80f9-45a6-ade2-d26fd0098c49",
-    "company": "H&R Block",
-    "title": "Financial Services Data Analytics Intern",
-    "location": "Kansas City, MO (Other)",
-    "url": "https://careers-hrblock.icims.com/jobs/76989/job?mobile=true&needsRedirect=false"
-  },
-  {
-    "id": "sj:c952a747-7189-4687-a073-04347d98d705",
-    "company": "H&R Block",
-    "title": "Product Management Intern - S",
-    "location": "Kansas City, MO (Other)",
-    "url": "https://careers.hrblock.com/jobs/76986?icims=1"
-  },
-  {
-    "id": "sj:a273034e-3b57-4e7a-9eaa-23b7e5d751d3",
-    "company": "UL Solutions",
-    "title": "Product Management Intern",
-    "location": "Northbrook, IL; Chicago, IL (Other)",
-    "url": "https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/10625"
-  },
-  {
-    "id": "sj:d1dc4ba6-e31d-45f7-951e-0d48b6d86048",
-    "company": "Boston Scientific",
-    "title": "R&D Research Data Science Intern",
-    "location": "United States (Other)",
-    "url": "https://bostonscientific.eightfold.ai/careers/job/563602813667382"
-  },
-  {
-    "id": "sj:1e39ef9b-ab50-405f-808e-28002f4fc72f",
-    "company": "Itron",
-    "title": "Data Science Intern - Distributed Intelligence",
-    "location": "Liberty Lake, WA (Other)",
-    "url": "https://itron.wd5.myworkdayjobs.com/Itron/job/United-States-of-America-Washington-Liberty-Lake/Intern---Data-Science--Distributed-Intelligence_JR102942"
-  },
-  {
-    "id": "sj:6236ea31-fdc8-485d-a8fc-b2fe9c0aa953",
-    "company": "Itron",
-    "title": "Data Science Intern - Distributed Intelligence",
-    "location": "Liberty Lake, WA (Other)",
-    "url": "https://itron.wd5.myworkdayjobs.com/Early_Careers/job/United-States-of-America-Washington-Liberty-Lake/Intern---Data-Science--Distributed-Intelligence_JR102942-2"
-  },
-  {
-    "id": "sj:1c05aeb6-1548-460d-ac98-cca04204d3a7",
-    "company": "POET",
-    "title": "Data Engineer Intern",
-    "location": "Sioux Falls, SD (Other)",
-    "url": "https://poet.wd1.myworkdayjobs.com/POET/job/Sioux-Falls-SD/Data-Engineering-Intern_R101787"
   }
 ]
