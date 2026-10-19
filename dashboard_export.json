@@ -1,5 +1,19 @@
 [
   {
+    "id": "sj:ab71e756-dbd0-4a94-b908-7c717a3fcfaf",
+    "company": "Highmark Health",
+    "title": "Data Science Research and Development Graduate Intern",
+    "location": "New Mexico; Washington; Kansas; Pennsylvania; North Dakota; Oregon; Delaware; Iowa; California; Washington, DC; Vermont; Wyoming; Connecticut; Texas; Montana; Florida; New Hampshire; Nevada; South Carolina; South Dakota; Georgia; Arizona; Mississippi; Tennessee; Virginia; Arkansas; Minnesota; Colorado; Nebraska; Rhode Island; Utah; Kentucky; West Virginia; NYC; Maryland; Hawaii; Wisconsin; Maine; Massachusetts; North Carolina; Oklahoma; Missouri; Ohio; New Jersey; Indiana; Louisiana; Alaska; Michigan; Illinois; Alabama; Idaho (New York)",
+    "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Data-Science-R-D-Graduate-Intern_J287175"
+  },
+  {
+    "id": "sj:29dccfec-8c43-420d-b9be-cb77d19d5499",
+    "company": "Highmark Health",
+    "title": "Reimbursement Analyst Intern",
+    "location": "New Mexico; Washington; Kansas; Pennsylvania; North Dakota; Oregon; Delaware; Iowa; California; Washington, DC; Vermont; Wyoming; Connecticut; Texas; Montana; Florida; New Hampshire; Nevada; South Carolina; South Dakota; Georgia; Arizona; Mississippi; Tennessee; Virginia; Arkansas; Minnesota; Colorado; Nebraska; Rhode Island; Utah; Kentucky; West Virginia; NYC; Maryland; Hawaii; Wisconsin; Maine; Massachusetts; North Carolina; Oklahoma; Missouri; Ohio; New Jersey; Indiana; Louisiana; Alaska; Michigan; Illinois; Alabama; Idaho (New York)",
+    "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Reimbursement-Analyst-Undergraduate-Intern_J287154"
+  },
+  {
     "id": "sj:07d9a5af-4f9d-4e8b-bd5b-609ba7e2a32e",
     "company": "Point72",
     "title": "Data Scientist Intern",
@@ -628,6 +642,27 @@
     "title": "Data Scientist Intern",
     "location": "NYC (New York)",
     "url": "https://www.alixpartners.com/careers/7725335003?gh_jid=7725335003"
+  },
+  {
+    "id": "sj:1165ee3a-645d-4e2c-a540-85673700de1f",
+    "company": "Scale AI",
+    "title": "Machine Learning Research Intern",
+    "location": "SF; NYC (New York)",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4735665005"
+  },
+  {
+    "id": "sj:f6a2b87f-8d79-42e5-b672-1818e34256c5",
+    "company": "Patreon",
+    "title": "Software Engineer Intern",
+    "location": "SF; NYC (New York)",
+    "url": "https://jobs.ashbyhq.com/patreon/71f644bc-0873-4d62-a599-bd64405d6587/application?embed=true"
+  },
+  {
+    "id": "sj:55628d30-a337-40eb-9aa0-d4fe2dc1d4ff",
+    "company": "Patreon",
+    "title": "Software Engineer Intern",
+    "location": "NYC (New York)",
+    "url": "https://jobs.ashbyhq.com/patreon/cefe07ab-ba4f-48cc-86b9-a88b1859a95c/application?embed=true"
   },
   {
     "id": "sj:db93ac45-a63e-477d-bd8f-98cf17ca4fd7",
@@ -2212,6 +2247,34 @@
     "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002"
   },
   {
+    "id": "sj:eb3a5bc3-2fb4-4151-93b2-ebee300ad678",
+    "company": "Westinghouse Electric Company",
+    "title": "Product Engineer Intern",
+    "location": "Cranberry Township, PA (Other)",
+    "url": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Summer-Intern-Product-Engineer-NC/1441276000/?ats=successfactors"
+  },
+  {
+    "id": "sj:9f87174c-3de3-4a2b-a443-5cf09d0aadce",
+    "company": "Paccar",
+    "title": "Warranty Data Analyst Intern",
+    "location": "Kirkland, WA (Other)",
+    "url": "https://jobs.paccar.com/job/Kirkland-Summer-2027-Warranty-Data-Analyst-Intern-WA-98033/1449176033/?ats=successfactors"
+  },
+  {
+    "id": "sj:12643349-9dbf-44e4-96de-6f938fdd7979",
+    "company": "Amplify",
+    "title": "Data Analytics Intern",
+    "location": "Remote in USA (Other)",
+    "url": "https://jobs.ashbyhq.com/amplify/7b859cc1-1354-43c5-bbd4-0571e85f7c51/application?embed=true"
+  },
+  {
+    "id": "sj:d8ede2e6-c1f3-40fb-a435-9772d2aabf18",
+    "company": "Amplify",
+    "title": "Product Management Intern",
+    "location": "Remote in USA (Other)",
+    "url": "https://jobs.ashbyhq.com/amplify/c95f690f-28af-42b1-8847-5dcf14c1155e/application?embed=true"
+  },
+  {
     "id": "sj:72e8c51b-2573-4cd6-b027-e42a785f7038",
     "company": "Bosch Home Comfort",
     "title": "Data Analyst & Marketing/Sales Intern",
@@ -2259,6 +2322,48 @@
     "title": "Research Intern - Context and Knowledge Systems for AI",
     "location": "Remote in UK (Other)",
     "url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/United-Kingdom---Remote/Intern--Research---Context-and-Knowledge-Systems-for-AI_26WD101097-1"
+  },
+  {
+    "id": "sj:a68523cd-29af-496f-972d-7053da12daa7",
+    "company": "Highmark Health",
+    "title": "Data Analyst Undergraduate Intern",
+    "location": "Pittsburgh, PA (Other)",
+    "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-FAP-5th-Avenue-Place/Summer-2027-Data-Analyst-Undergraduate-Intern_J288017"
+  },
+  {
+    "id": "sj:687fcce9-f7b1-4824-a15e-769dc794f2f5",
+    "company": "QTS",
+    "title": "People Services Data Analytics Intern",
+    "location": "Ashburn, VA (Other)",
+    "url": "https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/US-VA-Ashburn-1-DC1/Summer-2027-Internship--People-Services-Data-Analytics_R2026-2307"
+  },
+  {
+    "id": "sj:557cef20-b56b-4e75-91b3-183446ff8886",
+    "company": "Creative Artists Agency",
+    "title": "Data Analytics Intern",
+    "location": "Denver, CO (Other)",
+    "url": "https://caa.wd1.myworkdayjobs.com/en-US/Careers/job/Denver-CO/CAA-ICON-Data-Analytics-Intern---Summer-2027--Denver--CO-_JR9391"
+  },
+  {
+    "id": "sj:0cfcf23a-672d-4610-a2dd-1ff58a6ffea3",
+    "company": "Zurn Elkay Water Solutions",
+    "title": "Product Management Intern",
+    "location": "Downers Grove, IL (Other)",
+    "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Downers-Grove-IL/Product-Management-Intern---Summer-2027_REQ-020065"
+  },
+  {
+    "id": "sj:4a03c3b4-e8cb-45c4-acd4-f7ee8701bf6b",
+    "company": "Zebra Technologies",
+    "title": "Business Analytics Intern",
+    "location": "Holtsville, NY (Other)",
+    "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Business-Analytics_JR103642"
+  },
+  {
+    "id": "sj:f69b1fe1-5609-456a-a106-4867c3437ee0",
+    "company": "Associated Bank",
+    "title": "Corporate Intern - Digital Delivery - Artificial Intelligence",
+    "location": "Milwaukee, WI (Other)",
+    "url": "https://associatedbank.wd1.myworkdayjobs.com/en-US/external_careers/job/Milwaukee-111-Kilbourn/XMLNAME-2027-Corporate-Intern---Digital-Delivery--Artificial-Intelligence-_JR106639"
   },
   {
     "id": "sj:732644b7-8839-4c00-a810-134934432245",
@@ -3393,110 +3498,5 @@
     "title": "Data Science Intern",
     "location": "Menlo Park, CA (Other)",
     "url": "https://boards.greenhouse.io/robinhood/jobs/8241738"
-  },
-  {
-    "id": "sj:6545cac1-80c8-4ecb-9b22-e6dc11411f9d",
-    "company": "Life Fitness",
-    "title": "Marketing Analytics Intern",
-    "location": "Rosemont, IL (Other)",
-    "url": "https://lifefitness.wd1.myworkdayjobs.com/searchLFN/job/Rosemont-IL/Marketing-Analytics-Intern_JR-025253"
-  },
-  {
-    "id": "sj:bf6dc064-bc55-48a6-8d17-7fabcfc86bef",
-    "company": "Dallas Fort Worth International Airport",
-    "title": "Undergraduate Intern - Enterprise Data & Analytics",
-    "location": "Texas (Other)",
-    "url": "https://dfwairport.wd5.myworkdayjobs.com/External/job/DFW-Intl-Airport-Board/XMLNAME-2027-Undergraduate-Summer-Internship---Enterprise-Data---Analytics_JR102162-1"
-  },
-  {
-    "id": "sj:d3562842-a546-495a-bbe9-da2caa4618ac",
-    "company": "Assurant",
-    "title": "Product Analyst Intern - Housing",
-    "location": "Remote in USA (Other)",
-    "url": "https://assurant.wd1.myworkdayjobs.com/en-US/Assurant_Careers/job/United-States-Virtual/Summer-2027-Intern--Product-Analyst-Intern---Housing_R-115659"
-  },
-  {
-    "id": "sj:d31f3a4e-421a-4972-a2ef-2b849b218777",
-    "company": "Epic Games",
-    "title": "Product Management Intern",
-    "location": "Cary, NC (Other)",
-    "url": "https://epicgames.com/careers/jobs/6161289004?gh_jid=6161289004"
-  },
-  {
-    "id": "sj:1348ca2b-2d20-4c11-8737-27f955af4bb8",
-    "company": "ibotta",
-    "title": "Business Intelligence Intern",
-    "location": "Denver, CO (Other)",
-    "url": "https://jobs.ashbyhq.com/ibotta/3a27a6fc-5d2c-4b88-8b19-8f9f7094f899/application?embed=true"
-  },
-  {
-    "id": "sj:e6183713-4669-4666-9aab-e150d2592a48",
-    "company": "Acuity",
-    "title": "Product Management Technology Intern",
-    "location": "Conyers, GA (Other)",
-    "url": "https://careers.acuityinc.com/job/Conyers-Intern-Product-Management-Technology-GA-30012/1435075400/?ats=successfactors"
-  },
-  {
-    "id": "sj:9386fd1a-cd74-4620-9127-70779bd5eee3",
-    "company": "Acuity",
-    "title": "Finance AI Product Management Intern",
-    "location": "Atlanta, GA (Other)",
-    "url": "https://careers.acuityinc.com/job/Atlanta-Finance-AI-Product-Management-Intern-Onsite-GA-30309/1434874300/?ats=successfactors"
-  },
-  {
-    "id": "sj:2535090d-f04a-40f9-afb9-01cd43e2af3f",
-    "company": "W.W. Grainger",
-    "title": "Business Analyst Intern",
-    "location": "Green Bay, WI (Other)",
-    "url": "https://jobs.grainger.com/ImperialSupplies/job/GREEN-BAY-Business-Analyst-Intern-WI-54301-5160/1434550000/?ats=successfactors"
-  },
-  {
-    "id": "sj:810a66c8-0c3f-4ac3-bec1-fb4ae6080325",
-    "company": "Verizon Communications",
-    "title": "Data Scientist Intern - Fiber Engineering & Operations",
-    "location": "Irving, TX (Other)",
-    "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Irving-Texas/Irving-V-Teamer-for-a-Day--Verizon-Data-Science-Summer-2027-Internship_R-1101386"
-  },
-  {
-    "id": "sj:4d75efc0-61e0-48f4-955d-15ea4c188bae",
-    "company": "Verizon Communications",
-    "title": "Data Science Intern - Network and Technology",
-    "location": "Irving, TX (Other)",
-    "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Irving-Texas/Verizon-Network-and-Technology--Data-Science-Summer-2027-Internship_R-1101384"
-  },
-  {
-    "id": "sj:3e456223-d5b0-4c98-9c23-c9658c558899",
-    "company": "Verizon Communications",
-    "title": "Business Intelligence Intern - Fiber Engineering & Operations - Transformation & Business Enablement",
-    "location": "Irving, TX (Other)",
-    "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Irving-Texas/Verizon-Network-and-Technology--Business-Intelligence-Summer-2027-Internship_R-1101387"
-  },
-  {
-    "id": "sj:01769f39-4af0-402c-a217-88c13dd5d513",
-    "company": "Q2",
-    "title": "Data Science Intern",
-    "location": "Cary, NC (Other)",
-    "url": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Cary-North-Carolina/XMLNAME-2027-Summer-Internship---Data-Science_REQ-12799"
-  },
-  {
-    "id": "sj:e045f585-8fe2-442c-ad32-d77296ec0f53",
-    "company": "Draper",
-    "title": "Requirements Engineering Intern - Digital Engineering",
-    "location": "Cambridge, MA; Lowell, MA; Huntsville, AL (Other)",
-    "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Lowell-MA/Digital-Engineering---Requirements-Engineering-Intern--Summer-2027-_JR002945-1"
-  },
-  {
-    "id": "sj:e0f70e66-00e3-4ebe-964f-c3783246b9f2",
-    "company": "Motorola",
-    "title": "Junior Product Owner Intern",
-    "location": "Chicago, IL (Other)",
-    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Jr-Product-Owner---2027-Summer-Internship--Chicago-Hybrid-_R69150"
-  },
-  {
-    "id": "sj:39225d3b-e5de-494d-a4bf-f66abdea1711",
-    "company": "The Toro Company",
-    "title": "Ecommerce Data Analytics Intern",
-    "location": "Bloomington, MN (Other)",
-    "url": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/eCommerce-Data-Analytics-Intern---The-Toro-Company_JR17458"
   }
 ]
