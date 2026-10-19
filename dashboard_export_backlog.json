@@ -1,5 +1,40 @@
 [
   {
+    "id": "sj:704a57e5-4a0e-4e2a-abb6-64f45c2acb63",
+    "company": "Centene",
+    "title": "Medical Economics Analyst Intern",
+    "location": "Florida; Missouri (Other)",
+    "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Medical-Economics-Intern--Undergraduate---Summer-2027-_1662089"
+  },
+  {
+    "id": "sj:6a1545b0-b5cd-4c8f-8e2b-432ee694bd7d",
+    "company": "Philips",
+    "title": "Digital Healthtech Product Management Intern",
+    "location": "Bothell, WA (Other)",
+    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bothell-Washington-United-States/Intern---Digital-Healthtech-Product-Management---Bothell--WA---Summer-2027_585564"
+  },
+  {
+    "id": "sj:1f8a0413-c78d-4d89-a614-ceba126efdf8",
+    "company": "Red Ventures",
+    "title": "Data Science Intern - Launch Program",
+    "location": "Charlotte, NC (Other)",
+    "url": "https://www.redventures.com/careers/positions/open?gh_jid=8233284"
+  },
+  {
+    "id": "sj:dbc5524e-6bc2-4690-b04a-a30cdcabb2ab",
+    "company": "GCM Grosvenor",
+    "title": "Fund Data Reporting and Analytics Intern",
+    "location": "Chicago, IL (Other)",
+    "url": "https://job-boards.greenhouse.io/gcmgrosvenor/jobs/8003490003"
+  },
+  {
+    "id": "sj:e461075c-d030-4455-8fe8-9a52fa5c0551",
+    "company": "Western National Insurance",
+    "title": "Data Engineering Intern - Data & Integrations",
+    "location": "Edina, MN (Other)",
+    "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4537849"
+  },
+  {
     "id": "sj:865a11a8-4b8f-4167-99a1-2b819a80bdf2",
     "company": "Waymo",
     "title": "Systems Engineer Intern - Autonomous Vehicle Networks & Diagnostics",
@@ -6963,40 +6998,5 @@
     "title": "Software Engineer Intern",
     "location": "Torrance, CA (Other)",
     "url": "https://job-boards.greenhouse.io/arcboatcompany/jobs/5442881008"
-  },
-  {
-    "id": "sj:2149ec11-ebea-44e9-95ff-a9ef69ecacdf",
-    "company": "Harvey",
-    "title": "Software Engineer Intern - Summer 2027",
-    "location": "SF (Other)",
-    "url": "https://jobs.ashbyhq.com/harvey/3a34578d-d42e-45bb-ac5c-0c3357e8cbb7/application?embed=true"
-  },
-  {
-    "id": "sj:5cd416b9-4e14-4c94-ba8f-96c9143bd4dc",
-    "company": "Waymo",
-    "title": "Intern - Multiple Teams",
-    "location": "Mountain View, CA (Other)",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=8243732"
-  },
-  {
-    "id": "sj:3475b425-7296-4926-a897-0f74a61038af",
-    "company": "Waymo",
-    "title": "Perception Intern - Evaluation",
-    "location": "Mountain View, CA (Other)",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=8248327"
-  },
-  {
-    "id": "sj:70d761ed-4033-4ec5-ba9e-7b0f887afcfa",
-    "company": "Palomar Holdings",
-    "title": "Technical Intern",
-    "location": "Edina, MN; Chicago, IL; La Jolla, San Diego, CA (Other)",
-    "url": "https://ats.rippling.com/plmrcareers/jobs/d49be92b-8999-4f38-a39c-81500baadec7"
-  },
-  {
-    "id": "sj:27a08b0e-0a8d-4835-9024-61891268cd15",
-    "company": "Intuit",
-    "title": "Finance Transformation & Analytics Intern",
-    "location": "Mountain View, CA (Other)",
-    "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-finance-transformation-and-analytics-intern/27595/101444103184"
   }
 ]
