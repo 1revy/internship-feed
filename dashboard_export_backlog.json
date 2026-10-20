@@ -1,5 +1,12 @@
 [
   {
+    "id": "sj:41f0a82d-c8df-476e-bdf4-626934104325",
+    "company": "ITT",
+    "title": "Data Analytics / AI Intern - Summer 2027",
+    "location": "Irvine, CA (Other)",
+    "url": "https://careersenus-itt-inc.icims.com/jobs/17657/job?mobile=true&needsRedirect=false"
+  },
+  {
     "id": "sj:c436ae49-cb5b-447d-9947-7f790cb0c8d9",
     "company": "Robinhood",
     "title": "Data Science Intern",
@@ -5418,6 +5425,13 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Remote/System-Software-Engineering-Intern--GPU---2027_JR2025334"
   },
   {
+    "id": "sj:807bcae2-3ba9-4165-9819-a41fe28c13c3",
+    "company": "Parallel Wireless",
+    "title": "PHY Software Engineer Intern",
+    "location": "Bristol, UK (Other)",
+    "url": "https://jobs.lever.co/parallelwireless/d30be600-d1cd-4579-9875-ac70c72a4426/apply"
+  },
+  {
     "id": "sj:649995a2-a18c-401a-9cc3-062fa58dc1b3",
     "company": "Boston Scientific",
     "title": "R&D Software Engineer Intern",
@@ -6984,19 +6998,5 @@
     "title": "Software Engineer Intern",
     "location": "Santa Clara, CA (Other)",
     "url": "https://job-boards.greenhouse.io/purestorage/jobs/8249749"
-  },
-  {
-    "id": "sj:978a06db-60f9-4e14-8508-fd5a6dc1b731",
-    "company": "Electronic Arts",
-    "title": "Software Engineer Intern",
-    "location": "Austin, TX (Other)",
-    "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineering-Intern/216240"
-  },
-  {
-    "id": "sj:f5387b71-b243-4149-b269-544b787a751e",
-    "company": "Waymo",
-    "title": "Intern",
-    "location": "Mountain View, CA (Other)",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=8250220"
   }
 ]
