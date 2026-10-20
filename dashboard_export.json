@@ -644,6 +644,13 @@
     "url": "https://www.alixpartners.com/careers/7725335003?gh_jid=7725335003"
   },
   {
+    "id": "sj:9540c6d5-a3f9-44ef-bbc8-f2e6f966e07c",
+    "company": "The New York Times",
+    "title": "AI Initiatives Fellow",
+    "location": "NYC (New York)",
+    "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4740369005"
+  },
+  {
     "id": "sj:f9299641-0cec-447d-8ed6-26445441d4ec",
     "company": "JP Morgan Chase",
     "title": "Machine Learning Summer Associate Intern - NLP",
@@ -2261,6 +2268,27 @@
     "url": "https://jobs.paccar.com/job/Kirkland-Summer-2027-Dealer-Development-Marketing-Data-Analytics-Intern-WA-98033/1449209833/?ats=successfactors"
   },
   {
+    "id": "sj:47ab58f6-dd3d-4521-bdcb-8d3cbf3db18b",
+    "company": "Verizon Communications",
+    "title": "Data Science Intern",
+    "location": "Basking Ridge, Bernards, NJ (Other)",
+    "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Verizon-Consumer-Group--Data-Science-Summer-2027-Internship_R-1102419"
+  },
+  {
+    "id": "sj:cb08255f-ab56-485d-a46a-26e0cb2ada69",
+    "company": "Verizon Communications",
+    "title": "Data Science Intern",
+    "location": "Basking Ridge, Bernards, NJ (Other)",
+    "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Basking-Ridge--NJ--VTeamer-for-a-Day--Verizon-Consumer-Group--Data-Science-Summer-2027-Internship_R-1102417"
+  },
+  {
+    "id": "sj:aaac9d8b-db6b-4050-ad94-8cb5584c0bbd",
+    "company": "Cigna Group",
+    "title": "Business Analytics Intern",
+    "location": "Bloomfield, CT (Other)",
+    "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bloomfield-CT/Business-Analytics-Intern_26012472"
+  },
+  {
     "id": "sj:eb3a5bc3-2fb4-4151-93b2-ebee300ad678",
     "company": "Westinghouse Electric Company",
     "title": "Product Engineer Intern",
@@ -3470,33 +3498,5 @@
     "title": "Software Data Intern",
     "location": "Boston, MA (Other)",
     "url": "https://mfs.wd1.myworkdayjobs.com/en-US/MFS-Careers/job/Boston/Summer-2027-Software-Engineer-Intern--June---August-_MFS-231984"
-  },
-  {
-    "id": "sj:e2eb087e-b56a-42ec-a623-0453920d302b",
-    "company": "Cigna Group",
-    "title": "Product Analytics Intern",
-    "location": "Morris Plains, NJ; St. Louis, MO (Other)",
-    "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Morris-Plains-NJ/Product-Analytics-Summer-Intern---Start-Date--May-24--2027_26010180"
-  },
-  {
-    "id": "sj:5562454d-b04d-48f2-819f-22c84cd26c2c",
-    "company": "NJM Insurance Group",
-    "title": "IT Data Administration Intern",
-    "location": "Trenton, NJ (Other)",
-    "url": "https://njm.wd1.myworkdayjobs.com/njm/job/NJM---Trenton/IT-Data-Administration-Intern_R2008309"
-  },
-  {
-    "id": "sj:b998a4c3-63ee-4efb-9e2d-1828a7d52400",
-    "company": "MetLife",
-    "title": "Data & Analytics Intern",
-    "location": "Cary, NC (Other)",
-    "url": "https://metlife.avature.net/en_US/ml/JobDetail/20702"
-  },
-  {
-    "id": "sj:e30652f9-cc86-4112-b084-f0cba5f2b4ce",
-    "company": "Noblis",
-    "title": "Data Science and Innovation Intern",
-    "location": "Springfield, VA; Reston, VA (Other)",
-    "url": "https://careers.noblis.org/jobs/27942?icims=1"
   }
 ]
