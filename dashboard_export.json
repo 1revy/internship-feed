@@ -2247,6 +2247,13 @@
     "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002"
   },
   {
+    "id": "sj:3555c695-037a-494d-b111-9652b4b91a08",
+    "company": "Paccar",
+    "title": "Dealer Development Marketing Data Analytics Intern",
+    "location": "Kirkland, WA (Other)",
+    "url": "https://jobs.paccar.com/job/Kirkland-Summer-2027-Dealer-Development-Marketing-Data-Analytics-Intern-WA-98033/1449209833/?ats=successfactors"
+  },
+  {
     "id": "sj:eb3a5bc3-2fb4-4151-93b2-ebee300ad678",
     "company": "Westinghouse Electric Company",
     "title": "Product Engineer Intern",
@@ -3491,12 +3498,5 @@
     "title": "Data Analytics / AI Intern - Summer 2027",
     "location": "Irvine, CA (Other)",
     "url": "https://careersenus-itt-inc.icims.com/jobs/17657/job?mobile=true&needsRedirect=false"
-  },
-  {
-    "id": "sj:c436ae49-cb5b-447d-9947-7f790cb0c8d9",
-    "company": "Robinhood",
-    "title": "Data Science Intern",
-    "location": "Menlo Park, CA (Other)",
-    "url": "https://boards.greenhouse.io/robinhood/jobs/8241738"
   }
 ]
