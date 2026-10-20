@@ -644,6 +644,13 @@
     "url": "https://www.alixpartners.com/careers/7725335003?gh_jid=7725335003"
   },
   {
+    "id": "sj:f9299641-0cec-447d-8ed6-26445441d4ec",
+    "company": "JP Morgan Chase",
+    "title": "Machine Learning Summer Associate Intern - NLP",
+    "location": "Palo Alto, CA; Seattle, WA; NYC (New York)",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801790"
+  },
+  {
     "id": "sj:1165ee3a-645d-4e2c-a540-85673700de1f",
     "company": "Scale AI",
     "title": "Machine Learning Research Intern",
@@ -3491,12 +3498,5 @@
     "title": "Data Science and Innovation Intern",
     "location": "Springfield, VA; Reston, VA (Other)",
     "url": "https://careers.noblis.org/jobs/27942?icims=1"
-  },
-  {
-    "id": "sj:41f0a82d-c8df-476e-bdf4-626934104325",
-    "company": "ITT",
-    "title": "Data Analytics / AI Intern - Summer 2027",
-    "location": "Irvine, CA (Other)",
-    "url": "https://careersenus-itt-inc.icims.com/jobs/17657/job?mobile=true&needsRedirect=false"
   }
 ]
