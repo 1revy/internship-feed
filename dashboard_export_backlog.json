@@ -1,5 +1,12 @@
 [
   {
+    "id": "sj:c436ae49-cb5b-447d-9947-7f790cb0c8d9",
+    "company": "Robinhood",
+    "title": "Data Science Intern",
+    "location": "Menlo Park, CA (Other)",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8241738"
+  },
+  {
     "id": "sj:6545cac1-80c8-4ecb-9b22-e6dc11411f9d",
     "company": "Life Fitness",
     "title": "Marketing Analytics Intern",
@@ -5411,6 +5418,13 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Remote/System-Software-Engineering-Intern--GPU---2027_JR2025334"
   },
   {
+    "id": "sj:649995a2-a18c-401a-9cc3-062fa58dc1b3",
+    "company": "Boston Scientific",
+    "title": "R&D Software Engineer Intern",
+    "location": "Arden Hills, MN (Other)",
+    "url": "https://bostonscientific.eightfold.ai/careers/job/563602813563514"
+  },
+  {
     "id": "sj:9c3549d6-12b9-488c-9b34-de7b9deb3d97",
     "company": "Electronic Arts",
     "title": "Software Engineer Intern",
@@ -5584,6 +5598,13 @@
     "title": "Software Developer Intern",
     "location": "Egg Harbor Township, NJ (Other)",
     "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-NJ-Egg-Harbor-Township/GDIT-Summer-Internship-Program---Summer-2027-Software-Development-Internship--_RQ230643"
+  },
+  {
+    "id": "sj:d7a85e33-f117-40b4-a249-aec08587e7cf",
+    "company": "Associated Bank",
+    "title": "Corporate Internship - Artificial Intelligence - Corp. & Commercial Banking",
+    "location": "Minneapolis, MN (Other)",
+    "url": "https://associatedbank.wd1.myworkdayjobs.com/en-US/external_careers/job/Minneapolis-80-8th-43rd-Floor/XMLNAME-2027-Corporate-Internship---Artificial-Intelligence--Corp---Commercial-Banking-_JR106672"
   },
   {
     "id": "sj:3b980755-8a95-43af-a208-b5bb7cdd90bc",
@@ -6977,26 +6998,5 @@
     "title": "Intern",
     "location": "Mountain View, CA (Other)",
     "url": "https://careers.withwaymo.com/jobs?gh_jid=8250220"
-  },
-  {
-    "id": "sj:d4dd7283-a6c1-4f08-a631-ba840bf2b7ef",
-    "company": "Waymo",
-    "title": "Intern - Multiple Teams",
-    "location": "Mountain View, CA (Other)",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=8257660"
-  },
-  {
-    "id": "sj:b83f3fb8-0a55-4eed-82f6-9b98a78af0e9",
-    "company": "Space Dynamics Laboratory",
-    "title": "Software Engineer Intern - Software, AI, & Machine Learning",
-    "location": "North Logan, UT (Other)",
-    "url": "https://spacedynamicslaboratory.applytojob.com/apply/3M8cZAl86l/Software-Engineer-Intern-Software-AI-Machine-Learning"
-  },
-  {
-    "id": "sj:2e5df730-d9a8-47e0-aac3-c386a7274276",
-    "company": "Space Dynamics Laboratory",
-    "title": "Software Engineer Intern - AI Enabled Software Development",
-    "location": "North Logan, UT (Other)",
-    "url": "https://spacedynamicslaboratory.applytojob.com/apply/82GBzTsnBq/Software-Engineering-Intern-AI-Enabled-Software-Development"
   }
 ]
