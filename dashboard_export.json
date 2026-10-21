@@ -2282,6 +2282,13 @@
     "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002"
   },
   {
+    "id": "sj:c57abcec-5e89-47ba-b6c2-a19d6a94917b",
+    "company": "Shield AI",
+    "title": "Data Science Intern",
+    "location": "San Diego, CA (Other)",
+    "url": "https://jobs.lever.co/shieldai/aa71c28a-be00-43ca-8aa7-b764b2143797/apply"
+  },
+  {
     "id": "sj:352ca30a-f20a-448d-8092-68c1f8720f68",
     "company": "Paccar",
     "title": "Field Service Data Analyst Intern",
@@ -2350,6 +2357,20 @@
     "title": "Data Quality & Systems Intern",
     "location": "Weybridge, UK (Other)",
     "url": "https://sonyglobal.wd1.myworkdayjobs.com/Sony_Europe_Careers/job/Weybridge/Data-Quality---Systems-Intern---Student-Placement-Year_JR-119746"
+  },
+  {
+    "id": "sj:274daa15-b592-485a-8d98-cc56d12ebdca",
+    "company": "Toyota",
+    "title": "Data Science Intern",
+    "location": "Plano, TX (Other)",
+    "url": "https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/XMLNAME-2027-TFS-Data-Science-Internship_10338545-1"
+  },
+  {
+    "id": "sj:66380619-8481-4fe4-947a-26176558c345",
+    "company": "NVIDIA",
+    "title": "Systems Software Intern - Aerial PHY",
+    "location": "Santa Clara, CA (Other)",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Intern--Aerial-PHY--Summer-2027_JR2026530"
   },
   {
     "id": "sj:eb3a5bc3-2fb4-4151-93b2-ebee300ad678",
@@ -3477,26 +3498,5 @@
     "title": "Data Science Intern - Summer 2027 - Program",
     "location": "Remote in USA (Other)",
     "url": "https://job-boards.greenhouse.io/datacor/jobs/5242412007"
-  },
-  {
-    "id": "sj:4c0ecb7d-5370-4670-b348-d2eb4e6be3f6",
-    "company": "Intuit",
-    "title": "Business Data Analyst Intern - Strategy & Planning",
-    "location": "Mountain View, CA (Other)",
-    "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-business-data-analyst-intern-strategy-and-planning/27595/101410847360"
-  },
-  {
-    "id": "sj:76dae718-6697-41ec-be26-00f9edfba73e",
-    "company": "Bedrock Robotics",
-    "title": "Product Intern",
-    "location": "SF (Other)",
-    "url": "https://jobs.ashbyhq.com/bedrock-robotics/e199e72a-0361-40dc-8fd3-e02e534af85a/application?embed=true"
-  },
-  {
-    "id": "sj:aeb26266-97f2-4d2b-a7fb-03d7d6fbfa38",
-    "company": "BNY",
-    "title": "Product Management Intern - Program Management",
-    "location": "Pittsburgh, PA (Other)",
-    "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82782"
   }
 ]
