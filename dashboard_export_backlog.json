@@ -1,5 +1,26 @@
 [
   {
+    "id": "sj:4c0ecb7d-5370-4670-b348-d2eb4e6be3f6",
+    "company": "Intuit",
+    "title": "Business Data Analyst Intern - Strategy & Planning",
+    "location": "Mountain View, CA (Other)",
+    "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-business-data-analyst-intern-strategy-and-planning/27595/101410847360"
+  },
+  {
+    "id": "sj:76dae718-6697-41ec-be26-00f9edfba73e",
+    "company": "Bedrock Robotics",
+    "title": "Product Intern",
+    "location": "SF (Other)",
+    "url": "https://jobs.ashbyhq.com/bedrock-robotics/e199e72a-0361-40dc-8fd3-e02e534af85a/application?embed=true"
+  },
+  {
+    "id": "sj:aeb26266-97f2-4d2b-a7fb-03d7d6fbfa38",
+    "company": "BNY",
+    "title": "Product Management Intern - Program Management",
+    "location": "Pittsburgh, PA (Other)",
+    "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82782"
+  },
+  {
     "id": "sj:17a2ed7c-005e-47c8-b2d5-36ad1d13675c",
     "company": "BNY",
     "title": "Product Management Intern",
@@ -5523,6 +5544,13 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Remote/System-Software-Engineering-Intern--GPU---2027_JR2025334"
   },
   {
+    "id": "sj:3e95934a-d25a-49d5-af4b-1a2eeb4b3eef",
+    "company": "Robert Bosch Venture Capital",
+    "title": "Calibration Process Optimization Intern",
+    "location": "Farmington Hills, MI (Other)",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000156585075"
+  },
+  {
     "id": "sj:5635b14b-45dd-4bb0-925f-0231622eb338",
     "company": "LinkedIn",
     "title": "Software Engineer Intern",
@@ -5710,6 +5738,13 @@
     "title": "Software Engineer Intern",
     "location": "Santa Clara, CA (Other)",
     "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2027-Summer-Intern--Software-Engineer--Bachelors-Degree--Santa-Clara-_R2630672"
+  },
+  {
+    "id": "sj:12d5d73d-0f5a-459e-aede-1f15093ed6ed",
+    "company": "NVIDIA",
+    "title": "Applied Research Intern - Integrated Sensing and Communications",
+    "location": "Santa Clara, CA (Other)",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Research-Intern--Integrated-Sensing-and-Communications--ISAC--NVIDIA-Aerial---Summer-2027_JR2028027"
   },
   {
     "id": "sj:9c3549d6-12b9-488c-9b34-de7b9deb3d97",
@@ -6963,40 +6998,5 @@
     "title": "Robotics Software Intern Co-op",
     "location": "Houston, TX (Other)",
     "url": "https://job-boards.greenhouse.io/ruggedrobotics/jobs/4730908005"
-  },
-  {
-    "id": "sj:66fcf084-7f7c-43ed-8947-83179031963c",
-    "company": "DoorDash",
-    "title": "Software Engineer Intern",
-    "location": "SF; Sunnyvale, CA (Other)",
-    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8263774"
-  },
-  {
-    "id": "sj:5b324f86-93db-4206-a6be-2406d36267e0",
-    "company": "TikTok",
-    "title": "Machine Learning Engineer Intern - Monetization Technology - Ads Core Global",
-    "location": "San Jose, CA (Other)",
-    "url": "https://lifeattiktok.com/search/7687630614472149301"
-  },
-  {
-    "id": "sj:f5c083c4-8c51-47e5-b0b9-9e74ab87ed5f",
-    "company": "TikTok",
-    "title": "Machine Learning Engineer Intern",
-    "location": "San Jose, CA (Other)",
-    "url": "https://lifeattiktok.com/search/7694045967754889477"
-  },
-  {
-    "id": "sj:c86990e8-5906-48ea-8deb-30f4e1e7d069",
-    "company": "TikTok",
-    "title": "Machine Learning Engineer Intern",
-    "location": "San Jose, CA (Other)",
-    "url": "https://lifeattiktok.com/search/7694045969156426037"
-  },
-  {
-    "id": "sj:168a65f0-560f-4f1d-bdb8-105eaa141d0f",
-    "company": "TikTok",
-    "title": "Machine Learning Engineer Intern",
-    "location": "San Jose, CA (Other)",
-    "url": "https://lifeattiktok.com/search/7694044547207268661"
   }
 ]
