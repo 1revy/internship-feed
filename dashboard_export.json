@@ -2282,11 +2282,39 @@
     "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002"
   },
   {
+    "id": "sj:a0a234ba-306d-4be2-b894-fa0f79172c2c",
+    "company": "DP World",
+    "title": "Application Analyst Intern",
+    "location": "Itasca, IL (Other)",
+    "url": "https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27400"
+  },
+  {
     "id": "sj:c57abcec-5e89-47ba-b6c2-a19d6a94917b",
     "company": "Shield AI",
     "title": "Data Science Intern",
     "location": "San Diego, CA (Other)",
     "url": "https://jobs.lever.co/shieldai/aa71c28a-be00-43ca-8aa7-b764b2143797/apply"
+  },
+  {
+    "id": "sj:5be6e9be-acd4-4423-808a-2a2d038375e4",
+    "company": "Uline",
+    "title": "Operations Analyst Intern",
+    "location": "Pleasant Prairie, WI (Other)",
+    "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Operations-Analyst-Internship---Summer-2027_R268435"
+  },
+  {
+    "id": "sj:10eb3ac4-0a87-4e8b-ba4d-5cc363d3d846",
+    "company": "Uline",
+    "title": "Executive Operations Analyst Intern",
+    "location": "Pleasant Prairie, WI (Other)",
+    "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Executive-Operations-Analyst-Internship---Summer-2027_R268434"
+  },
+  {
+    "id": "sj:ccf5d6fe-14b2-403d-b0e8-2dd576f64329",
+    "company": "Roche",
+    "title": "Computer Science Industrial Placement Student Intern - Data Capability",
+    "location": "Welwyn, UK (Other)",
+    "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Welwyn/Industrial-Placement-Student-CS-CoE-DDC-Data-Capability_202610-124915"
   },
   {
     "id": "sj:352ca30a-f20a-448d-8092-68c1f8720f68",
@@ -3470,33 +3498,5 @@
     "title": "College to Corporate Investment Systems Intern",
     "location": "Malvern, PA (Other)",
     "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship-Investment-Systems--PA-_182782"
-  },
-  {
-    "id": "sj:92c455d6-d3f6-4d95-b523-eeca0104e5a8",
-    "company": "HNTB",
-    "title": "AI Business Process Developer Intern",
-    "location": "Austin, TX (Other)",
-    "url": "https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Austin-TX/Intern---AI-Business-Process-Developer--Summer-2027-_R-31865"
-  },
-  {
-    "id": "sj:7510db54-c95e-441b-b7e1-b239a1119742",
-    "company": "HNTB",
-    "title": "AI Business Process Developer Intern",
-    "location": "Austin, TX (Other)",
-    "url": "https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Austin-TX/Intern---AI-Business-Process-Developer--Summer-2027-_R-31865-1"
-  },
-  {
-    "id": "sj:f2bb0ff1-d4c7-4c79-9e2a-bcb920182f37",
-    "company": "Associated Bank",
-    "title": "Corporate Intern - Product Development",
-    "location": "Milwaukee, WI (Other)",
-    "url": "https://associatedbank.wd1.myworkdayjobs.com/en-US/external_careers/job/Milwaukee-111-Kilbourn/XMLNAME-2027-Corporate-Intern---Product-Development_JR106518"
-  },
-  {
-    "id": "sj:8d2d1d5d-4101-4154-8430-c9b1201db685",
-    "company": "Datacor",
-    "title": "Data Science Intern - Summer 2027 - Program",
-    "location": "Remote in USA (Other)",
-    "url": "https://job-boards.greenhouse.io/datacor/jobs/5242412007"
   }
 ]
