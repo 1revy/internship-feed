@@ -1,5 +1,33 @@
 [
   {
+    "id": "sj:92c455d6-d3f6-4d95-b523-eeca0104e5a8",
+    "company": "HNTB",
+    "title": "AI Business Process Developer Intern",
+    "location": "Austin, TX (Other)",
+    "url": "https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Austin-TX/Intern---AI-Business-Process-Developer--Summer-2027-_R-31865"
+  },
+  {
+    "id": "sj:7510db54-c95e-441b-b7e1-b239a1119742",
+    "company": "HNTB",
+    "title": "AI Business Process Developer Intern",
+    "location": "Austin, TX (Other)",
+    "url": "https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Austin-TX/Intern---AI-Business-Process-Developer--Summer-2027-_R-31865-1"
+  },
+  {
+    "id": "sj:f2bb0ff1-d4c7-4c79-9e2a-bcb920182f37",
+    "company": "Associated Bank",
+    "title": "Corporate Intern - Product Development",
+    "location": "Milwaukee, WI (Other)",
+    "url": "https://associatedbank.wd1.myworkdayjobs.com/en-US/external_careers/job/Milwaukee-111-Kilbourn/XMLNAME-2027-Corporate-Intern---Product-Development_JR106518"
+  },
+  {
+    "id": "sj:8d2d1d5d-4101-4154-8430-c9b1201db685",
+    "company": "Datacor",
+    "title": "Data Science Intern - Summer 2027 - Program",
+    "location": "Remote in USA (Other)",
+    "url": "https://job-boards.greenhouse.io/datacor/jobs/5242412007"
+  },
+  {
     "id": "sj:4c0ecb7d-5370-4670-b348-d2eb4e6be3f6",
     "company": "Intuit",
     "title": "Business Data Analyst Intern - Strategy & Planning",
@@ -5558,6 +5586,20 @@
     "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000156616169"
   },
   {
+    "id": "sj:fa9f1de2-6097-4e3f-9d78-36635f2d80de",
+    "company": "Northrop Grumman",
+    "title": "Software Engineer Intern",
+    "location": "Roy, UT (Other)",
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10257053"
+  },
+  {
+    "id": "sj:09d77bd3-845b-4ffb-bc37-c77d9ed70dd6",
+    "company": "RTX",
+    "title": "Software Engineer Intern",
+    "location": "Tewksbury, MA (Other)",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-Intern--Summer-2027-_01880127"
+  },
+  {
     "id": "sj:f53a894a-ab47-4376-99ff-d2e440e9c33d",
     "company": "DriveWealth",
     "title": "AI Consulting Associate Program Brokerage Intern",
@@ -6956,47 +6998,5 @@
     "title": "Software Application Development Engineer Intern",
     "location": "Pleasanton, CA (Other)",
     "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Software-Application-Development-Engineer-Intern_JR-0110811"
-  },
-  {
-    "id": "sj:2ab54297-543e-4470-b71e-2e95b53cd687",
-    "company": "Workday",
-    "title": "Software Engineer Intern",
-    "location": "Pleasanton, CA (Other)",
-    "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Software-Development-Engineer-Intern_JR-0110810"
-  },
-  {
-    "id": "sj:8f6341ff-47e2-4a91-8d5d-fca1f79014c0",
-    "company": "RTX",
-    "title": "Software Engineer Intern",
-    "location": "Melbourne, FL (Other)",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-312--795-W-Nasa-Blvd--BLDG-312/Software-Engineering-Intern--Summer-2027-_01876918"
-  },
-  {
-    "id": "sj:a88c4837-dfcb-4510-8be0-2b25c43d5754",
-    "company": "Waymo",
-    "title": "Summer Intern - Machine Learning - Planning/Prediction",
-    "location": "Mountain View, CA (Other)",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=8262154"
-  },
-  {
-    "id": "sj:5c53841c-7751-499e-a270-dec2580e62e6",
-    "company": "Peraton",
-    "title": "Software Development Intern",
-    "location": "Topeka, KS (Other)",
-    "url": "https://careers-peraton.icims.com/jobs/172061/job?mobile=true&needsRedirect=false"
-  },
-  {
-    "id": "sj:b058e4f4-66d1-4259-8983-1c888392410d",
-    "company": "Viget",
-    "title": "Software Developer Intern",
-    "location": "Boulder, CO (Other)",
-    "url": "https://jobs.lever.co/viget/b18cc87d-fca2-485a-a0f2-ad6197db63f2/apply"
-  },
-  {
-    "id": "sj:06c059c8-97ea-4a18-89f3-647a18372e06",
-    "company": "Rugged Robotics",
-    "title": "Robotics Software Intern Co-op",
-    "location": "Houston, TX (Other)",
-    "url": "https://job-boards.greenhouse.io/ruggedrobotics/jobs/4730908005"
   }
 ]
