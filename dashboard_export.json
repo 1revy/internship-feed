@@ -1960,6 +1960,34 @@
     "url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/London-UK/Data-Science-Machine-Learning-Internship--Summer-2027-_R1345"
   },
   {
+    "id": "sj:f305d367-0d5d-405d-a623-f7302ab77134",
+    "company": "Expedia Group",
+    "title": "Software Development Engineer Intern",
+    "location": "London, UK (London / Paris)",
+    "url": "https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Software-Development-Engineering-Intern---2027---London_R-110551"
+  },
+  {
+    "id": "sj:e477b869-0cb5-4ce8-8992-2d8545e4e8ca",
+    "company": "Expedia Group",
+    "title": "Applied Science Intern",
+    "location": "London, UK (London / Paris)",
+    "url": "https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Applied-Science-Intern---Masters---2027---London_R-110540-1"
+  },
+  {
+    "id": "sj:bb064a3e-3eb4-49ec-b895-81cb6394e69f",
+    "company": "Expedia Group",
+    "title": "Mobile Engineer Intern",
+    "location": "London, UK (London / Paris)",
+    "url": "https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Mobile-Engineering-Intern---2027---London_R-110545-1"
+  },
+  {
+    "id": "sj:a99e2f5f-e8a1-4b4f-9c09-643e09df2f89",
+    "company": "Expedia Group",
+    "title": "Machine Learning Science Intern",
+    "location": "London, UK (London / Paris)",
+    "url": "https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Applied-Science-Intern---PhD---2027---London_R-110737"
+  },
+  {
     "id": "sj:1a7232dc-f554-4d51-a14c-0119b05d8672",
     "company": "Rothesay",
     "title": "Software Engineer Intern",
@@ -2282,6 +2310,20 @@
     "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002"
   },
   {
+    "id": "sj:e7350a2d-fa26-4da5-908e-82eb0a7a4b34",
+    "company": "Aon",
+    "title": "IT / AI Engineer Intern",
+    "location": "Chicago, IL (Other)",
+    "url": "https://jobs.aon.com/jobs/110099?icims=1"
+  },
+  {
+    "id": "sj:9b0a00f8-306d-4f85-be43-6b438422bb5c",
+    "company": "Anduril",
+    "title": "Business Operations Engineer Intern",
+    "location": "Ashville, OH; Costa Mesa, CA (Other)",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5271672007"
+  },
+  {
     "id": "sj:a0a234ba-306d-4be2-b894-fa0f79172c2c",
     "company": "DP World",
     "title": "Application Analyst Intern",
@@ -2315,6 +2357,48 @@
     "title": "Computer Science Industrial Placement Student Intern - Data Capability",
     "location": "Welwyn, UK (Other)",
     "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Welwyn/Industrial-Placement-Student-CS-CoE-DDC-Data-Capability_202610-124915"
+  },
+  {
+    "id": "sj:22e0e398-2efa-4443-a503-6e3431e6d5a4",
+    "company": "American Family Insurance Group",
+    "title": "Data Engineer Intern",
+    "location": "Madison, WI (Other)",
+    "url": "https://amfam.wd1.myworkdayjobs.com/en-US/Careers/job/WI-Madison/Summer-2027-Intern---Data-Engineer_R39675"
+  },
+  {
+    "id": "sj:fd5b6e26-96b5-44b4-b0d5-ce1973787fdb",
+    "company": "Zebra Technologies",
+    "title": "Business Analyst Intern",
+    "location": "Lincolnshire, IL (Other)",
+    "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Business-Analyst_JR103646"
+  },
+  {
+    "id": "sj:a1713031-4b7f-4d1b-969c-fbfcee4f1a57",
+    "company": "KeyBank",
+    "title": "Marketing Analytics Intern",
+    "location": "Brooklyn, OH (Other)",
+    "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/XMLNAME-2027-Summer-Marketing-Analytics-Internship---Cleveland_R-42822"
+  },
+  {
+    "id": "sj:5e2455ca-73c8-4bfd-9d70-6b4448df0653",
+    "company": "Allstate",
+    "title": "Product Management Advertising Intern",
+    "location": "Illinois (Other)",
+    "url": "https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---IL-Remote/Arity---Product-Management-Advertising-Intern_R36280"
+  },
+  {
+    "id": "sj:1fd1fefe-0577-40e1-9bdc-01d1a1bbf326",
+    "company": "GlobalFoundries",
+    "title": "Systems/Process Engineering Intern - Tapeout Operations",
+    "location": "Malta, NY (Other)",
+    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Systems-Process-Engineering--Tapeout-Operations-Summer-2027-_JR-2604924"
+  },
+  {
+    "id": "sj:2b618d42-4ed5-4c28-afba-944f17ce61fd",
+    "company": "Athene",
+    "title": "Operations Reporting & Analytics Intern",
+    "location": "West Des Moines, IA (Other)",
+    "url": "https://athene.wd5.myworkdayjobs.com/athene_careers/job/West-Des-Moines-Iowa/Operations-Reporting---Analytics-Intern_R255268"
   },
   {
     "id": "sj:352ca30a-f20a-448d-8092-68c1f8720f68",
@@ -3414,89 +3498,5 @@
     "title": "AI Product Manager Intern - Summer 2027",
     "location": "Redwood City, CA (Other)",
     "url": "https://c3.ai/job-description/8860563002?gh_jid=8860563002"
-  },
-  {
-    "id": "sj:ed5bc2d4-26fb-44d6-82bd-7e1ff254739e",
-    "company": "Gas South",
-    "title": "Analyst Intern",
-    "location": "Atlanta, GA (Other)",
-    "url": "https://job-boards.greenhouse.io/gassouth/jobs/8247586"
-  },
-  {
-    "id": "sj:665e2669-0a2a-4e07-9859-73f9f3e9b83d",
-    "company": "Vanguard",
-    "title": "College to Corporate IT Intern - Application Development",
-    "location": "Malvern, PA (Other)",
-    "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship-Application-Development--PA-_182757"
-  },
-  {
-    "id": "sj:9bb48f7f-80ad-4eca-8055-cc250ab3295f",
-    "company": "Regeneron Pharmaceuticals",
-    "title": "Data Science & Digital Innovation Co-op - Preclinical Manufacturing & Research IT",
-    "location": "Tarrytown, NY (Other)",
-    "url": "https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/TARRYTOWN/XMLNAME-2027-Co-op-Data-Science---Digital-Innovation--Preclinical-Manufacturing---Research-IT-_R51031-1"
-  },
-  {
-    "id": "sj:bde46e9c-18de-4bfe-a880-12c5a4719dbb",
-    "company": "MFS",
-    "title": "Enterprise Data Management Intern",
-    "location": "Boston, MA (Other)",
-    "url": "https://mfs.wd1.myworkdayjobs.com/en-US/MFS-Careers/job/Boston/Summer-2027-Enterprise-Data-Management-Intern--June---August-_MFS-231987"
-  },
-  {
-    "id": "sj:1c799f05-b926-4be3-ae23-debd91b8eabf",
-    "company": "Regeneron Pharmaceuticals",
-    "title": "Precision Medicine Operations Co-op",
-    "location": "Armonk, NY (Other)",
-    "url": "https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/Armonk/XMLNAME-2027-Co-op-Precision-Medicine-Operations_R51082-1"
-  },
-  {
-    "id": "sj:aa464423-74c1-4bd6-b3e6-11da3d3102de",
-    "company": "Centene",
-    "title": "Medical Economics Analyst Intern",
-    "location": "Florida (Other)",
-    "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-FL/Medical-Economics-Analyst-Intern--Undergraduate---Summer-2027-_1662248-1"
-  },
-  {
-    "id": "sj:bee2e809-5a33-41d9-8c9b-0dc0c44f7100",
-    "company": "Trimble",
-    "title": "Product Management Intern",
-    "location": "Westminster, CO (Other)",
-    "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Product-Management-Intern_R57893"
-  },
-  {
-    "id": "sj:1379e1b7-e282-4180-bee2-043f56139dd9",
-    "company": "Elevance Health",
-    "title": "Data Analyst Graduate Intern",
-    "location": "Indianapolis, IN; Richmond, VA; Chicago, IL; Atlanta, GA (Other)",
-    "url": "https://elevancehealth.wd1.myworkdayjobs.com/ELV-ET/job/GA-ATLANTA-740-W-PEACHTREE-ST-NW/Data-Analyst-Graduate-Intern---Summer-2027_JR209074-1"
-  },
-  {
-    "id": "sj:70f39f27-a2cd-424b-876f-4837ee7061e4",
-    "company": "Elevance Health",
-    "title": "Data Analytics Intern",
-    "location": "Indianapolis, IN; Richmond, VA; Chicago, IL; Atlanta, GA (Other)",
-    "url": "https://elevancehealth.wd1.myworkdayjobs.com/ELV-ET/job/GA-ATLANTA-740-W-PEACHTREE-ST-NW/Data-Analytics-Undergraduate-Intern---Summer-2027_JR209076"
-  },
-  {
-    "id": "sj:fb114fa5-9998-4bf6-a24b-a36888f142a8",
-    "company": "Vanguard",
-    "title": "IT Intern Application Development",
-    "location": "Charlotte, NC (Other)",
-    "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship-Application-Development--NC-_182781"
-  },
-  {
-    "id": "sj:b761fed7-c990-47a1-884c-8d67dabdcc04",
-    "company": "Nelnet",
-    "title": "IT Software Engineer Intern",
-    "location": "Lincoln, NE (Other)",
-    "url": "https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern---IT-Software-Engineer-NET--Summer-2027-_R23198"
-  },
-  {
-    "id": "sj:7221b5ee-e8cc-4524-8eaa-271123e68f19",
-    "company": "Vanguard",
-    "title": "College to Corporate Investment Systems Intern",
-    "location": "Malvern, PA (Other)",
-    "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship-Investment-Systems--PA-_182782"
   }
 ]
