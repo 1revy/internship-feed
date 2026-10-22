@@ -1,5 +1,12 @@
 [
   {
+    "id": "sj:af2c6dba-8d51-48ed-84a8-04702a77d384",
+    "company": "Intuit",
+    "title": "Marketing Intern - AI Tooling for Marketing Efficiency",
+    "location": "SF; Mountain View, CA (Other)",
+    "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-marketing-intern-ai-tooling-for-marketing-efficiency/27595/101444103552"
+  },
+  {
     "id": "sj:5446e738-df78-4160-98ab-eb05d3f23d8f",
     "company": "C3.ai",
     "title": "AI Product Manager Intern - Summer 2027",
@@ -3556,6 +3563,13 @@
     "url": "https://careers.amd.com/jobs/90411?icims=1"
   },
   {
+    "id": "sj:de308300-adab-4771-916f-fb126c60ad40",
+    "company": "Textron",
+    "title": "Autonomy Engineer Intern - Air Systems",
+    "location": "Hunt Valley, Cockeysville, MD (Other)",
+    "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342925"
+  },
+  {
     "id": "sj:974d081a-6d17-4aab-a42a-e9b35cafde7d",
     "company": "Textron",
     "title": "Software Engineer Intern - Electronic Systems",
@@ -5677,6 +5691,13 @@
     "url": "https://qualcomm.eightfold.ai/careers/job/446721664194"
   },
   {
+    "id": "sj:e41fbb04-5d3a-4afb-bf00-859f48e0a2aa",
+    "company": "Uline",
+    "title": "Software Developer Intern",
+    "location": "Waukegan, IL; Milwaukee, WI; Glenview, IL; Pleasant Prairie, WI; Kenosha, WI (Other)",
+    "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Software-Development-Internship---Summer-2027_R268537"
+  },
+  {
     "id": "sj:f98a73fd-4f03-43a7-9253-2a17b5fdee3d",
     "company": "Verisk",
     "title": "Software Engineer Intern",
@@ -6977,26 +6998,5 @@
     "title": "Differentiable Simulation Research Intern",
     "location": "Santa Clara, CA (Other)",
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Differentiable-Simulation-Research-Intern---Summer-2027_JR2027561"
-  },
-  {
-    "id": "sj:03a462fa-9718-48c0-a23a-12c1003d5c8d",
-    "company": "Expedia Group",
-    "title": "Mobile Engineer Intern",
-    "location": "Seattle, WA; Austin, TX; San Jose, CA (Other)",
-    "url": "https://expedia.wd108.myworkdayjobs.com/search/job/Austin-Domain-11---HomeAway/Mobile-Engineering-Intern---2027---Austin--San-Jose--Seattle_R-110306-1"
-  },
-  {
-    "id": "sj:811e791b-0d29-4d96-91a5-b3046f372674",
-    "company": "Expedia Group",
-    "title": "Software Development Engineer Intern",
-    "location": "Seattle, WA; Austin, TX; San Jose, CA (Other)",
-    "url": "https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Software-Development-Engineering-Intern---2027---Austin--San-Jose--Seattle_R-110311-1"
-  },
-  {
-    "id": "sj:0ad43f00-594b-4b01-876b-4b6f89a23b2e",
-    "company": "Realty Income",
-    "title": "Technology Intern",
-    "location": "San Diego, CA (Other)",
-    "url": "https://realtyincome.wd108.myworkdayjobs.com/realty_income_careers/job/San-Diego-California/Technology-Intern---Multiple-Opportunities_R-100339"
   }
 ]
