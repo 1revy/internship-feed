@@ -1764,6 +1764,13 @@
     "url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383231008"
   },
   {
+    "id": "sj:2374fd2a-48e1-49bd-b761-a8ff1bc13220",
+    "company": "LexisNexis Risk Solutions",
+    "title": "Data Science & Fraud Analytics Placement Intern",
+    "location": "London, UK (London / Paris)",
+    "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/London-Wall/Intern_R119888"
+  },
+  {
     "id": "sj:4f038232-125e-40c1-aa88-2701ec7c0353",
     "company": "Wise",
     "title": "Data Science Intern",
@@ -3491,12 +3498,5 @@
     "title": "Operations Engineering Intern",
     "location": "Boulder, CO (Other)",
     "url": "https://apply.workable.com/scout-clean-energy/j/7BF0CEDF9F/apply"
-  },
-  {
-    "id": "sj:af2c6dba-8d51-48ed-84a8-04702a77d384",
-    "company": "Intuit",
-    "title": "Marketing Intern - AI Tooling for Marketing Efficiency",
-    "location": "SF; Mountain View, CA (Other)",
-    "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-marketing-intern-ai-tooling-for-marketing-efficiency/27595/101444103552"
   }
 ]
