@@ -1,5 +1,12 @@
 [
   {
+    "id": "sj:258b1734-67f6-4bc5-8017-6bd816a41b1e",
+    "company": "Scout Clean Energy",
+    "title": "Operations Engineering Intern",
+    "location": "Boulder, CO (Other)",
+    "url": "https://apply.workable.com/scout-clean-energy/j/7BF0CEDF9F/apply"
+  },
+  {
     "id": "sj:af2c6dba-8d51-48ed-84a8-04702a77d384",
     "company": "Intuit",
     "title": "Marketing Intern - AI Tooling for Marketing Efficiency",
@@ -5677,6 +5684,13 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Remote/System-Software-Engineering-Intern--GPU---2027_JR2025334"
   },
   {
+    "id": "sj:0feda082-a3a6-4e55-8793-5ef9cafd6978",
+    "company": "EQT Corporation",
+    "title": "Midstream Services Intern",
+    "location": "Canonsburg, PA (Other)",
+    "url": "https://job-boards.greenhouse.io/eqtcorporation/jobs/5459572008"
+  },
+  {
     "id": "sj:fd1af9f8-2356-4f0f-b005-ab9f523e4e24",
     "company": "Crusoe",
     "title": "Software Engineer Intern",
@@ -5696,6 +5710,20 @@
     "title": "Software Developer Intern",
     "location": "Waukegan, IL; Milwaukee, WI; Glenview, IL; Pleasant Prairie, WI; Kenosha, WI (Other)",
     "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Software-Development-Internship---Summer-2027_R268537"
+  },
+  {
+    "id": "sj:0941608b-2e61-4739-9eea-6dcd5212bdf4",
+    "company": "Procter & Gamble",
+    "title": "Research & Development Intern",
+    "location": "Reading, UK (Other)",
+    "url": "https://pg.wd5.myworkdayjobs.com/1000/job/READING-TECH-CENTER/Research---Development-Summer-Internship-2027_R000161362"
+  },
+  {
+    "id": "sj:ce026bae-c60a-419e-8307-847eafa898fd",
+    "company": "RTX",
+    "title": "Software Engineer Intern",
+    "location": "Aurora, CO (Other)",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S77--16470-E-Hughes-Dr--BLDG-S77/Software-Engineering--Intern--Summer-2027-_01881520"
   },
   {
     "id": "sj:f98a73fd-4f03-43a7-9253-2a17b5fdee3d",
@@ -6970,33 +6998,5 @@
     "title": "Software Engineering Intern",
     "location": "Madison, WI; Boston, MA (Other)",
     "url": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/MA-Boston/Summer-2027-Intern---Software-Engineering--Hybrid-_R39662"
-  },
-  {
-    "id": "sj:27c7b2da-9496-41b2-9789-0dbc38114638",
-    "company": "General Dynamics Information Technology",
-    "title": "Defense Agencies Intern - AI/ML",
-    "location": "Falls Church, VA (Other)",
-    "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/XMLNAME-2027-Summer-Intern---Defense-Angencies--AI-ML-_RQ230275"
-  },
-  {
-    "id": "sj:9ba04a62-bce1-4e8e-9029-48979b8e443a",
-    "company": "RTX",
-    "title": "Software Engineer Intern",
-    "location": "Aurora, CO (Other)",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CO-AURORA-S77--16470-E-Hughes-Dr--BLDG-S77/Software-Engineering-Intern--Summer-2027-_01881524"
-  },
-  {
-    "id": "sj:bce02604-8033-424f-83ad-bc2253ce0840",
-    "company": "American Family Insurance Group",
-    "title": "Application Development Intern - Application Development",
-    "location": "Madison, WI; Boston, MA (Other)",
-    "url": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Intern---Application-Development--Hybrid-_R39458"
-  },
-  {
-    "id": "sj:1094515c-ca9a-4ee1-8d5e-33f55799ef37",
-    "company": "NVIDIA",
-    "title": "Differentiable Simulation Research Intern",
-    "location": "Santa Clara, CA (Other)",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Differentiable-Simulation-Research-Intern---Summer-2027_JR2027561"
   }
 ]
