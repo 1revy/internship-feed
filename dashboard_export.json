@@ -707,6 +707,34 @@
     "url": "https://www.alixpartners.com/careers/7725335003?gh_jid=7725335003"
   },
   {
+    "id": "sj:1f204319-dfd9-4b7a-b098-c48f8a6c1435",
+    "company": "Amazon",
+    "title": "Applied Scientist Intern - Reinforcement Learning & Optimization - Machine Learning",
+    "location": "Palo Alto, CA; Boston, MA; Seattle, WA; Santa Clara, CA; Arlington County, Arlington, VA; NYC; Bellevue, WA; San Diego, CA (New York)",
+    "url": "https://amazon.jobs/en/jobs/10564597/2027-applied-science-internship-reinforcement-learning-optimization-machine-learning-united-states-phd-student-science-recruiting"
+  },
+  {
+    "id": "sj:31aa4212-6234-46f9-beb5-ae44f354acb6",
+    "company": "Amazon",
+    "title": "Applied Science Intern - Natural Language Processing and Speech Technologies",
+    "location": "Cambridge, MA; Boston, MA; Seattle, WA; Santa Clara, CA; NYC; Bellevue, WA; Sunnyvale, CA (New York)",
+    "url": "https://amazon.jobs/en/jobs/10564593/2027-applied-science-internship-natural-language-processing-and-speech-technologies-united-states-phd-student-science-recruiting"
+  },
+  {
+    "id": "sj:58d142d9-2c57-4ca0-8836-120968205a60",
+    "company": "Amazon",
+    "title": "Applied Science Intern - Gen AI & Large Language Models",
+    "location": "Cambridge, MA; Boston, MA; Seattle, WA; Santa Clara, CA; Pittsburgh, PA; NYC; Bellevue, WA; Sunnyvale, CA (New York)",
+    "url": "https://amazon.jobs/en/jobs/10564589/2027-applied-science-internship-gen-ai-large-language-models-united-states-phd-student-science-recruiting"
+  },
+  {
+    "id": "sj:4c1e849b-6ed3-4fc8-a84b-1f9dd177b17a",
+    "company": "Amazon",
+    "title": "Associate Delivery Consultant Intern - AWS Professional Services",
+    "location": "Arlington County, Arlington, VA; NYC (New York)",
+    "url": "https://amazon.jobs/en/jobs/10585774/associate-delivery-consultant-intern-aws-professional-services"
+  },
+  {
     "id": "sj:7f0b6226-d723-4097-a060-879f717c121d",
     "company": "DriveWealth",
     "title": "AI Consulting Associate Program \u2013 AI Engineer Intern",
@@ -1820,6 +1848,13 @@
     "url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383231008"
   },
   {
+    "id": "sj:66e9549c-044f-471c-a61e-d89819f98731",
+    "company": "Amazon",
+    "title": "Business Analyst Intern",
+    "location": "London, UK; Manchester, UK (London / Paris)",
+    "url": "https://amazon.jobs/en/jobs/10565421/business-analyst-intern-3-6-and-12-months-2027"
+  },
+  {
     "id": "sj:2374fd2a-48e1-49bd-b761-a8ff1bc13220",
     "company": "LexisNexis Risk Solutions",
     "title": "Data Science & Fraud Analytics Placement Intern",
@@ -2378,6 +2413,48 @@
     "title": "Software Engineer Intern",
     "location": "London, UK; Chicago, IL (London / Paris)",
     "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002"
+  },
+  {
+    "id": "sj:fedc9268-dfe7-4d88-9700-02a53f0ee30f",
+    "company": "Amazon",
+    "title": "Technical Product Manager Intern",
+    "location": "Seattle, WA; Arlington County, Arlington, VA (Other)",
+    "url": "https://amazon.jobs/en/jobs/10509639/product-manager-technical-pmt-intern-summer-2027"
+  },
+  {
+    "id": "sj:b528e2b6-04c3-46be-bd21-cac3f2e018bb",
+    "company": "Amazon",
+    "title": "Systems Development Engineer Intern",
+    "location": "Bellevue, WA (Other)",
+    "url": "https://amazon.jobs/en/jobs/10573984/systems-development-engineer-intern-us-2027"
+  },
+  {
+    "id": "sj:2b19951c-67c9-4606-b94a-7ad022323200",
+    "company": "Amazon",
+    "title": "Systems Development Engineer Intern",
+    "location": "Vancouver, BC, Canada (Other)",
+    "url": "https://amazon.jobs/en/jobs/10573999/systems-development-engineer-intern-canada-2027"
+  },
+  {
+    "id": "sj:5dcd55ac-c7f2-47c8-9bb8-4b2a6c16a6b9",
+    "company": "Amazon",
+    "title": "Product Manager Intern - ALA",
+    "location": "Seattle, WA (Other)",
+    "url": "https://amazon.jobs/en/jobs/10491935/2027-amazon-leadership-accelerator-ala-product-manager-internship"
+  },
+  {
+    "id": "sj:add9f514-fb6c-43b3-a0cd-dc6ef72fb28f",
+    "company": "DoorDash",
+    "title": "Operations Research Intern",
+    "location": "Sunnyvale, CA (Other)",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8273965"
+  },
+  {
+    "id": "sj:df65c239-9fbb-4b32-a88e-fd7e66234cc4",
+    "company": "Paccar",
+    "title": "Aftersales Data Analyst Intern",
+    "location": "Kirkland, WA (Other)",
+    "url": "https://jobs.paccar.com/job/Kirkland-Summer-2027-AfterSales-Data-Analyst-Intern-WA-98033/1450518033/?ats=successfactors"
   },
   {
     "id": "sj:eb3a32f4-7026-4b65-8a5e-02f0916dd693",
@@ -3421,82 +3498,5 @@
     "title": "Systems Engineer Intern - Summer 2027",
     "location": "Canton, MS (Other)",
     "url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Canton-Mississippi---United-States-of-America/Systems-Engineer-Intern---Summer-2027---Canton--MS_R00214882"
-  },
-  {
-    "id": "sj:dc05717b-8093-4f1c-9c5e-c27c857c585b",
-    "company": "Nissan Global",
-    "title": "Product Planning Intern",
-    "location": "Franklin, TN (Other)",
-    "url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Product-Planning-Intern---Summer-2027---Franklin--TN_R00214297"
-  },
-  {
-    "id": "sj:b10edb5a-e520-4da4-988d-a8a730bef747",
-    "company": "GE Vernova",
-    "title": "SCS Commercial Strategy & Growth Intern",
-    "location": "Longmont, CO (Other)",
-    "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Longmont/SCS-Commercial-Strategy---Growth-Internship-Summer-2027_R5055048-1"
-  },
-  {
-    "id": "sj:ba21fb5b-f6ae-4a75-a5ce-cb99ba4a0b97",
-    "company": "GE Vernova",
-    "title": "SCS Commercial Strategy & Growth Intern",
-    "location": "Longmont, CO (Other)",
-    "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Longmont/SCS-Commercial-Strategy---Growth-Internship-Summer-2027_R5055048-2"
-  },
-  {
-    "id": "sj:e0b3cbee-7fd0-464e-a195-d3e925f3e990",
-    "company": "Electronic Arts",
-    "title": "Product Management Intern",
-    "location": "Austin, TX (Other)",
-    "url": "https://jobs.ea.com/en_US/careers/JobDetail/Product-Management-Intern-Fan-Care-Community-Care-Summer-2027/216182"
-  },
-  {
-    "id": "sj:3e820b10-ba47-4208-bb88-525a7dc5290a",
-    "company": "Cadence Solutions",
-    "title": "Product Management Intern",
-    "location": "Remote in USA (Other)",
-    "url": "https://job-boards.greenhouse.io/solutions/jobs/4715294006"
-  },
-  {
-    "id": "sj:b0deb0f8-293e-4d40-add9-69e719586391",
-    "company": "Liberty Mutual",
-    "title": "Data Science Intern",
-    "location": "Boston, MA (Other)",
-    "url": "https://campus-libertymutual.icims.com/jobs/95486/job?mobile=true&needsRedirect=false"
-  },
-  {
-    "id": "sj:632599d0-d99c-438f-a65e-0d843831bd0e",
-    "company": "Liberty Mutual",
-    "title": "Data Science Co-op",
-    "location": "Boston, MA (Other)",
-    "url": "https://campus-libertymutual.icims.com/jobs/261811/job?mobile=true&needsRedirect=false"
-  },
-  {
-    "id": "sj:c0f389e5-99cf-4fb0-a67e-06d06d9a36b2",
-    "company": "American Family Insurance Group",
-    "title": "Data Analytics Intern",
-    "location": "Madison, WI (Other)",
-    "url": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Intern---Data-Analytics_R39631"
-  },
-  {
-    "id": "sj:04082f6d-c15d-4431-bf6a-5ac5f3fd7dc8",
-    "company": "Procter & Gamble",
-    "title": "IT Technical Specialist Intern",
-    "location": "Newcastle upon Tyne, UK (Other)",
-    "url": "https://pg.wd5.myworkdayjobs.com/1000/job/NEWCASTLE-INNOVATION-CENTRE/IT-Technical-Specialist-Industrial-Placement-2027_R000160302"
-  },
-  {
-    "id": "sj:e9a5e0b0-0a4d-4c94-9bfc-dc97ba351bf8",
-    "company": "Leidos",
-    "title": "Systems Engineer Intern",
-    "location": "Arlington County, Arlington, VA (Other)",
-    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Systems-Engineer-Intern_R-00193940"
-  },
-  {
-    "id": "sj:831d2f37-f07a-4fd6-8668-e7af33c405f0",
-    "company": "Leidos",
-    "title": "Data Science Intern",
-    "location": "Arlington County, Arlington, VA (Other)",
-    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Data-Science-Intern_R-00193937"
   }
 ]
