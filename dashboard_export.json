@@ -1,5 +1,61 @@
 [
   {
+    "id": "sj:f33ee050-5ecd-4a9d-b723-ccdf86839ec1",
+    "company": "Patreon",
+    "title": "Product Manager Intern",
+    "location": "SF; NYC (New York)",
+    "url": "https://jobs.ashbyhq.com/patreon/ace576d6-f480-43b8-a529-549fefb2046d/application?embed=true"
+  },
+  {
+    "id": "sj:3a1df196-4b77-41ff-b9f7-833dfec00ba6",
+    "company": "JP Morgan Chase",
+    "title": "Asset Management Data Scientist \u2013 Summer Associate Intern",
+    "location": "NYC (New York)",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210802931"
+  },
+  {
+    "id": "sj:986abdef-dc72-4aa6-a4da-fbbcadaadc49",
+    "company": "CVS Health",
+    "title": "Innovation & Technology Software Engineering: Data & Intelligence Intern",
+    "location": "NYC (New York)",
+    "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Innovation---Technology-Internship--Software-Engineering--Data---Intelligence-Summer-2027-Graduate_R1081128"
+  },
+  {
+    "id": "sj:e9ffddfd-c901-481b-9318-85bd783fd600",
+    "company": "CVS Health",
+    "title": "Innovation & Technology Internship - Data Science",
+    "location": "NYC (New York)",
+    "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Innovation---Technology-Internship---Data-Science---Summer-2027--Graduate-_R1081038"
+  },
+  {
+    "id": "sj:4ba872b4-8b90-4582-957d-659c7dbefe2f",
+    "company": "CVS Health",
+    "title": "Innovation & Technology Data Engineering Intern",
+    "location": "NYC (New York)",
+    "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Innovation---Technology-Internship---Data-Engineering---Summer-2027--Undergraduate-_R1081090"
+  },
+  {
+    "id": "sj:752e7b9a-ef6d-4bb0-883b-ec5cc4e3207c",
+    "company": "CVS Health",
+    "title": "Innovation & Technology Data Science Intern",
+    "location": "NYC (New York)",
+    "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Innovation---Technology-Internship---Data-Science---Summer-2027--Undergraduate-_R1081067"
+  },
+  {
+    "id": "sj:7334fe9e-b263-4fcb-85ec-640af84c260d",
+    "company": "CVS Health",
+    "title": "Innovation & Technology Internship - Software Engineering: Data & Intelligence",
+    "location": "NYC (New York)",
+    "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Innovation---Technology-Internship--Software-Engineering--Data---Intelligence-Summer-2027-Undergrad_R1081114"
+  },
+  {
+    "id": "sj:1af8cecc-ca3f-4421-8bff-4a3581036019",
+    "company": "CVS Health",
+    "title": "Innovation & Technology Internship - Data Engineering",
+    "location": "NYC (New York)",
+    "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Innovation---Technology-Internship---Data-Engineering---Summer-2027--Graduate-_R1081101"
+  },
+  {
     "id": "sj:ea672c45-89c1-45e5-afb3-0a7061e3ea16",
     "company": "DriveWealth",
     "title": "AI Consulting Associate Program Product Owner Intern",
@@ -2324,11 +2380,81 @@
     "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002"
   },
   {
+    "id": "sj:eb3a32f4-7026-4b65-8a5e-02f0916dd693",
+    "company": "Pattern",
+    "title": "Data Science Intern",
+    "location": "Lehi, UT (Other)",
+    "url": "https://jobs.lever.co/pattern/ad978732-7171-473d-9400-0a6fc9e23cf7/apply"
+  },
+  {
+    "id": "sj:d2f74a87-aaab-4d5c-8b92-ce3716d85f6a",
+    "company": "STR",
+    "title": "Data Analyst Intern",
+    "location": "Arlington County, Arlington, VA; Woburn, MA (Other)",
+    "url": "https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4723980006"
+  },
+  {
     "id": "sj:060c5b3e-72e6-4565-8196-5327e4baf243",
     "company": "Qualcomm",
     "title": "Applied AI Engineering Intern - Hardware Systems",
     "location": "Vancouver, BC, Canada (Other)",
     "url": "https://qualcomm.eightfold.ai/careers/job/446721678733"
+  },
+  {
+    "id": "sj:989d5de4-7861-4fd9-83e3-58b9395fdd59",
+    "company": "Northrop Grumman",
+    "title": "Systems Engineering Intern - AI Experience",
+    "location": "Dulles, VA (Other)",
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Systems-Engineering-Internship--AI-Experience----Dulles-VA_R10257423"
+  },
+  {
+    "id": "sj:adb9b1d3-a6e4-4743-8130-637863eba912",
+    "company": "General Dynamics Information Technology",
+    "title": "Financial Data Analyst Intern",
+    "location": "Falls Church, VA (Other)",
+    "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Financial-Data-Analyst-Intern--Seasonal-_RQ230761"
+  },
+  {
+    "id": "sj:39c401c3-d14a-4997-a485-e8e68788de4f",
+    "company": "ABB",
+    "title": "Sales Excellence Data Analytics Intern",
+    "location": "Cary, NC (Other)",
+    "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/Sales-Excellence-Data-Analytics-Intern---Summer-2027_JR00050987"
+  },
+  {
+    "id": "sj:d74a8f1e-37e1-4db6-b4bc-ed33d69d7ea3",
+    "company": "American Family Insurance Group",
+    "title": "Business Intelligence Enablement Intern",
+    "location": "Madison, WI; Boston, MA (Other)",
+    "url": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Intern---Business-Intelligence-Enablement_R39531"
+  },
+  {
+    "id": "sj:d0db8f05-2c60-4b81-919a-f0aa54b9cb8c",
+    "company": "Allstate",
+    "title": "Data Analytics Engineer Intern",
+    "location": "Illinois (Other)",
+    "url": "https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---IL-Remote/Arity---Data-Analytics-Engineer-Intern_R36286"
+  },
+  {
+    "id": "sj:90978c18-c431-416a-9e39-834cb497bc76",
+    "company": "Allstate",
+    "title": "Data Science Intern - Core Telematics",
+    "location": "Illinois (Other)",
+    "url": "https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---IL-Remote/Arity---Data-Science-Intern--Core-Telematics-_R36285"
+  },
+  {
+    "id": "sj:9147dac1-26c6-4658-9945-d0022e829e9a",
+    "company": "CVS Health",
+    "title": "Medicaid Data Analytics Intern",
+    "location": "Hartford, CT (Other)",
+    "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/Medicaid-Data-Analytics-Corporate-Internship---Summer-2027--Undergraduate-_R1052342"
+  },
+  {
+    "id": "sj:e6f687d4-8b6f-4d74-ac4d-6c6844ea1c93",
+    "company": "CVS Health",
+    "title": "Innovation & Technology Internship - Product & Agile Delivery",
+    "location": "Dallas, TX; Scottsdale, AZ; Hartford, CT; Woonsocket, RI (Other)",
+    "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Hartford-Farmington-Ave-Rogers/Innovation---Technology-Internship---Product---Agile-Delivery---Summer-2027--Undergraduate-_R1080767"
   },
   {
     "id": "sj:e7350a2d-fa26-4da5-908e-82eb0a7a4b34",
@@ -3372,131 +3498,5 @@
     "title": "Data Science Intern",
     "location": "Arlington County, Arlington, VA (Other)",
     "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Data-Science-Intern_R-00193937"
-  },
-  {
-    "id": "sj:2b94f977-4dc4-418e-8e20-7004a6af1a13",
-    "company": "American Family Insurance Group",
-    "title": "Backend Digital Sales Intern",
-    "location": "Boston, MA (Other)",
-    "url": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/MA-Boston/Summer-2027-Intern--Backend-Digital-Sales_R39517"
-  },
-  {
-    "id": "sj:fc5e6607-4ac0-4e9c-9d0d-429cb1076eee",
-    "company": "ABB",
-    "title": "AI Engineering Intern - Business Systems",
-    "location": "Cary, NC (Other)",
-    "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/AI-Engineering--Business-Systems-Intern--Summer-2027_JR00048714"
-  },
-  {
-    "id": "sj:a5225dca-6c4a-48c9-880a-02b636fa5c57",
-    "company": "American Family Insurance Group",
-    "title": "Front End Developer Intern - Digital Sales",
-    "location": "Madison, WI; Boston, MA (Other)",
-    "url": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Intern--Digital-Sales_R39491"
-  },
-  {
-    "id": "sj:814d5fac-0c8f-4eb3-81af-52e7b9509c3a",
-    "company": "AMD",
-    "title": "AI Training Systems and Performance Engineer Intern/Co-op",
-    "location": "San Jose, CA; Santa Clara, CA (Other)",
-    "url": "https://careers.amd.com/jobs/93332?icims=1"
-  },
-  {
-    "id": "sj:44534005-1a4b-4053-b1f5-4569f5b355ce",
-    "company": "Corning",
-    "title": "Engineering Data Analyst Intern",
-    "location": "Keller, TX (Other)",
-    "url": "https://corningjobs.corning.com/job/Keller-Engineering-Data-Analyst-Intern-Summer-2027-TX-76248/1437049900/?ats=successfactors"
-  },
-  {
-    "id": "sj:2d3cd1b8-063f-41a1-a9ba-c834e3114c68",
-    "company": "Atlassian",
-    "title": "Data Engineer Intern",
-    "location": "Seattle, WA (Other)",
-    "url": "https://campus-americas.icims.com/jobs/26272/data-engineer-intern%2c-2027-summer-u.s./job"
-  },
-  {
-    "id": "sj:95c1d1a0-3fe5-4666-a8b9-fd45c3237c63",
-    "company": "Mohawk",
-    "title": "Product Management Intern",
-    "location": "Calhoun, GA (Other)",
-    "url": "https://careers.mohawkind.com/mohawk/job/Calhoun-Product-Management-Intern-Summer-2027-Geor-30701/1436568500/?ats=successfactors"
-  },
-  {
-    "id": "sj:c44ccf4f-7352-4f14-9f9d-43ce7522c340",
-    "company": "Midland States Bank",
-    "title": "AI Solutions Engineer Intern",
-    "location": "Rockford, IL; St. Louis, MO; Effingham, IL (Other)",
-    "url": "https://midlandsb.wd1.myworkdayjobs.com/msbcareers/job/Effingham-IL/Intern---AI-Solutions-Engineer_JR1461"
-  },
-  {
-    "id": "sj:e3aecdd8-6f13-40ba-9cff-b81b59d50ff5",
-    "company": "Midland States Bank",
-    "title": "Associate Solutions Engineer Intern - Data Warehouse",
-    "location": "St. Louis, MO; Effingham, IL (Other)",
-    "url": "https://midlandsb.wd1.myworkdayjobs.com/msbcareers/job/Effingham-IL/Intern---Associate-Solutions-Engineer---Data-Warehouse_JR1462"
-  },
-  {
-    "id": "sj:7e8c009d-2abb-45ee-8903-e8cae0738447",
-    "company": "RTX",
-    "title": "Data Analytics Intern",
-    "location": "Annapolis, MD (Other)",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MD-ANNAPOLIS-904--2551-Riva-Rd--BLDG-904/Data-Analytics---Reporting-Intern--Summer-2027-_01874271"
-  },
-  {
-    "id": "sj:f6643259-6ee2-4b23-a584-8408459ce08c",
-    "company": "American Family Insurance Group",
-    "title": "Data Analyst Intern",
-    "location": "Madison, WI (Other)",
-    "url": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Intern---Data-Analyst_R39615"
-  },
-  {
-    "id": "sj:0173534b-1a00-43bf-8929-2a7c5bfa842d",
-    "company": "LexisNexis Risk Solutions",
-    "title": "Data Science Intern",
-    "location": "Alpharetta, GA (Other)",
-    "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA-Alderman/Data-Science-Intern_R118955"
-  },
-  {
-    "id": "sj:425c8e2d-cf78-47d2-91a0-5aeca4485643",
-    "company": "LexisNexis Risk Solutions",
-    "title": "Data Analyst Intern",
-    "location": "Alpharetta, GA (Other)",
-    "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA-Alderman/Data-Analyst-Intern_R119377"
-  },
-  {
-    "id": "sj:2560720b-1bc8-410a-8f64-e70a2e539173",
-    "company": "Capital One",
-    "title": "Data Scientist Intern",
-    "location": "Toronto, ON, Canada (Other)",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Data-Scientist---Summer-2027_R1002165-1"
-  },
-  {
-    "id": "sj:16856e96-3bd9-4fee-85e4-ed92164905ae",
-    "company": "Primient",
-    "title": "AI Analyst Intern",
-    "location": "Schaumburg, IL (Other)",
-    "url": "https://primient.wd1.myworkdayjobs.com/External_Careers/job/Schaumburg-IL/AI-Analyst-Intern---Summer-2027_JREQ7056"
-  },
-  {
-    "id": "sj:820b14cc-f1d1-4c26-9a48-d04cc309866f",
-    "company": "First Citizens BancShares",
-    "title": "Summer Intern - Sales Performance & Analytics Strategy",
-    "location": "Raleigh, NC (Other)",
-    "url": "https://firstcitizens.jibeapply.com/jobs/35826?icims=1"
-  },
-  {
-    "id": "sj:fdc152bc-2ce6-48c0-86db-6a70bc5a49f3",
-    "company": "Koch Industries",
-    "title": "Product Management Intern",
-    "location": "Eden Prairie, MN; Lisle, IL (Other)",
-    "url": "https://koch.avature.net/en_US/careers/JobDetail/195099"
-  },
-  {
-    "id": "sj:29da992e-43fd-42b0-bd50-1548d9b595b3",
-    "company": "Electronic Arts",
-    "title": "Product Manager Intern",
-    "location": "LA (Other)",
-    "url": "https://jobs.ea.com/en_US/careers/JobDetail/Product-Manager-Intern-MBA-Level-Summer-2027-Apex-Legends/216272"
   }
 ]
