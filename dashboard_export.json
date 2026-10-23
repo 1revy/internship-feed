@@ -238,6 +238,13 @@
     "url": "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301932"
   },
   {
+    "id": "sj:4fb23fe1-4b6f-4ef2-b965-daaf266dddc0",
+    "company": "Tradeweb",
+    "title": "Digital Assets Intern",
+    "location": "NYC (New York)",
+    "url": "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301930"
+  },
+  {
     "id": "sj:0ea4c6d9-c64c-48a4-af5c-f9cb2fbb082e",
     "company": "TikTok",
     "title": "Product Marketing Management Intern - Systems Strategy & Operations",
@@ -721,6 +728,13 @@
     "url": "https://www.alixpartners.com/careers/7725335003?gh_jid=7725335003"
   },
   {
+    "id": "sj:95437628-8de3-4f6f-ba65-44f3b0ed0be8",
+    "company": "MongoDB",
+    "title": "Software Engineer Intern",
+    "location": "Palo Alto, CA; Seattle, WA; SF; Austin, TX; NYC (New York)",
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=8209134"
+  },
+  {
     "id": "sj:1f204319-dfd9-4b7a-b098-c48f8a6c1435",
     "company": "Amazon",
     "title": "Applied Scientist Intern - Reinforcement Learning & Optimization - Machine Learning",
@@ -1055,6 +1069,13 @@
     "title": "Software Engineer Intern - Summer 2027",
     "location": "NYC (New York)",
     "url": "https://www.tower-research.com/open-positions/?gh_jid=8212158"
+  },
+  {
+    "id": "sj:6473fabc-37e2-4458-809a-13a51c7e0772",
+    "company": "Tradeweb",
+    "title": "Emerging Markets Internship",
+    "location": "NYC (New York)",
+    "url": "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301926"
   },
   {
     "id": "sj:e9b7e6e4-f5c7-447c-bd8d-3c9a764d5f44",
@@ -1883,6 +1904,20 @@
     "url": "https://amazon.jobs/en/jobs/10565421/business-analyst-intern-3-6-and-12-months-2027"
   },
   {
+    "id": "sj:e837987f-35e6-4c8c-8573-8a11e41a7817",
+    "company": "Vertex Pharmaceuticals",
+    "title": "International Insights Summer Intern - Analytics and Commercial Operations",
+    "location": "London, UK (London / Paris)",
+    "url": "https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Paddington-United-Kingdom/International-Insights--Analytics-and-Commercial-Operations---Summer-Intern--10-weeks-_REQ-30453-1"
+  },
+  {
+    "id": "sj:4c985bd1-88db-479c-bd83-8b2203fc8cb5",
+    "company": "Vertex Pharmaceuticals",
+    "title": "International Insights Summer Intern - Analytics and Commercial Operations",
+    "location": "London, UK (London / Paris)",
+    "url": "https://vrtx.wd501.myworkdayjobs.com/vertex_intern/job/Paddington-United-Kingdom/International-Insights--Analytics-and-Commercial-Operations---Summer-Intern--10-weeks-_REQ-30453"
+  },
+  {
     "id": "sj:2374fd2a-48e1-49bd-b761-a8ff1bc13220",
     "company": "LexisNexis Risk Solutions",
     "title": "Data Science & Fraud Analytics Placement Intern",
@@ -2338,6 +2373,13 @@
     "url": "https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/London-United-Kingdom/Engineering-Summer-Internship-Programme_R0123389"
   },
   {
+    "id": "sj:574cf650-e6f4-42ae-a309-2bd87b5781da",
+    "company": "LSEG",
+    "title": "Engineering Intern - Multiple Teams",
+    "location": "London, UK (London / Paris)",
+    "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/London-United-Kingdom/Engineering-Summer-Internship-Programme_R0123389-1"
+  },
+  {
     "id": "sj:fa3df2ae-5069-483a-8e2a-bd02d06b7b4f",
     "company": "Tradeweb",
     "title": "Java Developer Intern",
@@ -2443,6 +2485,13 @@
     "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002"
   },
   {
+    "id": "sj:24c85ed7-52f8-44b2-a102-4b74e70f24c9",
+    "company": "PA Consulting",
+    "title": "Industrial Placement Intern - Digital - Digital & Data",
+    "location": "Bristol, UK (Other)",
+    "url": "https://jobs.smartrecruiters.com/PAConsulting/744000157427038"
+  },
+  {
     "id": "sj:fedc9268-dfe7-4d88-9700-02a53f0ee30f",
     "company": "Amazon",
     "title": "Technical Product Manager Intern",
@@ -2483,6 +2532,27 @@
     "title": "Aftersales Data Analyst Intern",
     "location": "Kirkland, WA (Other)",
     "url": "https://jobs.paccar.com/job/Kirkland-Summer-2027-AfterSales-Data-Analyst-Intern-WA-98033/1450518033/?ats=successfactors"
+  },
+  {
+    "id": "sj:d8b9f547-837d-4189-801a-d05610addf86",
+    "company": "GE Vernova",
+    "title": "Product Management Intern",
+    "location": "Markham, ON, Canada (Other)",
+    "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Markham/Intern--Product-Management--Summer-2027-_R5056377-2"
+  },
+  {
+    "id": "sj:649da7dc-7cfd-4077-a34e-20558b15bdfc",
+    "company": "GE Vernova",
+    "title": "Product Management Intern",
+    "location": "Markham, ON, Canada (Other)",
+    "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Markham/Intern--Product-Management--Summer-2027-_R5056377-1"
+  },
+  {
+    "id": "sj:dc4fde37-ff4b-4326-ad59-9a80cfc0019f",
+    "company": "Citi",
+    "title": "Technology Placement Analyst Intern - Application Development",
+    "location": "Belfast, UK (Other)",
+    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Belfast--United-Kingdom/Technology---Application-Development--Placement-Analyst--Belfast-2027_261002927"
   },
   {
     "id": "sj:eb3a32f4-7026-4b65-8a5e-02f0916dd693",
@@ -2560,6 +2630,13 @@
     "title": "Innovation & Technology Internship - Product & Agile Delivery",
     "location": "Dallas, TX; Scottsdale, AZ; Hartford, CT; Woonsocket, RI (Other)",
     "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Hartford-Farmington-Ave-Rogers/Innovation---Technology-Internship---Product---Agile-Delivery---Summer-2027--Undergraduate-_R1080767"
+  },
+  {
+    "id": "sj:28e9b3bb-4e8d-47e3-b752-d6a0e06de51b",
+    "company": "RTX",
+    "title": "Mission Analyst Intern",
+    "location": "McKinney, TX (Other)",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Mission-Analyst-Intern---Summer-2027--Onsite-_01883059"
   },
   {
     "id": "sj:e7350a2d-fa26-4da5-908e-82eb0a7a4b34",
@@ -3421,82 +3498,5 @@
     "title": "Product Management Advisor Intern",
     "location": "San Antonio, TX (Other)",
     "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Product-Management-Advisor-Intern_R0121653"
-  },
-  {
-    "id": "sj:a0ee9167-79ab-4d47-a4a3-de77e881b285",
-    "company": "Nissan Global",
-    "title": "Manufacturing Digital Data Intern",
-    "location": "Decherd, TN (Other)",
-    "url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Decherd-Tennessee---United-States-of-America/Manufacturing-Digital-Data-Intern---Summer-2027---Decherd--TN_R00214881"
-  },
-  {
-    "id": "sj:813721e4-50a0-4bf9-baed-49735d2940d4",
-    "company": "7-Eleven",
-    "title": "Digital Product Manager Intern",
-    "location": "Irving, TX (Other)",
-    "url": "https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/Digital-Product-Manager-Intern_R26_5991"
-  },
-  {
-    "id": "sj:c9744d9d-5ddd-408e-816a-786dbe51e32e",
-    "company": "Manulife Financial",
-    "title": "Product Management & Risk Technology Intern",
-    "location": "Toronto, ON, Canada (Other)",
-    "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---Product-Management---Risk-Technology_JR26080875"
-  },
-  {
-    "id": "sj:8ec5b787-1112-4732-8445-4ebc05410902",
-    "company": "Phillips 66",
-    "title": "Digital & AI Analyst Placement Intern",
-    "location": "South Killingholme, UK (Other)",
-    "url": "https://careers.phillips66.com/job/South-Killingholme-Digital-&-AI-Analyst-Placement/1437746600/?ats=successfactors"
-  },
-  {
-    "id": "sj:96039401-b0c0-4ddf-a059-20346b54ebd6",
-    "company": "Renesas Electronics",
-    "title": "Marketing Analyst Intern",
-    "location": "Tempe, AZ (Other)",
-    "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000154171486"
-  },
-  {
-    "id": "sj:b02141a2-8d29-4f0b-b7a7-280a77592468",
-    "company": "GuideWell Mutual",
-    "title": "IT Graduate Internship - Multiple Teams",
-    "location": "Jacksonville, FL (Other)",
-    "url": "http://fa-etum-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/42182"
-  },
-  {
-    "id": "sj:bb6a3336-da15-4b50-b989-9e84766d0e86",
-    "company": "Meta",
-    "title": "Data Scientist Intern - Product Analytics",
-    "location": "Menlo Park, CA (Other)",
-    "url": "https://www.metacareers.com/jobs/929757023499411"
-  },
-  {
-    "id": "sj:26dd2b73-7f9e-47f3-8c63-9003aec2977e",
-    "company": "Auto-Owners Insurance",
-    "title": "Business Intelligence Engineer Intern",
-    "location": "Lansing, MI (Other)",
-    "url": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Business-Intelligence-Engineering-Intern---Summer-2027_R_14662"
-  },
-  {
-    "id": "sj:bcda5eeb-196c-4f8a-a46a-519f22b3a082",
-    "company": "Mastercard",
-    "title": "Data Engineer Intern",
-    "location": "SF (Other)",
-    "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/San-Francisco-California/Data-Engineering-Intern--Summer-2027---San-Franscisco--CA--US_R-285993"
-  },
-  {
-    "id": "sj:c9c3308f-9420-4e90-8786-127a791a70e2",
-    "company": "Nissan Global",
-    "title": "Connected Car Business Development Intern",
-    "location": "Franklin, TN (Other)",
-    "url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Connected-Car-Business-Development-Intern---Summer-2027---Franklin--TN_R00214270"
-  },
-  {
-    "id": "sj:8938d4f1-3093-43eb-a443-bd11de15a159",
-    "company": "ICF International",
-    "title": "Data Engineer Intern",
-    "location": "Remote in USA; Reston, VA (Other)",
-    "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Data-Engineer--Reston--VA-or-Remote-_R2603380"
   }
 ]
