@@ -1,5 +1,12 @@
 [
   {
+    "id": "sj:02b720b7-6299-4c34-a21d-fd42406e00f5",
+    "company": "Citi",
+    "title": "Technology Summer Analyst Intern - Application Development",
+    "location": "Jersey City, NJ; NYC (New York)",
+    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Jersey-City-New-Jersey-United-States/Technology--Application-Development--Summer-Analyst--New-York-Or-New-Jersey---USA--2027_261004378"
+  },
+  {
     "id": "sj:f33ee050-5ecd-4a9d-b723-ccdf86839ec1",
     "company": "Patreon",
     "title": "Product Manager Intern",
@@ -2485,6 +2492,13 @@
     "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002"
   },
   {
+    "id": "sj:78f2f6fd-9234-4b7c-a26c-189023b24ca7",
+    "company": "Simbe Robotics",
+    "title": "Data Analytics & Data Science Intern",
+    "location": "Burlingame, CA (Other)",
+    "url": "https://jobs.lever.co/SimbeRobotics/96ee45fb-f094-4751-a43d-3e376f32667f/apply"
+  },
+  {
     "id": "sj:24c85ed7-52f8-44b2-a102-4b74e70f24c9",
     "company": "PA Consulting",
     "title": "Industrial Placement Intern - Digital - Digital & Data",
@@ -2553,6 +2567,83 @@
     "title": "Technology Placement Analyst Intern - Application Development",
     "location": "Belfast, UK (Other)",
     "url": "https://citi.wd5.myworkdayjobs.com/2/job/Belfast--United-Kingdom/Technology---Application-Development--Placement-Analyst--Belfast-2027_261002927"
+  },
+  {
+    "id": "sj:ce95d36b-80ba-48cd-9ef5-f35fe743c006",
+    "company": "RSM",
+    "title": "Business Intelligence Consulting Intern",
+    "location": "Toronto, ON, Canada; Calgary, AB, Canada; Edmonton, AB, Canada (Other)",
+    "url": "https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Edmonton/Business-Intelligence-Consulting-Intern---Summer-2027_JR122066-1"
+  },
+  {
+    "id": "sj:f8354710-715a-434c-94fd-5f8220d05b3b",
+    "company": "SOTI",
+    "title": "Associate Product Manager Intern",
+    "location": "Mississauga, ON, Canada (Other)",
+    "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--SOTI-XSight---May-2027---12-Months-_R10614"
+  },
+  {
+    "id": "sj:d4bf695e-6ac3-4841-8cc2-f9e488af4239",
+    "company": "SOTI",
+    "title": "Associate Product Manager Intern",
+    "location": "Mississauga, ON, Canada (Other)",
+    "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--SOTI-Connect---May-2027---12-Months-_R10615"
+  },
+  {
+    "id": "sj:69f01b48-7d56-4df4-946d-c163ffc2eacc",
+    "company": "Auto-Owners Insurance",
+    "title": "Business Intelligence Developer Intern",
+    "location": "Lansing, MI (Other)",
+    "url": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Business-Intelligence-Developer-Internship---Summer-2027_R_14772"
+  },
+  {
+    "id": "sj:fb5e4fde-4410-46d0-b5e9-cb2173cef2e3",
+    "company": "Sun Life",
+    "title": "Data Science Intern",
+    "location": "Milwaukee, WI; Kansas City, MO; Hartford, CT; Portland, ME; Wellesley, MA (Other)",
+    "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Wellesley-Hills-Massachusetts/Data-Science-Intern---Summer-2027-Intern_JR00127666-1"
+  },
+  {
+    "id": "sj:f4efdf50-f493-45be-a118-8178438f8958",
+    "company": "Citi",
+    "title": "Technology Summer Analyst Intern - Application Development",
+    "location": "Tampa, FL (Other)",
+    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Technology--Application-Development--Summer-Analyst--Tampa---USA--2027_261004395"
+  },
+  {
+    "id": "sj:dbf537c0-6832-44db-a0c1-b567faf0971d",
+    "company": "Citi",
+    "title": "Technology Summer Analyst Intern - Application Development",
+    "location": "Irving, TX (Other)",
+    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Technology--Application-Development--Summer-Analyst--Irving---USA--2027_261003288"
+  },
+  {
+    "id": "sj:b2378902-0565-466e-8c16-f3e53b4f62e3",
+    "company": "Citi",
+    "title": "Technology Summer Analyst Intern - Production Support",
+    "location": "Tampa, FL (Other)",
+    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Technology--Production-Support--Summer-Analyst--Tampa---USA--2027_261003298"
+  },
+  {
+    "id": "sj:8668b886-e169-4a45-ae60-da68a6f0eabd",
+    "company": "Citi",
+    "title": "Technology Analyst Intern - Application Development",
+    "location": "Jacksonville, FL (Other)",
+    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Jacksonville-Florida-United-States/Technology--Application-Development--Summer-Analyst--Jacksonville---USA--2027_261004418"
+  },
+  {
+    "id": "sj:530841a3-53ed-4300-885c-e69f45dc6380",
+    "company": "Citi",
+    "title": "Technology Analyst Intern - Application Development",
+    "location": "Mississauga, ON, Canada (Other)",
+    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Technology--Application-Development--Summer-Analyst--Mississauga--Canada--2027_261003301"
+  },
+  {
+    "id": "sj:5871b828-de03-40a2-ac52-83ee05ca8fcf",
+    "company": "Sun Life",
+    "title": "Data Science Intern",
+    "location": "Milwaukee, WI; Kansas City, MO; Hartford, CT; Portland, ME; Wellesley, MA (Other)",
+    "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Experienced-Jobs/job/Wellesley-Hills-Massachusetts/Data-Science-Intern---Summer-2027-Intern_JR00127666"
   },
   {
     "id": "sj:eb3a32f4-7026-4b65-8a5e-02f0916dd693",
@@ -3407,96 +3498,5 @@
     "title": "Data Analyst Intern",
     "location": "Madison, WI (Other)",
     "url": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Intern---Data-Analyst_R39404"
-  },
-  {
-    "id": "sj:91251409-4b30-4f80-a849-57426b7a2c9c",
-    "company": "General Motors",
-    "title": "Data Scaling Intern - Data Scaling - Embodied AI",
-    "location": "Sunnyvale, CA (Other)",
-    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Data-Scaling--Embodied-AI_JR-202622132"
-  },
-  {
-    "id": "sj:ffc142d8-54ce-4628-b359-7770b0566d0e",
-    "company": "Itron",
-    "title": "HR AI Data Science Intern",
-    "location": "Austin, TX (Other)",
-    "url": "https://itron.wd5.myworkdayjobs.com/Itron/job/United-States-of-America-Texas-Austin/Intern---HR-AI-Data-Science--Summer-2027-_JR103034-1"
-  },
-  {
-    "id": "sj:4513c863-7b6b-483e-a7ff-f04c90abc55e",
-    "company": "Itron",
-    "title": "HR AI Data Science Intern",
-    "location": "Austin, TX (Other)",
-    "url": "https://itron.wd5.myworkdayjobs.com/Early_Careers/job/United-States-of-America-Texas-Austin/Intern---HR-AI-Data-Science--Summer-2027-_JR103034"
-  },
-  {
-    "id": "sj:a2992424-eba5-4abe-a57d-d8c6c12fc0ce",
-    "company": "Workday",
-    "title": "Product Manager Intern",
-    "location": "Vancouver, BC, Canada (Other)",
-    "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/Canada-BC-Vancouver/Product-Manager-Intern_JR-0110808"
-  },
-  {
-    "id": "sj:3bcb752a-418d-4efe-88b2-389292a7eed0",
-    "company": "Workday",
-    "title": "Product Manager Intern",
-    "location": "Pleasanton, CA (Other)",
-    "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Product-Manager-Intern_JR-0110813"
-  },
-  {
-    "id": "sj:d09259a7-0192-472c-a240-c348186c241d",
-    "company": "Walgreens",
-    "title": "Data Science Intern",
-    "location": "Deerfield, IL (Other)",
-    "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=26336&siteid=5014&PageType=JobDetails&jobid=1933902"
-  },
-  {
-    "id": "sj:40023184-e683-401b-8f3c-c48358d79459",
-    "company": "Westinghouse Electric Company",
-    "title": "Fuel Engineering Data Analyst Intern",
-    "location": "Cranberry Township, PA (Other)",
-    "url": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Summer-Intern-Fuel-Engineering-Data-Analyst-NC/1438463700/?ats=successfactors"
-  },
-  {
-    "id": "sj:e149e65e-265d-4273-bc2c-9fe3740f6c41",
-    "company": "General Dynamics Mission Systems",
-    "title": "Software/Systems Engineering Intern",
-    "location": "Middletown, RI (Other)",
-    "url": "https://careers-gdms.icims.com/jobs/75463/job?mobile=true&needsRedirect=false"
-  },
-  {
-    "id": "sj:cc8ac2c6-0874-480d-89fe-1ba79e6af0d9",
-    "company": "Koch Industries",
-    "title": "Data Science Intern",
-    "location": "Atlanta, GA (Other)",
-    "url": "https://koch.avature.net/en_US/careers/JobDetail/195341"
-  },
-  {
-    "id": "sj:60881082-3930-422a-9543-38028c8e9208",
-    "company": "Amazon",
-    "title": "Business Intelligence Engineer Intern",
-    "location": "Seattle, WA (Other)",
-    "url": "https://amazon.jobs/en/jobs/10553765/business-intelligence-engineer-internship-2027-us"
-  },
-  {
-    "id": "sj:2ffedaf1-5e57-4490-b50b-d2db5c9c049c",
-    "company": "Amazon",
-    "title": "Data Engineer Intern",
-    "location": "Seattle, WA (Other)",
-    "url": "https://amazon.jobs/en/jobs/10553907/data-engineer-internship-2027-us"
-  },
-  {
-    "id": "sj:2355c32e-a301-4b8a-bf6b-352e71daf514",
-    "company": "WSFS Bank",
-    "title": "Product Intern",
-    "location": "Wilmington, DE (Other)",
-    "url": "https://wsfsbank.wd1.myworkdayjobs.com/wsfscareers/job/Wilmington-DE/XMLNAME-2027-Summer-Internship---Product_R-104113-2"
-  },
-  {
-    "id": "sj:fa7cf02a-d414-467e-897f-f8c3723d809a",
-    "company": "USAA",
-    "title": "Product Management Advisor Intern",
-    "location": "San Antonio, TX (Other)",
-    "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Product-Management-Advisor-Intern_R0121653"
   }
 ]
