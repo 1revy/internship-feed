@@ -1904,6 +1904,13 @@
     "url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383231008"
   },
   {
+    "id": "sj:4400b7b2-318d-4cfe-a277-a8687cae1078",
+    "company": "FTI Consulting",
+    "title": "Data & Analytics Intern",
+    "location": "London, UK (London / Paris)",
+    "url": "https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/London-United-Kingdom/XMLNAME-2027-Summer-Internship--Data---Analytics_JR260771"
+  },
+  {
     "id": "sj:66e9549c-044f-471c-a61e-d89819f98731",
     "company": "Amazon",
     "title": "Business Analyst Intern",
@@ -3491,12 +3498,5 @@
     "title": "Research Intern - World Models and Synthetic Data for Autonomous Driving",
     "location": "Santa Clara, CA (Other)",
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--World-Models-and-Synthetic-Data-for-Autonomous-Driving---Summer-2027_JR2026839-1"
-  },
-  {
-    "id": "sj:d7d6d6ac-4612-4182-a3de-e0c1037f87a7",
-    "company": "American Family Insurance Group",
-    "title": "Data Analyst Intern",
-    "location": "Madison, WI (Other)",
-    "url": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Intern---Data-Analyst_R39404"
   }
 ]
