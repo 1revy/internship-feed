@@ -14,6 +14,20 @@
     "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Applied-Gen-AI-Data-Scientist-Graduate-Intern_J288007"
   },
   {
+    "id": "sj:c917f0bc-a8d2-4468-ad7c-573f62b007bd",
+    "company": "Highmark Health",
+    "title": "Predictive Modeling & Data Science Graduate Intern",
+    "location": "New Mexico; Washington; Kansas; Pennsylvania; North Dakota; Oregon; Delaware; Iowa; California; Washington, DC; Vermont; Wyoming; Connecticut; Texas; Montana; Florida; New Hampshire; Nevada; South Carolina; South Dakota; Georgia; Arizona; Mississippi; Tennessee; Virginia; Arkansas; Minnesota; Colorado; Nebraska; Rhode Island; Utah; Kentucky; West Virginia; NYC; Maryland; Hawaii; Wisconsin; Maine; Massachusetts; North Carolina; Oklahoma; Missouri; Ohio; New Jersey; Indiana; Louisiana; Alaska; Michigan; Illinois; Alabama; Idaho (New York)",
+    "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Predictive-Modeling---Data-Science-Graduate-Intern_J288333"
+  },
+  {
+    "id": "sj:bfbf3ca8-38df-48d8-9039-e1b886870dca",
+    "company": "Highmark Health",
+    "title": "Enterprise Master Data Management Analyst Graduate Intern",
+    "location": "New Mexico; Washington; Kansas; Pennsylvania; North Dakota; Oregon; Delaware; Iowa; California; Washington, DC; Vermont; Wyoming; Connecticut; Texas; Montana; Florida; New Hampshire; Nevada; South Carolina; South Dakota; Georgia; Arizona; Mississippi; Tennessee; Virginia; Arkansas; Minnesota; Colorado; Nebraska; Rhode Island; Utah; Kentucky; West Virginia; NYC; Maryland; Hawaii; Wisconsin; Maine; Massachusetts; North Carolina; Oklahoma; Missouri; Ohio; New Jersey; Indiana; Louisiana; Alaska; Michigan; Illinois; Alabama; Idaho (New York)",
+    "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Enterprise-Master-Data-Management-Analyst-Graduate-Intern_J289856"
+  },
+  {
     "id": "sj:02b720b7-6299-4c34-a21d-fd42406e00f5",
     "company": "Citi",
     "title": "Technology Summer Analyst Intern - Application Development",
@@ -2548,6 +2562,13 @@
     "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002"
   },
   {
+    "id": "sj:c3c93546-bbf2-43f9-ba0a-0dab4d0b469a",
+    "company": "TikTok",
+    "title": "Global Product Solutions and Operations Intern - Global Monetization Product and Technology",
+    "location": "San Jose, CA (Other)",
+    "url": "https://lifeattiktok.com/search/7701069870360627509"
+  },
+  {
     "id": "sj:add0b8bc-464a-47b8-a28b-b63532dc6262",
     "company": "CHS",
     "title": "Data Engineer Intern",
@@ -2735,6 +2756,13 @@
     "title": "2027 Summer Games Data Scientist Intern",
     "location": "Lexington, MA (Other)",
     "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Lexington-MA/University---2027-Summer-Games-Data-Scientist-Intern---Lexington--MA_R0252275"
+  },
+  {
+    "id": "sj:f51fcb61-d19e-4ed3-81ec-258f5931b9db",
+    "company": "Zillow",
+    "title": "Data Science Intern",
+    "location": "Seattle, WA (Other)",
+    "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Data-Science-Intern_P751677-1"
   },
   {
     "id": "sj:78f2f6fd-9234-4b7c-a26c-189023b24ca7",
@@ -3470,33 +3498,5 @@
     "title": "Data Support Analyst Intern",
     "location": "Chicago, IL (Other)",
     "url": "https://assurant.wd1.myworkdayjobs.com/en-US/Assurant_Careers/job/Illinois-Virtual/Summer-2027-Intern--Data-Support-Analyst_R-115717"
-  },
-  {
-    "id": "sj:a42bb64b-5118-4414-b5bb-ebe063b71b10",
-    "company": "GE Vernova",
-    "title": "Power System Intern",
-    "location": "Bellevue, WA (Other)",
-    "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---AGI---Grid-Foundational-Models-Intern---Summer-2027_R5054820-2"
-  },
-  {
-    "id": "sj:cd4adf61-4026-464d-8208-c2d4c6258943",
-    "company": "Philips",
-    "title": "Insights and Analytics Intern - Health Systems Marketing",
-    "location": "Cambridge, MA (Other)",
-    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Intern-Insights-and-Analytics--Health-Systems-Marketing--Cambridge--MA---Summer-2027_593454"
-  },
-  {
-    "id": "sj:2b4f0591-67a0-4766-a1d6-6e8758c4128f",
-    "company": "Nissan Global",
-    "title": "Aftersales Business Planning Intern",
-    "location": "Franklin, TN (Other)",
-    "url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Aftersales-Business-Planning-Intern---Summer-2027---Franklin--TN_R00214226"
-  },
-  {
-    "id": "sj:8efc5434-3c49-410a-90f6-5f6124037e2b",
-    "company": "General Motors",
-    "title": "Product Management Intern - Vehicle Autonomy",
-    "location": "Sunnyvale, CA (Other)",
-    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---Product-Management--Vehicle-Autonomy--MS-or-MBA-_JR-202622449"
   }
 ]
