@@ -1,5 +1,33 @@
 [
   {
+    "id": "sj:a42bb64b-5118-4414-b5bb-ebe063b71b10",
+    "company": "GE Vernova",
+    "title": "Power System Intern",
+    "location": "Bellevue, WA (Other)",
+    "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---AGI---Grid-Foundational-Models-Intern---Summer-2027_R5054820-2"
+  },
+  {
+    "id": "sj:cd4adf61-4026-464d-8208-c2d4c6258943",
+    "company": "Philips",
+    "title": "Insights and Analytics Intern - Health Systems Marketing",
+    "location": "Cambridge, MA (Other)",
+    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Intern-Insights-and-Analytics--Health-Systems-Marketing--Cambridge--MA---Summer-2027_593454"
+  },
+  {
+    "id": "sj:2b4f0591-67a0-4766-a1d6-6e8758c4128f",
+    "company": "Nissan Global",
+    "title": "Aftersales Business Planning Intern",
+    "location": "Franklin, TN (Other)",
+    "url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Aftersales-Business-Planning-Intern---Summer-2027---Franklin--TN_R00214226"
+  },
+  {
+    "id": "sj:8efc5434-3c49-410a-90f6-5f6124037e2b",
+    "company": "General Motors",
+    "title": "Product Management Intern - Vehicle Autonomy",
+    "location": "Sunnyvale, CA (Other)",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---Product-Management--Vehicle-Autonomy--MS-or-MBA-_JR-202622449"
+  },
+  {
     "id": "sj:bda4abe8-aa5b-41a0-bb34-7806e4ff2679",
     "company": "Gallup",
     "title": "Data Engineer Intern",
@@ -1300,6 +1328,13 @@
     "title": "Digital Technology Center Intern",
     "location": "Stamford, CT (Other)",
     "url": "https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/UConn-Stamford-Digital-Technology-Center-Intern---Summer-2027_2602661"
+  },
+  {
+    "id": "sj:65e488fa-baa8-48fd-8126-1c6ada908ef9",
+    "company": "Aurora Innovation",
+    "title": "Data & ML Platform Engineer Intern",
+    "location": "SF; Pittsburgh, PA; Mountain View, CA (Other)",
+    "url": "https://jobs.ashbyhq.com/aurora-operations-inc/da4c8e2e-0571-4503-94d9-234da86f83b0/application?embed=true"
   },
   {
     "id": "sj:d71cc21f-dabe-4071-b07e-81c42007e03e",
@@ -3764,6 +3799,13 @@
     "title": "Data & Analytics Intern - Data & Analytics",
     "location": "Newcastle upon Tyne, UK (Other)",
     "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/Newcastle---Bank/Oliver-Wyman---Data---Analytics-Summer-Internship-2027---Newcastle_R_364984-1"
+  },
+  {
+    "id": "sj:4450e57d-6850-4b61-b0f6-39350674e9d9",
+    "company": "AArete",
+    "title": "Business Analytics Intern - Summer 2027",
+    "location": "Chicago, IL (Other)",
+    "url": "https://jobs.jobvite.com/aarete/job/oBXLAfwD?nl=1&nl=1&fr=false"
   },
   {
     "id": "sj:e83278e0-c4fd-42f9-a773-171b6b1e16c1",
@@ -6461,6 +6503,20 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Remote/System-Software-Engineering-Intern--GPU---2027_JR2025334"
   },
   {
+    "id": "sj:aa777b1a-9c23-48b4-8c56-23f0944caa64",
+    "company": "Saviynt",
+    "title": "Research Scientist Intern",
+    "location": "Milpitas, CA (Other)",
+    "url": "https://jobs.lever.co/saviynt/183188c3-c043-4f91-b3f0-30ec4961f4c7/apply"
+  },
+  {
+    "id": "sj:7e1845c8-0856-45a5-92cb-e20daea7e6ca",
+    "company": "Toyota Research Institute",
+    "title": "Robotics Intern - Trustworthy Learning under Uncertainty",
+    "location": "Los Altos, CA (Other)",
+    "url": "https://jobs.lever.co/tri/6f60ff79-c902-466a-912c-7ab849ce6424/apply"
+  },
+  {
     "id": "sj:d6943265-b3db-43a3-84ab-48acea19c07d",
     "company": "JP Morgan Chase",
     "title": "Quant AI Associate Intern",
@@ -6683,6 +6739,13 @@
     "title": "Autonomy Engineer Intern - Simulation & Robotics",
     "location": "San Mateo, CA (Other)",
     "url": "https://jobs.ashbyhq.com/skydio/6f5caf41-fa1d-4208-9bdc-82c72e5d3f17/application?embed=true"
+  },
+  {
+    "id": "sj:3619b4c7-53d4-4dcc-aa54-3f79280248ed",
+    "company": "Niantic Spatial",
+    "title": "Software Engineer Intern - Native SDK & Mobile Platforms",
+    "location": "SF (Other)",
+    "url": "https://jobs.ashbyhq.com/niantic-spatial/ed68b062-4dcb-4deb-9cc0-ed38030f6e43/application?embed=true"
   },
   {
     "id": "sj:baa25da2-9ee0-403d-8396-0d4788626830",
@@ -6935,68 +6998,5 @@
     "title": "Software Analytics Co-op",
     "location": "Grand Rapids, MI (Other)",
     "url": "https://kiongroup.wd3.myworkdayjobs.com/en-US/KION_SCS/job/Grand-Rapids-MI-United-States/Software-Analytics-Co-op_JR-0096723"
-  },
-  {
-    "id": "sj:4da3ddc6-8559-489a-b239-8d419ece6bad",
-    "company": "CVS Health",
-    "title": "Software Engineer Intern - Platform & Applications",
-    "location": "Dallas, TX; Scottsdale, AZ; Hartford, CT; Woonsocket, RI (Other)",
-    "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/AZ---Scottsdale/Innovation-Technology-Internship-Software-Engineering--Platform---Applications-Summer-2027-Undergrad_R1081193"
-  },
-  {
-    "id": "sj:3f06de58-bfa6-4e51-8270-e63a13d7367b",
-    "company": "Leidos",
-    "title": "AI/ML Intern",
-    "location": "Huntsville, AL (Other)",
-    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/AI-ML-Intern_R-00195168"
-  },
-  {
-    "id": "sj:63e6ac11-18af-4a74-b78e-fb596834ab90",
-    "company": "CVS Health",
-    "title": "Innovation & Technology Software Engineering: Platform & Applications Intern",
-    "location": "Dallas, TX; Scottsdale, AZ; Hartford, CT; Woonsocket, RI (Other)",
-    "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/AZ---Scottsdale/Innovation---Technology-Internship-Software-Engineering--Platform---Applications--Summer-2027-Grad_R1081216"
-  },
-  {
-    "id": "sj:f98a73fd-4f03-43a7-9253-2a17b5fdee3d",
-    "company": "Verisk",
-    "title": "Software Engineer Intern",
-    "location": "Manchester, UK (Other)",
-    "url": "https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4997"
-  },
-  {
-    "id": "sj:3e95934a-d25a-49d5-af4b-1a2eeb4b3eef",
-    "company": "Robert Bosch Venture Capital",
-    "title": "Calibration Process Optimization Intern",
-    "location": "Farmington Hills, MI (Other)",
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000156585075"
-  },
-  {
-    "id": "sj:5635b14b-45dd-4bb0-925f-0231622eb338",
-    "company": "LinkedIn",
-    "title": "Software Engineer Intern",
-    "location": "Mountain View, CA (Other)",
-    "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000156616169"
-  },
-  {
-    "id": "sj:fa9f1de2-6097-4e3f-9d78-36635f2d80de",
-    "company": "Northrop Grumman",
-    "title": "Software Engineer Intern",
-    "location": "Roy, UT (Other)",
-    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10257053"
-  },
-  {
-    "id": "sj:09d77bd3-845b-4ffb-bc37-c77d9ed70dd6",
-    "company": "RTX",
-    "title": "Software Engineer Intern",
-    "location": "Tewksbury, MA (Other)",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-Intern--Summer-2027-_01880127"
-  },
-  {
-    "id": "sj:697dae09-767d-472a-a894-401a312cd1c9",
-    "company": "Parsons",
-    "title": "Computer Vision/Robotics Intern",
-    "location": "Westminster, CO (Other)",
-    "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---CO-Westminster/Computer-Vision-Robotics-Intern_R187402"
   }
 ]
