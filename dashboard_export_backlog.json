@@ -1,12 +1,5 @@
 [
   {
-    "id": "sj:3b6dc022-3c3c-4202-b427-b53c873fb2d0",
-    "company": "onsemi",
-    "title": "Data and Visualization Intern",
-    "location": "Hopewell Junction, NY (Other)",
-    "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506638"
-  },
-  {
     "id": "sj:4bde8bc5-067e-4676-9a52-d07891e1cb78",
     "company": "Zurn Elkay Water Solutions",
     "title": "Product Management Intern",
@@ -2310,6 +2303,34 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Remote/System-Software-Engineering-Intern--GPU---2027_JR2025334"
   },
   {
+    "id": "sj:4f0257bc-0588-4ab9-b230-b1111acb93ed",
+    "company": "FUTO",
+    "title": "Software Engineer Intern",
+    "location": "Austin, TX (Other)",
+    "url": "https://jobs.lever.co/futo-org/7dd9877a-9009-408d-aa50-623cd5153f70/apply"
+  },
+  {
+    "id": "sj:49e57c55-743b-457d-b17f-64d6b36a90c6",
+    "company": "Paccar",
+    "title": "Application Developer Intern",
+    "location": "Chillicothe, OH (Other)",
+    "url": "https://jobs.paccar.com/job/Kirkland-Summer-2027-Application-Developer-Intern-(OH)-WA-98033/1451927133/?ats=successfactors"
+  },
+  {
+    "id": "sj:178d0613-9e8b-480c-b35e-f7b89b94e02e",
+    "company": "VSP Vision",
+    "title": "Software Engineer Intern",
+    "location": "Remote in USA (Other)",
+    "url": "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Software-Engineer_R-10068"
+  },
+  {
+    "id": "sj:ee6ec003-29b0-4b45-84ff-f2bc079dd1cf",
+    "company": "VSP Vision",
+    "title": "Software Engineer Intern - Technology Innovation",
+    "location": "Remote in USA (Other)",
+    "url": "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Technology-Innovation_R-10020"
+  },
+  {
     "id": "sj:344927cc-8496-444d-b228-79f0ae7304fc",
     "company": "Commonwealth Fusion Systems",
     "title": "Plasma Physics Intern",
@@ -2737,6 +2758,13 @@
     "url": "https://jobs.ashbyhq.com/niantic-spatial/ed68b062-4dcb-4deb-9cc0-ed38030f6e43/application?embed=true"
   },
   {
+    "id": "sj:2507d753-2e29-4433-be1b-355a19295f16",
+    "company": "Shield AI",
+    "title": "Software Engineer Intern",
+    "location": "San Diego, CA (Other)",
+    "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/db04c516-d21a-449c-8bfd-1cf830eafb5a/application?embed=true"
+  },
+  {
     "id": "sj:baa25da2-9ee0-403d-8396-0d4788626830",
     "company": "Skydio",
     "title": "Autonomy Engineer Intern - Deep Learning / Computer Vision",
@@ -2854,6 +2882,13 @@
     "title": "Enterprise Payments Intern",
     "location": "Detroit, MI; Minnetonka, MN; Columbus, OH (Other)",
     "url": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Summer-2027-Enterprise-Payments-Internship_R0077171"
+  },
+  {
+    "id": "sj:82185a0f-af48-47f8-a2bc-af676ba67dc3",
+    "company": "Scout AI",
+    "title": "AI Engineer Intern - Fury Team",
+    "location": "Sunnyvale, CA (Other)",
+    "url": "https://jobs.ashbyhq.com/scout-ai/3b639e39-abd7-4a0c-9bea-e1cd0a72db99/application?embed=true"
   },
   {
     "id": "sj:66fe6724-ef82-4474-b024-ee942c90d16b",
@@ -3162,6 +3197,20 @@
     "title": "Policy & Analysis Intern",
     "location": "Dallas, TX (Other)",
     "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Dallas-TX/XMLNAME-2027-Intern---Policy---Analysis_R-0000033766"
+  },
+  {
+    "id": "sj:2ad07235-f2f9-4156-b729-afd7942895fc",
+    "company": "Integrate",
+    "title": "Software Engineer Intern",
+    "location": "Seattle, WA (Other)",
+    "url": "https://jobs.ashbyhq.com/integrate/7681f59b-70c0-414b-96d9-ae8925cc2ed3/application?embed=true"
+  },
+  {
+    "id": "sj:eba86e55-1480-473d-814f-7d863ebba833",
+    "company": "DriveWealth",
+    "title": "AI Consulting Associate Program \u2013 AI Engineer Intern",
+    "location": "Chicago, IL (Other)",
+    "url": "https://jobs.ashbyhq.com/drivewealth/a214dd6c-e3ac-481e-8308-bf74c2032b8a/application?embed=true"
   },
   {
     "id": "sj:9c3549d6-12b9-488c-9b34-de7b9deb3d97",
@@ -4942,13 +4991,6 @@
     "url": "https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/114233"
   },
   {
-    "id": "sj:79807b51-faf5-46c1-9880-7c1b2a77905f",
-    "company": "Motorola",
-    "title": "CPE Software End-to-End Triage Intern - Summer 2027",
-    "location": "Plantation, FL (Other)",
-    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/CPE-SW-E2E-Triage-Intern---Summer-2027_R68165"
-  },
-  {
     "id": "sj:dffa3f5f-d496-43e5-90e0-105b940da03c",
     "company": "Motorola",
     "title": "Software Engineer Intern - Summer 2027",
@@ -5087,6 +5129,13 @@
     "title": "Software Engineer Intern",
     "location": "Bristol, UK (Other)",
     "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Bristol-Avon-United-Kingdom/Software-Engineering-Internship--Placement-Year-_1215804"
+  },
+  {
+    "id": "sj:6510633a-12fb-403f-b2e5-b91ca20197b7",
+    "company": "Shield AI",
+    "title": "Software Engineer Intern",
+    "location": "San Diego, CA (Other)",
+    "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/661d7ac4-51df-454d-82c8-2a0d94852036/application?embed=true"
   },
   {
     "id": "sj:93ae3a0d-e1e0-4d7a-ad67-4adba9311b49",
@@ -6949,54 +6998,5 @@
     "title": "Analytics Intern - Summer 2027",
     "location": "Boston, MA (Other)",
     "url": "https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Boston-MA/Analyst-Intern--Summer-2027-_JR14927"
-  },
-  {
-    "id": "sj:5b170a7d-3303-481f-8fa2-580c9e7274b4",
-    "company": "CACI",
-    "title": "Software Engineer Co-op - Summer & Fall 2027",
-    "location": "Danbury, CT (Other)",
-    "url": "https://caci.wd1.myworkdayjobs.com/external/job/Danbury-CT-US/Software-Engineering-Co-op---Summer---Fall-2027_331354"
-  },
-  {
-    "id": "sj:78c615cc-dde5-4897-aa80-d2cd8cfc2c60",
-    "company": "Zipline",
-    "title": "Maps Intern - Summer 2027",
-    "location": "South SF (Other)",
-    "url": "https://www.zipline.com/open-roles?gh_jid=7980866003"
-  },
-  {
-    "id": "sj:88ee222e-f092-4c2a-ad37-b63eb0445010",
-    "company": "Persona AI",
-    "title": "Robotics Software Intern - Manipulation",
-    "location": "Houston, TX (Other)",
-    "url": "https://jobs.ashbyhq.com/persona.ai/1e8d195c-e28e-423d-a06a-9eeb401ed4fc/application?embed=true"
-  },
-  {
-    "id": "sj:e56eca03-b173-46e6-8a0b-5f5eaa9df1f7",
-    "company": "Vertiv",
-    "title": "Service Technology Research Intern - Summer 2027",
-    "location": "Westerville, OH (Other)",
-    "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20270351"
-  },
-  {
-    "id": "sj:7446a6fa-1e34-44e8-8b3a-46688131ec9f",
-    "company": "CSX",
-    "title": "Intermodal Intern - Summer 2027 - Paid",
-    "location": "Jacksonville, FL (Other)",
-    "url": "https://fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CSXCareers/job/54817"
-  },
-  {
-    "id": "sj:c36ab777-30bb-4843-9f8e-eb51269d6083",
-    "company": "Booz Allen",
-    "title": "Software Developer Intern - University - 2027 Summer Games",
-    "location": "Colorado Springs, CO (Other)",
-    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Colorado-Springs-CO/University--2027-Summer-Games-Software-Developer-Intern_R0248130"
-  },
-  {
-    "id": "sj:c7d3b494-6183-4201-ae92-c7ddbae1ae27",
-    "company": "Booz Allen",
-    "title": "Software Developer Intern - Summer Games",
-    "location": "Rome, NY (Other)",
-    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Rome-NY/University--2027-Summer-Games-Software-Developer-Intern_R0248141"
   }
 ]
