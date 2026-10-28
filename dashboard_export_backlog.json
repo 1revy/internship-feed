@@ -1,61 +1,5 @@
 [
   {
-    "id": "sj:4bde8bc5-067e-4676-9a52-d07891e1cb78",
-    "company": "Zurn Elkay Water Solutions",
-    "title": "Product Management Intern",
-    "location": "Paso Robles, CA (Other)",
-    "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Paso-Robles-CA/Product-Management-Intern--Summer-2027-_REQ-020109"
-  },
-  {
-    "id": "sj:93fa34ac-b6d0-4b02-87d8-5c14b2deb4a9",
-    "company": "Gordon Food Service",
-    "title": "Data Engineering Intern - Atlanta Tech Hub - Data Engineering",
-    "location": "Atlanta, GA (Other)",
-    "url": "https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Atlanta-Georgia/Data-Engineering-Internship_R-57330"
-  },
-  {
-    "id": "sj:5304fddb-8f6b-4252-8dcd-417e6095ccf9",
-    "company": "Gordon Food Service",
-    "title": "Digital Product Management Intern",
-    "location": "Wyoming, MI (Other)",
-    "url": "https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Digital-Product-Management-Internship_R-57336"
-  },
-  {
-    "id": "sj:612d47bb-ecd4-42e3-8669-3af521907136",
-    "company": "The Hartford",
-    "title": "Data Science Intern - Summer 2027",
-    "location": "Chicago, IL; Charlotte, NC; Hartford, CT (Other)",
-    "url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Data-Science-Intern---Summer-2027_R2627114"
-  },
-  {
-    "id": "sj:cddeab16-284b-4b09-b61f-5bdb9dac600d",
-    "company": "OCC",
-    "title": "Data Intern - Data",
-    "location": "Chicago, IL (Other)",
-    "url": "https://theocc.wd5.myworkdayjobs.com/careers/job/Chicago---125-S-Franklin/Summer-Intern---Data_REQ-4844"
-  },
-  {
-    "id": "sj:160dce7d-d418-4675-8ae3-901527a5de03",
-    "company": "Republic Airways",
-    "title": "Data Analytics Intern",
-    "location": "Carmel, IN (Other)",
-    "url": "https://rjet.wd108.myworkdayjobs.com/External_Career_Site/job/Carmel-Headquarters/Data-Analytics-Intern---Summer-2027_JR-007628"
-  },
-  {
-    "id": "sj:46afb6b3-6be4-457a-ab81-e5a109555aff",
-    "company": "Republic Airways",
-    "title": "Strategic Operations Intern",
-    "location": "Carmel, IN (Other)",
-    "url": "https://rjet.wd108.myworkdayjobs.com/External_Career_Site/job/Carmel-Headquarters/Strategic-Operations-Intern---Summer-2027_JR-007635"
-  },
-  {
-    "id": "sj:8797beb4-97f1-4dc2-aeea-6e7d039d63c1",
-    "company": "Cerity Partners",
-    "title": "Risk Management Strategy Intern",
-    "location": "Louisville, KY (Other)",
-    "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Louisville-KY/XMLNAME-2027-Summer-Risk-Management-Strategy-Analyst-Internship_R918-1"
-  },
-  {
     "id": "sj:4e7b2780-4210-4901-a852-f42626894dcf",
     "company": "Watts Water",
     "title": "Product Marketing Data Analyst Intern",
@@ -68,13 +12,6 @@
     "title": "Product Specialist Intern",
     "location": "Fort Worth, TX (Other)",
     "url": "https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/Fort-Worth-TX/Product-Specialist-Intern-2027_10017586"
-  },
-  {
-    "id": "sj:ca4cd198-bc37-44f7-b2ea-070baf8df2a2",
-    "company": "Clarios",
-    "title": "Data Science Intern",
-    "location": "Milwaukee, WI (Other)",
-    "url": "https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Wisconsin-Milwaukee/Data-Science-Intern--Summer-2027-_WD50211"
   },
   {
     "id": "sj:c8aca959-9a59-41e5-b70f-6b65d4b67856",
@@ -215,6 +152,13 @@
     "title": "Data Science Intern",
     "location": "Trenton, NJ (Other)",
     "url": "https://njm.wd1.myworkdayjobs.com/njm/job/NJM---Trenton/IT-Data-Science-Intern_R2008284"
+  },
+  {
+    "id": "sj:27bfd64f-188b-4555-b5cf-fc9525cf15c3",
+    "company": "Lowe's",
+    "title": "Store Operations Intern - Retail Facilities Support",
+    "location": "Mooresville, NC (Other)",
+    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Mooresville-NC-SSC-1999/Store-Operations-Real-Estate---Undergrad-Internship---Summer-2027_JR-02650537"
   },
   {
     "id": "sj:8ead9143-b68f-49cb-8f40-309f4206c39a",
@@ -2114,13 +2058,6 @@
     "url": "https://pentair.wd5.myworkdayjobs.com/pentair_careers/job/Golden-Valley-MN/Product-Management-Leadership-Development-Internship-Program---Summer-2027_R23713"
   },
   {
-    "id": "sj:a0b929ab-383a-46c3-a540-391a25d6dbae",
-    "company": "Uline",
-    "title": "International Operations Analyst Intern",
-    "location": "Waukegan, IL; Milwaukee, WI; Glenview, IL; Pleasant Prairie, WI; Kenosha, WI (Other)",
-    "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/International-Operations-Analyst-Internship---Summer-2027_R265918"
-  },
-  {
     "id": "sj:96d99494-69a2-4bcf-b4b5-b88b9abb3c85",
     "company": "Uline",
     "title": "Sales Analyst Intern",
@@ -2303,6 +2240,13 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Remote/System-Software-Engineering-Intern--GPU---2027_JR2025334"
   },
   {
+    "id": "sj:b8ebd7b8-bd94-4af7-8d80-9bdd6cfa8c52",
+    "company": "Infleqtion",
+    "title": "Quantum Software Intern - Quantum Software",
+    "location": "Chicago, IL (Other)",
+    "url": "https://apply.workable.com/coldquanta/j/EB77DE8198/apply"
+  },
+  {
     "id": "sj:4f0257bc-0588-4ab9-b230-b1111acb93ed",
     "company": "FUTO",
     "title": "Software Engineer Intern",
@@ -2329,6 +2273,34 @@
     "title": "Software Engineer Intern - Technology Innovation",
     "location": "Remote in USA (Other)",
     "url": "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Technology-Innovation_R-10020"
+  },
+  {
+    "id": "sj:d54ad503-0917-4cd9-8e73-8ecd6fe2d56d",
+    "company": "VSP Vision",
+    "title": "Software Engineer Intern",
+    "location": "Remote in USA (Other)",
+    "url": "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Software-Engineer_R-10071"
+  },
+  {
+    "id": "sj:5a6710d9-eb37-4044-b352-2b23303dd73c",
+    "company": "VSP Vision",
+    "title": "Software Engineer Intern",
+    "location": "Remote in USA (Other)",
+    "url": "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Software-Engineer_R-10046"
+  },
+  {
+    "id": "sj:e20b7038-01d7-4798-a53d-313f94bd9e80",
+    "company": "RTX",
+    "title": "Software Engineer Co-op",
+    "location": "Marlborough, MA; Tewksbury, MA (Other)",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-Co-op--January-2027-_01885371"
+  },
+  {
+    "id": "sj:b79d2299-e52a-40c5-91ec-6001bb790237",
+    "company": "Autodesk",
+    "title": "Software Engineer Intern - Javascript",
+    "location": "Sheffield, UK (Other)",
+    "url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Sheffield-GBP/Intern--Software-Engineer--Javascript----12-months_26WD101691-2"
   },
   {
     "id": "sj:344927cc-8496-444d-b228-79f0ae7304fc",
@@ -2485,13 +2457,6 @@
     "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Arkansas---Remote/Summer-2027-Intern---Forward-Deployed-Engineer---Global-Public-Sector_JR366026-1"
   },
   {
-    "id": "sj:a62c1131-5951-4f98-a994-716a5ac115d7",
-    "company": "Allstate",
-    "title": "Technology Internship",
-    "location": "Illinois (Other)",
-    "url": "https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---IL-Remote/Allstate-Technology-Solutions-Internship---Summer-2027_R36378"
-  },
-  {
     "id": "sj:2565907b-9dfe-4eb9-8edf-80ae650ac2ad",
     "company": "JM Family",
     "title": "Sales Reporting & Analysis Intern",
@@ -2581,13 +2546,6 @@
     "title": "Developer Intern",
     "location": "Toronto, ON, Canada (Other)",
     "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/Developer--RBC-Amplify-2027--Toronto_R-0000187114-1"
-  },
-  {
-    "id": "sj:f5035e53-554c-43fa-adcf-00ffabdcc1e4",
-    "company": "Royal Bank of Canada",
-    "title": "Developer Intern",
-    "location": "Halifax Regional Municipality, NS, Canada (Other)",
-    "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/HALIFAX-Nova-Scotia-Canada/Developer--RBC-Amplify-2027--Halifax_R-0000191196"
   },
   {
     "id": "sj:b8178344-d11e-4dee-a05e-320016075d4b",
@@ -4529,13 +4487,6 @@
     "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Enterprise-Analytics-Intern---Summer-2027_R9650"
   },
   {
-    "id": "sj:b87a0b81-a911-4993-996f-c2e07ab05067",
-    "company": "Centene",
-    "title": "Medical Economics Intern",
-    "location": "Missouri (Other)",
-    "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Medical-Economics-Intern--Undergraduate---Summer-2027-_1662091"
-  },
-  {
     "id": "sj:638db733-b6c2-4e36-b1ad-1d4b6b77df9b",
     "company": "Elevance Health",
     "title": "Engineering Graduate Intern",
@@ -4842,13 +4793,6 @@
     "title": "Panasonic Transformation Group Intern",
     "location": "De Soto, KS (Other)",
     "url": "https://careers.na.panasonic.com/jobs/51289?icims=1"
-  },
-  {
-    "id": "sj:e1129632-f5f5-4638-a460-e45b79df40b2",
-    "company": "TC Energy",
-    "title": "Measurement Services Intern",
-    "location": "Charleston, WV (Other)",
-    "url": "https://tcenergy.wd3.myworkdayjobs.com/CAREER_SITE_TC/job/Charleston-West-Virginia/Intern--Measurement-Services_JR-10976"
   },
   {
     "id": "sj:57bebd99-f029-4628-b0dc-3532c4f03181",
@@ -6979,13 +6923,6 @@
     "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/San-Jose-California/Summer-2027-Internship---Software-Engineering---California_R572624"
   },
   {
-    "id": "sj:9952d1ca-819b-4568-b670-0b2cd6dc15af",
-    "company": "DraftKings",
-    "title": "Analytics Intern - Summer 2027",
-    "location": "Boston, MA (Other)",
-    "url": "https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Boston-MA/Analyst-Intern--Summer-2027-_JR14926"
-  },
-  {
     "id": "sj:fa15def7-0f05-40dd-be86-fa6ef407a9ef",
     "company": "DraftKings",
     "title": "Software Engineer Intern - Summer 2027",
@@ -6998,5 +6935,68 @@
     "title": "Analytics Intern - Summer 2027",
     "location": "Boston, MA (Other)",
     "url": "https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Boston-MA/Analyst-Intern--Summer-2027-_JR14927"
+  },
+  {
+    "id": "sj:5b170a7d-3303-481f-8fa2-580c9e7274b4",
+    "company": "CACI",
+    "title": "Software Engineer Co-op - Summer & Fall 2027",
+    "location": "Danbury, CT (Other)",
+    "url": "https://caci.wd1.myworkdayjobs.com/external/job/Danbury-CT-US/Software-Engineering-Co-op---Summer---Fall-2027_331354"
+  },
+  {
+    "id": "sj:78c615cc-dde5-4897-aa80-d2cd8cfc2c60",
+    "company": "Zipline",
+    "title": "Maps Intern - Summer 2027",
+    "location": "South SF (Other)",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7980866003"
+  },
+  {
+    "id": "sj:88ee222e-f092-4c2a-ad37-b63eb0445010",
+    "company": "Persona AI",
+    "title": "Robotics Software Intern - Manipulation",
+    "location": "Houston, TX (Other)",
+    "url": "https://jobs.ashbyhq.com/persona.ai/1e8d195c-e28e-423d-a06a-9eeb401ed4fc/application?embed=true"
+  },
+  {
+    "id": "sj:e56eca03-b173-46e6-8a0b-5f5eaa9df1f7",
+    "company": "Vertiv",
+    "title": "Service Technology Research Intern - Summer 2027",
+    "location": "Westerville, OH (Other)",
+    "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20270351"
+  },
+  {
+    "id": "sj:7446a6fa-1e34-44e8-8b3a-46688131ec9f",
+    "company": "CSX",
+    "title": "Intermodal Intern - Summer 2027 - Paid",
+    "location": "Jacksonville, FL (Other)",
+    "url": "https://fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CSXCareers/job/54817"
+  },
+  {
+    "id": "sj:c36ab777-30bb-4843-9f8e-eb51269d6083",
+    "company": "Booz Allen",
+    "title": "Software Developer Intern - University - 2027 Summer Games",
+    "location": "Colorado Springs, CO (Other)",
+    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Colorado-Springs-CO/University--2027-Summer-Games-Software-Developer-Intern_R0248130"
+  },
+  {
+    "id": "sj:c7d3b494-6183-4201-ae92-c7ddbae1ae27",
+    "company": "Booz Allen",
+    "title": "Software Developer Intern - Summer Games",
+    "location": "Rome, NY (Other)",
+    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Rome-NY/University--2027-Summer-Games-Software-Developer-Intern_R0248141"
+  },
+  {
+    "id": "sj:1253e2b5-8a22-4c0e-bcd9-e44d32ecfc90",
+    "company": "Booz Allen",
+    "title": "Software Developer Intern - University",
+    "location": "Charleston, SC (Other)",
+    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Charleston-SC/University---2027-Summer-Games-Software-Developer-Intern_R0248134"
+  },
+  {
+    "id": "sj:445f9e1d-29ba-4695-b3b0-60111cfbd03b",
+    "company": "TELUS Digital",
+    "title": "Software Engineer Intern - US - Summer 2027",
+    "location": "Durham, NC; Columbus, OH; Charlottesville, VA (Other)",
+    "url": "https://jobs.ashbyhq.com/telus-digital/32ee6ede-d3cf-4827-b7af-f8d64f2bca11/application?embed=true"
   }
 ]
