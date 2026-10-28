@@ -1183,13 +1183,6 @@
     "url": "https://job-boards.greenhouse.io/stateaffairs/jobs/4437430009"
   },
   {
-    "id": "sj:c0f5bb29-73b3-4d6d-ae4a-8630ce8569e6",
-    "company": "Booz Allen",
-    "title": "Quantum Research Intern - Summer 2027",
-    "location": "Washington, DC (Washington DC / Central NJ)",
-    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/University---Summer-2027---Quantum-Research-Intern_R0250129"
-  },
-  {
     "id": "sj:fb5852a4-7dd6-4402-9294-65ab39f88f85",
     "company": "Merck",
     "title": "Information Science Intern - Future Talent Program",
@@ -1370,27 +1363,6 @@
     "title": "Technology Intern",
     "location": "London, UK (London / Paris)",
     "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/London-United-Kingdom/XMLNAME-2027-Summer-Internship---Technology_R_1518239"
-  },
-  {
-    "id": "sj:f305d367-0d5d-405d-a623-f7302ab77134",
-    "company": "Expedia Group",
-    "title": "Software Development Engineer Intern",
-    "location": "London, UK (London / Paris)",
-    "url": "https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Software-Development-Engineering-Intern---2027---London_R-110551"
-  },
-  {
-    "id": "sj:e477b869-0cb5-4ce8-8992-2d8545e4e8ca",
-    "company": "Expedia Group",
-    "title": "Applied Science Intern",
-    "location": "London, UK (London / Paris)",
-    "url": "https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Applied-Science-Intern---Masters---2027---London_R-110540-1"
-  },
-  {
-    "id": "sj:bb064a3e-3eb4-49ec-b895-81cb6394e69f",
-    "company": "Expedia Group",
-    "title": "Mobile Engineer Intern",
-    "location": "London, UK (London / Paris)",
-    "url": "https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Mobile-Engineering-Intern---2027---London_R-110545-1"
   },
   {
     "id": "sj:a99e2f5f-e8a1-4b4f-9c09-643e09df2f89",
@@ -1624,6 +1596,34 @@
     "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002"
   },
   {
+    "id": "sj:4380e085-d294-474c-8406-d6adf347b44e",
+    "company": "PrizePicks",
+    "title": "Business Intelligence Intern - Game Operations",
+    "location": "Atlanta, GA (Other)",
+    "url": "http://prizepicks.com/position?gh_jid=8047188003"
+  },
+  {
+    "id": "sj:d7027afa-efad-4c6a-8b5a-853c11811670",
+    "company": "Uline",
+    "title": "International Operations Analyst Intern",
+    "location": "Pleasant Prairie, WI (Other)",
+    "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/International-Operations-Analyst-Internship---Summer-2027_R268694"
+  },
+  {
+    "id": "sj:bff9a492-ed06-4a94-8f0d-75a782dcefd8",
+    "company": "Ace Hardware",
+    "title": "IT Associate Software Engineer Intern",
+    "location": "Oak Brook, IL (Other)",
+    "url": "https://acehardware.wd1.myworkdayjobs.com/External/job/IL---Oak-Brook/IT-Associate-Software-Engineer-2027-Summer-Internship--Full-Time-Paid-12-weeks-_REQ-34797"
+  },
+  {
+    "id": "sj:67c38e84-2904-4f41-b7d9-11a2d287366b",
+    "company": "Sonos",
+    "title": "Software Product Management Intern",
+    "location": "Seattle, WA (Other)",
+    "url": "https://sonos.wd1.myworkdayjobs.com/Sonos/job/Seattle-WA/Software-Product-Management-Intern--Seattle-_R2866-1"
+  },
+  {
     "id": "sj:905705a1-d2c7-4fa5-8e63-beef794c9d9c",
     "company": "Paccar",
     "title": "Data Engineer Intern",
@@ -1813,13 +1813,6 @@
     "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Irving/Innovation---Technology-Internship---Data-Engineering---Summer-2027--Undergraduate-_R1084831-1"
   },
   {
-    "id": "sj:f25ebaa7-2285-4593-85b8-22a0e5c13159",
-    "company": "Royal Bank of Canada",
-    "title": "Data Engineer Intern",
-    "location": "Halifax Regional Municipality, NS, Canada (Other)",
-    "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/HALIFAX-Nova-Scotia-Canada/Data-Engineer--RBC-Amplify-2027--Halifax_R-0000191195"
-  },
-  {
     "id": "sj:b01c891c-8ae6-4bdf-9c7d-092215e09ed8",
     "company": "Royal Bank of Canada",
     "title": "Data Engineer Intern",
@@ -1967,13 +1960,6 @@
     "url": "https://amazon.jobs/en/jobs/10509639/product-manager-technical-pmt-intern-summer-2027"
   },
   {
-    "id": "sj:b528e2b6-04c3-46be-bd21-cac3f2e018bb",
-    "company": "Amazon",
-    "title": "Systems Development Engineer Intern",
-    "location": "Bellevue, WA (Other)",
-    "url": "https://amazon.jobs/en/jobs/10573984/systems-development-engineer-intern-us-2027"
-  },
-  {
     "id": "sj:5dcd55ac-c7f2-47c8-9bb8-4b2a6c16a6b9",
     "company": "Amazon",
     "title": "Product Manager Intern - ALA",
@@ -1986,13 +1972,6 @@
     "title": "Operations Research Intern",
     "location": "Sunnyvale, CA (Other)",
     "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8273965"
-  },
-  {
-    "id": "sj:df65c239-9fbb-4b32-a88e-fd7e66234cc4",
-    "company": "Paccar",
-    "title": "Aftersales Data Analyst Intern",
-    "location": "Kirkland, WA (Other)",
-    "url": "https://jobs.paccar.com/job/Kirkland-Summer-2027-AfterSales-Data-Analyst-Intern-WA-98033/1450518033/?ats=successfactors"
   },
   {
     "id": "sj:d8b9f547-837d-4189-801a-d05610addf86",
@@ -2198,13 +2177,6 @@
     "url": "https://amfam.wd1.myworkdayjobs.com/en-US/Careers/job/WI-Madison/Summer-2027-Intern---Data-Engineer_R39675"
   },
   {
-    "id": "sj:fd5b6e26-96b5-44b4-b0d5-ce1973787fdb",
-    "company": "Zebra Technologies",
-    "title": "Business Analyst Intern",
-    "location": "Lincolnshire, IL (Other)",
-    "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Business-Analyst_JR103646"
-  },
-  {
     "id": "sj:a1713031-4b7f-4d1b-969c-fbfcee4f1a57",
     "company": "KeyBank",
     "title": "Marketing Analytics Intern",
@@ -2226,25 +2198,11 @@
     "url": "https://athene.wd5.myworkdayjobs.com/athene_careers/job/West-Des-Moines-Iowa/Operations-Reporting---Analytics-Intern_R255268"
   },
   {
-    "id": "sj:352ca30a-f20a-448d-8092-68c1f8720f68",
-    "company": "Paccar",
-    "title": "Field Service Data Analyst Intern",
-    "location": "Kirkland, WA (Other)",
-    "url": "https://jobs.paccar.com/job/Kirkland-Summer-2027-Field-Service-Data-Analyst-Intern-WA-98033/1449526633/?ats=successfactors"
-  },
-  {
     "id": "sj:a75a8632-28d8-4ce0-827f-c75ecb99f4c9",
     "company": "Paccar",
     "title": "Engineering Operations Intern",
     "location": "Kirkland, WA (Other)",
     "url": "https://jobs.paccar.com/job/Kirkland-Summer-2027-Engineering-Operations-Intern-WA-98033/1449526733/?ats=successfactors"
-  },
-  {
-    "id": "sj:3555c695-037a-494d-b111-9652b4b91a08",
-    "company": "Paccar",
-    "title": "Dealer Development Marketing Data Analytics Intern",
-    "location": "Kirkland, WA (Other)",
-    "url": "https://jobs.paccar.com/job/Kirkland-Summer-2027-Dealer-Development-Marketing-Data-Analytics-Intern-WA-98033/1449209833/?ats=successfactors"
   },
   {
     "id": "sj:aaac9d8b-db6b-4050-ad94-8cb5584c0bbd",
@@ -2308,13 +2266,6 @@
     "title": "Product Engineer Intern",
     "location": "Cranberry Township, PA (Other)",
     "url": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Summer-Intern-Product-Engineer-NC/1441276000/?ats=successfactors"
-  },
-  {
-    "id": "sj:9f87174c-3de3-4a2b-a443-5cf09d0aadce",
-    "company": "Paccar",
-    "title": "Warranty Data Analyst Intern",
-    "location": "Kirkland, WA (Other)",
-    "url": "https://jobs.paccar.com/job/Kirkland-Summer-2027-Warranty-Data-Analyst-Intern-WA-98033/1449176033/?ats=successfactors"
   },
   {
     "id": "sj:12643349-9dbf-44e4-96de-6f938fdd7979",
@@ -2616,13 +2567,6 @@
     "title": "Product Management & Product Operations Intern",
     "location": "Boca Raton, FL (Other)",
     "url": "https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3022393"
-  },
-  {
-    "id": "sj:e5ebe73e-fdc6-49c8-b94f-5e6b5c176831",
-    "company": "Bosch Home Comfort",
-    "title": "AI Business Solutions Intern",
-    "location": "Coventry, UK (Other)",
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154992819"
   },
   {
     "id": "sj:bd284fb3-53b0-4465-abd6-86445c4a9a0a",
@@ -3498,5 +3442,61 @@
     "title": "Data and Visualization Intern",
     "location": "Hopewell Junction, NY (Other)",
     "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506638"
+  },
+  {
+    "id": "sj:4bde8bc5-067e-4676-9a52-d07891e1cb78",
+    "company": "Zurn Elkay Water Solutions",
+    "title": "Product Management Intern",
+    "location": "Paso Robles, CA (Other)",
+    "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Paso-Robles-CA/Product-Management-Intern--Summer-2027-_REQ-020109"
+  },
+  {
+    "id": "sj:93fa34ac-b6d0-4b02-87d8-5c14b2deb4a9",
+    "company": "Gordon Food Service",
+    "title": "Data Engineering Intern - Atlanta Tech Hub - Data Engineering",
+    "location": "Atlanta, GA (Other)",
+    "url": "https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Atlanta-Georgia/Data-Engineering-Internship_R-57330"
+  },
+  {
+    "id": "sj:5304fddb-8f6b-4252-8dcd-417e6095ccf9",
+    "company": "Gordon Food Service",
+    "title": "Digital Product Management Intern",
+    "location": "Wyoming, MI (Other)",
+    "url": "https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Digital-Product-Management-Internship_R-57336"
+  },
+  {
+    "id": "sj:612d47bb-ecd4-42e3-8669-3af521907136",
+    "company": "The Hartford",
+    "title": "Data Science Intern - Summer 2027",
+    "location": "Chicago, IL; Charlotte, NC; Hartford, CT (Other)",
+    "url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Data-Science-Intern---Summer-2027_R2627114"
+  },
+  {
+    "id": "sj:cddeab16-284b-4b09-b61f-5bdb9dac600d",
+    "company": "OCC",
+    "title": "Data Intern - Data",
+    "location": "Chicago, IL (Other)",
+    "url": "https://theocc.wd5.myworkdayjobs.com/careers/job/Chicago---125-S-Franklin/Summer-Intern---Data_REQ-4844"
+  },
+  {
+    "id": "sj:160dce7d-d418-4675-8ae3-901527a5de03",
+    "company": "Republic Airways",
+    "title": "Data Analytics Intern",
+    "location": "Carmel, IN (Other)",
+    "url": "https://rjet.wd108.myworkdayjobs.com/External_Career_Site/job/Carmel-Headquarters/Data-Analytics-Intern---Summer-2027_JR-007628"
+  },
+  {
+    "id": "sj:46afb6b3-6be4-457a-ab81-e5a109555aff",
+    "company": "Republic Airways",
+    "title": "Strategic Operations Intern",
+    "location": "Carmel, IN (Other)",
+    "url": "https://rjet.wd108.myworkdayjobs.com/External_Career_Site/job/Carmel-Headquarters/Strategic-Operations-Intern---Summer-2027_JR-007635"
+  },
+  {
+    "id": "sj:8797beb4-97f1-4dc2-aeea-6e7d039d63c1",
+    "company": "Cerity Partners",
+    "title": "Risk Management Strategy Intern",
+    "location": "Louisville, KY (Other)",
+    "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Louisville-KY/XMLNAME-2027-Summer-Risk-Management-Strategy-Analyst-Internship_R918-1"
   }
 ]
