@@ -1624,11 +1624,25 @@
     "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002"
   },
   {
+    "id": "sj:92028585-06ce-429a-8702-8cc1d5ce13f5",
+    "company": "Tesla",
+    "title": "Data Engineer Intern - Energy",
+    "location": "Palo Alto, CA (Other)",
+    "url": "https://www.tesla.com/careers/search/job/287982"
+  },
+  {
     "id": "sj:5617d404-c12b-458b-ab00-3c6cd2ec70e9",
     "company": "Boston Scientific",
     "title": "AI Solutions Engineering Intern",
     "location": "Arden Hills, MN (Other)",
     "url": "https://bostonscientific.eightfold.ai/careers/job/563602813547675"
+  },
+  {
+    "id": "sj:22af9ee1-e73d-418a-9466-c9b7baa84044",
+    "company": "Uline",
+    "title": "Sales Analyst Intern",
+    "location": "Waukegan, IL; Milwaukee, WI; Glenview, IL; Pleasant Prairie, WI; Kenosha, WI (Other)",
+    "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Sales-Analyst-Internship---Summer-2027_R268774"
   },
   {
     "id": "sj:e96c73df-1dd2-4b9f-9018-b6e5c937fe68",
@@ -2254,6 +2268,13 @@
     "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Hartford-Farmington-Ave-Rogers/Innovation---Technology-Internship---Product---Agile-Delivery---Summer-2027--Undergraduate-_R1080767"
   },
   {
+    "id": "sj:0ad97afd-e0ba-4720-ae97-7e1ad0f20d62",
+    "company": "Philips",
+    "title": "AI & Analytics Analyst Intern",
+    "location": "Nashville, TN (Other)",
+    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Nashville-Tennessee-United-States/Intern---AI---Analytics-Analyst---Nashville--TN---Spring-2027_593012"
+  },
+  {
     "id": "sj:e7350a2d-fa26-4da5-908e-82eb0a7a4b34",
     "company": "Aon",
     "title": "IT / AI Engineer Intern",
@@ -2294,13 +2315,6 @@
     "title": "Computer Science Industrial Placement Student Intern - Data Capability",
     "location": "Welwyn, UK (Other)",
     "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Welwyn/Industrial-Placement-Student-CS-CoE-DDC-Data-Capability_202610-124915"
-  },
-  {
-    "id": "sj:22e0e398-2efa-4443-a503-6e3431e6d5a4",
-    "company": "American Family Insurance Group",
-    "title": "Data Engineer Intern",
-    "location": "Madison, WI (Other)",
-    "url": "https://amfam.wd1.myworkdayjobs.com/en-US/Careers/job/WI-Madison/Summer-2027-Intern---Data-Engineer_R39675"
   },
   {
     "id": "sj:a1713031-4b7f-4d1b-969c-fbfcee4f1a57",
@@ -3484,19 +3498,5 @@
     "title": "Internship - Software Engineering - People Products - Summer 2027",
     "location": "Palo Alto, CA (Other)",
     "url": "https://www.tesla.com/careers/search/job/284004"
-  },
-  {
-    "id": "sj:7c51e306-a24c-4fac-b188-b36e0bc3f128",
-    "company": "TikTok",
-    "title": "Machine Learning Engineer Intern - E-Commerce Recommendation Mall",
-    "location": "San Jose, CA (Other)",
-    "url": "https://lifeattiktok.com/search/7686283601340369205"
-  },
-  {
-    "id": "sj:7b0bc5f5-b7eb-4ee8-905a-aff3cc7c2c4f",
-    "company": "Altar'd State",
-    "title": "IT Analytics Intern",
-    "location": "Knoxville, TN (Other)",
-    "url": "https://standoutforgood.wd12.myworkdayjobs.com/StandOutForGood/job/Knoxville-TN/Spring-2027-IT-Analytics-Intern_SOSJ12499"
   }
 ]
