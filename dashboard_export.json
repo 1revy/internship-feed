@@ -203,13 +203,6 @@
     "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140169"
   },
   {
-    "id": "sj:63f4d5fe-1a58-43dc-8299-1dcb69b5b2f6",
-    "company": "Lazard",
-    "title": "AI and Data Transformation Intern",
-    "location": "NYC (New York)",
-    "url": "https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6650"
-  },
-  {
     "id": "sj:fadc5395-c7d9-4c74-8a5d-4dff2d7fa71c",
     "company": "Tradeweb",
     "title": "Market Data Product Management Intern",
@@ -481,6 +474,13 @@
     "title": "Strategic Analytics Intern",
     "location": "NYC (New York)",
     "url": "https://davidyurman.wd1.myworkdayjobs.com/DavidYurmanCareers/job/New-York-NY/Strategic-Analytics-Intern_R-101176"
+  },
+  {
+    "id": "sj:956d7e6e-0435-403d-877c-4026d34ea7cc",
+    "company": "Qube Research & Technologies",
+    "title": "Technology Intern",
+    "location": "Chicago, IL; NYC (New York)",
+    "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8870423002"
   },
   {
     "id": "sj:0e75cae4-e315-4886-9c81-87bc9f671a74",
@@ -1225,6 +1225,13 @@
     "url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383231008"
   },
   {
+    "id": "sj:79c4704a-2757-414c-8d3f-8786e245bc77",
+    "company": "Pernod Ricard, cr\u00e9ateurs de convivialit\u00e9",
+    "title": "Data & Business Transformation Placement Intern",
+    "location": "London, UK (London / Paris)",
+    "url": "https://pernodricard.wd3.myworkdayjobs.com/pernod-ricard/job/London/Data---Business-Transformation-Placement---June-2027_JR-055452-1"
+  },
+  {
     "id": "sj:4400b7b2-318d-4cfe-a277-a8687cae1078",
     "company": "FTI Consulting",
     "title": "Data & Analytics Intern",
@@ -1370,6 +1377,13 @@
     "title": "Data Science Machine Learning Intern",
     "location": "London, UK (London / Paris)",
     "url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/London-UK/Data-Science-Machine-Learning-Internship--Summer-2027-_R1345"
+  },
+  {
+    "id": "sj:c1ac74d2-f7fa-4011-8d78-025691a38abc",
+    "company": "OLIX",
+    "title": "Software Engineer Intern",
+    "location": "London, UK (London / Paris)",
+    "url": "https://jobs.ashbyhq.com/olix/a2365ad7-3b5d-4f6e-a917-2586efc6a07e/application?embed=true"
   },
   {
     "id": "sj:bbf19011-e0e7-4461-ad61-a3cdefe5aae5",
@@ -1624,6 +1638,13 @@
     "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002"
   },
   {
+    "id": "sj:f0720d7f-0077-43cf-959f-4ac76d40e302",
+    "company": "Syngenta Group",
+    "title": "Data Scientist Intern",
+    "location": "Raleigh, NC (Other)",
+    "url": "https://jobs.smartrecruiters.com/SyngentaGroup/744000158494415"
+  },
+  {
     "id": "sj:92028585-06ce-429a-8702-8cc1d5ce13f5",
     "company": "Tesla",
     "title": "Data Engineer Intern - Energy",
@@ -1643,6 +1664,27 @@
     "title": "Sales Analyst Intern",
     "location": "Waukegan, IL; Milwaukee, WI; Glenview, IL; Pleasant Prairie, WI; Kenosha, WI (Other)",
     "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Sales-Analyst-Internship---Summer-2027_R268774"
+  },
+  {
+    "id": "sj:c24dc4cf-1483-4344-a627-727c9a26aeb3",
+    "company": "Sallie Mae",
+    "title": "Data Science and Engineering Intern",
+    "location": "Newark, DE; Arlington County, Arlington, VA (Other)",
+    "url": "https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Newark-DE/Data-Science---Engineering-Intern_R26_000659"
+  },
+  {
+    "id": "sj:ffc6266f-4786-4043-b824-c50c2f564d80",
+    "company": "JM Family",
+    "title": "Customer Experience Data Analyst Intern",
+    "location": "Deerfield Beach, FL (Other)",
+    "url": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Customer-Experience-Data-Analyst-Intern_JR105125"
+  },
+  {
+    "id": "sj:b748b636-64b5-4ca3-b76a-cc941b9c3ab4",
+    "company": "Sonos",
+    "title": "Software Product Manager Intern",
+    "location": "Seattle, WA (Other)",
+    "url": "https://sonos.wd1.myworkdayjobs.com/Sonos/job/Seattle-WA/Software-Product-Management-Intern--Seattle-_R2888-1"
   },
   {
     "id": "sj:e96c73df-1dd2-4b9f-9018-b6e5c937fe68",
@@ -2289,6 +2331,13 @@
     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5271672007"
   },
   {
+    "id": "sj:4df32e9a-c2bf-41b5-a2d3-5bffe9caf0b5",
+    "company": "OneEthos",
+    "title": "Product Management Intern",
+    "location": "Remote in USA (Other)",
+    "url": "https://job-boards.greenhouse.io/oneethos/jobs/4459298009"
+  },
+  {
     "id": "sj:a0a234ba-306d-4be2-b894-fa0f79172c2c",
     "company": "DP World",
     "title": "Application Analyst Intern",
@@ -2877,13 +2926,6 @@
     "url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Connected-Car-Business-Development-Intern---Summer-2027---Franklin--TN_R00214270"
   },
   {
-    "id": "sj:3d769859-1b78-490a-81be-a7cf9bc054bf",
-    "company": "ICF International",
-    "title": "Data Analytics Intern",
-    "location": "Reston, VA (Other)",
-    "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Data-Analytics--Reston--VA-or-Remote-_R2603382-1"
-  },
-  {
     "id": "sj:88c35a9d-49a1-4c8d-8ae9-ccf6f2386bee",
     "company": "Dow Jones",
     "title": "Research Analyst Intern",
@@ -3456,47 +3498,5 @@
     "title": "Claims Intern - Data",
     "location": "Iowa (Other)",
     "url": "https://emcins.wd5.myworkdayjobs.com/EMC_Internships/job/Iowa/Intern--Claims--Data-_R6552"
-  },
-  {
-    "id": "sj:d473bd44-d390-41bc-b173-144940110b9e",
-    "company": "Waymo",
-    "title": "Product Data Science Intern",
-    "location": "SF (Other)",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=8199365"
-  },
-  {
-    "id": "sj:43906c1b-7f09-425f-89c4-c110033758ce",
-    "company": "The Brattle Group",
-    "title": "Energy Analyst Intern - Economics",
-    "location": "Boston, MA (Other)",
-    "url": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735999005"
-  },
-  {
-    "id": "sj:7fcad71e-65cc-40d4-8b02-4bb089e20989",
-    "company": "The Brattle Group",
-    "title": "Energy Analyst Intern - Economics - Multiple Teams",
-    "location": "Toronto, ON, Canada (Other)",
-    "url": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4736066005"
-  },
-  {
-    "id": "sj:71d40ca7-1546-417c-8bf5-c360ac814bb0",
-    "company": "Together AI",
-    "title": "Systems Research Engineer Intern - GPU Programming",
-    "location": "SF (Other)",
-    "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238460007"
-  },
-  {
-    "id": "sj:a4432340-1e42-4079-be3e-d590b4a323ec",
-    "company": "Publicis Groupe",
-    "title": "Product Manager Intern - Class of 2028",
-    "location": "Chicago, IL (Other)",
-    "url": "https://careers.publicisgroupe.com/jobs/172574?icims=1"
-  },
-  {
-    "id": "sj:5eeb71a2-4362-490d-91b2-80bec3bb466d",
-    "company": "Tesla",
-    "title": "Internship - Software Engineering - People Products - Summer 2027",
-    "location": "Palo Alto, CA (Other)",
-    "url": "https://www.tesla.com/careers/search/job/284004"
   }
 ]
