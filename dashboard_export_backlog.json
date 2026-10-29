@@ -1,5 +1,47 @@
 [
   {
+    "id": "sj:d473bd44-d390-41bc-b173-144940110b9e",
+    "company": "Waymo",
+    "title": "Product Data Science Intern",
+    "location": "SF (Other)",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8199365"
+  },
+  {
+    "id": "sj:43906c1b-7f09-425f-89c4-c110033758ce",
+    "company": "The Brattle Group",
+    "title": "Energy Analyst Intern - Economics",
+    "location": "Boston, MA (Other)",
+    "url": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735999005"
+  },
+  {
+    "id": "sj:7fcad71e-65cc-40d4-8b02-4bb089e20989",
+    "company": "The Brattle Group",
+    "title": "Energy Analyst Intern - Economics - Multiple Teams",
+    "location": "Toronto, ON, Canada (Other)",
+    "url": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4736066005"
+  },
+  {
+    "id": "sj:71d40ca7-1546-417c-8bf5-c360ac814bb0",
+    "company": "Together AI",
+    "title": "Systems Research Engineer Intern - GPU Programming",
+    "location": "SF (Other)",
+    "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238460007"
+  },
+  {
+    "id": "sj:a4432340-1e42-4079-be3e-d590b4a323ec",
+    "company": "Publicis Groupe",
+    "title": "Product Manager Intern - Class of 2028",
+    "location": "Chicago, IL (Other)",
+    "url": "https://careers.publicisgroupe.com/jobs/172574?icims=1"
+  },
+  {
+    "id": "sj:5eeb71a2-4362-490d-91b2-80bec3bb466d",
+    "company": "Tesla",
+    "title": "Internship - Software Engineering - People Products - Summer 2027",
+    "location": "Palo Alto, CA (Other)",
+    "url": "https://www.tesla.com/careers/search/job/284004"
+  },
+  {
     "id": "sj:7c51e306-a24c-4fac-b188-b36e0bc3f128",
     "company": "TikTok",
     "title": "Machine Learning Engineer Intern - E-Commerce Recommendation Mall",
@@ -2303,6 +2345,13 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Remote/System-Software-Engineering-Intern--GPU---2027_JR2025334"
   },
   {
+    "id": "sj:f82632d8-09d1-4568-bbaf-aa4a5ecb312a",
+    "company": "JM Family",
+    "title": "Software Engineer Intern",
+    "location": "Deerfield Beach, FL (Other)",
+    "url": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Software-Engineer-Intern_JR105158"
+  },
+  {
     "id": "sj:74a74297-0643-45a2-bf84-291dd57127f9",
     "company": "Clean Harbors",
     "title": "Software & Field Technology Intern IS",
@@ -2315,13 +2364,6 @@
     "title": "Software Engineer Intern - First Play",
     "location": "Mountain View, CA (Other)",
     "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000158394370"
-  },
-  {
-    "id": "sj:015289cb-f341-4c56-b934-ad5a39ac1cb8",
-    "company": "AMD",
-    "title": "Masters AI Training Software & Performance Co-op",
-    "location": "San Jose, CA (Other)",
-    "url": "https://careers.amd.com/jobs/93476?icims=1"
   },
   {
     "id": "sj:5d4a2e1b-0381-4b6d-bcf8-601636e1a627",
@@ -2681,6 +2723,13 @@
     "url": "https://apply.workable.com/altalink/j/3FB9DD016F/apply"
   },
   {
+    "id": "sj:a56c3be4-35d8-45ca-a8f7-c98206f9e105",
+    "company": "Burns Engineering",
+    "title": "Software Engineer Intern",
+    "location": "Pittsburgh, PA (Other)",
+    "url": "https://www.burns-group.com/careers/current-openings/?gh_jid=4467848009"
+  },
+  {
     "id": "sj:3dd830c0-913c-4f37-b36a-2299cf7df06b",
     "company": "The Allen Institute for AI",
     "title": "Research Intern - Open Ecosystem",
@@ -2982,13 +3031,6 @@
     "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Intern----Service-Offer-Design---Cambridge--MA---Summer-2027_593517"
   },
   {
-    "id": "sj:0a6e08f1-d289-4ad9-b8df-01ed8f0f0a53",
-    "company": "Carrier Global",
-    "title": "Software Engineer Intern",
-    "location": "East Syracuse, NY (Other)",
-    "url": "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAN01-Carrier-Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Software-Engineering-Intern---Summer_30220588"
-  },
-  {
     "id": "sj:baf68adf-358f-4898-99b5-1bb3a08bd7f6",
     "company": "Huntington Bancshares",
     "title": "Enterprise Payments Intern",
@@ -3183,6 +3225,13 @@
     "title": "Software Engineer Intern",
     "location": "Cambridge, UK (Other)",
     "url": "https://apply.workable.com/commonai/j/021D3FCF3E/apply"
+  },
+  {
+    "id": "sj:e7dad441-1919-402c-8936-123968e0e6b3",
+    "company": "OneEthos",
+    "title": "Research and Development Intern",
+    "location": "Remote in USA (Other)",
+    "url": "https://job-boards.greenhouse.io/oneethos/jobs/4459193009"
   },
   {
     "id": "sj:a3402104-9822-4ba3-8b75-e30551bc1b32",
@@ -4081,6 +4130,20 @@
     "url": "https://careers.na.panasonic.com/jobs/51629?icims=1"
   },
   {
+    "id": "sj:62bb0c27-4f37-47a9-a985-66df1cc61d39",
+    "company": "Riverlane",
+    "title": "Research Intern",
+    "location": "Cambridge, UK (Other)",
+    "url": "https://www.riverlane.com/jobs?gh_jid=5001380101#vacancies"
+  },
+  {
+    "id": "sj:faaf5b8b-6d65-440e-b445-14d9f0e1bd7c",
+    "company": "Riverlane",
+    "title": "Software Engineering Intern",
+    "location": "Cambridge, UK (Other)",
+    "url": "https://www.riverlane.com/jobs?gh_jid=5000786101#vacancies"
+  },
+  {
     "id": "sj:1564dff4-1455-4c39-8484-e1940718b5df",
     "company": "WTW",
     "title": "Software Developer Intern",
@@ -4648,13 +4711,6 @@
     "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--AV-AI-Platform_JR-202621695"
   },
   {
-    "id": "sj:820f340e-8485-4c82-88a9-64ba5b31a76d",
-    "company": "CACI",
-    "title": "Software Development Intern",
-    "location": "Ashburn, VA (Other)",
-    "url": "https://caci.wd1.myworkdayjobs.com/external/job/Ashburn-VA-US/Software-Development-Intern---Summer-2027_333051"
-  },
-  {
     "id": "sj:33ae8cab-9f3b-486e-9f60-5c43fd1f1e48",
     "company": "Riot Games",
     "title": "Software Engineer Intern",
@@ -4730,13 +4786,6 @@
     "title": "AI Prompt Engineer Intern",
     "location": "Ashburn, VA (Other)",
     "url": "https://caci.wd1.myworkdayjobs.com/external/job/Ashburn-VA-US/AI-Prompt-Engineer-High-School-Intern---Summer-2027_332816-1"
-  },
-  {
-    "id": "sj:5db8bd0a-d6b5-46ef-b430-298959f57fe5",
-    "company": "CACI",
-    "title": "Software Development/Engineer Intern",
-    "location": "Remote in USA (Other)",
-    "url": "https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/Software-Development-Engineer-Intern---Summer-2027_332894-1"
   },
   {
     "id": "sj:827ccc8c-5daf-4ca9-90a9-badca54261a8",
@@ -4968,13 +5017,6 @@
     "title": "State Estimation Intern - Learned Mapping & Semantic SLAM",
     "location": "SF (Other)",
     "url": "https://jobs.ashbyhq.com/bedrock-robotics/8c7bad61-50e3-4702-be36-72e9b72a9760/application?embed=true"
-  },
-  {
-    "id": "sj:7d75bd70-f568-420d-985e-c8ccd2632c8f",
-    "company": "Johns Hopkins Applied Physics Laboratory",
-    "title": "Artificial Intelligence and Machine Learning Intern - Research Assistant",
-    "location": "Laurel, MD (Other)",
-    "url": "https://careers.jhuapl.edu/jobs/60084?icims=1"
   },
   {
     "id": "sj:a21b0917-b7a1-4928-bf8b-80237a4263ff",
@@ -6454,13 +6496,6 @@
     "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---Project-Engineer-Intern---Summer-2027_R5050026-1"
   },
   {
-    "id": "sj:6cc400a9-db6f-4550-9989-36f65cbe70b1",
-    "company": "Nationwide",
-    "title": "Feature Engineer Intern - Enterprise Analytics Office",
-    "location": "Columbus, OH (Other)",
-    "url": "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Metro/Summer-2027-Feature-Engineer-Internship_100233"
-  },
-  {
     "id": "sj:64a35586-2a6e-4c71-9919-ca8c55f250ed",
     "company": "Barclays",
     "title": "Technology Developer Intern - Technology",
@@ -6963,40 +6998,5 @@
     "title": "Software Engineer Intern",
     "location": "SF (Other)",
     "url": "https://job-boards.greenhouse.io/hpiq/jobs/6114912004"
-  },
-  {
-    "id": "sj:bfeef96e-5bbc-425d-9ee0-3fa12f525bf1",
-    "company": "Epic Games",
-    "title": "Frontend Programmer Intern",
-    "location": "Cary, NC (Other)",
-    "url": "https://epicgames.com/careers/jobs/6173862004?gh_jid=6173862004"
-  },
-  {
-    "id": "sj:d8558fc9-9efb-4c17-b70f-26aafda3b66a",
-    "company": "Bosch Home Comfort",
-    "title": "Software Engineer Intern",
-    "location": "Farmington Hills, MI (Other)",
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000146546849"
-  },
-  {
-    "id": "sj:53349dba-052e-4667-bc87-a3162afa6b94",
-    "company": "C3.ai",
-    "title": "Software Engineer Intern",
-    "location": "Redwood City, CA (Other)",
-    "url": "https://c3.ai/job-description/8739037002?gh_jid=8739037002"
-  },
-  {
-    "id": "sj:8254bef8-0753-4347-9bd2-47e5536eab40",
-    "company": "Stryker",
-    "title": "Software Engineering Intern - Software Engineering",
-    "location": "Fort Lauderdale, FL (Other)",
-    "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Lauderdale-Florida/Summer-2027-Internship---Software-Engineering---Florida_R572629-1"
-  },
-  {
-    "id": "sj:3c6dc4c7-bd24-4215-a600-0d55a3952673",
-    "company": "Stryker",
-    "title": "Software Engineering Intern - Multiple Teams",
-    "location": "Fort Wayne, IN (Other)",
-    "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Wayne-Indiana/Summer-2027-Internship---Software-Engineering---Indiana_R572631"
   }
 ]
