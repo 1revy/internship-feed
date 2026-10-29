@@ -238,6 +238,13 @@
     "url": "https://lifeattiktok.com/search/7684622182248548661"
   },
   {
+    "id": "sj:9b13cbf3-0b3e-4833-8129-fc5c95c7bb88",
+    "company": "Altman Solon",
+    "title": "Data Analyst Intern",
+    "location": "Boston, MA; NYC (New York)",
+    "url": "http://www.altmansolon.com/careers/student-opportunities?gh_jid=4977111101"
+  },
+  {
     "id": "sj:f818d803-75b1-4afe-a3e5-d7e9f66bbac2",
     "company": "Ernst & Young",
     "title": "Data Engineer Intern - Multiple Teams",
@@ -1617,6 +1624,13 @@
     "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002"
   },
   {
+    "id": "sj:5617d404-c12b-458b-ab00-3c6cd2ec70e9",
+    "company": "Boston Scientific",
+    "title": "AI Solutions Engineering Intern",
+    "location": "Arden Hills, MN (Other)",
+    "url": "https://bostonscientific.eightfold.ai/careers/job/563602813547675"
+  },
+  {
     "id": "sj:e96c73df-1dd2-4b9f-9018-b6e5c937fe68",
     "company": "Sherwin-Williams",
     "title": "R&D Data Science Co-op",
@@ -1727,6 +1741,20 @@
     "title": "IT and Systems Intern - Industrial Operations and Product Supply",
     "location": "Rensselaer, NY (Other)",
     "url": "https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/RENSSELAER/XMLNAME-2027-Summer-Intern-IT---Systems--IOPS-_R51822"
+  },
+  {
+    "id": "sj:d2f0c44e-b2d5-4ab2-ad1e-7991506e8027",
+    "company": "HP Inc.",
+    "title": "Software Systems Intern - IQ",
+    "location": "SF (Other)",
+    "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/San-Francisco-California-United-States-of-America/Software-Systems-Intern_UNI4801"
+  },
+  {
+    "id": "sj:84cc2b26-b1b3-4d2b-b9c5-6358d90c3cf1",
+    "company": "HP Inc.",
+    "title": "Software Systems Intern - IQ",
+    "location": "SF (Other)",
+    "url": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/San-Francisco-California-United-States-of-America/Software-Systems-Intern_UNI4801-1"
   },
   {
     "id": "sj:905705a1-d2c7-4fa5-8e63-beef794c9d9c",
@@ -1888,13 +1916,6 @@
     "title": "Product Planning Intern",
     "location": "Kirkland, WA (Other)",
     "url": "https://jobs.paccar.com/job/Kirkland-Summer-2027-Product-Planning-Intern-WA-98033/1451437033/?ats=successfactors"
-  },
-  {
-    "id": "sj:ab58c3d1-4540-4198-a564-b9137141d44d",
-    "company": "onsemi",
-    "title": "AI & Data Science Intern",
-    "location": "San Jose, CA (Other)",
-    "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506468"
   },
   {
     "id": "sj:5e2d95be-4aa3-4837-8222-35bef4eeb890",
@@ -2653,13 +2674,6 @@
     "url": "https://koch.avature.net/en_US/careers/JobDetail/195465"
   },
   {
-    "id": "sj:7f9efb23-69aa-4042-9954-1336de391b9b",
-    "company": "Ascension",
-    "title": "Master Data Management Intern",
-    "location": "St. Louis, MO (Other)",
-    "url": "https://jobs.ascension.org/us/en/job/2026-465180"
-  },
-  {
     "id": "sj:9c64ea05-ef86-4f4e-a20c-74a25b071a10",
     "company": "Electronic Arts",
     "title": "Data and AI Engineer Intern",
@@ -2847,13 +2861,6 @@
     "title": "Connected Car Business Development Intern",
     "location": "Franklin, TN (Other)",
     "url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Connected-Car-Business-Development-Intern---Summer-2027---Franklin--TN_R00214270"
-  },
-  {
-    "id": "sj:8938d4f1-3093-43eb-a443-bd11de15a159",
-    "company": "ICF International",
-    "title": "Data Engineer Intern",
-    "location": "Remote in USA; Reston, VA (Other)",
-    "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Data-Engineer--Reston--VA-or-Remote-_R2603380"
   },
   {
     "id": "sj:3d769859-1b78-490a-81be-a7cf9bc054bf",
@@ -3318,13 +3325,6 @@
     "url": "https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/UConn-Stamford-Digital-Technology-Center-Intern---Summer-2027_2602661"
   },
   {
-    "id": "sj:65e488fa-baa8-48fd-8126-1c6ada908ef9",
-    "company": "Aurora Innovation",
-    "title": "Data & ML Platform Engineer Intern",
-    "location": "SF; Pittsburgh, PA; Mountain View, CA (Other)",
-    "url": "https://jobs.ashbyhq.com/aurora-operations-inc/da4c8e2e-0571-4503-94d9-234da86f83b0/application?embed=true"
-  },
-  {
     "id": "sj:d71cc21f-dabe-4071-b07e-81c42007e03e",
     "company": "Franklin Electric",
     "title": "Global Business Strategy Development Intern",
@@ -3393,13 +3393,6 @@
     "title": "Data Analytics Intern",
     "location": "Fort Wayne, IN (Other)",
     "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Wayne-Indiana/Data-Engineering-Intern_R572901"
-  },
-  {
-    "id": "sj:3faca9c1-e66c-437c-a5bd-9ab5cd608a2f",
-    "company": "The Aerospace Corporation",
-    "title": "Software Tools and Assurance Intern - Information Systems and Cyber Division",
-    "location": "El Segundo, CA (Other)",
-    "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Software-Tools-and-Assurance-Intern_R016429"
   },
   {
     "id": "sj:11d3d160-862a-4d48-9f6c-fc735d0c1383",
@@ -3498,5 +3491,12 @@
     "title": "Machine Learning Engineer Intern - E-Commerce Recommendation Mall",
     "location": "San Jose, CA (Other)",
     "url": "https://lifeattiktok.com/search/7686283601340369205"
+  },
+  {
+    "id": "sj:7b0bc5f5-b7eb-4ee8-905a-aff3cc7c2c4f",
+    "company": "Altar'd State",
+    "title": "IT Analytics Intern",
+    "location": "Knoxville, TN (Other)",
+    "url": "https://standoutforgood.wd12.myworkdayjobs.com/StandOutForGood/job/Knoxville-TN/Spring-2027-IT-Analytics-Intern_SOSJ12499"
   }
 ]
