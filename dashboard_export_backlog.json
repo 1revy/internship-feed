@@ -1,40 +1,5 @@
 [
   {
-    "id": "sj:02dee7ff-6975-4a5e-8aea-ee0dc2ebfde9",
-    "company": "ByteDance",
-    "title": "Product Management Project Intern - Global Payment",
-    "location": "San Jose, CA (Other)",
-    "url": "https://jobs.bytedance.com/en/position/7686394581777631541/detail"
-  },
-  {
-    "id": "sj:6a018490-0c94-49df-9ad0-bfecd8fdad21",
-    "company": "Charter Manufacturing",
-    "title": "Digital Integration Intern",
-    "location": "Mequon, WI (Other)",
-    "url": "https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Manufacturing-Company-Inc---Mequon-WI/Digital-Integration-Intern--Year-Round-_R08129"
-  },
-  {
-    "id": "sj:fb864212-d3c0-4051-9019-29f9bcfde6ac",
-    "company": "Stryker",
-    "title": "Data Analytics Intern",
-    "location": "Fort Wayne, IN (Other)",
-    "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Wayne-Indiana/Data-Engineering-Intern_R572901"
-  },
-  {
-    "id": "sj:11d3d160-862a-4d48-9f6c-fc735d0c1383",
-    "company": "Koch Industries",
-    "title": "Business Analytics & Insights Intern",
-    "location": "Green Bay, WI (Other)",
-    "url": "https://koch.avature.net/en_US/careers/JobDetail/194813"
-  },
-  {
-    "id": "sj:673a3035-f4bb-47d2-912f-bee053a64f17",
-    "company": "Erie Insurance Group",
-    "title": "Data Intern 2",
-    "location": "Erie, PA (Other)",
-    "url": "https://jobs.erieinsurance.com/job/Erie-Intern-II-(Data)-PA-16506/1432176200/?ats=successfactors"
-  },
-  {
     "id": "sj:2e8bb17d-0726-4482-af62-5f868bede92c",
     "company": "AutoZone",
     "title": "Data Science Intern",
@@ -1174,13 +1139,6 @@
     "title": "Summer Internship - Data Analytics/Science/Applied Math",
     "location": "Santa Ana, CA; Fullerton, CA; Irvine, CA; Westminster, CA (Other)",
     "url": "https://apply.edisoncareers.com/job/Westminster-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-Santa-AnaWestminsterIrvineFullerton-CA-92683-5240/1425175800/?ats=successfactors"
-  },
-  {
-    "id": "sj:d23ff50c-42f1-4ab3-a445-5b7cfb2b8f28",
-    "company": "American Express",
-    "title": "Data Analytics Intern - Enterprise Technology Services",
-    "location": "Charlotte, NC (Other)",
-    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012784"
   },
   {
     "id": "sj:de9099c6-40df-40d2-ab9a-82d46ae5b517",
@@ -2401,6 +2359,13 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Remote/System-Software-Engineering-Intern--GPU---2027_JR2025334"
   },
   {
+    "id": "sj:8a9e6891-293e-40a9-b0cc-86a38defec9c",
+    "company": "Axon",
+    "title": "Software Engineer Intern",
+    "location": "Seattle, WA; Arlington County, Arlington, VA (Other)",
+    "url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/8037922003"
+  },
+  {
     "id": "sj:e3c3ec07-903b-4d30-ab26-7781d86dbcb9",
     "company": "Toyota Research Institute",
     "title": "Human Interactive Driving Research Intern - Perception for Driving at the Limits",
@@ -2553,6 +2518,13 @@
     "title": "Software Developer Intern",
     "location": "Mississauga, ON, Canada (Other)",
     "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---SOTI-XSight--May-2027-12-Months-_R10611"
+  },
+  {
+    "id": "sj:0c2e08ec-3a20-496f-8117-21a7031cbe20",
+    "company": "Dee Zee",
+    "title": "Software Development Intern",
+    "location": "Des Moines, IA (Other)",
+    "url": "https://deezee.wd108.myworkdayjobs.com/DeeZee_Careers/job/Des-Moines/Software-Development-Intern_REQ00471"
   },
   {
     "id": "sj:74a74297-0643-45a2-bf84-291dd57127f9",
@@ -3295,13 +3267,6 @@
     "title": "Intern - Multiple Teams",
     "location": "Mountain View, CA (Other)",
     "url": "https://careers.withwaymo.com/jobs?gh_jid=8306779"
-  },
-  {
-    "id": "sj:fd09f346-c36c-4ce5-8491-1ad9de70aabd",
-    "company": "Ursa Major",
-    "title": "Software Development Intern",
-    "location": "Berthoud, CO (Other)",
-    "url": "https://ursamajor.com/careers/?gh_jid=4746827005"
   },
   {
     "id": "sj:0feda082-a3a6-4e55-8793-5ef9cafd6978",
@@ -4578,13 +4543,6 @@
     "url": "https://careers.withwaymo.com/jobs?gh_jid=8257801"
   },
   {
-    "id": "sj:c9d78b85-421a-47ce-87a0-06184243c324",
-    "company": "Autodesk",
-    "title": "Research Intern - AI Research",
-    "location": "Toronto, ON, Canada (Other)",
-    "url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Toronto-ON-CAN/PhD-Researcher--AI-Research_26WD101373"
-  },
-  {
     "id": "sj:db1e9518-ba7e-4cdc-8914-5ec391f9a78d",
     "company": "SailPoint",
     "title": "Software Engineer Intern - Platform Engines",
@@ -4863,13 +4821,6 @@
     "title": "Software Engineer Co-op",
     "location": "Rochester, NY (Other)",
     "url": "https://apply.workable.com/mindex/j/84B10DB922/apply"
-  },
-  {
-    "id": "sj:319f5acd-d41e-4a2d-ba38-489c86ff3b27",
-    "company": "Great American Insurance Company",
-    "title": "Enterprise Analytics Intern",
-    "location": "Cincinnati, OH (Other)",
-    "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Enterprise-Analytics-Intern---Summer-2027_R9650"
   },
   {
     "id": "sj:638db733-b6c2-4e36-b1ad-1d4b6b77df9b",
@@ -5726,20 +5677,6 @@
     "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/contractors_restricted/job/DallasFt-Worth-TX/XMLNAME-2027-Spring-Summer-Co-op-Opportunities---Dallas_182410"
   },
   {
-    "id": "sj:0fd4122e-ceb7-4f97-8f55-aaab32d000d7",
-    "company": "LSEG",
-    "title": "Engineering Intern - Multiple Teams",
-    "location": "Boston, MA (Other)",
-    "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Boston-Massachusetts/Engineering-Summer-Internship-Programme_R0123570-2"
-  },
-  {
-    "id": "sj:58e8369f-2689-4d99-a38e-37e807ad938d",
-    "company": "LSEG",
-    "title": "Engineering Intern - Multiple Teams",
-    "location": "Boston, MA (Other)",
-    "url": "https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/Boston-Massachusetts/Engineering-Summer-Internship-Programme_R0123570-1"
-  },
-  {
     "id": "sj:22c7894f-b45d-4a2c-acf9-6b149c73474e",
     "company": "Church & Dwight",
     "title": "AI Developer Co-op - Graduate Program",
@@ -5941,13 +5878,6 @@
     "title": "Machine Learning Intern",
     "location": "Austin, TX (Other)",
     "url": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-Texas/XMLNAME-2027-Summer-Internship---Machine-Learning-Engineer_REQ-12797"
-  },
-  {
-    "id": "sj:4d33923f-011e-4c9c-8e39-4a4f417686d7",
-    "company": "Waymo",
-    "title": "Software Engineering Intern - Commercialization",
-    "location": "SF; Mountain View, CA (Other)",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=8198218"
   },
   {
     "id": "sj:c64a512f-2622-44bb-9b61-40e707833008",
@@ -6998,5 +6928,75 @@
     "title": "Machine Learning/Artificial Intelligence Intern/Co-op",
     "location": "Markham, ON, Canada (Other)",
     "url": "https://careers.amd.com/jobs/91363?icims=1"
+  },
+  {
+    "id": "sj:367535fd-b662-48d9-93cf-3caa7e5fb23b",
+    "company": "AMD",
+    "title": "Machine Learning/Artificial Intelligence Intern/Co-op",
+    "location": "Markham, ON, Canada (Other)",
+    "url": "https://careers.amd.com/jobs/90383?icims=1"
+  },
+  {
+    "id": "sj:640797fc-5abf-4222-9bdb-16b62d09607e",
+    "company": "AMD",
+    "title": "Graphics Software Engineer Intern/Co-op",
+    "location": "Markham, ON, Canada (Other)",
+    "url": "https://careers.amd.com/jobs/91359?icims=1"
+  },
+  {
+    "id": "sj:d906473e-9355-4328-8074-8a5479ffac70",
+    "company": "Textron",
+    "title": "Software Engineer Intern",
+    "location": "Waterboro, ME (Other)",
+    "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342550"
+  },
+  {
+    "id": "sj:5489cdce-696e-4c2f-b1ae-e937cff71c6c",
+    "company": "Textron",
+    "title": "Software Engineer Intern - Crewed Land",
+    "location": "Slidell, LA (Other)",
+    "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342915"
+  },
+  {
+    "id": "sj:9562e72a-a657-4f9c-9e2e-f8d62e41c42c",
+    "company": "Textron",
+    "title": "Software Engineer Co-op - Uncrewed Land & Air",
+    "location": "Hunt Valley, Cockeysville, MD (Other)",
+    "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342650"
+  },
+  {
+    "id": "sj:7db598e3-bc08-420a-a69f-e39447549d49",
+    "company": "Edison International",
+    "title": "Computer Science Intern",
+    "location": "Santa Ana, CA (Other)",
+    "url": "https://apply.edisoncareers.com/job/Santa-Ana-2027-Summer-Internship-Computer-Science-(Santa-Ana)-CA-92705/1425158700/?ats=successfactors"
+  },
+  {
+    "id": "sj:7ad48361-649c-4efe-abeb-2c80430792f5",
+    "company": "JP Morgan Chase",
+    "title": "Software Engineer Intern - Immersion Program",
+    "location": "Glasgow, UK (Other)",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774813"
+  },
+  {
+    "id": "sj:5af13882-4022-4a51-8828-29a2ff89a39c",
+    "company": "Teledyne",
+    "title": "Software Engineer Intern",
+    "location": "Huntsville, AL (Other)",
+    "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/EADSIM-Software-Engineering-Intern--Summer-2027-_REQ36667"
+  },
+  {
+    "id": "sj:22d244c4-56e5-4139-a741-e4cdcc0d8842",
+    "company": "Tarrant Regional Water District",
+    "title": "Energy Intern",
+    "location": "Fort Worth, TX (Other)",
+    "url": "https://trwd.wd1.myworkdayjobs.com/TRWDCareers/job/Fort-Worth-TX/Summer-2027-Energy-Intern--T047-_JR100217"
+  },
+  {
+    "id": "sj:c067fe94-7764-4b4b-b95a-74df217fe320",
+    "company": "Booz Allen",
+    "title": "Software Developer Intern",
+    "location": "Huntsville, AL (Other)",
+    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Huntsville-AL/University---2027-Summer-Games-Software-Developer-Intern---Huntsville--AL_R0248394"
   }
 ]
