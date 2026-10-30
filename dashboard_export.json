@@ -42,13 +42,6 @@
     "url": "https://citi.wd5.myworkdayjobs.com/2/job/Jersey-City-New-Jersey-United-States/Technology--Application-Development--Summer-Analyst--New-York-Or-New-Jersey---USA--2027_261004378"
   },
   {
-    "id": "sj:3a1df196-4b77-41ff-b9f7-833dfec00ba6",
-    "company": "JP Morgan Chase",
-    "title": "Asset Management Data Scientist \u2013 Summer Associate Intern",
-    "location": "NYC (New York)",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210802931"
-  },
-  {
     "id": "sj:986abdef-dc72-4aa6-a4da-fbbcadaadc49",
     "company": "CVS Health",
     "title": "Innovation & Technology Software Engineering: Data & Intelligence Intern",
@@ -2751,13 +2744,6 @@
     "url": "https://jobs.smartrecruiters.com/CapTechConsulting/744000155023169"
   },
   {
-    "id": "sj:4f779abb-5aab-4de8-951b-4fc91fc3daec",
-    "company": "Nissan",
-    "title": "AI & Data Analytics Intern",
-    "location": "Franklin, TN; Irving, TX (Other)",
-    "url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/AI---Data-Analytics-Intern---Summer-2027---Irving--TX-or-Franklin--TN_R00214223"
-  },
-  {
     "id": "sj:27adb757-bad5-4f3b-b9d6-3995cfd4e90b",
     "company": "Nissan Global",
     "title": "Data Science Intern",
@@ -3498,5 +3484,19 @@
     "title": "Energy Analyst Intern - Economics",
     "location": "Boston, MA (Other)",
     "url": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735999005"
+  },
+  {
+    "id": "sj:7fcad71e-65cc-40d4-8b02-4bb089e20989",
+    "company": "The Brattle Group",
+    "title": "Energy Analyst Intern - Economics - Multiple Teams",
+    "location": "Toronto, ON, Canada (Other)",
+    "url": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4736066005"
+  },
+  {
+    "id": "sj:71d40ca7-1546-417c-8bf5-c360ac814bb0",
+    "company": "Together AI",
+    "title": "Systems Research Engineer Intern - GPU Programming",
+    "location": "SF (Other)",
+    "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238460007"
   }
 ]
