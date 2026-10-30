@@ -301,13 +301,6 @@
     "url": "https://eyglobal.yello.co/jobs/gqy0pJfAkXrlECgDBjqcIw?job_board_id=c1riT--B2O-KySgYWsZO1Q"
   },
   {
-    "id": "sj:bb78f0cb-d806-4ae3-8996-ed333399cb6b",
-    "company": "American Express",
-    "title": "Data Science Intern - Global Decision Science - Credit & Fraud Risk",
-    "location": "NYC (New York)",
-    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013265"
-  },
-  {
     "id": "sj:26fc2a52-b260-4601-a804-43fb299bebf2",
     "company": "American Express",
     "title": "Data Science Intern - Global Decision Science - Credit & Fraud Risk",
@@ -1204,13 +1197,6 @@
     "url": "https://job-boards.greenhouse.io/stateaffairs/jobs/4437430009"
   },
   {
-    "id": "sj:fb5852a4-7dd6-4402-9294-65ab39f88f85",
-    "company": "Merck",
-    "title": "Information Science Intern - Future Talent Program",
-    "location": "Rahway, NJ (Washington DC / Central NJ)",
-    "url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Information-Science---Intern_R413651"
-  },
-  {
     "id": "sj:ca3d442d-982e-4251-b443-6e607ffd2504",
     "company": "Trimble",
     "title": "Software Engineer Intern",
@@ -1580,13 +1566,6 @@
     "title": "Engineering Intern - Multiple Teams",
     "location": "London, UK (London / Paris)",
     "url": "https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/London-United-Kingdom/Engineering-Summer-Internship-Programme_R0123389"
-  },
-  {
-    "id": "sj:574cf650-e6f4-42ae-a309-2bd87b5781da",
-    "company": "LSEG",
-    "title": "Engineering Intern - Multiple Teams",
-    "location": "London, UK (London / Paris)",
-    "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/London-United-Kingdom/Engineering-Summer-Internship-Programme_R0123389-1"
   },
   {
     "id": "sj:85495d7e-4673-4650-8d26-bbe8301a8736",
@@ -2555,13 +2534,6 @@
     "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Quality-Data-Science-Co-Op---Summer-2027_R-103629"
   },
   {
-    "id": "sj:c35aada5-ad17-4000-baae-c7099528eabb",
-    "company": "Marvell",
-    "title": "AI Data Science Intern",
-    "location": "Santa Clara, CA (Other)",
-    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/AI-Data-Science-Intern--MS---Summer-2027_2603846"
-  },
-  {
     "id": "sj:a68523cd-29af-496f-972d-7053da12daa7",
     "company": "Highmark Health",
     "title": "Data Analyst Undergraduate Intern",
@@ -3409,13 +3381,6 @@
     "url": "https://careers.withwaymo.com/jobs?gh_jid=8231711"
   },
   {
-    "id": "sj:acafb8f1-75b4-44f1-8450-4628ddf3b8a1",
-    "company": "ICF International",
-    "title": "Data Scientist Intern",
-    "location": "Remote in USA; Reston, VA; Denver, CO (Other)",
-    "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Data-Scientist--Reston--VA--Denver--CO--Remote-_R2603252"
-  },
-  {
     "id": "sj:20de5e49-f3f4-4acd-9ae0-e82d4edd0521",
     "company": "Pacific Life",
     "title": "Data Engineering Intern",
@@ -3498,5 +3463,40 @@
     "title": "Data Science Intern",
     "location": "Cary, NC (Other)",
     "url": "https://epicgames.com/careers/jobs/6202675004?gh_jid=6202675004"
+  },
+  {
+    "id": "sj:02dee7ff-6975-4a5e-8aea-ee0dc2ebfde9",
+    "company": "ByteDance",
+    "title": "Product Management Project Intern - Global Payment",
+    "location": "San Jose, CA (Other)",
+    "url": "https://jobs.bytedance.com/en/position/7686394581777631541/detail"
+  },
+  {
+    "id": "sj:6a018490-0c94-49df-9ad0-bfecd8fdad21",
+    "company": "Charter Manufacturing",
+    "title": "Digital Integration Intern",
+    "location": "Mequon, WI (Other)",
+    "url": "https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Manufacturing-Company-Inc---Mequon-WI/Digital-Integration-Intern--Year-Round-_R08129"
+  },
+  {
+    "id": "sj:fb864212-d3c0-4051-9019-29f9bcfde6ac",
+    "company": "Stryker",
+    "title": "Data Analytics Intern",
+    "location": "Fort Wayne, IN (Other)",
+    "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Wayne-Indiana/Data-Engineering-Intern_R572901"
+  },
+  {
+    "id": "sj:11d3d160-862a-4d48-9f6c-fc735d0c1383",
+    "company": "Koch Industries",
+    "title": "Business Analytics & Insights Intern",
+    "location": "Green Bay, WI (Other)",
+    "url": "https://koch.avature.net/en_US/careers/JobDetail/194813"
+  },
+  {
+    "id": "sj:673a3035-f4bb-47d2-912f-bee053a64f17",
+    "company": "Erie Insurance Group",
+    "title": "Data Intern 2",
+    "location": "Erie, PA (Other)",
+    "url": "https://jobs.erieinsurance.com/job/Erie-Intern-II-(Data)-PA-16506/1432176200/?ats=successfactors"
   }
 ]
