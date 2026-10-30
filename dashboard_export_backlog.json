@@ -1,5 +1,54 @@
 [
   {
+    "id": "sj:837d3ab9-da77-4d10-9ae6-5fa9bc3f5a5d",
+    "company": "General Motors",
+    "title": "Software Engineer Intern - Digital Product: Software Engineering",
+    "location": "Austin, TX; Milford, MI; Mountain View, CA; Warren, MI (Other)",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Software-Engineering_JR-202620546"
+  },
+  {
+    "id": "sj:fb3a1f41-a8da-429d-b5e3-547dea480442",
+    "company": "EMC Insurance",
+    "title": "Claims Intern - Data",
+    "location": "Iowa (Other)",
+    "url": "https://emcins.wd5.myworkdayjobs.com/en-US/EMC_Careers/job/Iowa/Intern--Claims--Data-_R6552-1"
+  },
+  {
+    "id": "sj:cb8e36f2-8593-4793-bcf8-e10743512481",
+    "company": "EMC Insurance",
+    "title": "Claims Intern - Data",
+    "location": "Iowa (Other)",
+    "url": "https://emcins.wd5.myworkdayjobs.com/EMC_Internships/job/Iowa/Intern--Claims--Data-_R6552"
+  },
+  {
+    "id": "sj:d473bd44-d390-41bc-b173-144940110b9e",
+    "company": "Waymo",
+    "title": "Product Data Science Intern",
+    "location": "SF (Other)",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8199365"
+  },
+  {
+    "id": "sj:43906c1b-7f09-425f-89c4-c110033758ce",
+    "company": "The Brattle Group",
+    "title": "Energy Analyst Intern - Economics",
+    "location": "Boston, MA (Other)",
+    "url": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735999005"
+  },
+  {
+    "id": "sj:7fcad71e-65cc-40d4-8b02-4bb089e20989",
+    "company": "The Brattle Group",
+    "title": "Energy Analyst Intern - Economics - Multiple Teams",
+    "location": "Toronto, ON, Canada (Other)",
+    "url": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4736066005"
+  },
+  {
+    "id": "sj:71d40ca7-1546-417c-8bf5-c360ac814bb0",
+    "company": "Together AI",
+    "title": "Systems Research Engineer Intern - GPU Programming",
+    "location": "SF (Other)",
+    "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238460007"
+  },
+  {
     "id": "sj:a4432340-1e42-4079-be3e-d590b4a323ec",
     "company": "Publicis Groupe",
     "title": "Product Manager Intern - Class of 2028",
@@ -364,6 +413,13 @@
     "url": "https://jobs.constellationenergy.com/jobs/138716?icims=1"
   },
   {
+    "id": "sj:772bc79c-99f8-434b-b3f8-c449513885d4",
+    "company": "Brain Co.",
+    "title": "AI Product Intern",
+    "location": "SF (Other)",
+    "url": "https://jobs.ashbyhq.com/brainco/28c6cd2f-b609-4ca6-a2f6-adfa3d679d0b/application?embed=true"
+  },
+  {
     "id": "sj:4f3b12a6-0ecd-425c-8959-5b8f1ce9d772",
     "company": "Qualcomm",
     "title": "Machine Learning Compiler & Performance Engineering Intern - Systems",
@@ -460,13 +516,6 @@
     "title": "Data Analyst Intern - Multiple Teams",
     "location": "Boston, MA; Johnston, RI; Columbus, OH (Other)",
     "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49278"
-  },
-  {
-    "id": "sj:81596e8a-9d9f-41c9-aac6-a983293dedc1",
-    "company": "Wellmark",
-    "title": "Data Analytics & Governance Internship",
-    "location": "Des Moines, IA (Other)",
-    "url": "https://jobs.smartrecruiters.com/WellmarkInc/744000148917718"
   },
   {
     "id": "sj:73b3f6a8-64fc-4121-9f03-57845bb24672",
@@ -882,13 +931,6 @@
     "url": "https://jobs.jobvite.com/aarete/job/oBXLAfwD?nl=1&nl=1&fr=false"
   },
   {
-    "id": "sj:915593c6-e773-4ccd-9039-fc0ec4968ae5",
-    "company": "Ragle Inc",
-    "title": "Data Analytics Intern",
-    "location": "North Richland Hills, TX (Other)",
-    "url": "https://ragleinc.applytojob.com/apply/H0xLKtFZlq/Data-Analytics-Intern-Summer-2027"
-  },
-  {
     "id": "sj:0a09d266-9cc5-488d-a0f1-a5950423f368",
     "company": "Hy-Vee",
     "title": "Data Integration Intern",
@@ -1134,13 +1176,6 @@
     "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Honolulu-HI/University---2027-Summer-Games-Systems-Engineer-Intern---Honolulu--HI_R0248370"
   },
   {
-    "id": "sj:097e5358-9e45-41e0-86bc-5289976e1828",
-    "company": "Booz Allen",
-    "title": "Systems Engineer Intern - Summer Games",
-    "location": "San Diego, CA (Other)",
-    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Diego-CA/University---2027-Summer-Games-Systems-Engineer-Intern---El-Segundo--CA_R0248366"
-  },
-  {
     "id": "sj:0e9bb9cd-7dee-4ce0-a479-654d1552f1bc",
     "company": "Booz Allen",
     "title": "Systems Engineer Intern - University",
@@ -1167,13 +1202,6 @@
     "title": "Systems Engineer Intern - Summer Games",
     "location": "Atlanta, GA (Other)",
     "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/University---2027-Summer-Games--Systems-Engineer-Intern---Atlanta--GA_R0248381"
-  },
-  {
-    "id": "sj:7637b476-395a-4c53-bc72-f6e375758876",
-    "company": "Booz Allen",
-    "title": "Systems Engineer Intern - University",
-    "location": "Rome, NY (Other)",
-    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Rome-NY/University---2027-Summer-Games-Systems-Engineer-Intern---Rome--NY_R0248386"
   },
   {
     "id": "sj:bfc7d59a-2729-48fa-8c25-a3278920ef67",
@@ -1251,13 +1279,6 @@
     "title": "Systems Engineer Intern - Summer Games",
     "location": "Fort Walton Beach, FL (Other)",
     "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Walton-Beach-FL/University---2027-Summer-Games-Systems-Engineer-Intern---Ft-Walton-Beach--FL_R0248388"
-  },
-  {
-    "id": "sj:6aedf2d9-49ab-471f-8cb3-45c3813875b0",
-    "company": "Booz Allen",
-    "title": "Systems Engineer Intern - University - 2027 Summer Games",
-    "location": "Annapolis Junction, MD (Other)",
-    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Annapolis-Junction-MD/University---2027-Summer-Games-Systems-Engineer-Intern---Annapolis-Junction--MD_R0248384"
   },
   {
     "id": "sj:1e734b13-8e70-47ad-8aa1-599b2c43392f",
@@ -1405,13 +1426,6 @@
     "title": "IT Intern - Summer 2027",
     "location": "Kansas City, MO (Other)",
     "url": "https://commercebank.wd1.myworkdayjobs.com/CommerceJobs/job/MO---Kansas-City-DowntownPlaza---Kansas-City---KC-Downtown-Trust-Building-922-Walnut-64106/Intern---IT--Summer-2027-_38395"
-  },
-  {
-    "id": "sj:596a789f-9d3f-4275-91f3-da77d86fc246",
-    "company": "Booz Allen",
-    "title": "Data Scientist Intern - University - Summer Games",
-    "location": "El Segundo, CA (Other)",
-    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/El-Segundo-CA/University--2027-Summer-Games-Data-Scientist-Intern_R0248050"
   },
   {
     "id": "sj:23f42855-d656-4288-b470-cbc2fb8f3bbd",
@@ -1825,13 +1839,6 @@
     "title": "Data Engineer Intern - Monetization Data",
     "location": "San Jose, CA (Other)",
     "url": "https://lifeattiktok.com/search/7671232204182276405"
-  },
-  {
-    "id": "sj:e5dfef91-5533-406d-a42a-fab2b837638b",
-    "company": "Chamberlain Group",
-    "title": "Community Product Management Intern - Summer 2027",
-    "location": "Oak Brook, IL (Other)",
-    "url": "https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Intern--Community-Product-Management--Summer-2026-_JR31309"
   },
   {
     "id": "sj:46e43e77-a583-4b8b-a107-fac3536b5a7c",
@@ -2289,6 +2296,34 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Remote/System-Software-Engineering-Intern--GPU---2027_JR2025334"
   },
   {
+    "id": "wd:nvidia:/job/Taiwan-Taipei/Software-Engineer--Data-Center-Compute-Software-Tools--RDSS-Intern-_JR2025645",
+    "company": "nvidia",
+    "title": "Software Engineer, Data Center Compute Software Tools (RDSS Intern)",
+    "location": "Taiwan, Taipei (Other)",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Software-Engineer--Data-Center-Compute-Software-Tools--RDSS-Intern-_JR2025645"
+  },
+  {
+    "id": "wd:nvidia:/job/Taiwan-Taipei/System-Software-Engineer---Embedded-and-Automotive--RDSS-Intern-_JR2026965",
+    "company": "nvidia",
+    "title": "System Software Engineer - Embedded and Automotive (RDSS Intern)",
+    "location": "Taiwan, Taipei (Other)",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Software-Engineer---Embedded-and-Automotive--RDSS-Intern-_JR2026965"
+  },
+  {
+    "id": "wd:nvidia:/job/China-Shanghai/MLOps-Physical-AI-Data-Intern---2027_JR2026544",
+    "company": "nvidia",
+    "title": "MLOps Physical AI Data Intern - 2027",
+    "location": "China, Shanghai (Other)",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/MLOps-Physical-AI-Data-Intern---2027_JR2026544"
+  },
+  {
+    "id": "sj:cafb9ee2-6d84-4473-b7f3-b464596c8c17",
+    "company": "Obsidian Entertainment",
+    "title": "Gameplay Engineer Intern",
+    "location": "Irvine, CA (Other)",
+    "url": "https://obsidian.applytojob.com/apply/zxhj1ePGcR/Gameplay-Engineer-2027-Summer-Internship"
+  },
+  {
     "id": "sj:8a9e6891-293e-40a9-b0cc-86a38defec9c",
     "company": "Axon",
     "title": "Software Engineer Intern",
@@ -2315,6 +2350,13 @@
     "title": "Procurement Transformation Intern",
     "location": "Franklin, TN (Other)",
     "url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Procurement-Transformation---Summer-2027---Franklin--TN_R00214279"
+  },
+  {
+    "id": "sj:df757bc2-dbbd-4572-b2e8-78356ee1a5f4",
+    "company": "Symbotic",
+    "title": "Customer Success Intern",
+    "location": "Wilmington, MA (Other)",
+    "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Intern--Customer-Success_R8234"
   },
   {
     "id": "sj:e3c3ec07-903b-4d30-ab26-7781d86dbcb9",
@@ -3239,13 +3281,6 @@
     "title": "Software Engineer Intern",
     "location": "Manchester, UK (Other)",
     "url": "https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4997"
-  },
-  {
-    "id": "sj:3e95934a-d25a-49d5-af4b-1a2eeb4b3eef",
-    "company": "Robert Bosch Venture Capital",
-    "title": "Calibration Process Optimization Intern",
-    "location": "Farmington Hills, MI (Other)",
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000156585075"
   },
   {
     "id": "sj:5635b14b-45dd-4bb0-925f-0231622eb338",
@@ -5915,6 +5950,13 @@
     "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Wellesley-Hills-Massachusetts/Medical-Intelligence-Co-op---Spring-2027_JR00127676"
   },
   {
+    "id": "sj:a645e65c-4e25-4cba-8430-d05d91919697",
+    "company": "Brain Co.",
+    "title": "Machine Learning Engineer \u2013 Applied AI Intern",
+    "location": "SF (Other)",
+    "url": "https://jobs.ashbyhq.com/brainco/a4bdb254-8007-4142-bf36-a3e8622b1ed9/application?embed=true"
+  },
+  {
     "id": "sj:13c20210-b9de-4f8c-93a7-96ce7766afc3",
     "company": "NVIDIA",
     "title": "Research Intern",
@@ -5941,6 +5983,13 @@
     "title": "Information Technology Software Development Intern",
     "location": "Baltimore, MD (Other)",
     "url": "https://jobs.constellationenergy.com/jobs/138708?icims=1"
+  },
+  {
+    "id": "sj:3336f385-0b66-4e71-af69-42c243613d83",
+    "company": "Brain Co.",
+    "title": "AI Platform Engineer Intern",
+    "location": "SF (Other)",
+    "url": "https://jobs.ashbyhq.com/brainco/2db4339e-79c8-4e97-9c94-92753b49e20a/application?embed=true"
   },
   {
     "id": "sj:27deb3b5-50a4-4bab-9656-57bb2dd34ead",
@@ -6949,54 +6998,5 @@
     "title": "Finance Analytics Intern - Global Finance",
     "location": "Atlanta, GA (Other)",
     "url": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/UPS-Global-Finance-Summer-2027-Analytics-Internship_R26030589"
-  },
-  {
-    "id": "sj:34237b64-67e9-4cd9-be04-b033bc4dfe90",
-    "company": "AeroVironment",
-    "title": "Machine Learning Intern",
-    "location": "Centreville, VA; Minneapolis, MN (Other)",
-    "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Minneapolis-MN/Summer-2027-Machine-Learning-Intern_8389"
-  },
-  {
-    "id": "sj:e23b6362-0fdf-49d6-ac3b-1c51d3febced",
-    "company": "AeroVironment",
-    "title": "Software Engineer Intern",
-    "location": "Germantown, MD; Annapolis Junction, MD; Pottstown, PA; Albuquerque, NM; Sunrise, FL; Arlington County, Arlington, VA; Melbourne, FL; Petaluma, CA; Minneapolis, MN; San Luis Obispo, CA; Huntsville, AL; San Diego, CA; Moorpark, CA; Simi Valley, CA (Other)",
-    "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Simi-Valley-CA/Summer-2027-Software-Engineering-Intern_8611"
-  },
-  {
-    "id": "sj:bafe3732-d178-4e2d-bf6c-1ddf689474fe",
-    "company": "Vanguard",
-    "title": "Application Development Intern",
-    "location": "Dallas, TX (Other)",
-    "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/DallasFt-Worth-TX/College-to-Corporate-IT-Internship---Application-Development---TX-_181846"
-  },
-  {
-    "id": "sj:8cd5b581-53c6-4c6a-88c2-b61b04039976",
-    "company": "Aerotech",
-    "title": "Software Engineering Intern Co-op - Enterprise Development Team - Application Development Team",
-    "location": "Pittsburgh, PA (Other)",
-    "url": "https://aerotech.applytojob.com/apply/OFIYSpO0HW/Software-Engineering-Internship-Or-Coop-2027"
-  },
-  {
-    "id": "sj:f7f7fa98-cacf-4225-9118-d40ad3288633",
-    "company": "Westinghouse Electric Company",
-    "title": "Computer Engineering / Software Engineering Intern",
-    "location": "Rock Hill, SC; Columbia, SC (Other)",
-    "url": "https://careers.westinghousenuclear.com/job/Rock-Hill-Summer-Intern-Computer-Engineering-Software-Engineering-SC-29730/1425163200/?ats=successfactors"
-  },
-  {
-    "id": "sj:58e64075-6609-418d-a437-22d5c25dd225",
-    "company": "Cvent",
-    "title": "Software Engineer Intern - Summer 2027",
-    "location": "Tysons, VA (Other)",
-    "url": "https://careers.cvent.com/jobs/10806?icims=1"
-  },
-  {
-    "id": "sj:949d51a9-718b-4bfe-8a44-2735fc2a1a8a",
-    "company": "HP IQ",
-    "title": "Software Engineer Intern - Cloud Services - Summer 2027",
-    "location": "SF (Other)",
-    "url": "https://job-boards.greenhouse.io/hpiq/jobs/6111955004"
   }
 ]
