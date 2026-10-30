@@ -301,13 +301,6 @@
     "url": "https://eyglobal.yello.co/jobs/gqy0pJfAkXrlECgDBjqcIw?job_board_id=c1riT--B2O-KySgYWsZO1Q"
   },
   {
-    "id": "sj:26fc2a52-b260-4601-a804-43fb299bebf2",
-    "company": "American Express",
-    "title": "Data Science Intern - Global Decision Science - Credit & Fraud Risk",
-    "location": "NYC (New York)",
-    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013266"
-  },
-  {
     "id": "sj:ac037a9c-f763-4262-beaf-c091d10bf894",
     "company": "American Express",
     "title": "Data Science Intern - Finance",
@@ -362,20 +355,6 @@
     "title": "Graduate Leadership Program Consumer Deposit and Payment Products Intern",
     "location": "Greenville, SC; Mt Laurel Township, NJ; NYC; Portland, ME; Wilmington, DE (New York)",
     "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/XMLNAME-2027-Summer-Internship-Graduate-Leadership-Program--Consumer-Deposit-and-Payment-Products_R_1508783"
-  },
-  {
-    "id": "sj:6a910274-8203-4361-9726-d22a315d1644",
-    "company": "American Express",
-    "title": "Product Development Intern - Global Commercial Services",
-    "location": "NYC (New York)",
-    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013091"
-  },
-  {
-    "id": "sj:dc5059f5-acc3-4aa6-bb67-ecd5a9e42cbe",
-    "company": "American Express",
-    "title": "Product Management Intern - Global Commercial Services",
-    "location": "NYC (New York)",
-    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012558"
   },
   {
     "id": "sj:e012dfd4-c33a-4639-8ea0-3e6586db2b77",
@@ -747,20 +726,6 @@
     "title": "Emerging Markets Internship",
     "location": "NYC (New York)",
     "url": "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301926"
-  },
-  {
-    "id": "sj:e9b7e6e4-f5c7-447c-bd8d-3c9a764d5f44",
-    "company": "LSEG",
-    "title": "Engineering Intern",
-    "location": "NYC (New York)",
-    "url": "https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/New-York-City-United-States/Engineering-Summer-Internship-Programme_R0123569"
-  },
-  {
-    "id": "sj:f4082cd5-efa8-433b-a046-a2780c5286b5",
-    "company": "LSEG",
-    "title": "Engineering Intern",
-    "location": "NYC (New York)",
-    "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/New-York-City-United-States/Engineering-Summer-Internship-Programme_R0123569-1"
   },
   {
     "id": "sj:3d2205a0-6089-401d-acc1-cb0542916a3d",
@@ -1561,13 +1526,6 @@
     "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013769"
   },
   {
-    "id": "sj:ef25f573-6bcc-4ebb-810a-dcb531a4eabd",
-    "company": "LSEG",
-    "title": "Engineering Intern - Multiple Teams",
-    "location": "London, UK (London / Paris)",
-    "url": "https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/London-United-Kingdom/Engineering-Summer-Internship-Programme_R0123389"
-  },
-  {
     "id": "sj:85495d7e-4673-4650-8d26-bbe8301a8736",
     "company": "JP Morgan Chase",
     "title": "Software Engineer Intern - Summer Internship",
@@ -1622,6 +1580,13 @@
     "title": "Software Engineer Intern",
     "location": "London, UK; Chicago, IL (London / Paris)",
     "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002"
+  },
+  {
+    "id": "sj:ac27249b-0f36-44ff-a07c-513168c4e98b",
+    "company": "Stratolaunch",
+    "title": "Manufacturing Systems & Data Intern - Systems",
+    "location": "Mojave, CA (Other)",
+    "url": "https://job-boards.greenhouse.io/stratolaunch/jobs/5467824008"
   },
   {
     "id": "sj:6a04f366-4e42-4fe5-bb4f-c88ef2a7db83",
@@ -2471,20 +2436,6 @@
     "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Supplies---Sensors-Product-Manager_JR103640"
   },
   {
-    "id": "sj:535fd64c-e754-4f4a-b1f0-2b111731d1ff",
-    "company": "Sony",
-    "title": "Data Quality & Systems Intern",
-    "location": "Weybridge, UK (Other)",
-    "url": "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Weybridge/Data-Quality---Systems-Intern---Student-Placement-Year_JR-119746-1"
-  },
-  {
-    "id": "sj:117c855c-445b-4fef-88f4-2157e964b5b8",
-    "company": "Sony",
-    "title": "Data Quality & Systems Intern",
-    "location": "Weybridge, UK (Other)",
-    "url": "https://sonyglobal.wd1.myworkdayjobs.com/Sony_Europe_Careers/job/Weybridge/Data-Quality---Systems-Intern---Student-Placement-Year_JR-119746"
-  },
-  {
     "id": "sj:274daa15-b592-485a-8d98-cc56d12ebdca",
     "company": "Toyota",
     "title": "Data Science Intern",
@@ -3094,6 +3045,13 @@
     "url": "https://c3.ai/job-description/8860563002?gh_jid=8860563002"
   },
   {
+    "id": "sj:ee9ccca0-8bd3-4e29-a009-8eb52e728539",
+    "company": "C3.ai",
+    "title": "AI Product Manager Intern",
+    "location": "Redwood City, CA (Other)",
+    "url": "https://job-boards.greenhouse.io/c3ascend/jobs/8860562002"
+  },
+  {
     "id": "sj:665e2669-0a2a-4e07-9859-73f9f3e9b83d",
     "company": "Vanguard",
     "title": "College to Corporate IT Intern - Application Development",
@@ -3395,13 +3353,6 @@
     "url": "https://americancentury.wd5.myworkdayjobs.com/AmericanCenturyInvestments/job/Kansas-City-Missouri/Enterprise-Data-Intern_R0005751"
   },
   {
-    "id": "sj:f47bf68f-08e3-4d92-ade8-eff54ae7c108",
-    "company": "State Farm",
-    "title": "Data Science Intern - Magnet Program",
-    "location": "Tempe, AZ (Other)",
-    "url": "https://jobs.statefarm.com/jobs/46353?icims=1"
-  },
-  {
     "id": "sj:a2e915b7-cd1b-4137-9c87-a2707b3de604",
     "company": "ABB",
     "title": "Product Management Intern",
@@ -3498,5 +3449,54 @@
     "title": "Data Intern 2",
     "location": "Erie, PA (Other)",
     "url": "https://jobs.erieinsurance.com/job/Erie-Intern-II-(Data)-PA-16506/1432176200/?ats=successfactors"
+  },
+  {
+    "id": "sj:2e8bb17d-0726-4482-af62-5f868bede92c",
+    "company": "AutoZone",
+    "title": "Data Science Intern",
+    "location": "Memphis, TN (Other)",
+    "url": "https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155461"
+  },
+  {
+    "id": "sj:85721ea7-7039-4fed-bd43-becafa1de541",
+    "company": "AutoZone",
+    "title": "Ecommerce Intern",
+    "location": "Memphis, TN (Other)",
+    "url": "https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155427"
+  },
+  {
+    "id": "sj:837d3ab9-da77-4d10-9ae6-5fa9bc3f5a5d",
+    "company": "General Motors",
+    "title": "Software Engineer Intern - Digital Product: Software Engineering",
+    "location": "Austin, TX; Milford, MI; Mountain View, CA; Warren, MI (Other)",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Software-Engineering_JR-202620546"
+  },
+  {
+    "id": "sj:fb3a1f41-a8da-429d-b5e3-547dea480442",
+    "company": "EMC Insurance",
+    "title": "Claims Intern - Data",
+    "location": "Iowa (Other)",
+    "url": "https://emcins.wd5.myworkdayjobs.com/en-US/EMC_Careers/job/Iowa/Intern--Claims--Data-_R6552-1"
+  },
+  {
+    "id": "sj:cb8e36f2-8593-4793-bcf8-e10743512481",
+    "company": "EMC Insurance",
+    "title": "Claims Intern - Data",
+    "location": "Iowa (Other)",
+    "url": "https://emcins.wd5.myworkdayjobs.com/EMC_Internships/job/Iowa/Intern--Claims--Data-_R6552"
+  },
+  {
+    "id": "sj:d473bd44-d390-41bc-b173-144940110b9e",
+    "company": "Waymo",
+    "title": "Product Data Science Intern",
+    "location": "SF (Other)",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8199365"
+  },
+  {
+    "id": "sj:43906c1b-7f09-425f-89c4-c110033758ce",
+    "company": "The Brattle Group",
+    "title": "Energy Analyst Intern - Economics",
+    "location": "Boston, MA (Other)",
+    "url": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735999005"
   }
 ]
