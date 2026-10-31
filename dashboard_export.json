@@ -14,6 +14,13 @@
     "url": "https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Summer-2027-Internship-Program---Data-Analyst-Intern_Job_Req_55894"
   },
   {
+    "id": "sj:10827b55-2941-4d5e-b513-29f0808017c4",
+    "company": "Barclays",
+    "title": "Client Data & Engineering Group Summer Intern - Chief Client Office",
+    "location": "NYC (New York)",
+    "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/Chief-Client-Office---Client-Data---Engineering-Group-Summer-Internship-Program-2027-New-York-City_JR-0000137731"
+  },
+  {
     "id": "sj:b333deda-97d7-4a96-9799-34132becee84",
     "company": "Tapestry",
     "title": "E-Commerce Intern - E-Commerce",
@@ -110,13 +117,6 @@
     "title": "Data Scientist Intern",
     "location": "NYC (New York)",
     "url": "https://boards.greenhouse.io/point72/jobs/8885299002"
-  },
-  {
-    "id": "sj:02985926-4e37-4219-a8ab-21d9d6594ab2",
-    "company": "MEMX",
-    "title": "Data Engineer Intern",
-    "location": "NYC (New York)",
-    "url": "https://job-boards.greenhouse.io/memx/jobs/5450442008"
   },
   {
     "id": "sj:6af37fd6-50dd-4415-b8fd-2213d7e19394",
@@ -413,11 +413,32 @@
     "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773869"
   },
   {
+    "id": "sj:e00d51e8-391a-473d-a100-37fa803e306d",
+    "company": "Andreessen Horowitz",
+    "title": "Research Intern - Frontier",
+    "location": "NYC (New York)",
+    "url": "https://a16z.com/about/jobs/?gh_jid=8046730003"
+  },
+  {
     "id": "sj:c5138e81-eb36-45f4-8460-5c616a7abbf5",
     "company": "Amazon",
     "title": "Software Engineer Intern - Machine Learning/Automated Reasoning",
     "location": "Boston, MA; Seattle, WA; Austin, TX; Irvine, CA; Arlington County, Arlington, VA; NYC; Bellevue, WA; Sunnyvale, CA; San Diego, CA (New York)",
     "url": "https://amazon.jobs/en/jobs/10593521/software-development-engineer-intern-machine-learning-automated-reasoning-summer-2027"
+  },
+  {
+    "id": "sj:6fc8c909-a182-4271-9fc0-a166d5865190",
+    "company": "Stripe",
+    "title": "Machine Learning Engineer Intern",
+    "location": "Seattle, WA; SF; NYC (New York)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8328662"
+  },
+  {
+    "id": "sj:8cb5c0c9-c8bc-426f-a7e3-9aa6f16b2ca5",
+    "company": "Stripe",
+    "title": "Machine Learning Engineer Intern",
+    "location": "Seattle, WA; SF; NYC (New York)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8333074"
   },
   {
     "id": "sj:615aa482-5345-4160-bf50-644e02ae36b0",
@@ -1106,6 +1127,13 @@
     "url": "https://applebank.wd5.myworkdayjobs.com/applebankcareers/job/New-York-NY/XMLNAME-2027-Summer-Intern--IT-Data--Analytics----Automation_2026-1414"
   },
   {
+    "id": "sj:e1161c74-23ae-4b54-95e6-d165653358e8",
+    "company": "Strada Education Foundation",
+    "title": "Clear Outcomes and Data Science Intern",
+    "location": "Washington, DC (Washington DC / Central NJ)",
+    "url": "https://jobs.lever.co/stradaeducation/d8109e92-5156-48e2-879f-c9ea299e971b/apply"
+  },
+  {
     "id": "sj:7e450fbd-9292-460d-988b-8583bf42ae43",
     "company": "Wells Fargo",
     "title": "Technology Intern - Early Careers - Data Engineering",
@@ -1603,6 +1631,20 @@
     "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002"
   },
   {
+    "id": "sj:b2f1fe9d-fc42-40d8-9d37-4d7457195c8d",
+    "company": "Divergent Technologies",
+    "title": "Business Intelligence Intern",
+    "location": "Torrance, CA (Other)",
+    "url": "https://job-boards.greenhouse.io/divergent/jobs/5393519008"
+  },
+  {
+    "id": "sj:fb4ff940-a824-4d20-bce3-e3331a46768e",
+    "company": "Pyrotek",
+    "title": "Product Management Intern",
+    "location": "Spokane, WA (Other)",
+    "url": "https://jobs.smartrecruiters.com/Pyrotek3/744000158830479"
+  },
+  {
     "id": "sj:ac27249b-0f36-44ff-a07c-513168c4e98b",
     "company": "Stratolaunch",
     "title": "Manufacturing Systems & Data Intern - Systems",
@@ -1636,6 +1678,13 @@
     "title": "IT Intern",
     "location": "Rosemont, IL (Other)",
     "url": "https://lifefitness.wd1.myworkdayjobs.com/searchLFN/job/Rosemont-IL/IT-Intern_JR-025323"
+  },
+  {
+    "id": "sj:b93cb4ed-8590-40e5-8548-777059a7313b",
+    "company": "Hyster-Yale Materials Handling",
+    "title": "Business Analytics Intern",
+    "location": "Greenville, NC (Other)",
+    "url": "https://hysteryale.wd1.myworkdayjobs.com/hyster-yalecareers/job/HY-US-Greenville-NC-Headquarters/Summer-2027-Business-Analytics-Intern_R8539"
   },
   {
     "id": "sj:6a04f366-4e42-4fe5-bb4f-c88ef2a7db83",
@@ -3087,6 +3136,13 @@
     "url": "https://job-boards.greenhouse.io/c3ascend/jobs/8860562002"
   },
   {
+    "id": "sj:66abc21b-ff22-412a-8284-46a8e772c901",
+    "company": "Farmers Mutual Hail",
+    "title": "Data Architect Intern",
+    "location": "West Des Moines, IA (Other)",
+    "url": "https://job-boards.greenhouse.io/farmersmutualhailinsurancecompany/jobs/4422262009"
+  },
+  {
     "id": "sj:665e2669-0a2a-4e07-9859-73f9f3e9b83d",
     "company": "Vanguard",
     "title": "College to Corporate IT Intern - Application Development",
@@ -3442,61 +3498,5 @@
     "title": "Software Engineer Intern - Process Systems and Solutions",
     "location": "Round Rock, TX (Other)",
     "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011295"
-  },
-  {
-    "id": "sj:c6ad75c6-e86c-4602-8344-eb52b14bb37e",
-    "company": "Epic Games",
-    "title": "Data Science Intern",
-    "location": "Cary, NC (Other)",
-    "url": "https://epicgames.com/careers/jobs/6202675004?gh_jid=6202675004"
-  },
-  {
-    "id": "sj:02dee7ff-6975-4a5e-8aea-ee0dc2ebfde9",
-    "company": "ByteDance",
-    "title": "Product Management Project Intern - Global Payment",
-    "location": "San Jose, CA (Other)",
-    "url": "https://jobs.bytedance.com/en/position/7686394581777631541/detail"
-  },
-  {
-    "id": "sj:6a018490-0c94-49df-9ad0-bfecd8fdad21",
-    "company": "Charter Manufacturing",
-    "title": "Digital Integration Intern",
-    "location": "Mequon, WI (Other)",
-    "url": "https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Manufacturing-Company-Inc---Mequon-WI/Digital-Integration-Intern--Year-Round-_R08129"
-  },
-  {
-    "id": "sj:fb864212-d3c0-4051-9019-29f9bcfde6ac",
-    "company": "Stryker",
-    "title": "Data Analytics Intern",
-    "location": "Fort Wayne, IN (Other)",
-    "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Wayne-Indiana/Data-Engineering-Intern_R572901"
-  },
-  {
-    "id": "sj:11d3d160-862a-4d48-9f6c-fc735d0c1383",
-    "company": "Koch Industries",
-    "title": "Business Analytics & Insights Intern",
-    "location": "Green Bay, WI (Other)",
-    "url": "https://koch.avature.net/en_US/careers/JobDetail/194813"
-  },
-  {
-    "id": "sj:673a3035-f4bb-47d2-912f-bee053a64f17",
-    "company": "Erie Insurance Group",
-    "title": "Data Intern 2",
-    "location": "Erie, PA (Other)",
-    "url": "https://jobs.erieinsurance.com/job/Erie-Intern-II-(Data)-PA-16506/1432176200/?ats=successfactors"
-  },
-  {
-    "id": "sj:2e8bb17d-0726-4482-af62-5f868bede92c",
-    "company": "AutoZone",
-    "title": "Data Science Intern",
-    "location": "Memphis, TN (Other)",
-    "url": "https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155461"
-  },
-  {
-    "id": "sj:85721ea7-7039-4fed-bd43-becafa1de541",
-    "company": "AutoZone",
-    "title": "Ecommerce Intern",
-    "location": "Memphis, TN (Other)",
-    "url": "https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155427"
   }
 ]
