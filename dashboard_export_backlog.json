@@ -1,40 +1,5 @@
 [
   {
-    "id": "sj:a2e915b7-cd1b-4137-9c87-a2707b3de604",
-    "company": "ABB",
-    "title": "Product Management Intern",
-    "location": "New Berlin, WI (Other)",
-    "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/New-Berlin-Wisconsin-United-States-of-America/Product-Management-Intern---Summer-2027_JR00047280"
-  },
-  {
-    "id": "sj:37c49cf0-32b3-401f-a00e-3f878679c268",
-    "company": "Synchrony Financial",
-    "title": "Digital Technology Center Intern",
-    "location": "Stamford, CT (Other)",
-    "url": "https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/UConn-Stamford-Digital-Technology-Center-Intern---Summer-2027_2602661"
-  },
-  {
-    "id": "sj:d71cc21f-dabe-4071-b07e-81c42007e03e",
-    "company": "Franklin Electric",
-    "title": "Global Business Strategy Development Intern",
-    "location": "Fort Wayne, IN (Other)",
-    "url": "https://franklin-electric.pinpointhq.com/en/postings/a8e0afdd-63ce-4817-aaca-056018010f06?ats=pinpointhq"
-  },
-  {
-    "id": "sj:5b597914-e71c-489d-b3ad-77a3e48f7c58",
-    "company": "Astranis",
-    "title": "Software Engineer Enterprise Systems Intern - Summer 2027",
-    "location": "SF (Other)",
-    "url": "https://job-boards.greenhouse.io/astranis/jobs/4705610006"
-  },
-  {
-    "id": "sj:9fa2b794-7b44-4ff6-876c-7dc3d18b49b4",
-    "company": "Zekelman Industries",
-    "title": "Business Intelligence Intern - Program Development",
-    "location": "Austin, TX; Troy, MI (Other)",
-    "url": "https://zekelman.wd12.myworkdayjobs.com/Careers/job/Troy-MI/Intern--Business-Intelligence_JR002769"
-  },
-  {
     "id": "sj:3a44b244-cc3e-47ea-9428-137c843acca3",
     "company": "Excellus BCBS",
     "title": "College Operations Analyst Intern",
@@ -1251,20 +1216,6 @@
     "title": "Data Management Intern - Global Merchant & Network Services",
     "location": "Phoenix, AZ (Other)",
     "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012668"
-  },
-  {
-    "id": "sj:aca8a652-9296-424a-8ade-728029af11f2",
-    "company": "American Express",
-    "title": "Digital Product Management Intern - Enterprise Technology Services",
-    "location": "Phoenix, AZ (Other)",
-    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012681"
-  },
-  {
-    "id": "sj:26134efd-a4c8-4c77-8131-6ee7b6bfa646",
-    "company": "American Express",
-    "title": "Digital Product Management Intern - Enterprise Technology Services",
-    "location": "Sunrise, FL (Other)",
-    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012145"
   },
   {
     "id": "sj:fbc330bb-a6c5-48a8-b0d9-537f8bf68269",
@@ -6552,13 +6503,6 @@
     "url": "https://boards.greenhouse.io/embed/job_app?token=8175471"
   },
   {
-    "id": "sj:0da1449e-7007-4294-b336-740b56c5fbfc",
-    "company": "Barclays",
-    "title": "Technology Developer Intern",
-    "location": "Knutsford, UK (Other)",
-    "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Knutsford_JR-0000129381"
-  },
-  {
     "id": "sj:8b26c26a-93b7-4702-b463-83420efc11af",
     "company": "TruStage",
     "title": "Information Technology Development and Infrastructure Intern",
@@ -6930,13 +6874,6 @@
     "url": "https://www.tesla.com/careers/search/job/282147"
   },
   {
-    "id": "sj:1f33dede-1d64-4aeb-8345-18c5ceabdf28",
-    "company": "Textron",
-    "title": "Software Engineer Intern",
-    "location": "Augusta, GA (Other)",
-    "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=343299"
-  },
-  {
     "id": "sj:ee4b10f5-1464-463a-b28a-9020824aa805",
     "company": "McKesson",
     "title": "Software Engineer Intern",
@@ -6998,5 +6935,68 @@
     "title": "Analytics Intern",
     "location": "Philadelphia, PA (Other)",
     "url": "https://job-boards.greenhouse.io/perpay/jobs/4076934007"
+  },
+  {
+    "id": "sj:a9bac9bd-523b-4eac-9ef9-631dc4ac3919",
+    "company": "Johns Hopkins Applied Physics Laboratory",
+    "title": "2027 Internship - Weapon Control",
+    "location": "Laurel, MD (Other)",
+    "url": "https://careers.jhuapl.edu/jobs/59901?icims=1"
+  },
+  {
+    "id": "sj:1b0bb488-c97a-4a6a-acd2-88b042ebf992",
+    "company": "Pella",
+    "title": "Software Intern",
+    "location": "Pella, IA; Urbandale, IA (Other)",
+    "url": "https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/253299"
+  },
+  {
+    "id": "sj:98ba4abf-1726-45e5-a03c-c711dfb81c84",
+    "company": "ByteDance",
+    "title": "Software Engineer Intern - Relational Database",
+    "location": "San Jose, CA (Other)",
+    "url": "https://jobs.bytedance.com/en/position/7678449088065997109/detail"
+  },
+  {
+    "id": "sj:b96c7c0a-e52d-479c-8c01-d4e54118328f",
+    "company": "AMD",
+    "title": "Compiler Engineer Intern/Co-op",
+    "location": "San Jose, CA; Santa Clara, CA (Other)",
+    "url": "https://careers.amd.com/jobs/91865?icims=1"
+  },
+  {
+    "id": "sj:e9f9050a-780c-47dd-b98a-17dda2af0453",
+    "company": "AMD",
+    "title": "Compiler Engineer Intern/Co-op",
+    "location": "Austin, TX; Longmont, CO; Fishkill, NY; Fort Collins, CO; Boxborough, MA (Other)",
+    "url": "https://careers.amd.com/jobs/91864?icims=1"
+  },
+  {
+    "id": "sj:c00cea89-6203-42a3-af35-f98efd65e78a",
+    "company": "AMD",
+    "title": "Compiler Engineer Intern/Co-op - Masters",
+    "location": "Austin, TX; Longmont, CO; Fishkill, NY; Fort Collins, CO; Boxborough, MA (Other)",
+    "url": "https://careers.amd.com/jobs/91867?icims=1"
+  },
+  {
+    "id": "sj:f0736d54-fe0a-4d54-ad35-f1085b1bd50c",
+    "company": "AMD",
+    "title": "Compiler Engineer Intern/Co-op",
+    "location": "San Jose, CA; Santa Clara, CA (Other)",
+    "url": "https://careers.amd.com/jobs/91866?icims=1"
+  },
+  {
+    "id": "sj:307102b6-7bde-45af-b161-e8eab5117a56",
+    "company": "Stoke Space",
+    "title": "Software Intern",
+    "location": "Kent, WA (Other)",
+    "url": "https://stokespace.com/careers/current-openings?gh_jid=6176786004"
+  },
+  {
+    "id": "sj:59aad3fe-5cae-48ca-9e34-608c664e0090",
+    "company": "AMD",
+    "title": "Graphics Software Engineer Intern/Co-op",
+    "location": "Markham, ON, Canada (Other)",
+    "url": "https://careers.amd.com/jobs/90305?icims=1"
   }
 ]
