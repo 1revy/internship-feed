@@ -350,13 +350,6 @@
     "url": "https://eyglobal.yello.co/jobs/gqy0pJfAkXrlECgDBjqcIw?job_board_id=c1riT--B2O-KySgYWsZO1Q"
   },
   {
-    "id": "sj:c117ba86-33e1-47f4-8f2d-47273cec8534",
-    "company": "American Express",
-    "title": "Data Science Intern - Finance",
-    "location": "NYC (New York)",
-    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013191"
-  },
-  {
     "id": "sj:b18a5562-25bb-4955-af90-8975c5252b03",
     "company": "American Express",
     "title": "Data Analytics Intern - US Consumer Services",
@@ -1041,13 +1034,6 @@
     "title": "AI Engineer Intern - Enterprise Technology Services",
     "location": "NYC (New York)",
     "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011991"
-  },
-  {
-    "id": "sj:c344d643-aa8d-4d64-a497-67a78ca63dc9",
-    "company": "American Express",
-    "title": "Software Engineer Intern - Enterprise Technology Services",
-    "location": "NYC (New York)",
-    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011082"
   },
   {
     "id": "sj:14e51d14-067b-43b8-80cf-dcf3c6893565",
@@ -2618,13 +2604,6 @@
     "url": "https://jobs.ashbyhq.com/amplify/c95f690f-28af-42b1-8847-5dcf14c1155e/application?embed=true"
   },
   {
-    "id": "sj:c9f2736c-ca54-46f8-98a1-81570a3bd159",
-    "company": "Johnson & Johnson",
-    "title": "Quality Data Science Co-op",
-    "location": "Cincinnati, OH (Other)",
-    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Quality-Data-Science-Co-Op---Summer-2027_R-103629"
-  },
-  {
     "id": "sj:a68523cd-29af-496f-972d-7053da12daa7",
     "company": "Highmark Health",
     "title": "Data Analyst Undergraduate Intern",
@@ -2665,13 +2644,6 @@
     "title": "IT Systems Intern - Engine Plant IT Systems",
     "location": "Darlington, UK (Other)",
     "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2436714"
-  },
-  {
-    "id": "sj:ffd69a94-dc9e-4734-b09a-90e056934918",
-    "company": "American Family Insurance Group",
-    "title": "Data Engineering / Data Science Intern",
-    "location": "Madison, WI (Other)",
-    "url": "https://amfam.wd1.myworkdayjobs.com/en-US/Careers/job/WI-Madison/Summer-2027-Intern---Data-Engineering_R39674"
   },
   {
     "id": "sj:9ba3a79f-40de-421a-a13b-f37a0fa52e78",
@@ -3458,13 +3430,6 @@
     "url": "https://pacificlife.wd1.myworkdayjobs.com/en-US/PacificLifeCareers/job/Newport-Beach-CA-700/Summer-2027-Data-Engineering-Internship_R17828"
   },
   {
-    "id": "sj:127d880c-e16b-43e4-b4b6-c0788fbe90ae",
-    "company": "American Century Investments",
-    "title": "Enterprise Data Intern",
-    "location": "Southlake, TX; Kansas City, MO (Other)",
-    "url": "https://americancentury.wd5.myworkdayjobs.com/AmericanCenturyInvestments/job/Kansas-City-Missouri/Enterprise-Data-Intern_R0005751"
-  },
-  {
     "id": "sj:a2e915b7-cd1b-4137-9c87-a2707b3de604",
     "company": "ABB",
     "title": "Product Management Intern",
@@ -3498,5 +3463,40 @@
     "title": "Business Intelligence Intern - Program Development",
     "location": "Austin, TX; Troy, MI (Other)",
     "url": "https://zekelman.wd12.myworkdayjobs.com/Careers/job/Troy-MI/Intern--Business-Intelligence_JR002769"
+  },
+  {
+    "id": "sj:3a44b244-cc3e-47ea-9428-137c843acca3",
+    "company": "Excellus BCBS",
+    "title": "College Operations Analyst Intern",
+    "location": "Rochester, NY; De Witt, NY; Utica, NY; Albany, NY; Binghamton, NY; Buffalo, NY (Other)",
+    "url": "https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027---Operations-Analyst_JR104058-2"
+  },
+  {
+    "id": "sj:1d4ee67a-8393-4129-a473-660742fc87d8",
+    "company": "HP Inc.",
+    "title": "Business Analyst Intern",
+    "location": "Reading, UK (Other)",
+    "url": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Reading-Berkshire-United-Kingdom/Placement-Year---Business-Analyst-Intern_UNI4893-1"
+  },
+  {
+    "id": "sj:2f8b3696-a0e4-4b49-ae6a-ab6bbe7b640d",
+    "company": "Emerson Electric",
+    "title": "Software Engineer Intern - Process Systems and Solutions",
+    "location": "Round Rock, TX (Other)",
+    "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011295"
+  },
+  {
+    "id": "sj:c6ad75c6-e86c-4602-8344-eb52b14bb37e",
+    "company": "Epic Games",
+    "title": "Data Science Intern",
+    "location": "Cary, NC (Other)",
+    "url": "https://epicgames.com/careers/jobs/6202675004?gh_jid=6202675004"
+  },
+  {
+    "id": "sj:02dee7ff-6975-4a5e-8aea-ee0dc2ebfde9",
+    "company": "ByteDance",
+    "title": "Product Management Project Intern - Global Payment",
+    "location": "San Jose, CA (Other)",
+    "url": "https://jobs.bytedance.com/en/position/7686394581777631541/detail"
   }
 ]
