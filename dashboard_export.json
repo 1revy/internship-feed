@@ -350,27 +350,6 @@
     "url": "https://eyglobal.yello.co/jobs/gqy0pJfAkXrlECgDBjqcIw?job_board_id=c1riT--B2O-KySgYWsZO1Q"
   },
   {
-    "id": "sj:ac037a9c-f763-4262-beaf-c091d10bf894",
-    "company": "American Express",
-    "title": "Data Science Intern - Finance",
-    "location": "NYC (New York)",
-    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013190"
-  },
-  {
-    "id": "sj:9331e02f-0627-4d19-a892-b69d6e3916d3",
-    "company": "American Express",
-    "title": "Digital Product Management Intern - Enterprise Technology Services",
-    "location": "NYC (New York)",
-    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011143"
-  },
-  {
-    "id": "sj:8c9a6e98-5612-418c-9824-6303cda6f199",
-    "company": "American Express",
-    "title": "Product Management Intern - Global Merchant & Network Services",
-    "location": "NYC (New York)",
-    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012636"
-  },
-  {
     "id": "sj:c117ba86-33e1-47f4-8f2d-47273cec8534",
     "company": "American Express",
     "title": "Data Science Intern - Finance",
@@ -383,13 +362,6 @@
     "title": "Data Analytics Intern - US Consumer Services",
     "location": "NYC (New York)",
     "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011607"
-  },
-  {
-    "id": "sj:373a5deb-bbf5-4b5d-96cc-270362d6fba5",
-    "company": "American Express",
-    "title": "Digital Product Management Intern - Enterprise Technology Services",
-    "location": "NYC (New York)",
-    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012057"
   },
   {
     "id": "sj:0eacf8cc-6d40-4e01-8d2b-6987687bf843",
@@ -3038,13 +3010,6 @@
     "url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Decherd-Tennessee---United-States-of-America/Manufacturing-Digital-Data-Intern---Summer-2027---Decherd--TN_R00214881"
   },
   {
-    "id": "sj:8ec5b787-1112-4732-8445-4ebc05410902",
-    "company": "Phillips 66",
-    "title": "Digital & AI Analyst Placement Intern",
-    "location": "South Killingholme, UK (Other)",
-    "url": "https://careers.phillips66.com/job/South-Killingholme-Digital-&-AI-Analyst-Placement/1437746600/?ats=successfactors"
-  },
-  {
     "id": "sj:b02141a2-8d29-4f0b-b7a7-280a77592468",
     "company": "GuideWell Mutual",
     "title": "IT Graduate Internship - Multiple Teams",
@@ -3498,5 +3463,40 @@
     "title": "Enterprise Data Intern",
     "location": "Southlake, TX; Kansas City, MO (Other)",
     "url": "https://americancentury.wd5.myworkdayjobs.com/AmericanCenturyInvestments/job/Kansas-City-Missouri/Enterprise-Data-Intern_R0005751"
+  },
+  {
+    "id": "sj:a2e915b7-cd1b-4137-9c87-a2707b3de604",
+    "company": "ABB",
+    "title": "Product Management Intern",
+    "location": "New Berlin, WI (Other)",
+    "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/New-Berlin-Wisconsin-United-States-of-America/Product-Management-Intern---Summer-2027_JR00047280"
+  },
+  {
+    "id": "sj:37c49cf0-32b3-401f-a00e-3f878679c268",
+    "company": "Synchrony Financial",
+    "title": "Digital Technology Center Intern",
+    "location": "Stamford, CT (Other)",
+    "url": "https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/UConn-Stamford-Digital-Technology-Center-Intern---Summer-2027_2602661"
+  },
+  {
+    "id": "sj:d71cc21f-dabe-4071-b07e-81c42007e03e",
+    "company": "Franklin Electric",
+    "title": "Global Business Strategy Development Intern",
+    "location": "Fort Wayne, IN (Other)",
+    "url": "https://franklin-electric.pinpointhq.com/en/postings/a8e0afdd-63ce-4817-aaca-056018010f06?ats=pinpointhq"
+  },
+  {
+    "id": "sj:5b597914-e71c-489d-b3ad-77a3e48f7c58",
+    "company": "Astranis",
+    "title": "Software Engineer Enterprise Systems Intern - Summer 2027",
+    "location": "SF (Other)",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4705610006"
+  },
+  {
+    "id": "sj:9fa2b794-7b44-4ff6-876c-7dc3d18b49b4",
+    "company": "Zekelman Industries",
+    "title": "Business Intelligence Intern - Program Development",
+    "location": "Austin, TX; Troy, MI (Other)",
+    "url": "https://zekelman.wd12.myworkdayjobs.com/Careers/job/Troy-MI/Intern--Business-Intelligence_JR002769"
   }
 ]
