@@ -1652,6 +1652,13 @@
     "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002"
   },
   {
+    "id": "sj:2d8cadab-63ca-494f-bf8b-b7d5b157d376",
+    "company": "KnowBe4",
+    "title": "Associate Product Manager Intern",
+    "location": "Clearwater, FL (Other)",
+    "url": "https://job-boards.greenhouse.io/knowbe4/jobs/8919274002"
+  },
+  {
     "id": "sj:b2f1fe9d-fc42-40d8-9d37-4d7457195c8d",
     "company": "Divergent Technologies",
     "title": "Business Intelligence Intern",
@@ -3491,12 +3498,5 @@
     "title": "Data Science Intern",
     "location": "Cary, NC (Other)",
     "url": "https://epicgames.com/careers/jobs/6202675004?gh_jid=6202675004"
-  },
-  {
-    "id": "sj:02dee7ff-6975-4a5e-8aea-ee0dc2ebfde9",
-    "company": "ByteDance",
-    "title": "Product Management Project Intern - Global Payment",
-    "location": "San Jose, CA (Other)",
-    "url": "https://jobs.bytedance.com/en/position/7686394581777631541/detail"
   }
 ]
