@@ -182,13 +182,6 @@
     "url": "https://www.metacareers.com/jobs/1633096478817942"
   },
   {
-    "id": "sj:dff0eb47-2fa8-4636-9c21-34ff0fca9959",
-    "company": "Pretium",
-    "title": "AI, Data & Innovation Intern",
-    "location": "NYC (New York)",
-    "url": "https://job-boards.greenhouse.io/pretiuminternships2027/jobs/8868243002"
-  },
-  {
     "id": "sj:ff8fadb8-1a36-463a-9258-da2a9fe79a54",
     "company": "Tradeweb",
     "title": "Data Management Intern",
@@ -616,13 +609,6 @@
     "url": "https://healthpeak.applytojob.com/apply/ss4v1Qi95q/Forward-Deployed-Software-Engineer-Internship"
   },
   {
-    "id": "sj:ff40ee27-6821-4bc8-8929-0a9a37fa6d77",
-    "company": "Tessera Labs",
-    "title": "Full Stack Software Engineer Intern - Full Stack",
-    "location": "San Jose, CA; Remote in USA; NYC (New York)",
-    "url": "https://jobs.ashbyhq.com/tessera-labs/892bb150-8c98-47f4-a8b6-93633ecb2ea7/application?embed=true"
-  },
-  {
     "id": "sj:bcdcec45-2483-4ebd-8b02-b763219eecec",
     "company": "Point72",
     "title": "Software Engineer Intern",
@@ -1008,13 +994,6 @@
     "url": "https://job-boards.greenhouse.io/sage49/jobs/6131185004"
   },
   {
-    "id": "sj:0aa38a85-7be2-4d60-8ec3-0002a9643512",
-    "company": "Sage",
-    "title": "Software Engineer Intern - Edge - Summer 2027",
-    "location": "NYC (New York)",
-    "url": "https://job-boards.greenhouse.io/sage49/jobs/6131191004"
-  },
-  {
     "id": "sj:0d138427-6921-4a12-99e2-30a0b223cef3",
     "company": "BNY",
     "title": "Software Developer Intern - Engineering",
@@ -1239,6 +1218,13 @@
     "url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383231008"
   },
   {
+    "id": "sj:dabca611-fa12-4b6e-9215-8952a2c58c16",
+    "company": "Qube Research & Technologies",
+    "title": "Business Data Analytics Intern",
+    "location": "London, UK (London / Paris)",
+    "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8926633002"
+  },
+  {
     "id": "sj:3f7f1ec7-9f65-4d5d-aae0-2c85aaf321aa",
     "company": "Cloudflare",
     "title": "Product Manager Intern",
@@ -1265,20 +1251,6 @@
     "title": "Business Analyst Intern",
     "location": "London, UK; Manchester, UK (London / Paris)",
     "url": "https://amazon.jobs/en/jobs/10565421/business-analyst-intern-3-6-and-12-months-2027"
-  },
-  {
-    "id": "sj:e837987f-35e6-4c8c-8573-8a11e41a7817",
-    "company": "Vertex Pharmaceuticals",
-    "title": "International Insights Summer Intern - Analytics and Commercial Operations",
-    "location": "London, UK (London / Paris)",
-    "url": "https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Paddington-United-Kingdom/International-Insights--Analytics-and-Commercial-Operations---Summer-Intern--10-weeks-_REQ-30453-1"
-  },
-  {
-    "id": "sj:4c985bd1-88db-479c-bd83-8b2203fc8cb5",
-    "company": "Vertex Pharmaceuticals",
-    "title": "International Insights Summer Intern - Analytics and Commercial Operations",
-    "location": "London, UK (London / Paris)",
-    "url": "https://vrtx.wd501.myworkdayjobs.com/vertex_intern/job/Paddington-United-Kingdom/International-Insights--Analytics-and-Commercial-Operations---Summer-Intern--10-weeks-_REQ-30453"
   },
   {
     "id": "sj:2374fd2a-48e1-49bd-b761-a8ff1bc13220",
@@ -1358,25 +1330,11 @@
     "url": "https://jobs.ashbyhq.com/incident/2f692a4d-91b4-4d0f-ae39-b38b68a24a27/application?embed=true"
   },
   {
-    "id": "sj:6f8c758c-6226-484d-afe1-b9ad5f302b81",
-    "company": "incident.io",
-    "title": "Product Engineer New Grad",
-    "location": "London, UK (London / Paris)",
-    "url": "https://jobs.ashbyhq.com/incident/743b1624-7267-49a9-84a0-6223e414fbf0/application?embed=true"
-  },
-  {
     "id": "sj:26b899cd-fb20-45b5-b6b5-8dd3ad3e54c8",
     "company": "Blackstone",
     "title": "Software Engineer Summer Analyst - Technology and Innovations",
     "location": "London, UK (London / Paris)",
     "url": "https://blackstone.wd1.myworkdayjobs.com/zh-CN/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Technology---Innovations---Software-Engineer-Summer-Analyst_45358"
-  },
-  {
-    "id": "sj:5f396023-d3b0-4532-8632-b4b75e97bd2b",
-    "company": "PIMCO",
-    "title": "Software Engineering Intern - Technology Analyst",
-    "location": "London, UK (London / Paris)",
-    "url": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering--EMEA_R106800"
   },
   {
     "id": "sj:d4e10f5f-fe79-4c2f-bee7-b413db703e65",
@@ -1398,13 +1356,6 @@
     "title": "Data Science Machine Learning Intern",
     "location": "London, UK (London / Paris)",
     "url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/London-UK/Data-Science-Machine-Learning-Internship--Summer-2027-_R1345"
-  },
-  {
-    "id": "sj:c1ac74d2-f7fa-4011-8d78-025691a38abc",
-    "company": "OLIX",
-    "title": "Software Engineer Intern",
-    "location": "London, UK (London / Paris)",
-    "url": "https://jobs.ashbyhq.com/olix/a2365ad7-3b5d-4f6e-a917-2586efc6a07e/application?embed=true"
   },
   {
     "id": "sj:bbf19011-e0e7-4461-ad61-a3cdefe5aae5",
@@ -1638,6 +1589,48 @@
     "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002"
   },
   {
+    "id": "sj:10c72e68-a2b9-4a9a-9ec6-f4a30060d277",
+    "company": "First Citizens BancShares",
+    "title": "Data Analyst Intern - Enterprise Data Analyst - Data Products",
+    "location": "Raleigh, NC (Other)",
+    "url": "https://firstcitizens.jibeapply.com/jobs/36234?icims=1"
+  },
+  {
+    "id": "sj:ecc88363-2877-44f6-be28-0d968512dd0c",
+    "company": "AXA",
+    "title": "Operations Metrics and Reporting Intern",
+    "location": "Scottsdale, AZ (Other)",
+    "url": "https://careers.axa.com/jobs/25497?icims=1"
+  },
+  {
+    "id": "sj:150a2f8b-ff3c-4b5e-b0e9-62ac7286a822",
+    "company": "ParetoHealth",
+    "title": "Product Manager Intern",
+    "location": "Philadelphia, PA (Other)",
+    "url": "https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4725351006"
+  },
+  {
+    "id": "sj:4e5f22da-1551-4dbf-a079-0c987a791f0d",
+    "company": "CoStar Group",
+    "title": "Data Science Intern",
+    "location": "Richmond, VA (Other)",
+    "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-VA-Richmond/Data-Science-Intern---Richmond--VA--Summer-2027-_R40140"
+  },
+  {
+    "id": "sj:ef971fc9-99f7-453f-91a9-664481b3b831",
+    "company": "Sierra Nevada Corporation",
+    "title": "Data Science Intern - Summer 2027",
+    "location": "Sparks, NV (Other)",
+    "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Sparks-NV/Data-Science-Intern--Summer-2027-_R0031257"
+  },
+  {
+    "id": "sj:1ef0bff3-253a-4f49-b688-0c8e9108fb0c",
+    "company": "The Federal Reserve System",
+    "title": "Supervision & Regulation Intern - Business Relationship",
+    "location": "Atlanta, GA (Other)",
+    "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Supervision---Regulation--Business-Relationship-_R-0000033860"
+  },
+  {
     "id": "sj:b2f1fe9d-fc42-40d8-9d37-4d7457195c8d",
     "company": "Divergent Technologies",
     "title": "Business Intelligence Intern",
@@ -1657,13 +1650,6 @@
     "title": "Manufacturing Systems & Data Intern - Systems",
     "location": "Mojave, CA (Other)",
     "url": "https://job-boards.greenhouse.io/stratolaunch/jobs/5467824008"
-  },
-  {
-    "id": "sj:def9df22-e128-4dda-9596-1d0de6902d93",
-    "company": "Snowflake",
-    "title": "Product Management Intern",
-    "location": "Menlo Park, CA (Other)",
-    "url": "https://jobs.ashbyhq.com/snowflake/322b82f6-4b18-4f86-ae34-007f55c4bdbf/application?embed=true"
   },
   {
     "id": "sj:24bd2612-4e33-4647-8d05-b0bb1f788c86",
@@ -2084,20 +2070,6 @@
     "title": "AI and Data Science Intern",
     "location": "Atlanta, GA (Other)",
     "url": "https://assurant.wd1.myworkdayjobs.com/External_Limited_Posting/job/Georgia-Virtual/Summer-2027--AI-and-Data-Science-Internship_R-116105"
-  },
-  {
-    "id": "sj:add0b8bc-464a-47b8-a28b-b63532dc6262",
-    "company": "CHS",
-    "title": "Data Engineer Intern",
-    "location": "Inver Grove Heights, MN (Other)",
-    "url": "https://careers.chsinc.com/job/Inver-Grove-Heights-Data-Engineer-Intern-MN-55077-1721/1443597100/?ats=successfactors"
-  },
-  {
-    "id": "sj:24dd9218-cdad-48f0-b562-855c34fe9e7c",
-    "company": "CHS",
-    "title": "Data Engineer Intern",
-    "location": "Inver Grove Heights, MN (Other)",
-    "url": "https://careers.chsinc.com/job/Inver-Grove-Heights-Data-Engineer-Intern-MN-55077-1721/1443601900/?ats=successfactors"
   },
   {
     "id": "sj:4ba74901-00f0-4bbb-ad4c-53459035ae6f",
@@ -2800,13 +2772,6 @@
     "url": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Perry-OK/IT-Business-Analyst-Intern---Ditch-Witch_JR17608"
   },
   {
-    "id": "sj:dc12ad6e-94a3-4674-995b-d23b3b5013e8",
-    "company": "CoStar Group",
-    "title": "Product Intern",
-    "location": "Richmond, VA (Other)",
-    "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-VA-Richmond---CoStar-Tower/Product-Intern---Richmond--VA--Summer-2027-_R39900"
-  },
-  {
     "id": "sj:ebb1e212-e617-4401-b8c1-187cf3be6bd3",
     "company": "DriveTime",
     "title": "Data Analytics Intern",
@@ -2938,13 +2903,6 @@
     "title": "Product Manager Intern",
     "location": "Pleasanton, CA (Other)",
     "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Product-Manager-Intern_JR-0110813"
-  },
-  {
-    "id": "sj:cc8ac2c6-0874-480d-89fe-1ba79e6af0d9",
-    "company": "Koch Industries",
-    "title": "Data Science Intern",
-    "location": "Atlanta, GA (Other)",
-    "url": "https://koch.avature.net/en_US/careers/JobDetail/195341"
   },
   {
     "id": "sj:60881082-3930-422a-9543-38028c8e9208",
@@ -3113,13 +3071,6 @@
     "title": "AI Product Manager Intern",
     "location": "Redwood City, CA (Other)",
     "url": "https://job-boards.greenhouse.io/c3ascend/jobs/8860562002"
-  },
-  {
-    "id": "sj:66abc21b-ff22-412a-8284-46a8e772c901",
-    "company": "Farmers Mutual Hail",
-    "title": "Data Architect Intern",
-    "location": "West Des Moines, IA (Other)",
-    "url": "https://job-boards.greenhouse.io/farmersmutualhailinsurancecompany/jobs/4422262009"
   },
   {
     "id": "sj:665e2669-0a2a-4e07-9859-73f9f3e9b83d",
@@ -3498,5 +3449,54 @@
     "title": "Business Analytics & Insights Intern",
     "location": "Green Bay, WI (Other)",
     "url": "https://koch.avature.net/en_US/careers/JobDetail/194813"
+  },
+  {
+    "id": "sj:673a3035-f4bb-47d2-912f-bee053a64f17",
+    "company": "Erie Insurance Group",
+    "title": "Data Intern 2",
+    "location": "Erie, PA (Other)",
+    "url": "https://jobs.erieinsurance.com/job/Erie-Intern-II-(Data)-PA-16506/1432176200/?ats=successfactors"
+  },
+  {
+    "id": "sj:2e8bb17d-0726-4482-af62-5f868bede92c",
+    "company": "AutoZone",
+    "title": "Data Science Intern",
+    "location": "Memphis, TN (Other)",
+    "url": "https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155461"
+  },
+  {
+    "id": "sj:85721ea7-7039-4fed-bd43-becafa1de541",
+    "company": "AutoZone",
+    "title": "Ecommerce Intern",
+    "location": "Memphis, TN (Other)",
+    "url": "https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155427"
+  },
+  {
+    "id": "sj:837d3ab9-da77-4d10-9ae6-5fa9bc3f5a5d",
+    "company": "General Motors",
+    "title": "Software Engineer Intern - Digital Product: Software Engineering",
+    "location": "Austin, TX; Milford, MI; Mountain View, CA; Warren, MI (Other)",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Software-Engineering_JR-202620546"
+  },
+  {
+    "id": "sj:fb3a1f41-a8da-429d-b5e3-547dea480442",
+    "company": "EMC Insurance",
+    "title": "Claims Intern - Data",
+    "location": "Iowa (Other)",
+    "url": "https://emcins.wd5.myworkdayjobs.com/en-US/EMC_Careers/job/Iowa/Intern--Claims--Data-_R6552-1"
+  },
+  {
+    "id": "sj:cb8e36f2-8593-4793-bcf8-e10743512481",
+    "company": "EMC Insurance",
+    "title": "Claims Intern - Data",
+    "location": "Iowa (Other)",
+    "url": "https://emcins.wd5.myworkdayjobs.com/EMC_Internships/job/Iowa/Intern--Claims--Data-_R6552"
+  },
+  {
+    "id": "sj:d473bd44-d390-41bc-b173-144940110b9e",
+    "company": "Waymo",
+    "title": "Product Data Science Intern",
+    "location": "SF (Other)",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8199365"
   }
 ]
