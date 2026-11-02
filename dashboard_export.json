@@ -1372,13 +1372,6 @@
     "url": "https://blackstone.wd1.myworkdayjobs.com/zh-CN/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Technology---Innovations---Software-Engineer-Summer-Analyst_45358"
   },
   {
-    "id": "sj:1698a59d-5825-45cf-9f74-49aad6a83aaf",
-    "company": "JP Morgan Chase",
-    "title": "Data & AI Intern - Data & AI Program",
-    "location": "London, UK; Glasgow, UK (London / Paris)",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774745"
-  },
-  {
     "id": "sj:5f396023-d3b0-4532-8632-b4b75e97bd2b",
     "company": "PIMCO",
     "title": "Software Engineering Intern - Technology Analyst",
@@ -1596,13 +1589,6 @@
     "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013769"
   },
   {
-    "id": "sj:85495d7e-4673-4650-8d26-bbe8301a8736",
-    "company": "JP Morgan Chase",
-    "title": "Software Engineer Intern - Summer Internship",
-    "location": "London, UK; Glasgow, UK (London / Paris)",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774716"
-  },
-  {
     "id": "sj:49740871-4c1c-4e2d-9d6d-42cca17e1b2f",
     "company": "Lendable",
     "title": "Intern",
@@ -1650,13 +1636,6 @@
     "title": "Software Engineer Intern",
     "location": "London, UK; Chicago, IL (London / Paris)",
     "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002"
-  },
-  {
-    "id": "sj:2d8cadab-63ca-494f-bf8b-b7d5b157d376",
-    "company": "KnowBe4",
-    "title": "Associate Product Manager Intern",
-    "location": "Clearwater, FL (Other)",
-    "url": "https://job-boards.greenhouse.io/knowbe4/jobs/8919274002"
   },
   {
     "id": "sj:b2f1fe9d-fc42-40d8-9d37-4d7457195c8d",
@@ -3080,13 +3059,6 @@
     "url": "https://pg.wd5.myworkdayjobs.com/1000/job/NEWCASTLE-INNOVATION-CENTRE/IT-Technical-Specialist-Industrial-Placement-2027_R000160302"
   },
   {
-    "id": "sj:fc5e6607-4ac0-4e9c-9d0d-429cb1076eee",
-    "company": "ABB",
-    "title": "AI Engineering Intern - Business Systems",
-    "location": "Cary, NC (Other)",
-    "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/AI-Engineering--Business-Systems-Intern--Summer-2027_JR00048714"
-  },
-  {
     "id": "sj:95c1d1a0-3fe5-4666-a8b9-fd45c3237c63",
     "company": "Mohawk",
     "title": "Product Management Intern",
@@ -3498,5 +3470,33 @@
     "title": "Data Science Intern",
     "location": "Cary, NC (Other)",
     "url": "https://epicgames.com/careers/jobs/6202675004?gh_jid=6202675004"
+  },
+  {
+    "id": "sj:02dee7ff-6975-4a5e-8aea-ee0dc2ebfde9",
+    "company": "ByteDance",
+    "title": "Product Management Project Intern - Global Payment",
+    "location": "San Jose, CA (Other)",
+    "url": "https://jobs.bytedance.com/en/position/7686394581777631541/detail"
+  },
+  {
+    "id": "sj:6a018490-0c94-49df-9ad0-bfecd8fdad21",
+    "company": "Charter Manufacturing",
+    "title": "Digital Integration Intern",
+    "location": "Mequon, WI (Other)",
+    "url": "https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Manufacturing-Company-Inc---Mequon-WI/Digital-Integration-Intern--Year-Round-_R08129"
+  },
+  {
+    "id": "sj:fb864212-d3c0-4051-9019-29f9bcfde6ac",
+    "company": "Stryker",
+    "title": "Data Analytics Intern",
+    "location": "Fort Wayne, IN (Other)",
+    "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Wayne-Indiana/Data-Engineering-Intern_R572901"
+  },
+  {
+    "id": "sj:11d3d160-862a-4d48-9f6c-fc735d0c1383",
+    "company": "Koch Industries",
+    "title": "Business Analytics & Insights Intern",
+    "location": "Green Bay, WI (Other)",
+    "url": "https://koch.avature.net/en_US/careers/JobDetail/194813"
   }
 ]
