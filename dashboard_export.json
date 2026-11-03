@@ -987,13 +987,6 @@
     "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81253"
   },
   {
-    "id": "sj:35fb935f-b0e2-45fc-b47d-30f441bc8d56",
-    "company": "American Express",
-    "title": "AI Engineer Intern - Enterprise Technology Services",
-    "location": "NYC (New York)",
-    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011698"
-  },
-  {
     "id": "sj:6c81f43a-0537-494d-a776-dd4ac38accbf",
     "company": "American Express",
     "title": "AI Engineer Intern - Enterprise Technology Services",
@@ -1351,13 +1344,6 @@
     "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/London-United-Kingdom/XMLNAME-2027-Summer-Internship---Technology_R_1518239"
   },
   {
-    "id": "sj:a99e2f5f-e8a1-4b4f-9c09-643e09df2f89",
-    "company": "Expedia Group",
-    "title": "Machine Learning Science Intern",
-    "location": "London, UK (London / Paris)",
-    "url": "https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Applied-Science-Intern---PhD---2027---London_R-110737"
-  },
-  {
     "id": "sj:1a7232dc-f554-4d51-a14c-0119b05d8672",
     "company": "Rothesay",
     "title": "Software Engineer Intern",
@@ -1503,13 +1489,6 @@
     "title": "Software Engineer Intern - Summer 2027",
     "location": "London, UK (London / Paris)",
     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730846005"
-  },
-  {
-    "id": "sj:40b8274c-c520-4495-8d40-2d974156e76d",
-    "company": "American Express",
-    "title": "Software Engineer Intern - Undergraduate",
-    "location": "London, UK (London / Paris)",
-    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013769"
   },
   {
     "id": "sj:49740871-4c1c-4e2d-9d6d-42cca17e1b2f",
@@ -1734,20 +1713,6 @@
     "title": "Future Talent Program Co-op - Patient Data Learning",
     "location": "Cambridge, MA (Other)",
     "url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Massachusetts---Cambridge-320-Bent-Street/XMLNAME-2027-Future-Talent-Program---Patient-Data-Learning---Co-op_R424526"
-  },
-  {
-    "id": "sj:8599d845-17eb-4dd2-92bc-b525dbd56a96",
-    "company": "Signet Jewelers",
-    "title": "Data Analytics Intern",
-    "location": "Akron, OH (Other)",
-    "url": "https://signetjewelers.wd1.myworkdayjobs.com/SignetCorporateCareers/job/Support-Center---Akron-OH/Data-Analytics-Intern_REQ_84317"
-  },
-  {
-    "id": "sj:5563d9cd-597b-4688-8d72-017b1ac8d409",
-    "company": "Signet Jewelers",
-    "title": "Data Analytics Intern",
-    "location": "Akron, OH (Other)",
-    "url": "https://signetjewelers.wd1.myworkdayjobs.com/SignetCorporateCareers/job/Support-Center---Akron-OH/Data-Analytics-Intern_REQ_84318-1"
   },
   {
     "id": "sj:b2f1fe9d-fc42-40d8-9d37-4d7457195c8d",
@@ -2660,13 +2625,6 @@
     "url": "https://jobs.ashbyhq.com/drivewealth/ec17ef99-dea9-4150-b935-5f74750d7b87/application?embed=true"
   },
   {
-    "id": "sj:eb3a5bc3-2fb4-4151-93b2-ebee300ad678",
-    "company": "Westinghouse Electric Company",
-    "title": "Product Engineer Intern",
-    "location": "Cranberry Township, PA (Other)",
-    "url": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Summer-Intern-Product-Engineer-NC/1441276000/?ats=successfactors"
-  },
-  {
     "id": "sj:12643349-9dbf-44e4-96de-6f938fdd7979",
     "company": "Amplify",
     "title": "Data Analytics Intern",
@@ -3498,5 +3456,47 @@
     "title": "Business Intelligence Intern - Program Development",
     "location": "Austin, TX; Troy, MI (Other)",
     "url": "https://zekelman.wd12.myworkdayjobs.com/Careers/job/Troy-MI/Intern--Business-Intelligence_JR002769"
+  },
+  {
+    "id": "sj:3a44b244-cc3e-47ea-9428-137c843acca3",
+    "company": "Excellus BCBS",
+    "title": "College Operations Analyst Intern",
+    "location": "Rochester, NY; De Witt, NY; Utica, NY; Albany, NY; Binghamton, NY; Buffalo, NY (Other)",
+    "url": "https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027---Operations-Analyst_JR104058-2"
+  },
+  {
+    "id": "sj:1d4ee67a-8393-4129-a473-660742fc87d8",
+    "company": "HP Inc.",
+    "title": "Business Analyst Intern",
+    "location": "Reading, UK (Other)",
+    "url": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Reading-Berkshire-United-Kingdom/Placement-Year---Business-Analyst-Intern_UNI4893-1"
+  },
+  {
+    "id": "sj:2f8b3696-a0e4-4b49-ae6a-ab6bbe7b640d",
+    "company": "Emerson Electric",
+    "title": "Software Engineer Intern - Process Systems and Solutions",
+    "location": "Round Rock, TX (Other)",
+    "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011295"
+  },
+  {
+    "id": "sj:c6ad75c6-e86c-4602-8344-eb52b14bb37e",
+    "company": "Epic Games",
+    "title": "Data Science Intern",
+    "location": "Cary, NC (Other)",
+    "url": "https://epicgames.com/careers/jobs/6202675004?gh_jid=6202675004"
+  },
+  {
+    "id": "sj:02dee7ff-6975-4a5e-8aea-ee0dc2ebfde9",
+    "company": "ByteDance",
+    "title": "Product Management Project Intern - Global Payment",
+    "location": "San Jose, CA (Other)",
+    "url": "https://jobs.bytedance.com/en/position/7686394581777631541/detail"
+  },
+  {
+    "id": "sj:6a018490-0c94-49df-9ad0-bfecd8fdad21",
+    "company": "Charter Manufacturing",
+    "title": "Digital Integration Intern",
+    "location": "Mequon, WI (Other)",
+    "url": "https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Manufacturing-Company-Inc---Mequon-WI/Digital-Integration-Intern--Year-Round-_R08129"
   }
 ]
