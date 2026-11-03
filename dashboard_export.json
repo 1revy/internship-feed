@@ -1,5 +1,19 @@
 [
   {
+    "id": "sj:b9c002ea-de62-45ca-a0e0-7210aff84508",
+    "company": "Jomboy Media",
+    "title": "Business Intelligence Intern",
+    "location": "NYC (New York)",
+    "url": "https://job-boards.greenhouse.io/jomboymedia/jobs/4478036009"
+  },
+  {
+    "id": "sj:a1299f50-47e3-4269-9aba-1d8e8952b516",
+    "company": "Highmark Health",
+    "title": "Healthcare Analytics Data Science Graduate Intern",
+    "location": "New Mexico; Washington; Kansas; Pennsylvania; North Dakota; Oregon; Delaware; Iowa; California; Washington, DC; Vermont; Wyoming; Connecticut; Texas; Montana; Florida; New Hampshire; Nevada; South Carolina; South Dakota; Georgia; Arizona; Mississippi; Tennessee; Virginia; Arkansas; Minnesota; Colorado; Nebraska; Rhode Island; Utah; Kentucky; West Virginia; NYC; Maryland; Hawaii; Wisconsin; Maine; Massachusetts; North Carolina; Oklahoma; Missouri; Ohio; New Jersey; Indiana; Louisiana; Alaska; Michigan; Illinois; Alabama; Idaho (New York)",
+    "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Healthcare-Analytics-Data-Science-Graduate-Intern_J288345"
+  },
+  {
     "id": "sj:5c521dde-6882-44c5-89a3-a3da7f852020",
     "company": "The New York Times",
     "title": "Product Manager Intern",
@@ -399,6 +413,20 @@
     "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773869"
   },
   {
+    "id": "sj:f026f7ec-de3d-49c1-abe2-823d98909827",
+    "company": "Vatic Investments",
+    "title": "AI Research Intern",
+    "location": "NYC (New York)",
+    "url": "https://job-boards.greenhouse.io/vaticlabs/jobs/7205954"
+  },
+  {
+    "id": "sj:33365070-1b3c-4991-85fb-04e2cdc26de7",
+    "company": "Highmark Health",
+    "title": "AI Services and Platforms Software Engineer Intern",
+    "location": "New Mexico; Washington; Kansas; Pennsylvania; North Dakota; Oregon; Delaware; Iowa; California; Washington, DC; Vermont; Wyoming; Connecticut; Texas; Montana; Florida; New Hampshire; Nevada; South Carolina; South Dakota; Georgia; Arizona; Mississippi; Tennessee; Virginia; Arkansas; Minnesota; Colorado; Nebraska; Rhode Island; Utah; Kentucky; West Virginia; NYC; Maryland; Hawaii; Wisconsin; Maine; Massachusetts; North Carolina; Oklahoma; Missouri; Ohio; New Jersey; Indiana; Louisiana; Alaska; Michigan; Illinois; Alabama; Idaho (New York)",
+    "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-AI-Services-and-Platforms-Software-Engineer-Graduate-Intern_J288322"
+  },
+  {
     "id": "sj:63d855e1-d1ea-462d-bcca-0d0d3bba5e1e",
     "company": "T-Mobile",
     "title": "Software Engineer Intern",
@@ -628,13 +656,6 @@
     "title": "Forward Deployed Engineer Intern",
     "location": "NYC; Sunnyvale, CA (New York)",
     "url": "https://www.google.com/about/careers/applications/jobs/results/75665705386549958"
-  },
-  {
-    "id": "sj:d053dcdd-9837-4c01-9ba4-fa29ddb4604f",
-    "company": "Highmark Health",
-    "title": "Population Health Analytics Graduate Intern",
-    "location": "New Mexico; Washington; Kansas; Pennsylvania; North Dakota; Oregon; Delaware; Iowa; California; Washington, DC; Vermont; Wyoming; Connecticut; Texas; Montana; Florida; New Hampshire; Nevada; South Carolina; South Dakota; Georgia; Arizona; Mississippi; Tennessee; Virginia; Arkansas; Minnesota; Colorado; Nebraska; Rhode Island; Utah; Kentucky; West Virginia; NYC; Maryland; Hawaii; Wisconsin; Maine; Massachusetts; North Carolina; Oklahoma; Missouri; Ohio; New Jersey; Indiana; Louisiana; Alaska; Michigan; Illinois; Alabama; Idaho (New York)",
-    "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Population-Health-Analytics-Graduate-Intern_J287150"
   },
   {
     "id": "sj:4dacd1f1-1a63-461f-9329-95162f1c14bd",
@@ -1225,13 +1246,6 @@
     "url": "https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/London-United-Kingdom/XMLNAME-2027-Summer-Internship--Data---Analytics_JR260771"
   },
   {
-    "id": "sj:66e9549c-044f-471c-a61e-d89819f98731",
-    "company": "Amazon",
-    "title": "Business Analyst Intern",
-    "location": "London, UK; Manchester, UK (London / Paris)",
-    "url": "https://amazon.jobs/en/jobs/10565421/business-analyst-intern-3-6-and-12-months-2027"
-  },
-  {
     "id": "sj:2374fd2a-48e1-49bd-b761-a8ff1bc13220",
     "company": "LexisNexis Risk Solutions",
     "title": "Data Science & Fraud Analytics Placement Intern",
@@ -1540,11 +1554,46 @@
     "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002"
   },
   {
+    "id": "sj:540147a8-5c6b-4f1d-8311-8fce3c94c9de",
+    "company": "Staples",
+    "title": "Software Engineer Intern - SDS e-Commerce Team",
+    "location": "Framingham, MA (Other)",
+    "url": "https://fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/StaplesInc/job/77133"
+  },
+  {
     "id": "sj:413fa3ea-a5c0-4c3d-b1db-e01f70015c85",
     "company": "Paccar",
     "title": "Product Planning Intern",
     "location": "Denton, TX (Other)",
     "url": "https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Product-Planning-TX-76205-7864/1453917433/?ats=successfactors"
+  },
+  {
+    "id": "sj:4d500daf-f215-4098-89bd-65f0f3d60ffe",
+    "company": "Vizient",
+    "title": "Summer Intern - Digital Collaboration & Data Insights",
+    "location": "Chicago, IL (Other)",
+    "url": "https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Chicago-IL-60607/XMLNAME-2027-Summer-Internship---Digital-Collaboration---Data-Insights_35969R"
+  },
+  {
+    "id": "sj:f5113035-5f0f-4f0c-970b-772d643acbf6",
+    "company": "Arch Capital Group",
+    "title": "Originations Portal IT Intern",
+    "location": "Greensboro, NC (Other)",
+    "url": "https://archgroup.wd1.myworkdayjobs.com/careers/job/Greensboro-NC-United-States-of-America/Originations-Portal-IT-Intern_R26_1135"
+  },
+  {
+    "id": "sj:8389b458-1a55-45d4-a63d-b9cfecb8824d",
+    "company": "HP Inc.",
+    "title": "Software Engineer Intern - Product & Developer Productivity",
+    "location": "SF (Other)",
+    "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/San-Francisco-California-United-States-of-America/Software-Quality-Assurance-Intern_UNI4803"
+  },
+  {
+    "id": "sj:85296cc2-e177-4e6b-a942-962f6643c9b5",
+    "company": "CareSource",
+    "title": "Data Science Intern",
+    "location": "Remote in USA (Other)",
+    "url": "https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Data-Science-Intern_R14306"
   },
   {
     "id": "sj:e20b5924-fa25-474c-b3ce-6a1d27642caf",
@@ -1729,13 +1778,6 @@
     "url": "https://job-boards.greenhouse.io/divergent/jobs/5393519008"
   },
   {
-    "id": "sj:fb4ff940-a824-4d20-bce3-e3331a46768e",
-    "company": "Pyrotek",
-    "title": "Product Management Intern",
-    "location": "Spokane, WA (Other)",
-    "url": "https://jobs.smartrecruiters.com/Pyrotek3/744000158830479"
-  },
-  {
     "id": "sj:ac27249b-0f36-44ff-a07c-513168c4e98b",
     "company": "Stratolaunch",
     "title": "Manufacturing Systems & Data Intern - Systems",
@@ -1869,13 +1911,6 @@
     "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Student--Data-Analyst--Winter-Summer-Fall-2027-_JR00129284"
   },
   {
-    "id": "sj:cf7a2bca-feb2-42fe-9871-19712bca4274",
-    "company": "NVIDIA",
-    "title": "AI Systems Software Engineer Intern",
-    "location": "Austin, TX (Other)",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Systems-Software-Engineering-Intern---Summer-2027_JR2027170"
-  },
-  {
     "id": "sj:c1ba6f20-fc24-4161-a598-49b44171c273",
     "company": "Great American Insurance Company",
     "title": "IT Data Intern",
@@ -1944,13 +1979,6 @@
     "title": "International Operations Analyst Intern",
     "location": "Pleasant Prairie, WI (Other)",
     "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/International-Operations-Analyst-Internship---Summer-2027_R268694"
-  },
-  {
-    "id": "sj:bff9a492-ed06-4a94-8f0d-75a782dcefd8",
-    "company": "Ace Hardware",
-    "title": "IT Associate Software Engineer Intern",
-    "location": "Oak Brook, IL (Other)",
-    "url": "https://acehardware.wd1.myworkdayjobs.com/External/job/IL---Oak-Brook/IT-Associate-Software-Engineer-2027-Summer-Internship--Full-Time-Paid-12-weeks-_REQ-34797"
   },
   {
     "id": "sj:67c38e84-2904-4f41-b7d9-11a2d287366b",
@@ -2611,13 +2639,6 @@
     "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bloomfield-CT/Business-Analytics-Intern_26012472"
   },
   {
-    "id": "sj:cde3a717-b612-4994-bbd5-0272b6a0df41",
-    "company": "Zebra Technologies",
-    "title": "Supplies & Sensors Product Manager Intern - US",
-    "location": "Lincolnshire, IL (Other)",
-    "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Supplies---Sensors-Product-Manager_JR103640"
-  },
-  {
     "id": "sj:274daa15-b592-485a-8d98-cc56d12ebdca",
     "company": "Toyota",
     "title": "Data Science Intern",
@@ -2644,13 +2665,6 @@
     "title": "Product Management Intern",
     "location": "Remote in USA (Other)",
     "url": "https://jobs.ashbyhq.com/amplify/c95f690f-28af-42b1-8847-5dcf14c1155e/application?embed=true"
-  },
-  {
-    "id": "sj:a68523cd-29af-496f-972d-7053da12daa7",
-    "company": "Highmark Health",
-    "title": "Data Analyst Undergraduate Intern",
-    "location": "Pittsburgh, PA (Other)",
-    "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-FAP-5th-Avenue-Place/Summer-2027-Data-Analyst-Undergraduate-Intern_J288017"
   },
   {
     "id": "sj:557cef20-b56b-4e75-91b3-183446ff8886",
@@ -2798,13 +2812,6 @@
     "title": "Machine Learning Engineer Intern - E-Commerce User Growth",
     "location": "Seattle, WA (Other)",
     "url": "https://lifeattiktok.com/search/7694357619162532149"
-  },
-  {
-    "id": "sj:05db4a21-e875-4682-901f-209b175e2597",
-    "company": "Phillips 66",
-    "title": "University Intern - ERI Analytical Solutions",
-    "location": "Bartlesville, OK (Other)",
-    "url": "https://careers.phillips66.com/job/Bartlesville-West-2027-University-Intern-ERI-Analytical-Solutions-OK-74004/1439555700/?ats=successfactors"
   },
   {
     "id": "sj:e4f05acb-267f-4e89-a2e9-9ab46db0ddab",
@@ -3491,12 +3498,5 @@
     "title": "Product Management Project Intern - Global Payment",
     "location": "San Jose, CA (Other)",
     "url": "https://jobs.bytedance.com/en/position/7686394581777631541/detail"
-  },
-  {
-    "id": "sj:6a018490-0c94-49df-9ad0-bfecd8fdad21",
-    "company": "Charter Manufacturing",
-    "title": "Digital Integration Intern",
-    "location": "Mequon, WI (Other)",
-    "url": "https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Manufacturing-Company-Inc---Mequon-WI/Digital-Integration-Intern--Year-Round-_R08129"
   }
 ]
