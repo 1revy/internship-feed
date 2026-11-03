@@ -154,13 +154,6 @@
     "url": "https://boards.greenhouse.io/point72/jobs/8885299002"
   },
   {
-    "id": "sj:6af37fd6-50dd-4415-b8fd-2213d7e19394",
-    "company": "Kyndryl",
-    "title": "Marketing Intern - Marketing Analysis",
-    "location": "NYC (New York)",
-    "url": "https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/New-York-NY-USA/Marketing-Internship--Marketing-Analysis_R-70007-1"
-  },
-  {
     "id": "sj:4fad9043-edfc-44f1-82bf-a9f8834796b5",
     "company": "Dow Jones",
     "title": "Data Analyst Intern",
@@ -315,13 +308,6 @@
     "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8171692"
   },
   {
-    "id": "sj:2958c86d-fef5-4422-a0a1-7bd489bfebf1",
-    "company": "Schonfeld",
-    "title": "Business Analytics Intern",
-    "location": "NYC (New York)",
-    "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8171703"
-  },
-  {
     "id": "sj:16a27c2f-e977-4813-bb03-f6736d8f1f5f",
     "company": "Ernst & Young",
     "title": "Product Manager Intern - Tax - Other Tax",
@@ -411,6 +397,13 @@
     "title": "Data & AI Intern - Analyst",
     "location": "Palo Alto, CA; Newark, DE; Plano, TX; Chicago, IL; Jersey City, NJ; Columbus, OH; NYC; Wilmington, DE (New York)",
     "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773869"
+  },
+  {
+    "id": "sj:63d855e1-d1ea-462d-bcca-0d0d3bba5e1e",
+    "company": "T-Mobile",
+    "title": "Software Engineer Intern",
+    "location": "NYC (New York)",
+    "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/New-York-New-York/Summer-2027-Software-Engineering-Internship_REQ380886"
   },
   {
     "id": "sj:e00d51e8-391a-473d-a100-37fa803e306d",
@@ -917,13 +910,6 @@
     "url": "https://eyglobal.yello.co/jobs/os6PjvRXE64CjFU87aT3hw?job_board_id=c1riT--B2O-KySgYWsZO1Q"
   },
   {
-    "id": "sj:3fbfec6a-6a08-4eb5-af05-582e9d6c9f63",
-    "company": "Schonfeld",
-    "title": "Systematic COO Intern",
-    "location": "NYC (New York)",
-    "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8172059"
-  },
-  {
     "id": "sj:4f65c1a2-2842-4064-92f3-14fbb0e9cf06",
     "company": "Ernst & Young",
     "title": "Artificial Intelligence Intern - Tax - Tax Technology and Transformation",
@@ -1316,20 +1302,6 @@
     "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81922"
   },
   {
-    "id": "sj:56542a8e-855c-488c-913e-1d63b6c0a8d6",
-    "company": "incident.io",
-    "title": "Product Engineer Intern",
-    "location": "London, UK (London / Paris)",
-    "url": "https://jobs.ashbyhq.com/incident/35461290-c0fe-449a-bed4-5ee873f868fd/application?embed=true"
-  },
-  {
-    "id": "sj:06f477fe-1ed4-46b5-8559-17cc078c0b8c",
-    "company": "incident.io",
-    "title": "Product Engineer Placement Intern",
-    "location": "London, UK (London / Paris)",
-    "url": "https://jobs.ashbyhq.com/incident/2f692a4d-91b4-4d0f-ae39-b38b68a24a27/application?embed=true"
-  },
-  {
     "id": "sj:26b899cd-fb20-45b5-b6b5-8dd3ad3e54c8",
     "company": "Blackstone",
     "title": "Software Engineer Summer Analyst - Technology and Innovations",
@@ -1589,6 +1561,90 @@
     "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002"
   },
   {
+    "id": "sj:e20b5924-fa25-474c-b3ce-6a1d27642caf",
+    "company": "Costco",
+    "title": "CDS Intern - Powerapps Developer - ECM Digital Workflow",
+    "location": "Issaquah, WA (Other)",
+    "url": "https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=11001"
+  },
+  {
+    "id": "sj:9aff2860-cf5d-4547-b10b-b5330f2655ee",
+    "company": "Costco",
+    "title": "Costco Digital Services Intern - Infosec AI/ML",
+    "location": "Issaquah, WA (Other)",
+    "url": "https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=10994"
+  },
+  {
+    "id": "sj:501df30d-2f76-4464-a3ec-500e952ced2d",
+    "company": "Costco",
+    "title": "Costco Data Systems Intern - IT Product Owner",
+    "location": "Issaquah, WA (Other)",
+    "url": "https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=11024"
+  },
+  {
+    "id": "sj:0a1e3285-1442-4dec-a54b-8f1506490d30",
+    "company": "Costco",
+    "title": "CDS Intern - Software Engineer - IT Retail Media",
+    "location": "Issaquah, WA (Other)",
+    "url": "https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=11013"
+  },
+  {
+    "id": "sj:b95bae38-a6a8-415c-9506-13422799369b",
+    "company": "Resideo",
+    "title": "Data Science Intern",
+    "location": "Austin, TX; Golden Valley, MN (Other)",
+    "url": "https://ehtl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19817"
+  },
+  {
+    "id": "sj:5e330896-c4d5-49b9-815e-79ff21bc19c7",
+    "company": "LexisNexis Risk Solutions",
+    "title": "Product Management Intern - Insurance",
+    "location": "Alpharetta, GA (Other)",
+    "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA-Alderman/Product-Management-Intern--Insurance_R118879"
+  },
+  {
+    "id": "sj:52db75c2-6c8b-48e4-96f9-924db21741b2",
+    "company": "LexisNexis Risk Solutions",
+    "title": "Product Manager Intern - Government",
+    "location": "Alpharetta, GA (Other)",
+    "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA-Alderman/Product-Management-Intern--Government_R118611"
+  },
+  {
+    "id": "sj:d973936c-50d5-41f6-acc8-e1dbd6c84acd",
+    "company": "Paccar",
+    "title": "Materials Systems Intern",
+    "location": "Denton, TX (Other)",
+    "url": "https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Materials-Systems-TX-76205-7864/1453566333/?ats=successfactors"
+  },
+  {
+    "id": "sj:d489989d-98b0-4876-852a-50e2caecd69b",
+    "company": "Paccar",
+    "title": "Warranty Business Intern",
+    "location": "Denton, TX (Other)",
+    "url": "https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Warranty-Business-TX-76205-7864/1453566133/?ats=successfactors"
+  },
+  {
+    "id": "sj:be25948f-3dbe-43b8-8b4b-424a01d9b356",
+    "company": "Paccar",
+    "title": "Sales Administration Data Analyst Intern - Greenhouse Gas",
+    "location": "Denton, TX (Other)",
+    "url": "https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Sales-Administration-Data-Analyst-Greenhouse-Gas-TX-76205-7864/1453564433/?ats=successfactors"
+  },
+  {
+    "id": "sj:5d80b793-a83d-4b0f-abd7-0869dda444b9",
+    "company": "Divergent Technologies",
+    "title": "Production Business Intelligence Intern",
+    "location": "Torrance, CA (Other)",
+    "url": "https://job-boards.greenhouse.io/divergent/jobs/5393537008"
+  },
+  {
+    "id": "sj:4374aa77-1cb7-43ac-b98c-61c5c9bc7f02",
+    "company": "Tria Federal",
+    "title": "Growth Operations Intern",
+    "location": "Arlington County, Arlington, VA (Other)",
+    "url": "https://triafed.com/jobs/?gh_jid=5470246008"
+  },
+  {
     "id": "sj:10c72e68-a2b9-4a9a-9ec6-f4a30060d277",
     "company": "First Citizens BancShares",
     "title": "Data Analyst Intern - Enterprise Data Analyst - Data Products",
@@ -1629,6 +1685,69 @@
     "title": "Supervision & Regulation Intern - Business Relationship",
     "location": "Atlanta, GA (Other)",
     "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Supervision---Regulation--Business-Relationship-_R-0000033860"
+  },
+  {
+    "id": "sj:a6d1ed14-ec30-404a-88c2-2d7d1ab83a77",
+    "company": "Leidos",
+    "title": "Data Science Intern",
+    "location": "Arlington County, Arlington, VA (Other)",
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Data-Science-Intern_R-00196049"
+  },
+  {
+    "id": "sj:9d1b1bbe-f17b-45fa-9f6e-c944caa8f7eb",
+    "company": "T-Mobile",
+    "title": "Product Management Intern",
+    "location": "Philadelphia, PA (Other)",
+    "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Philadelphia-Pennsylvania/Summer-2027-Product-Management-Internship_REQ380735"
+  },
+  {
+    "id": "sj:16de67d3-8ae7-46cf-a448-30a53f7bf57d",
+    "company": "T-Mobile",
+    "title": "Product Operations Manager Intern",
+    "location": "Bellevue, WA (Other)",
+    "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Product-Operations-Manager-Internship_REQ380888"
+  },
+  {
+    "id": "sj:ae59bf1a-6bc0-4208-9390-f2775cf89664",
+    "company": "Zebra Technologies",
+    "title": "Data Scientist Intern",
+    "location": "Holtsville, NY; Lincolnshire, IL (Other)",
+    "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Data-Scientist_JR103610"
+  },
+  {
+    "id": "sj:de7b4b55-30be-4b9e-bfbd-814812a2192f",
+    "company": "Applied Materials",
+    "title": "Data Intelligence/Technical Program Manager Intern",
+    "location": "Santa Clara, CA (Other)",
+    "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Data-Intelligence-Technical-Program-Management-Intern--Master-s--Santa-Clara--CA-_R2627705"
+  },
+  {
+    "id": "sj:b68ac5d6-b7be-4531-a97e-c8921390cb1a",
+    "company": "Booz Allen",
+    "title": "Summer Games Data Scientist Intern",
+    "location": "Detroit, MI (Other)",
+    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Detroit-MI/University---2027-Summer-Games-Data-Scientist-Intern---Royal-Oak--MI_R0252783"
+  },
+  {
+    "id": "sj:28a094fa-62d3-4dac-9e1f-8e3d507d7c6e",
+    "company": "Merck",
+    "title": "Future Talent Program Co-op - Patient Data Learning",
+    "location": "Cambridge, MA (Other)",
+    "url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Massachusetts---Cambridge-320-Bent-Street/XMLNAME-2027-Future-Talent-Program---Patient-Data-Learning---Co-op_R424526"
+  },
+  {
+    "id": "sj:8599d845-17eb-4dd2-92bc-b525dbd56a96",
+    "company": "Signet Jewelers",
+    "title": "Data Analytics Intern",
+    "location": "Akron, OH (Other)",
+    "url": "https://signetjewelers.wd1.myworkdayjobs.com/SignetCorporateCareers/job/Support-Center---Akron-OH/Data-Analytics-Intern_REQ_84317"
+  },
+  {
+    "id": "sj:5563d9cd-597b-4688-8d72-017b1ac8d409",
+    "company": "Signet Jewelers",
+    "title": "Data Analytics Intern",
+    "location": "Akron, OH (Other)",
+    "url": "https://signetjewelers.wd1.myworkdayjobs.com/SignetCorporateCareers/job/Support-Center---Akron-OH/Data-Analytics-Intern_REQ_84318-1"
   },
   {
     "id": "sj:b2f1fe9d-fc42-40d8-9d37-4d7457195c8d",
@@ -2779,13 +2898,6 @@
     "url": "https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Analyst-Intern--Summer-2027-_R16502"
   },
   {
-    "id": "sj:19a4fd72-3ca2-426e-bd97-8a97d3d6aa8e",
-    "company": "Avis Budget Group",
-    "title": "Product Innovation Intern",
-    "location": "Parsippany-Troy Hills, NJ (Other)",
-    "url": "https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/379-Interpace-Pkwy-Parsippany-07054/Accelerate---Product-Innovation-Intern---Summer-2027_R0191163"
-  },
-  {
     "id": "sj:3270ba05-496f-4b60-b1fe-7fb7cfb915bd",
     "company": "Koch Industries",
     "title": "Digital Technology & Data Intern",
@@ -3192,13 +3304,6 @@
     "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Chicago-IL/Summer-2027-Intern--PhD-Data-Science-or-Computer-Science_R-0000033634"
   },
   {
-    "id": "sj:e2eb087e-b56a-42ec-a623-0453920d302b",
-    "company": "Cigna Group",
-    "title": "Product Analytics Intern",
-    "location": "Morris Plains, NJ; St. Louis, MO (Other)",
-    "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Morris-Plains-NJ/Product-Analytics-Summer-Intern---Start-Date--May-24--2027_26010180"
-  },
-  {
     "id": "sj:5562454d-b04d-48f2-819f-22c84cd26c2c",
     "company": "NJM Insurance Group",
     "title": "IT Data Administration Intern",
@@ -3393,110 +3498,5 @@
     "title": "Business Intelligence Intern - Program Development",
     "location": "Austin, TX; Troy, MI (Other)",
     "url": "https://zekelman.wd12.myworkdayjobs.com/Careers/job/Troy-MI/Intern--Business-Intelligence_JR002769"
-  },
-  {
-    "id": "sj:3a44b244-cc3e-47ea-9428-137c843acca3",
-    "company": "Excellus BCBS",
-    "title": "College Operations Analyst Intern",
-    "location": "Rochester, NY; De Witt, NY; Utica, NY; Albany, NY; Binghamton, NY; Buffalo, NY (Other)",
-    "url": "https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027---Operations-Analyst_JR104058-2"
-  },
-  {
-    "id": "sj:1d4ee67a-8393-4129-a473-660742fc87d8",
-    "company": "HP Inc.",
-    "title": "Business Analyst Intern",
-    "location": "Reading, UK (Other)",
-    "url": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Reading-Berkshire-United-Kingdom/Placement-Year---Business-Analyst-Intern_UNI4893-1"
-  },
-  {
-    "id": "sj:2f8b3696-a0e4-4b49-ae6a-ab6bbe7b640d",
-    "company": "Emerson Electric",
-    "title": "Software Engineer Intern - Process Systems and Solutions",
-    "location": "Round Rock, TX (Other)",
-    "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011295"
-  },
-  {
-    "id": "sj:c6ad75c6-e86c-4602-8344-eb52b14bb37e",
-    "company": "Epic Games",
-    "title": "Data Science Intern",
-    "location": "Cary, NC (Other)",
-    "url": "https://epicgames.com/careers/jobs/6202675004?gh_jid=6202675004"
-  },
-  {
-    "id": "sj:02dee7ff-6975-4a5e-8aea-ee0dc2ebfde9",
-    "company": "ByteDance",
-    "title": "Product Management Project Intern - Global Payment",
-    "location": "San Jose, CA (Other)",
-    "url": "https://jobs.bytedance.com/en/position/7686394581777631541/detail"
-  },
-  {
-    "id": "sj:6a018490-0c94-49df-9ad0-bfecd8fdad21",
-    "company": "Charter Manufacturing",
-    "title": "Digital Integration Intern",
-    "location": "Mequon, WI (Other)",
-    "url": "https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Manufacturing-Company-Inc---Mequon-WI/Digital-Integration-Intern--Year-Round-_R08129"
-  },
-  {
-    "id": "sj:fb864212-d3c0-4051-9019-29f9bcfde6ac",
-    "company": "Stryker",
-    "title": "Data Analytics Intern",
-    "location": "Fort Wayne, IN (Other)",
-    "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Wayne-Indiana/Data-Engineering-Intern_R572901"
-  },
-  {
-    "id": "sj:11d3d160-862a-4d48-9f6c-fc735d0c1383",
-    "company": "Koch Industries",
-    "title": "Business Analytics & Insights Intern",
-    "location": "Green Bay, WI (Other)",
-    "url": "https://koch.avature.net/en_US/careers/JobDetail/194813"
-  },
-  {
-    "id": "sj:673a3035-f4bb-47d2-912f-bee053a64f17",
-    "company": "Erie Insurance Group",
-    "title": "Data Intern 2",
-    "location": "Erie, PA (Other)",
-    "url": "https://jobs.erieinsurance.com/job/Erie-Intern-II-(Data)-PA-16506/1432176200/?ats=successfactors"
-  },
-  {
-    "id": "sj:2e8bb17d-0726-4482-af62-5f868bede92c",
-    "company": "AutoZone",
-    "title": "Data Science Intern",
-    "location": "Memphis, TN (Other)",
-    "url": "https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155461"
-  },
-  {
-    "id": "sj:85721ea7-7039-4fed-bd43-becafa1de541",
-    "company": "AutoZone",
-    "title": "Ecommerce Intern",
-    "location": "Memphis, TN (Other)",
-    "url": "https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155427"
-  },
-  {
-    "id": "sj:837d3ab9-da77-4d10-9ae6-5fa9bc3f5a5d",
-    "company": "General Motors",
-    "title": "Software Engineer Intern - Digital Product: Software Engineering",
-    "location": "Austin, TX; Milford, MI; Mountain View, CA; Warren, MI (Other)",
-    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Software-Engineering_JR-202620546"
-  },
-  {
-    "id": "sj:fb3a1f41-a8da-429d-b5e3-547dea480442",
-    "company": "EMC Insurance",
-    "title": "Claims Intern - Data",
-    "location": "Iowa (Other)",
-    "url": "https://emcins.wd5.myworkdayjobs.com/en-US/EMC_Careers/job/Iowa/Intern--Claims--Data-_R6552-1"
-  },
-  {
-    "id": "sj:cb8e36f2-8593-4793-bcf8-e10743512481",
-    "company": "EMC Insurance",
-    "title": "Claims Intern - Data",
-    "location": "Iowa (Other)",
-    "url": "https://emcins.wd5.myworkdayjobs.com/EMC_Internships/job/Iowa/Intern--Claims--Data-_R6552"
-  },
-  {
-    "id": "sj:d473bd44-d390-41bc-b173-144940110b9e",
-    "company": "Waymo",
-    "title": "Product Data Science Intern",
-    "location": "SF (Other)",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=8199365"
   }
 ]
