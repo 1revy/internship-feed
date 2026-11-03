@@ -658,6 +658,13 @@
     "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4962456101"
   },
   {
+    "id": "sj:59dcdcf5-e048-4e2b-99c1-024440a01f9a",
+    "company": "ICF International",
+    "title": "Energy Researcher Intern",
+    "location": "Arlington County, Arlington, VA; Reston, VA; NYC (New York)",
+    "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Energy-Researcher--Reston--VA--Arlington--VA-_R2603418"
+  },
+  {
     "id": "sj:b29f7462-630f-4a75-8dca-924bcd83bd11",
     "company": "Sigma Computing",
     "title": "Software Engineer Intern - Summer 2027",
@@ -1183,13 +1190,6 @@
     "url": "https://job-boards.greenhouse.io/stateaffairs/jobs/4437430009"
   },
   {
-    "id": "sj:ca3d442d-982e-4251-b443-6e607ffd2504",
-    "company": "Trimble",
-    "title": "Software Engineer Intern",
-    "location": "Dayton, OH; Knoxville, TN; Portsmouth, NH; Princeton, NJ; Lake Oswego, OR; Westminster, CO; Sunnyvale, CA; Atlanta, GA (Washington DC / Central NJ)",
-    "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Software-Engineering-Intern_R57676"
-  },
-  {
     "id": "sj:cca92450-5ead-4d71-8d7f-084c27b9d1f9",
     "company": "The Nuclear Company",
     "title": "AI/ML Engineer Intern",
@@ -1538,6 +1538,13 @@
     "title": "Software Engineer Intern",
     "location": "London, UK; Chicago, IL (London / Paris)",
     "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002"
+  },
+  {
+    "id": "sj:413fa3ea-a5c0-4c3d-b1db-e01f70015c85",
+    "company": "Paccar",
+    "title": "Product Planning Intern",
+    "location": "Denton, TX (Other)",
+    "url": "https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Product-Planning-TX-76205-7864/1453917433/?ats=successfactors"
   },
   {
     "id": "sj:e20b5924-fa25-474c-b3ce-6a1d27642caf",
@@ -3162,13 +3169,6 @@
     "title": "Precision Medicine Operations Co-op",
     "location": "Armonk, NY (Other)",
     "url": "https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/Armonk/XMLNAME-2027-Co-op-Precision-Medicine-Operations_R51082-1"
-  },
-  {
-    "id": "sj:bee2e809-5a33-41d9-8c9b-0dc0c44f7100",
-    "company": "Trimble",
-    "title": "Product Management Intern",
-    "location": "Westminster, CO (Other)",
-    "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Product-Management-Intern_R57893"
   },
   {
     "id": "sj:fb114fa5-9998-4bf6-a24b-a36888f142a8",
