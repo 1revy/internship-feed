@@ -2205,11 +2205,32 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/MLOps-Physical-AI-Data-Intern---2027_JR2026544"
   },
   {
+    "id": "sj:2898b74c-bc91-4f06-b910-1d62bdba0c18",
+    "company": "American Express",
+    "title": "Campus Undergraduate Summer Internship Program - Software Engineer 2027 - Enterprise Technology Services",
+    "location": "Sunnyvale, CA (Other)",
+    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015722"
+  },
+  {
+    "id": "sj:6adc9971-6bef-4f07-aaba-46a11e89c951",
+    "company": "Robert Bosch Venture Capital",
+    "title": "Quality Projects Intern",
+    "location": "Worcester, UK (Other)",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000159363644"
+  },
+  {
     "id": "sj:ef31b232-5a78-40fe-9d4a-b2cca861468f",
     "company": "Paccar",
     "title": "Software Developer Intern",
     "location": "Denton, TX (Other)",
     "url": "https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Software-Developer-TX-76205-7864/1453615433/?ats=successfactors"
+  },
+  {
+    "id": "sj:0fafd493-8e5a-4e86-87ae-617311283122",
+    "company": "Mosaic",
+    "title": "Artificial Intelligence Co-op Intern",
+    "location": "Lithia, FL (Other)",
+    "url": "https://mosaic.wd5.myworkdayjobs.com/mosaic/job/US---Tampa-FL-Lithia-area/Artificial-Intelligence-Co-Op-Intern---Summer-2027_65420"
   },
   {
     "id": "sj:f1c48f63-d8ea-4e90-8539-67591d5ad08f",
@@ -2464,13 +2485,6 @@
     "url": "https://careers.withwaymo.com/jobs?gh_jid=8337719"
   },
   {
-    "id": "sj:8d1e76b1-c393-4e56-95a5-8fb8284ed06d",
-    "company": "Epic Games",
-    "title": "Tools Programmer Intern - Graphics",
-    "location": "Cary, NC (Other)",
-    "url": "https://epicgames.com/careers/jobs/6239259004?gh_jid=6239259004"
-  },
-  {
     "id": "sj:47d45caa-b7cf-4f72-b59d-2b3c52395472",
     "company": "First Citizens BancShares",
     "title": "Summer Intern - AI Innovation",
@@ -2483,13 +2497,6 @@
     "title": "Machine Learning Engineer Intern",
     "location": "Toronto, ON, Canada (Other)",
     "url": "https://stripe.com/jobs/search?gh_jid=8333122"
-  },
-  {
-    "id": "sj:b1af74c5-7bce-4b61-a57f-bdbb3cb3926e",
-    "company": "Newmont",
-    "title": "Resource Modeling Intern",
-    "location": "Denver, CO (Other)",
-    "url": "https://jobs.newmont.com/us/en/job/45053"
   },
   {
     "id": "sj:bf045bbb-19b5-4bf0-a8de-2d2a06103832",
@@ -2728,13 +2735,6 @@
     "title": "Software Engineer Intern - Technology Innovation",
     "location": "Remote in USA (Other)",
     "url": "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Technology-Innovation_R-10020"
-  },
-  {
-    "id": "sj:55838bcc-4e75-4ae8-99c1-4842181f1a8f",
-    "company": "Workday",
-    "title": "Analytics Engineer Intern",
-    "location": "Pleasanton, CA (Other)",
-    "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Analytics-Engineer-Intern_JR-0111200"
   },
   {
     "id": "sj:af9cd863-b956-4618-a0ec-e4d7d7f8056a",
@@ -3330,13 +3330,6 @@
     "title": "Navigation & Machine Learning Engineer Intern",
     "location": "Richmond Hill, ON, Canada (Other)",
     "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/Canada---Richmond-Hill-Ontario-Applanix/Navigation---Machine-Learning-Engineering-Intern--16-Months-_R57980"
-  },
-  {
-    "id": "sj:2550c060-9118-4f3e-9d5f-4654e2b82b0a",
-    "company": "Philips",
-    "title": "Service Offer Design Intern",
-    "location": "Cambridge, MA (Other)",
-    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Intern----Service-Offer-Design---Cambridge--MA---Summer-2027_593517"
   },
   {
     "id": "sj:baf68adf-358f-4898-99b5-1bb3a08bd7f6",
@@ -4963,13 +4956,6 @@
     "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Chicago-IL/Summer-2027-Intern-Computer-Science-and-Software-Engineering_R-0000033637"
   },
   {
-    "id": "sj:531577c4-883e-4ac7-9563-ab1ef47be527",
-    "company": "The Federal Reserve System",
-    "title": "Advanced Analytics Intern",
-    "location": "Cleveland, OH (Other)",
-    "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Cleveland-OH/SCS---Advanced-Analytics-Intern---2027_R-0000033622"
-  },
-  {
     "id": "sj:be949df0-0657-4f39-b1f3-e45962a3eee3",
     "company": "CoStar Group",
     "title": "Technology Intern",
@@ -5551,13 +5537,6 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-WA-Seattle/Research-Intern--Robotics---Summer-2027_JR2025647"
   },
   {
-    "id": "sj:722989ed-df3d-4611-83a2-26c5369b1e66",
-    "company": "EMC Insurance",
-    "title": "Claims Intern - Workers' Compensation",
-    "location": "Iowa (Other)",
-    "url": "https://emcins.wd5.myworkdayjobs.com/EMC_Internships/job/Iowa---Work-From-Home/Claims-Intern---Worker-s-Compensation_R6548"
-  },
-  {
     "id": "sj:358e91d0-b574-450b-8f1a-c8785fc0cfc2",
     "company": "EMC Insurance",
     "title": "Claims Intern - Property",
@@ -5570,13 +5549,6 @@
     "title": "Claims Intern - Property",
     "location": "Iowa (Other)",
     "url": "https://emcins.wd5.myworkdayjobs.com/EMC_Internships/job/Iowa/Intern--Claims--Property-_R6553"
-  },
-  {
-    "id": "sj:b96cf9b7-1f8d-47c4-8c9c-6c70376ffe7c",
-    "company": "EMC Insurance",
-    "title": "Claims Intern - Workers' Compensation",
-    "location": "Iowa (Other)",
-    "url": "https://emcins.wd5.myworkdayjobs.com/en-US/EMC_Careers/job/Iowa---Work-From-Home/Claims-Intern---Worker-s-Compensation_R6548-1"
   },
   {
     "id": "sj:e4639935-0247-4578-b4a3-814cab5c5c8e",
@@ -6601,13 +6573,6 @@
     "url": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Summer-Intern-Application-Development-NC/1426859800/?ats=successfactors"
   },
   {
-    "id": "sj:ecb50799-5432-4e4c-94bd-ab79e8a11ebd",
-    "company": "Westinghouse Electric Company",
-    "title": "Enovia PLM Developer Intern - Enovia PLM",
-    "location": "Cranberry Township, PA (Other)",
-    "url": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Summer-Intern-Enovia-PLM-NC/1426858600/?ats=successfactors"
-  },
-  {
     "id": "sj:ede8c3f5-fd50-49d4-b347-bece731058ad",
     "company": "Ernst & Young",
     "title": "Vector Capitalization Intern - Multiple Teams",
@@ -6998,5 +6963,40 @@
     "title": "Software Developer Intern",
     "location": "Huntsville, AL (Other)",
     "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Huntsville-AL/University---2027-Summer-Games-Software-Developer-Intern---Huntsville--AL_R0248394"
+  },
+  {
+    "id": "sj:a6206b6e-60eb-4a46-b839-118d12bfeb6a",
+    "company": "Booz Allen",
+    "title": "Software Developer Intern - University",
+    "location": "Honolulu, HI (Other)",
+    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Honolulu-HI/University---2027-Summer-Games-Software-Developer-Intern---Honolulu--HI_R0248393"
+  },
+  {
+    "id": "sj:901d71ff-ed64-4848-95e0-094ad0610036",
+    "company": "Booz Allen",
+    "title": "Software Developer Intern",
+    "location": "Fort Walton Beach, FL (Other)",
+    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Walton-Beach-FL/University---2027-Summer-Games-Software-Developer-Intern---Ft-Walton-Beach--FL_R0248404"
+  },
+  {
+    "id": "sj:f5f6acb8-6462-4878-a7a4-60a67c219943",
+    "company": "Booz Allen",
+    "title": "Software Developer Intern - University",
+    "location": "Annapolis Junction, MD (Other)",
+    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Annapolis-Junction-MD/University---2027-Summer-Games-Software-Developer-Intern---Annapolis-Junction--MD_R0248403"
+  },
+  {
+    "id": "sj:635bf0d1-e3cb-4d15-98d1-86f3a5f11691",
+    "company": "Johnson & Johnson",
+    "title": "Software Engineer Co-op",
+    "location": "Cincinnati, OH (Other)",
+    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Software-Engineering-Co-Op-Summer-2027_R-096743"
+  },
+  {
+    "id": "sj:df045001-6540-4f6a-989a-92d2042973dd",
+    "company": "Newrez",
+    "title": "Software Developer Intern",
+    "location": "Coppell, TX (Other)",
+    "url": "https://newrez.wd1.myworkdayjobs.com/NRZ/job/TX-Coppell/XMLNAME-2027-Summer-Internship---Software-Developer_R10390"
   }
 ]
