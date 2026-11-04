@@ -1,12 +1,5 @@
 [
   {
-    "id": "sj:11d3d160-862a-4d48-9f6c-fc735d0c1383",
-    "company": "Koch Industries",
-    "title": "Business Analytics & Insights Intern",
-    "location": "Green Bay, WI (Other)",
-    "url": "https://koch.avature.net/en_US/careers/JobDetail/194813"
-  },
-  {
     "id": "sj:673a3035-f4bb-47d2-912f-bee053a64f17",
     "company": "Erie Insurance Group",
     "title": "Data Intern 2",
@@ -586,13 +579,6 @@
     "title": "Data Analyst Intern",
     "location": "Johnston, IA (Other)",
     "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4491829"
-  },
-  {
-    "id": "sj:5f3bc06c-d1dc-4a8c-a2d4-d1e2911c3626",
-    "company": "Immuta",
-    "title": "Product Research Intern",
-    "location": "College Park, MD (Other)",
-    "url": "https://jobs.lever.co/immuta/18aabf0a-8b27-4b7d-8a96-6995a7f8847b/apply"
   },
   {
     "id": "sj:e324dbfe-55ba-4099-a9f0-2268a787100e",
@@ -2142,6 +2128,20 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/MLOps-Physical-AI-Data-Intern---2027_JR2026544"
   },
   {
+    "id": "sj:50c5c42d-bfc3-4f63-905a-abf16bd78c02",
+    "company": "Roku",
+    "title": "Software Engineer Intern",
+    "location": "Manchester, UK (Other)",
+    "url": "https://www.weareroku.com/jobs/8345967?gh_jid=8345967"
+  },
+  {
+    "id": "sj:2a48b4e4-b815-484d-ba1f-6a52419c38d8",
+    "company": "Roku",
+    "title": "Software Engineer Intern",
+    "location": "Cambridge, UK (Other)",
+    "url": "https://www.weareroku.com/jobs/8345963?gh_jid=8345963"
+  },
+  {
     "id": "sj:cd0aaf62-2542-475a-9c3f-b1c5f03f0ad4",
     "company": "Roku",
     "title": "AI Engineering Intern",
@@ -2154,6 +2154,20 @@
     "title": "AI Engineering Intern",
     "location": "Cambridge, UK (Other)",
     "url": "https://www.weareroku.com/jobs/8345947?gh_jid=8345947"
+  },
+  {
+    "id": "sj:715edfbe-9e25-4d5c-b17b-230a7cd1efa2",
+    "company": "Northrop Grumman",
+    "title": "Software Engineer Intern",
+    "location": "Roy, UT (Other)",
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10259181"
+  },
+  {
+    "id": "sj:627ccd4d-bfee-4232-9b77-c75320e6631e",
+    "company": "Parsons",
+    "title": "AI/ML Engineer Intern",
+    "location": "Centreville, VA; United States (Other)",
+    "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---VA-Centreville/AI-ML-Engineering-Intern-Summer-2027_R188194"
   },
   {
     "id": "sj:6ad57247-699c-41de-9362-2395f80865d4",
@@ -2520,13 +2534,6 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Compiler-and-Kernel-Intern---Summer-2027_JR2029220-1"
   },
   {
-    "id": "sj:f3ea53ba-e5c9-4206-8d4c-5aa29ea06ebd",
-    "company": "Synopsys",
-    "title": "Technical Engineering Intern",
-    "location": "Sunnyvale, CA (Other)",
-    "url": "https://synopsys.avature.net/careers/JobDetail/19536"
-  },
-  {
     "id": "sj:788484cf-8d3d-4fb3-82c6-3b5c16072344",
     "company": "Molina Healthcare",
     "title": "Healthcare Quality & Analytics Intern",
@@ -2604,13 +2611,6 @@
     "url": "https://macfound.wd1.myworkdayjobs.com/MAC_FOUND_EXT_CAREERS/job/Chicago-Office/Evaluation---Learning-Intern---Summer-2027_REQ-000362"
   },
   {
-    "id": "sj:046091a9-a6ce-44b7-9a9f-151534102afe",
-    "company": "VSP Vision",
-    "title": "AI, Agentic & Machine Learning Development Intern - AI, Agentic & Machine Learning Development",
-    "location": "Remote in USA (Other)",
-    "url": "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--AI---Agentic---Machine-Learning-Development_R-10072"
-  },
-  {
     "id": "sj:e3c3ec07-903b-4d30-ab26-7781d86dbcb9",
     "company": "Toyota Research Institute",
     "title": "Human Interactive Driving Research Intern - Perception for Driving at the Limits",
@@ -2637,6 +2637,13 @@
     "title": "Software Engineer Intern",
     "location": "Bellevue, WA (Other)",
     "url": "https://ats.rippling.com/golden/jobs/2ba326f7-9259-47df-9f54-bef4ce5c5fb5"
+  },
+  {
+    "id": "sj:4a56e5c7-104e-4300-af23-cd40dfd09685",
+    "company": "Nutanix",
+    "title": "Software Engineer Intern",
+    "location": "Cambridge, UK (Other)",
+    "url": "https://jobs.jobvite.com/nutanix/job/otr1Afwf?nl=1&nl=1&fr=false"
   },
   {
     "id": "sj:f82632d8-09d1-4568-bbaf-aa4a5ecb312a",
@@ -2791,13 +2798,6 @@
     "title": "Application Developer Intern",
     "location": "Chillicothe, OH (Other)",
     "url": "https://jobs.paccar.com/job/Kirkland-Summer-2027-Application-Developer-Intern-(OH)-WA-98033/1451927133/?ats=successfactors"
-  },
-  {
-    "id": "sj:ee6ec003-29b0-4b45-84ff-f2bc079dd1cf",
-    "company": "VSP Vision",
-    "title": "Software Engineer Intern - Technology Innovation",
-    "location": "Remote in USA (Other)",
-    "url": "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Technology-Innovation_R-10020"
   },
   {
     "id": "sj:af9cd863-b956-4618-a0ec-e4d7d7f8056a",
@@ -3323,13 +3323,6 @@
     "title": "Future Talent Program Intern - AI/ML Biomedical Imaging and Computational Pathology",
     "location": "Cambridge, MA (Other)",
     "url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Massachusetts---Cambridge-320-Bent-Street/XMLNAME-2027-Future-Talent-Program---AI-ML-Biomedical-Imaging-and-Computational-Pathology---Intern_R423515"
-  },
-  {
-    "id": "sj:24d68083-3cb9-4678-ae53-e6a2fcd638fe",
-    "company": "American Family Insurance Group",
-    "title": "AI Platform Engineering Intern",
-    "location": "Madison, WI (Other)",
-    "url": "https://amfam.wd1.myworkdayjobs.com/en-US/Careers/job/WI-Madison/Product-Data-Engineering-Intern--Hybrid-_R39462"
   },
   {
     "id": "sj:598f7d86-9ae9-4217-9a5c-b8cdda8d7431",
@@ -3981,13 +3974,6 @@
     "title": "Ground Software Engineer Intern",
     "location": "San Jose, CA (Other)",
     "url": "https://job-boards.greenhouse.io/muonspace/jobs/5266679007"
-  },
-  {
-    "id": "sj:90d4be1a-888d-4b8c-a5e7-f07c01f135bb",
-    "company": "CoverMyMeds",
-    "title": "CMM Technology Intern",
-    "location": "Columbus, OH (Other)",
-    "url": "https://mckesson.wd3.myworkdayjobs.com/en-US/CoverMyMeds_External_Careers/job/USA-OH-Columbus/CMM-Technology-Intern---Summer-2027_JR0151979-2"
   },
   {
     "id": "sj:6be326d4-b4e5-4d1a-9440-abd55d5a377d",
@@ -4942,13 +4928,6 @@
     "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Chicago-IL/Summer-2027-Intern-Computer-Science-and-Software-Engineering_R-0000033637"
   },
   {
-    "id": "sj:be949df0-0657-4f39-b1f3-e45962a3eee3",
-    "company": "CoStar Group",
-    "title": "Technology Intern",
-    "location": "Sunnyvale, CA (Other)",
-    "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Summer-2027-Technology-Intern---Sunnyvale--CA_R39945"
-  },
-  {
     "id": "sj:89b1d0e6-d40e-4e29-857a-17f380391687",
     "company": "CoStar Group",
     "title": "Embedded Software Engineer Intern",
@@ -4975,13 +4954,6 @@
     "title": "AI/ML Engineer Intern - Autonomous Vehicles: Simulation",
     "location": "Sunnyvale, CA (Other)",
     "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicles--Simulation--PhD-_JR-202621511"
-  },
-  {
-    "id": "sj:5c721084-2430-498d-ae4c-d36aeaee8fac",
-    "company": "General Motors",
-    "title": "Simulation Intern - Software Engineer - Autonomous Vehicle: Simulation",
-    "location": "Sunnyvale, CA (Other)",
-    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Software-Engineer--Autonomous-Vehicle--Simulation_JR-202621503"
   },
   {
     "id": "sj:48975da5-2bb2-4457-8702-de4898cd805e",
@@ -6468,13 +6440,6 @@
     "url": "https://eyglobal.yello.co/jobs/LBmQQDFgzrEW53QwXVMXLw?job_board_id=c1riT--B2O-KySgYWsZO1Q"
   },
   {
-    "id": "sj:a5f886cf-d5b6-41ac-9bfc-98833aff9bb6",
-    "company": "Primer",
-    "title": "Software Engineer Intern - Full Stack",
-    "location": "SF (Other)",
-    "url": "https://jobs.ashbyhq.com/primer/edd1667b-6323-444a-adc1-40bae5b9a3b0/application?embed=true"
-  },
-  {
     "id": "sj:d3f54d58-9f89-4689-b91d-f9e03013c3ca",
     "company": "Skydio",
     "title": "Autonomy Engineer Intern - Computer Vision / Deep Learning - Summer 2027",
@@ -6998,5 +6963,40 @@
     "title": "Technology Intern",
     "location": "Coppell, TX (Other)",
     "url": "https://blackhawknetwork.jibeapply.com/jobs/26866?icims=1"
+  },
+  {
+    "id": "sj:15129436-ae9b-4bc6-8628-b77a5b2874fb",
+    "company": "Blackhawk Network Holdings",
+    "title": "Technology Intern",
+    "location": "Pleasanton, CA (Other)",
+    "url": "https://blackhawknetwork.jibeapply.com/jobs/26867?icims=1"
+  },
+  {
+    "id": "sj:8254bef8-0753-4347-9bd2-47e5536eab40",
+    "company": "Stryker",
+    "title": "Software Engineering Intern - Software Engineering",
+    "location": "Fort Lauderdale, FL (Other)",
+    "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Lauderdale-Florida/Summer-2027-Internship---Software-Engineering---Florida_R572629-1"
+  },
+  {
+    "id": "sj:3c6dc4c7-bd24-4215-a600-0d55a3952673",
+    "company": "Stryker",
+    "title": "Software Engineering Intern - Multiple Teams",
+    "location": "Fort Wayne, IN (Other)",
+    "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Wayne-Indiana/Summer-2027-Internship---Software-Engineering---Indiana_R572631"
+  },
+  {
+    "id": "sj:ca835172-bf35-4ed0-b110-8dec8dc954ea",
+    "company": "Stryker",
+    "title": "Software Engineering Intern - Software Engineering",
+    "location": "Portage, MI (Other)",
+    "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---Software-Engineering---Michigan_R572632-1"
+  },
+  {
+    "id": "sj:ac16b37b-d5ee-4a02-8d77-305bc1ab5168",
+    "company": "Stryker",
+    "title": "Software Engineering Intern - Multiple Teams",
+    "location": "Fremont, CA; San Jose, CA (Other)",
+    "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/San-Jose-California/Summer-2027-Internship---Software-Engineering---California_R572624"
   }
 ]
