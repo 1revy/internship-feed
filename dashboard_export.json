@@ -1372,13 +1372,6 @@
     "url": "https://job-boards.greenhouse.io/rothesaygraduates/jobs/8811551002"
   },
   {
-    "id": "sj:9dd99ce3-b29a-44bc-afef-611ed1cdc75f",
-    "company": "ZS",
-    "title": "Decision Analytics Associate Intern",
-    "location": "London, UK (London / Paris)",
-    "url": "https://jobs.zs.com/jobs/68243?icims=1"
-  },
-  {
     "id": "sj:1962fda2-9358-4d0b-a814-d0e55e225392",
     "company": "Amazon",
     "title": "Software Developer Intern",
@@ -1834,13 +1827,6 @@
     "url": "https://hysteryale.wd1.myworkdayjobs.com/hyster-yalecareers/job/HY-US-Greenville-NC-Headquarters/Summer-2027-Business-Analytics-Intern_R8539"
   },
   {
-    "id": "sj:e8f323c9-7a0d-4a50-9915-19d7661ecb06",
-    "company": "Northrop Grumman",
-    "title": "Data Scientist Intern - Product Support",
-    "location": "San Diego, CA (Other)",
-    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Intern-Product-Support---Data-Scientist_R10258679"
-  },
-  {
     "id": "sj:6a04f366-4e42-4fe5-bb4f-c88ef2a7db83",
     "company": "Qualcomm",
     "title": "AI Software Systems Co-op Intern",
@@ -1881,13 +1867,6 @@
     "title": "Data Engineer Intern - Energy",
     "location": "Palo Alto, CA (Other)",
     "url": "https://www.tesla.com/careers/search/job/287982"
-  },
-  {
-    "id": "sj:5617d404-c12b-458b-ab00-3c6cd2ec70e9",
-    "company": "Boston Scientific",
-    "title": "AI Solutions Engineering Intern",
-    "location": "Arden Hills, MN (Other)",
-    "url": "https://bostonscientific.eightfold.ai/careers/job/563602813547675"
   },
   {
     "id": "sj:22af9ee1-e73d-418a-9466-c9b7baa84044",
@@ -3498,5 +3477,26 @@
     "title": "Data Science Intern",
     "location": "Cary, NC (Other)",
     "url": "https://epicgames.com/careers/jobs/6202675004?gh_jid=6202675004"
+  },
+  {
+    "id": "sj:02dee7ff-6975-4a5e-8aea-ee0dc2ebfde9",
+    "company": "ByteDance",
+    "title": "Product Management Project Intern - Global Payment",
+    "location": "San Jose, CA (Other)",
+    "url": "https://jobs.bytedance.com/en/position/7686394581777631541/detail"
+  },
+  {
+    "id": "sj:6a018490-0c94-49df-9ad0-bfecd8fdad21",
+    "company": "Charter Manufacturing",
+    "title": "Digital Integration Intern",
+    "location": "Mequon, WI (Other)",
+    "url": "https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Manufacturing-Company-Inc---Mequon-WI/Digital-Integration-Intern--Year-Round-_R08129"
+  },
+  {
+    "id": "sj:fb864212-d3c0-4051-9019-29f9bcfde6ac",
+    "company": "Stryker",
+    "title": "Data Analytics Intern",
+    "location": "Fort Wayne, IN (Other)",
+    "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Wayne-Indiana/Data-Engineering-Intern_R572901"
   }
 ]
