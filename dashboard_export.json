@@ -427,6 +427,13 @@
     "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-AI-Services-and-Platforms-Software-Engineer-Graduate-Intern_J288322"
   },
   {
+    "id": "sj:f3d897bf-f136-496c-9994-5a34953c7c3b",
+    "company": "Northrop Grumman",
+    "title": "Flight Software Engineer Intern",
+    "location": "Manhattan Beach, CA (New York)",
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/XMLNAME-2027-Flight-Software-Engineer-Intern---Redondo-Beach-CA_R10259032"
+  },
+  {
     "id": "sj:63d855e1-d1ea-462d-bcca-0d0d3bba5e1e",
     "company": "T-Mobile",
     "title": "Software Engineer Intern",
@@ -1554,6 +1561,13 @@
     "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002"
   },
   {
+    "id": "sj:f55ba2e1-e436-475d-8d27-c4fbd34fd773",
+    "company": "Sherwin-Williams",
+    "title": "R&D Data Visualization Intern",
+    "location": "Brecksville, OH (Other)",
+    "url": "https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2628298"
+  },
+  {
     "id": "sj:540147a8-5c6b-4f1d-8311-8fce3c94c9de",
     "company": "Staples",
     "title": "Software Engineer Intern - SDS e-Commerce Team",
@@ -1594,6 +1608,13 @@
     "title": "Data Science Intern",
     "location": "Remote in USA (Other)",
     "url": "https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Data-Science-Intern_R14306"
+  },
+  {
+    "id": "sj:7d4480fb-523b-4c24-90d8-5b242a7ec976",
+    "company": "HP Inc.",
+    "title": "Software Engineer Intern - Product & Developer Productivity",
+    "location": "SF (Other)",
+    "url": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/San-Francisco-California-United-States-of-America/Software-Quality-Assurance-Intern_UNI4803-1"
   },
   {
     "id": "sj:e20b5924-fa25-474c-b3ce-6a1d27642caf",
@@ -1902,13 +1923,6 @@
     "title": "Associate Product Manager Intern",
     "location": "Overland Park, KS (Other)",
     "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Assoc-Product-Manager-Internship_REQ380746"
-  },
-  {
-    "id": "sj:198b1795-11c2-45d8-aedf-4794abe8f889",
-    "company": "Sun Life",
-    "title": "Data Analyst Co-op",
-    "location": "Toronto, ON, Canada (Other)",
-    "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Student--Data-Analyst--Winter-Summer-Fall-2027-_JR00129284"
   },
   {
     "id": "sj:c1ba6f20-fc24-4161-a598-49b44171c273",
@@ -3346,13 +3360,6 @@
     "url": "https://jobs.constellationenergy.com/jobs/139494?icims=1"
   },
   {
-    "id": "sj:62a58db2-7867-4166-bfeb-81e7fc0f9aac",
-    "company": "William Blair",
-    "title": "Technology Intern - Wit - Data Science",
-    "location": "Chicago, IL (Other)",
-    "url": "https://www.williamblair.com/Careers/job-description?gh_jid=5242280007"
-  },
-  {
     "id": "sj:f60317b7-57f8-4a35-8a4a-001aa5b31e8d",
     "company": "UL Solutions",
     "title": "Data Science Intern",
@@ -3491,12 +3498,5 @@
     "title": "Data Science Intern",
     "location": "Cary, NC (Other)",
     "url": "https://epicgames.com/careers/jobs/6202675004?gh_jid=6202675004"
-  },
-  {
-    "id": "sj:02dee7ff-6975-4a5e-8aea-ee0dc2ebfde9",
-    "company": "ByteDance",
-    "title": "Product Management Project Intern - Global Payment",
-    "location": "San Jose, CA (Other)",
-    "url": "https://jobs.bytedance.com/en/position/7686394581777631541/detail"
   }
 ]
