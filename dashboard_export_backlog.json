@@ -1,5 +1,12 @@
 [
   {
+    "id": "sj:02dee7ff-6975-4a5e-8aea-ee0dc2ebfde9",
+    "company": "ByteDance",
+    "title": "Product Management Project Intern - Global Payment",
+    "location": "San Jose, CA (Other)",
+    "url": "https://jobs.bytedance.com/en/position/7686394581777631541/detail"
+  },
+  {
     "id": "sj:6a018490-0c94-49df-9ad0-bfecd8fdad21",
     "company": "Charter Manufacturing",
     "title": "Digital Integration Intern",
@@ -537,6 +544,13 @@
     "title": "Business Performance & Analytics Intern",
     "location": "Houston, TX (Other)",
     "url": "https://jobs.constellationenergy.com/jobs/138770?icims=1"
+  },
+  {
+    "id": "sj:a7fc9580-0361-4ff0-9756-c14ebc75a0de",
+    "company": "Dell Technologies",
+    "title": "Software Engineer Intern - Client Solutions Group Engineering",
+    "location": "Austin, TX (Other)",
+    "url": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/298217"
   },
   {
     "id": "sj:5f786704-9f4e-4137-8947-80614fba3b53",
@@ -2156,6 +2170,27 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/MLOps-Physical-AI-Data-Intern---2027_JR2026544"
   },
   {
+    "id": "sj:6ad57247-699c-41de-9362-2395f80865d4",
+    "company": "Microsoft",
+    "title": "Software Engineer Intern",
+    "location": "Redmond, WA (Other)",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557037859"
+  },
+  {
+    "id": "sj:40229e74-e447-4509-b2ec-e081aea6b3ab",
+    "company": "Samsung Research America",
+    "title": "Generative AI based Imaging and Video R&D Intern",
+    "location": "Plano, TX (Other)",
+    "url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8927216002"
+  },
+  {
+    "id": "sj:1bc20c6e-0eb9-4303-9f38-13bb3df03fa8",
+    "company": "Electronic Arts",
+    "title": "Anticheat Engineer Intern",
+    "location": "Austin, TX (Other)",
+    "url": "https://jobs.ea.com/en_US/careers/JobDetail/Anticheat-Engineer-Intern-Summer-2027/216242"
+  },
+  {
     "id": "sj:3095dc51-647e-45c6-8c95-5791bcf93583",
     "company": "Commonwealth Fusion Systems",
     "title": "Software Engineer Intern",
@@ -2175,6 +2210,20 @@
     "title": "Cybersecurity AI Engineer Intern - Enterprise Technology Services",
     "location": "Phoenix, AZ (Other)",
     "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016065"
+  },
+  {
+    "id": "sj:7a1a3528-b508-452b-8181-fd07f84905ef",
+    "company": "Hive Financial Systems",
+    "title": "HFA Intern",
+    "location": "Atlanta, GA (Other)",
+    "url": "https://job-boards.greenhouse.io/hivefinancialsystems/jobs/5283228007"
+  },
+  {
+    "id": "sj:24381402-1346-48ef-9e6d-909cd81ca7d5",
+    "company": "Nex",
+    "title": "Software Engineer Intern - Sports & Fitness - Game Development",
+    "location": "San Jose, CA (Other)",
+    "url": "https://job-boards.greenhouse.io/nex/jobs/5421056008"
   },
   {
     "id": "sj:3686f5c7-2317-4936-bc43-f0fa9697c64d",
@@ -2231,6 +2280,62 @@
     "title": "Software Engineer Intern - AIML Platform - HP IQ",
     "location": "SF (Other)",
     "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern--AIML-Platform---HP-IQ_UNI4800"
+  },
+  {
+    "id": "sj:62fcafce-1c3e-423e-b12d-6f064a41a6a3",
+    "company": "JM Family",
+    "title": "AI Center of Excellence Delivery Team Intern",
+    "location": "Deerfield Beach, FL (Other)",
+    "url": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/AI-Center-of-Excellence--COE--Delivery-Team-Intern_JR105176"
+  },
+  {
+    "id": "sj:a4762cb5-97a1-457e-a071-427b1e9dd672",
+    "company": "JM Family",
+    "title": "AI & Decision Science Intern",
+    "location": "Deerfield Beach, FL (Other)",
+    "url": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/AI---Decision-Science-Intern_JR105095"
+  },
+  {
+    "id": "sj:ffd5cac3-f494-4220-994f-4789d4df9e5c",
+    "company": "HP Inc.",
+    "title": "Software Engineer Intern - AIML Platform - HP IQ",
+    "location": "SF (Other)",
+    "url": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern--AIML-Platform---HP-IQ_UNI4800-1"
+  },
+  {
+    "id": "sj:ec682ade-102c-4bca-9824-a71e73c64c13",
+    "company": "T-Mobile",
+    "title": "T-Ads Software Engineer Intern",
+    "location": "Philadelphia, PA (Other)",
+    "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Philadelphia-Pennsylvania/Summer-2027-T-Ads-Software-Engineering-Internship_REQ381234"
+  },
+  {
+    "id": "sj:2d8c299e-32f6-48b9-96af-74653d10e44a",
+    "company": "RTX",
+    "title": "Software Engineer Intern",
+    "location": "West Valley City, UT (Other)",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineering-Intern--Summer-2027-_01886446"
+  },
+  {
+    "id": "sj:3c1feb51-a55f-4a71-bbde-0564560f67e4",
+    "company": "T-Mobile",
+    "title": "Software Engineering Intern",
+    "location": "Atlanta, GA (Other)",
+    "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Atlanta-Georgia/Summer-2027-Software-Engineering-Internship_REQ380652"
+  },
+  {
+    "id": "sj:8210627b-02c8-426b-976a-12e3772ac89f",
+    "company": "TruStage",
+    "title": "Innovation & AI Technology Intern",
+    "location": "Madison, WI (Other)",
+    "url": "https://trustage.wd1.myworkdayjobs.com/TruStage/job/Madison-WI/IT---Innovation---AI-Technology-Internship--Hybrid-_R-012293"
+  },
+  {
+    "id": "sj:c5e86824-dfe7-4736-af3b-f8a7222c6536",
+    "company": "Northrop Grumman",
+    "title": "Ground Software Engineer Intern",
+    "location": "Redondo Beach, CA (Other)",
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Ground-Software-Engineer-Intern---Redondo-Beach-CA_R10259057"
   },
   {
     "id": "sj:f1c48f63-d8ea-4e90-8539-67591d5ad08f",
@@ -3484,13 +3589,6 @@
     "title": "Software Engineer Intern - AI Compute Libraries & Performance",
     "location": "Bristol, UK (Other)",
     "url": "https://job-boards.greenhouse.io/graphcore/jobs/8894868002"
-  },
-  {
-    "id": "sj:135b8fde-7c9d-4852-a29b-385efc07e7b4",
-    "company": "Steel",
-    "title": "Software Engineer Intern",
-    "location": "Toronto, ON, Canada (Other)",
-    "url": "https://jobs.ashbyhq.com/steel/5fbdbebf-ddb2-4264-a941-3ab6d475208c/application?embed=true"
   },
   {
     "id": "sj:adea30a6-775b-4c81-ae92-6ed234b64e3b",
@@ -5586,13 +5684,6 @@
     "url": "https://www.tower-research.ca/postes-vacants/?gh_jid=8212194"
   },
   {
-    "id": "sj:ad26d172-59a3-4f93-9750-94d260cfb4e5",
-    "company": "Waymo",
-    "title": "Software Engineering Intern - Maneuvering Tech",
-    "location": "SF (Other)",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=8203200"
-  },
-  {
     "id": "sj:21da8578-625e-4937-b949-fcc1669b7dee",
     "company": "Vanguard",
     "title": "Co-op - Multiple Teams",
@@ -6053,13 +6144,6 @@
     "title": "Software Engineer Co-op",
     "location": "Eden Prairie, MN (Other)",
     "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010738"
-  },
-  {
-    "id": "sj:77dcf2a7-167d-441e-87cb-ad11e7f55bba",
-    "company": "AES",
-    "title": "Performance and Reliability Engineering Intern - Summer 2027",
-    "location": "Dayton, OH; Indianapolis, IN (Other)",
-    "url": "https://aes.wd1.myworkdayjobs.com/AES_US/job/US-Dayton-OH/T-D-Performance-and-Reliability-Engineering-Intern--Summer-2027-_R1064841"
   },
   {
     "id": "sj:ce6e7eab-28ed-4bf3-832d-a386a859b37a",
@@ -6914,89 +6998,5 @@
     "title": "Software Engineer Intern - Summer 2027",
     "location": "Tysons, VA (Other)",
     "url": "https://careers.cvent.com/jobs/10806?icims=1"
-  },
-  {
-    "id": "sj:949d51a9-718b-4bfe-8a44-2735fc2a1a8a",
-    "company": "HP IQ",
-    "title": "Software Engineer Intern - Cloud Services - Summer 2027",
-    "location": "SF (Other)",
-    "url": "https://job-boards.greenhouse.io/hpiq/jobs/6111955004"
-  },
-  {
-    "id": "sj:335f80f5-c466-4364-a041-7daa9748daa0",
-    "company": "HP IQ",
-    "title": "Software Engineer Intern - AML Platform",
-    "location": "SF (Other)",
-    "url": "https://job-boards.greenhouse.io/hpiq/jobs/6114781004"
-  },
-  {
-    "id": "sj:f6fb04a7-b7e2-4890-8a03-fe80a235e6e5",
-    "company": "HP IQ",
-    "title": "Software Engineer Intern",
-    "location": "SF (Other)",
-    "url": "https://job-boards.greenhouse.io/hpiq/jobs/6114912004"
-  },
-  {
-    "id": "sj:bfeef96e-5bbc-425d-9ee0-3fa12f525bf1",
-    "company": "Epic Games",
-    "title": "Frontend Programmer Intern",
-    "location": "Cary, NC (Other)",
-    "url": "https://epicgames.com/careers/jobs/6173862004?gh_jid=6173862004"
-  },
-  {
-    "id": "sj:d8558fc9-9efb-4c17-b70f-26aafda3b66a",
-    "company": "Bosch Home Comfort",
-    "title": "Software Engineer Intern",
-    "location": "Farmington Hills, MI (Other)",
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000146546849"
-  },
-  {
-    "id": "sj:53349dba-052e-4667-bc87-a3162afa6b94",
-    "company": "C3.ai",
-    "title": "Software Engineer Intern",
-    "location": "Redwood City, CA (Other)",
-    "url": "https://c3.ai/job-description/8739037002?gh_jid=8739037002"
-  },
-  {
-    "id": "sj:5a3db098-8c38-40fa-be03-1d93ebd0e299",
-    "company": "C3.ai",
-    "title": "Software Engineer Intern",
-    "location": "Redwood City, CA (Other)",
-    "url": "https://job-boards.greenhouse.io/c3ascend/jobs/8739036002"
-  },
-  {
-    "id": "sj:6b57ac18-b109-4566-a7ef-80abeefd8757",
-    "company": "Blackhawk Network Holdings",
-    "title": "Technology Intern",
-    "location": "Coppell, TX (Other)",
-    "url": "https://blackhawknetwork.jibeapply.com/jobs/26866?icims=1"
-  },
-  {
-    "id": "sj:15129436-ae9b-4bc6-8628-b77a5b2874fb",
-    "company": "Blackhawk Network Holdings",
-    "title": "Technology Intern",
-    "location": "Pleasanton, CA (Other)",
-    "url": "https://blackhawknetwork.jibeapply.com/jobs/26867?icims=1"
-  },
-  {
-    "id": "sj:8254bef8-0753-4347-9bd2-47e5536eab40",
-    "company": "Stryker",
-    "title": "Software Engineering Intern - Software Engineering",
-    "location": "Fort Lauderdale, FL (Other)",
-    "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Lauderdale-Florida/Summer-2027-Internship---Software-Engineering---Florida_R572629-1"
-  },
-  {
-    "id": "sj:3c6dc4c7-bd24-4215-a600-0d55a3952673",
-    "company": "Stryker",
-    "title": "Software Engineering Intern - Multiple Teams",
-    "location": "Fort Wayne, IN (Other)",
-    "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Wayne-Indiana/Summer-2027-Internship---Software-Engineering---Indiana_R572631"
-  },
-  {
-    "id": "sj:ca835172-bf35-4ed0-b110-8dec8dc954ea",
-    "company": "Stryker",
-    "title": "Software Engineering Intern - Software Engineering",
-    "location": "Portage, MI (Other)",
-    "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---Software-Engineering---Michigan_R572632-1"
   }
 ]
