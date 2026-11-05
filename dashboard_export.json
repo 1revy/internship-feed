@@ -1,5 +1,12 @@
 [
   {
+    "id": "sj:1e76d73e-91b3-4272-aef5-8001b690b62f",
+    "company": "NRDC",
+    "title": "Donor Systems Intern",
+    "location": "NYC (New York)",
+    "url": "https://careers-nrdc.icims.com/jobs/6046/job?mobile=true&needsRedirect=false"
+  },
+  {
     "id": "sj:b9c002ea-de62-45ca-a0e0-7210aff84508",
     "company": "Jomboy Media",
     "title": "Business Intelligence Intern",
@@ -1211,6 +1218,13 @@
     "url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383236008"
   },
   {
+    "id": "sj:b4e7c73b-3dee-4205-b3f7-76f29f632692",
+    "company": "NRDC",
+    "title": "Knowledge Management Intern",
+    "location": "Washington, DC (Washington DC / Central NJ)",
+    "url": "https://careers-nrdc.icims.com/jobs/6066/job?mobile=true&needsRedirect=false"
+  },
+  {
     "id": "sj:b82c266b-358b-4cf2-b927-d7bda329770e",
     "company": "Vizient",
     "title": "Pharmacy Aggregation Intern",
@@ -1251,6 +1265,13 @@
     "title": "AI/ML Engineer Intern",
     "location": "Washington, DC (Washington DC / Central NJ)",
     "url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383231008"
+  },
+  {
+    "id": "sj:15807230-9168-4124-a941-9155bd08a632",
+    "company": "Baringa",
+    "title": "Solutions AI Lab Intern",
+    "location": "London, UK (London / Paris)",
+    "url": "https://job-boards.eu.greenhouse.io/baringa/jobs/5028472101"
   },
   {
     "id": "sj:dabca611-fa12-4b6e-9215-8952a2c58c16",
@@ -1370,6 +1391,13 @@
     "title": "Data Science Machine Learning Intern",
     "location": "London, UK (London / Paris)",
     "url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/London-UK/Data-Science-Machine-Learning-Internship--Summer-2027-_R1345"
+  },
+  {
+    "id": "sj:080013e5-3799-4094-8bd3-80591859bd88",
+    "company": "Expedia Group",
+    "title": "Machine Learning Science Intern",
+    "location": "London, UK (London / Paris)",
+    "url": "https://expedia.wd108.myworkdayjobs.com/private/job/UK---London/Applied-Science-Intern---PhD---2027---London_R-110737-2"
   },
   {
     "id": "sj:8ecc23d5-812f-4cff-bd1f-143499c36e34",
@@ -1610,6 +1638,13 @@
     "url": "https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/38335"
   },
   {
+    "id": "sj:30f3d124-8689-4553-8520-4e6bfee3b9a6",
+    "company": "Uline",
+    "title": "Marketing Intern",
+    "location": "Waukegan, IL; Milwaukee, WI; Glenview, IL; Pleasant Prairie, WI; Kenosha, WI (Other)",
+    "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Marketing-Internship---Summer-2027_R268946"
+  },
+  {
     "id": "sj:2f96e3d6-e7b7-4c8f-ac5d-832fdca16735",
     "company": "Paccar",
     "title": "Data Engineer Intern",
@@ -1797,13 +1832,6 @@
     "title": "Product Manager Intern",
     "location": "Philadelphia, PA (Other)",
     "url": "https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4725351006"
-  },
-  {
-    "id": "sj:4e5f22da-1551-4dbf-a079-0c987a791f0d",
-    "company": "CoStar Group",
-    "title": "Data Science Intern",
-    "location": "Richmond, VA (Other)",
-    "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-VA-Richmond/Data-Science-Intern---Richmond--VA--Summer-2027-_R40140"
   },
   {
     "id": "sj:ef971fc9-99f7-453f-91a9-664481b3b831",
@@ -2063,13 +2091,6 @@
     "title": "International Operations Analyst Intern",
     "location": "Pleasant Prairie, WI (Other)",
     "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/International-Operations-Analyst-Internship---Summer-2027_R268694"
-  },
-  {
-    "id": "sj:67c38e84-2904-4f41-b7d9-11a2d287366b",
-    "company": "Sonos",
-    "title": "Software Product Management Intern",
-    "location": "Seattle, WA (Other)",
-    "url": "https://sonos.wd1.myworkdayjobs.com/Sonos/job/Seattle-WA/Software-Product-Management-Intern--Seattle-_R2866-1"
   },
   {
     "id": "sj:f4dc97f0-baca-420e-a5eb-96d5e9625bf3",
@@ -3477,26 +3498,5 @@
     "title": "Data Engineer Intern",
     "location": "Sioux Falls, SD (Other)",
     "url": "https://poet.wd1.myworkdayjobs.com/POET/job/Sioux-Falls-SD/Data-Engineering-Intern_R101787"
-  },
-  {
-    "id": "sj:ab6d1cf4-f0b7-43c9-be13-a1185c95297f",
-    "company": "IAT Insurance Group",
-    "title": "Data Engineering & Visualization Intern",
-    "location": "Raleigh, NC (Other)",
-    "url": "https://iatinsurancegroup.wd1.myworkdayjobs.com/iat/job/Raleigh-NC/Data-Engineering---Visualization-Internship_JR100441"
-  },
-  {
-    "id": "sj:1f8a0413-c78d-4d89-a614-ceba126efdf8",
-    "company": "Red Ventures",
-    "title": "Data Science Intern - Launch Program",
-    "location": "Charlotte, NC (Other)",
-    "url": "https://www.redventures.com/careers/positions/open?gh_jid=8233284"
-  },
-  {
-    "id": "sj:e461075c-d030-4455-8fe8-9a52fa5c0551",
-    "company": "Western National Insurance",
-    "title": "Data Engineering Intern - Data & Integrations",
-    "location": "Edina, MN (Other)",
-    "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4537849"
   }
 ]
