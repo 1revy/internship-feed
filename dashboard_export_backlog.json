@@ -1,12 +1,5 @@
 [
   {
-    "id": "sj:673a3035-f4bb-47d2-912f-bee053a64f17",
-    "company": "Erie Insurance Group",
-    "title": "Data Intern 2",
-    "location": "Erie, PA (Other)",
-    "url": "https://jobs.erieinsurance.com/job/Erie-Intern-II-(Data)-PA-16506/1432176200/?ats=successfactors"
-  },
-  {
     "id": "sj:2e8bb17d-0726-4482-af62-5f868bede92c",
     "company": "AutoZone",
     "title": "Data Science Intern",
@@ -4928,13 +4921,6 @@
     "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Chicago-IL/Summer-2027-Intern-Computer-Science-and-Software-Engineering_R-0000033637"
   },
   {
-    "id": "sj:89b1d0e6-d40e-4e29-857a-17f380391687",
-    "company": "CoStar Group",
-    "title": "Embedded Software Engineer Intern",
-    "location": "Sunnyvale, CA (Other)",
-    "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Embedded-Software-Engineering-Intern_R39950"
-  },
-  {
     "id": "sj:422500a8-0786-49f2-b8bc-d16971d96cd8",
     "company": "CACI",
     "title": "AI Prompt Engineer Intern",
@@ -5129,13 +5115,6 @@
     "title": "Software Engineering Intern - Software Tools and Assurance",
     "location": "El Segundo, CA (Other)",
     "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Software-Tools-and-Assurance-Engineering-Grad-Intern_R016753"
-  },
-  {
-    "id": "sj:c9443ff8-a611-4d5a-b7eb-50e96c3035cf",
-    "company": "TransUnion",
-    "title": "Financial Services Argus Advisory Intern",
-    "location": "Chicago, IL; White Plains, NY (Other)",
-    "url": "https://transunion.wd5.myworkdayjobs.com/en-US/TransUnion/job/White-Plains-New-York/Financial-Services---Argus-Advisory-Internship---Summer-2027_19042627"
   },
   {
     "id": "sj:ec241207-37cb-48f4-aa65-cf19d960f7a2",
@@ -5787,13 +5766,6 @@
     "title": "Machine Learning Intern",
     "location": "Austin, TX (Other)",
     "url": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-Texas/XMLNAME-2027-Summer-Internship---Machine-Learning-Engineer_REQ-12797"
-  },
-  {
-    "id": "sj:c64a512f-2622-44bb-9b61-40e707833008",
-    "company": "Awardco",
-    "title": "Back-End Software Engineer Intern",
-    "location": "Lindon, UT (Other)",
-    "url": "https://award.co/position?gh_jid=4322220004"
   },
   {
     "id": "sj:36e1c66a-1cae-4b36-b414-d74b38a44a7f",
@@ -6998,5 +6970,33 @@
     "title": "Software Engineering Intern - Multiple Teams",
     "location": "Fremont, CA; San Jose, CA (Other)",
     "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/San-Jose-California/Summer-2027-Internship---Software-Engineering---California_R572624"
+  },
+  {
+    "id": "sj:fa15def7-0f05-40dd-be86-fa6ef407a9ef",
+    "company": "DraftKings",
+    "title": "Software Engineer Intern - Summer 2027",
+    "location": "Boston, MA (Other)",
+    "url": "https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Boston-MA/Software-Engineer-Intern--Summer-2027-_JR14928"
+  },
+  {
+    "id": "sj:f1913663-f443-410e-930f-eb7dff9c3450",
+    "company": "DraftKings",
+    "title": "Analytics Intern - Summer 2027",
+    "location": "Boston, MA (Other)",
+    "url": "https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Boston-MA/Analyst-Intern--Summer-2027-_JR14927"
+  },
+  {
+    "id": "sj:5b170a7d-3303-481f-8fa2-580c9e7274b4",
+    "company": "CACI",
+    "title": "Software Engineer Co-op - Summer & Fall 2027",
+    "location": "Danbury, CT (Other)",
+    "url": "https://caci.wd1.myworkdayjobs.com/external/job/Danbury-CT-US/Software-Engineering-Co-op---Summer---Fall-2027_331354"
+  },
+  {
+    "id": "sj:78c615cc-dde5-4897-aa80-d2cd8cfc2c60",
+    "company": "Zipline",
+    "title": "Maps Intern - Summer 2027",
+    "location": "South SF (Other)",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7980866003"
   }
 ]
