@@ -2079,13 +2079,6 @@
     "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2507070"
   },
   {
-    "id": "sj:dc225990-b400-400e-a1e3-c5d7dadb10f2",
-    "company": "First Citizens BancShares",
-    "title": "Data Analyst Intern - Enterprise Data Analyst - Data Products",
-    "location": "Raleigh, NC (Other)",
-    "url": "https://firstcitizens.jibeapply.com/jobs/36230?icims=1"
-  },
-  {
     "id": "sj:1def6b3e-6143-4509-9f6c-ca677a3669ec",
     "company": "Sherwin-Williams",
     "title": "R&D Product Systems Intern",
@@ -3498,5 +3491,12 @@
     "title": "Business Analytics & Insights Intern",
     "location": "Green Bay, WI (Other)",
     "url": "https://koch.avature.net/en_US/careers/JobDetail/194813"
+  },
+  {
+    "id": "sj:673a3035-f4bb-47d2-912f-bee053a64f17",
+    "company": "Erie Insurance Group",
+    "title": "Data Intern 2",
+    "location": "Erie, PA (Other)",
+    "url": "https://jobs.erieinsurance.com/job/Erie-Intern-II-(Data)-PA-16506/1432176200/?ats=successfactors"
   }
 ]
