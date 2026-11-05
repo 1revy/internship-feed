@@ -1,5 +1,26 @@
 [
   {
+    "id": "sj:ab6d1cf4-f0b7-43c9-be13-a1185c95297f",
+    "company": "IAT Insurance Group",
+    "title": "Data Engineering & Visualization Intern",
+    "location": "Raleigh, NC (Other)",
+    "url": "https://iatinsurancegroup.wd1.myworkdayjobs.com/iat/job/Raleigh-NC/Data-Engineering---Visualization-Internship_JR100441"
+  },
+  {
+    "id": "sj:1f8a0413-c78d-4d89-a614-ceba126efdf8",
+    "company": "Red Ventures",
+    "title": "Data Science Intern - Launch Program",
+    "location": "Charlotte, NC (Other)",
+    "url": "https://www.redventures.com/careers/positions/open?gh_jid=8233284"
+  },
+  {
+    "id": "sj:e461075c-d030-4455-8fe8-9a52fa5c0551",
+    "company": "Western National Insurance",
+    "title": "Data Engineering Intern - Data & Integrations",
+    "location": "Edina, MN (Other)",
+    "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4537849"
+  },
+  {
     "id": "sj:865a11a8-4b8f-4167-99a1-2b819a80bdf2",
     "company": "Waymo",
     "title": "Systems Engineer Intern - Autonomous Vehicle Networks & Diagnostics",
@@ -2016,13 +2037,6 @@
     "url": "https://pentair.wd5.myworkdayjobs.com/pentair_careers/job/Golden-Valley-MN/Product-Management-Leadership-Development-Internship-Program---Summer-2027_R23713"
   },
   {
-    "id": "sj:6e078f21-cd89-48b1-8782-532d1868bc93",
-    "company": "Uline",
-    "title": "Marketing Intern",
-    "location": "Waukegan, IL; Milwaukee, WI; Glenview, IL; Pleasant Prairie, WI; Kenosha, WI (Other)",
-    "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Marketing-Internship---Summer-2027_R265940"
-  },
-  {
     "id": "sj:f4b6208a-2701-4f97-bf10-b54704e67c32",
     "company": "Appian",
     "title": "Product Manager Intern",
@@ -2268,13 +2282,6 @@
     "url": "https://jobs.lever.co/tri/d4184c04-b963-489a-9a0b-91bc57d6267e/apply"
   },
   {
-    "id": "sj:3aceb4c9-14ad-4757-a002-02295684f0ec",
-    "company": "Toyota Research Institute",
-    "title": "Automated Driving Advanced Development Intern - Machine Learning Research",
-    "location": "Los Altos, CA (Other)",
-    "url": "https://jobs.lever.co/tri/e7cc38d2-2b08-4349-b322-4d56cac9fb1b/apply"
-  },
-  {
     "id": "sj:b7daac34-0a43-4511-bd61-102463daf2e2",
     "company": "Toyota Research Institute",
     "title": "Automated Driving Advanced Development Intern - Machine Learning Research",
@@ -2322,6 +2329,27 @@
     "title": "Renewable Generation Performance Intern",
     "location": "Des Moines, IA (Other)",
     "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10006008"
+  },
+  {
+    "id": "sj:b9ce969b-feac-4712-867d-4dc584234d94",
+    "company": "JM Family",
+    "title": "Software Engineer Intern",
+    "location": "Deerfield Beach, FL (Other)",
+    "url": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Software-Engineer-Intern_JR105199"
+  },
+  {
+    "id": "sj:d51fae92-efd8-41b6-b50e-1552f35e9dfc",
+    "company": "JM Family",
+    "title": "Analytics Intern",
+    "location": "Deerfield Beach, FL (Other)",
+    "url": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Analytics-Intern_JR105200"
+  },
+  {
+    "id": "sj:c553bd8b-5df6-4e4f-b2aa-ab7731814f81",
+    "company": "The Federal Reserve System",
+    "title": "Knowledge and Information Management Intern",
+    "location": "Atlanta, GA (Other)",
+    "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship---Knowledge-and-Information-Management-Intern_R-0000033908"
   },
   {
     "id": "sj:b1426836-12a4-4ad5-8a7f-bea74b0446eb",
@@ -2751,13 +2779,6 @@
     "url": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Software-Engineer-Intern_JR105182"
   },
   {
-    "id": "sj:95f6ee82-d1a7-4d33-8f7d-6f060135baa6",
-    "company": "Northrop Grumman",
-    "title": "Engineering Software and Analysis Intern",
-    "location": "Sunnyvale, CA (Other)",
-    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/Engineering-Software-and-Analysis-Intern_R10258772"
-  },
-  {
     "id": "sj:03dcc6a0-7074-41ed-b801-a60f6116f591",
     "company": "Northrop Grumman",
     "title": "Engineering Intern - Multiple Teams",
@@ -3148,13 +3169,6 @@
     "title": "Robotics Intern - Trustworthy Learning under Uncertainty",
     "location": "Los Altos, CA (Other)",
     "url": "https://jobs.lever.co/tri/6f60ff79-c902-466a-912c-7ab849ce6424/apply"
-  },
-  {
-    "id": "sj:aaed6a57-f590-49ac-8e77-d080f6f2de89",
-    "company": "Visa",
-    "title": "Software Engineer Intern",
-    "location": "Denver, CO (Other)",
-    "url": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Denver-CO/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Highlands-Ranch_REF089880W"
   },
   {
     "id": "sj:86cb1b02-b094-4e5e-94bf-bb2c80d2c69e",
@@ -3890,13 +3904,6 @@
     "title": "Application Engineering Intern",
     "location": "Plano, TX (Other)",
     "url": "https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Plano/Summer-2027-Intern--Application-Engineering_R0020808-2"
-  },
-  {
-    "id": "sj:c822b6e8-081c-4db0-94b6-8425ce02c277",
-    "company": "Zebra Technologies",
-    "title": "Mechanical Engineer Intern",
-    "location": "Holtsville, NY (Other)",
-    "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Mechanical-Engineer_JR103627"
   },
   {
     "id": "sj:df54723a-af5c-4a60-bdf7-9724974c60a7",
@@ -6865,13 +6872,6 @@
     "title": "Physics Engine Development Engineer Intern - Optimus",
     "location": "Palo Alto, CA (Other)",
     "url": "https://www.tesla.com/careers/search/job/282147"
-  },
-  {
-    "id": "sj:ee4b10f5-1464-463a-b28a-9020824aa805",
-    "company": "McKesson",
-    "title": "Software Engineer Intern",
-    "location": "Irving, TX; Atlanta, GA (Other)",
-    "url": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-GA-Atlanta/Software-Engineer-Intern---Summer-2027_JR0153235"
   },
   {
     "id": "sj:44f6dccc-a71b-4d91-a0ad-e30134365802",
