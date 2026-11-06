@@ -1,40 +1,5 @@
 [
   {
-    "id": "sj:4c8571fd-a704-4542-babd-54c89d6aeff3",
-    "company": "Booz Allen",
-    "title": "Systems Engineer Intern",
-    "location": "San Diego, CA (Other)",
-    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Diego-CA/University---2027-Summer-Games-Systems-Engineer-Intern---San-Diego--CA_R0248365"
-  },
-  {
-    "id": "sj:53d8eb96-a4a4-4d3d-a59f-1308691c4a1a",
-    "company": "Booz Allen",
-    "title": "Systems Engineer Intern - Summer Games",
-    "location": "Honolulu, HI (Other)",
-    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Honolulu-HI/University---2027-Summer-Games-Systems-Engineer-Intern---Honolulu--HI_R0248370"
-  },
-  {
-    "id": "sj:0e9bb9cd-7dee-4ce0-a479-654d1552f1bc",
-    "company": "Booz Allen",
-    "title": "Systems Engineer Intern - University",
-    "location": "Colorado Springs, CO (Other)",
-    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Colorado-Springs-CO/University---2027-Summer-Games-Systems-Engineer-Intern---Charleston--SC_R0248369"
-  },
-  {
-    "id": "sj:b8511dba-1f6c-40d2-b3b7-e50e87163026",
-    "company": "Booz Allen",
-    "title": "Systems Engineer Intern - University",
-    "location": "Colorado Springs, CO (Other)",
-    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Colorado-Springs-CO/University---2027-Summer-Games-Systems-Engineer-Intern---Colorado-Springs--CO_R0248368"
-  },
-  {
-    "id": "sj:1cd3e703-e004-4850-8dc5-440acec35de0",
-    "company": "Booz Allen",
-    "title": "Systems Engineer Intern",
-    "location": "McLean, VA (Other)",
-    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University---2027-Summer-Games-Systems-Engineer-Intern---McLean--VA_R0248361"
-  },
-  {
     "id": "sj:c0d0a7a8-afbc-4283-886f-e4d7e36f52f0",
     "company": "Booz Allen",
     "title": "Systems Engineer Intern - Summer Games",
@@ -1162,13 +1127,6 @@
     "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Philadelphia-Pennsylvania/Summer-2027-T-Ads-Software-Engineering-Internship_REQ381234"
   },
   {
-    "id": "sj:2d8c299e-32f6-48b9-96af-74653d10e44a",
-    "company": "RTX",
-    "title": "Software Engineer Intern",
-    "location": "West Valley City, UT (Other)",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineering-Intern--Summer-2027-_01886446"
-  },
-  {
     "id": "sj:3c1feb51-a55f-4a71-bbde-0564560f67e4",
     "company": "T-Mobile",
     "title": "Software Engineering Intern",
@@ -1181,13 +1139,6 @@
     "title": "Innovation & AI Technology Intern",
     "location": "Madison, WI (Other)",
     "url": "https://trustage.wd1.myworkdayjobs.com/TruStage/job/Madison-WI/IT---Innovation---AI-Technology-Internship--Hybrid-_R-012293"
-  },
-  {
-    "id": "sj:c5e86824-dfe7-4736-af3b-f8a7222c6536",
-    "company": "Northrop Grumman",
-    "title": "Ground Software Engineer Intern",
-    "location": "Redondo Beach, CA (Other)",
-    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Ground-Software-Engineer-Intern---Redondo-Beach-CA_R10259057"
   },
   {
     "id": "sj:f1c48f63-d8ea-4e90-8539-67591d5ad08f",
@@ -1288,32 +1239,11 @@
     "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Austin-TX/Software-Engineering-Intern_2642004"
   },
   {
-    "id": "sj:be146f78-4172-4dbd-9839-b35a87ef06be",
-    "company": "Zebra Technologies",
-    "title": "Intern - AI",
-    "location": "Lincolnshire, IL (Other)",
-    "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----AI_JR103639"
-  },
-  {
-    "id": "sj:f95a9943-a08d-468f-9a14-13f5b26ac3e3",
-    "company": "Zebra Technologies",
-    "title": "Software Engineer Intern - US",
-    "location": "Holtsville, NY (Other)",
-    "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-Engineer_JR103626"
-  },
-  {
     "id": "sj:73205f44-451a-4bd5-add5-2cba415a4dbf",
     "company": "JM Family",
     "title": "Software Engineer Intern",
     "location": "Deerfield Beach, FL (Other)",
     "url": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Software-Engineer-Intern_JR105182"
-  },
-  {
-    "id": "sj:03dcc6a0-7074-41ed-b801-a60f6116f591",
-    "company": "Northrop Grumman",
-    "title": "Engineering Intern - Multiple Teams",
-    "location": "Chandler, AZ (Other)",
-    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/XMLNAME-2027-Engineering-Intern--Software-Mission-Assurance-Quality----Chandler-AZ_R10258848"
   },
   {
     "id": "sj:46fd3fa6-a273-49da-b7ac-7cb7fcf894a9",
@@ -1510,13 +1440,6 @@
     "title": "Software Engineer Intern",
     "location": "Austin, TX (Other)",
     "url": "https://jobs.lever.co/futo-org/7dd9877a-9009-408d-aa50-623cd5153f70/apply"
-  },
-  {
-    "id": "sj:49e57c55-743b-457d-b17f-64d6b36a90c6",
-    "company": "Paccar",
-    "title": "Application Developer Intern",
-    "location": "Chillicothe, OH (Other)",
-    "url": "https://jobs.paccar.com/job/Kirkland-Summer-2027-Application-Developer-Intern-(OH)-WA-98033/1451927133/?ats=successfactors"
   },
   {
     "id": "sj:af9cd863-b956-4618-a0ec-e4d7d7f8056a",
@@ -2891,13 +2814,6 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--Spatial-Intelligence---Summer-2027_JR2027305"
   },
   {
-    "id": "sj:b6b193dc-5974-4336-a73b-253af3ceaec2",
-    "company": "Nissan Global",
-    "title": "Market Intelligence (Customer Insights) Intern",
-    "location": "Franklin, TN (Other)",
-    "url": "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Market-Intelligence--Customer-Trends---Insights--Intern---Summer-2027---Franklin--TN_R00214283"
-  },
-  {
     "id": "sj:a8655c72-8299-4087-b0ad-d93807cef979",
     "company": "Illinois Tool Works",
     "title": "Software Engineer Intern - Application Software",
@@ -2980,13 +2896,6 @@
     "title": "Software Development Engineer Intern",
     "location": "Seattle, WA (Other)",
     "url": "https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/Seattle/Software-Development-Engineer-Intern--Seattle--WA-_RP1039073"
-  },
-  {
-    "id": "sj:900cb2e6-bb32-47f1-b267-ed7ef0f7142a",
-    "company": "Northwestern Mutual",
-    "title": "Enterprise Sustainability & Impact Intern - Modeling & Analytics",
-    "location": "Milwaukee, WI (Other)",
-    "url": "https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Enterprise-Sustainability---Impact-Intern---Modeling---Analytics--Summer-2027_JR-46171"
   },
   {
     "id": "sj:1fd32548-9b70-43de-815b-740a8ac20359",
@@ -4464,13 +4373,6 @@
     "title": "Physics Engine Development Engineer Intern - Optimus",
     "location": "Palo Alto, CA (Other)",
     "url": "https://www.tesla.com/careers/search/job/282147"
-  },
-  {
-    "id": "sj:2fb8aa8a-8920-42b2-9a24-167f54d6cc81",
-    "company": "McKesson",
-    "title": "Software Engineer Intern",
-    "location": "Longmont, CO (Other)",
-    "url": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-CO-Longmont/Software-Engineer-Intern---Summer-2027_JR0152742"
   },
   {
     "id": "sj:ac297577-f4f9-4b73-ab38-00c094342140",
