@@ -280,6 +280,13 @@
     "url": "https://www.citadel.com/careers/details/sector-data-scientist-2027-intern-us/"
   },
   {
+    "id": "sj:e83280af-86b2-46ea-8179-6344933c3f14",
+    "company": "The New York Times",
+    "title": "Interactive News Engineer Intern",
+    "location": "NYC (New York)",
+    "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751790005"
+  },
+  {
     "id": "sj:f026f7ec-de3d-49c1-abe2-823d98909827",
     "company": "Vatic Investments",
     "title": "AI Research Intern",
@@ -425,13 +432,6 @@
     "title": "Software Engineer Intern",
     "location": "NYC (New York)",
     "url": "https://boards.greenhouse.io/point72/jobs/8885733002"
-  },
-  {
-    "id": "sj:d58e6fdc-c150-4d88-bff1-16000fd3a8c1",
-    "company": "Jain Global",
-    "title": "Compliance Technology Intern",
-    "location": "NYC (New York)",
-    "url": "https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Compliance-Technology-Intern_JR100607"
   },
   {
     "id": "sj:191ec10e-48aa-42a6-a296-acd2f1d46586",
@@ -1190,6 +1190,13 @@
     "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002"
   },
   {
+    "id": "sj:7116355b-7504-4a7e-bd3e-a2309d10544a",
+    "company": "Tinder",
+    "title": "Data Scientist Intern",
+    "location": "SF (Other)",
+    "url": "https://jobs.lever.co/matchgroup/573621f6-9931-4e39-840a-1d04171be2ff/apply"
+  },
+  {
     "id": "sj:2416143a-d182-47ca-9121-739744610d0a",
     "company": "TikTok",
     "title": "POI Content Product Manager Intern",
@@ -1209,6 +1216,13 @@
     "title": "Software Engineer Intern - Software Platforms & Product",
     "location": "Foster City, CA (Other)",
     "url": "https://jobs.lever.co/zoox/88f6cb68-1534-44af-80db-10e43c203520/apply"
+  },
+  {
+    "id": "sj:1d693bc4-5cb6-4d9a-928a-5c72e45a7ecc",
+    "company": "S&P Global",
+    "title": "Managed Data Services Intern - Ilevel - GP Mds",
+    "location": "Dallas, TX (Other)",
+    "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Dallas-TX/Summer-intern--iLevel---GP-MDS_332651-1"
   },
   {
     "id": "sj:69c2da8d-f16e-4599-a3ab-37ca479de0e2",
@@ -2282,13 +2296,6 @@
     "url": "https://assurant.wd1.myworkdayjobs.com/en-US/Assurant_Careers/job/Illinois-Virtual/Summer-2027-Intern--Data-Support-Analyst_R-115717"
   },
   {
-    "id": "sj:cd4adf61-4026-464d-8208-c2d4c6258943",
-    "company": "Philips",
-    "title": "Insights and Analytics Intern - Health Systems Marketing",
-    "location": "Cambridge, MA (Other)",
-    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Intern-Insights-and-Analytics--Health-Systems-Marketing--Cambridge--MA---Summer-2027_593454"
-  },
-  {
     "id": "sj:2b4f0591-67a0-4766-a1d6-6e8758c4128f",
     "company": "Nissan Global",
     "title": "Aftersales Business Planning Intern",
@@ -2903,13 +2910,6 @@
     "title": "Data Science Intern - Summer 2027",
     "location": "Chicago, IL; Charlotte, NC; Hartford, CT (Other)",
     "url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Data-Science-Intern---Summer-2027_R2627114"
-  },
-  {
-    "id": "sj:160dce7d-d418-4675-8ae3-901527a5de03",
-    "company": "Republic Airways",
-    "title": "Data Analytics Intern",
-    "location": "Carmel, IN (Other)",
-    "url": "https://rjet.wd108.myworkdayjobs.com/External_Career_Site/job/Carmel-Headquarters/Data-Analytics-Intern---Summer-2027_JR-007628"
   },
   {
     "id": "sj:46afb6b3-6be4-457a-ab81-e5a109555aff",
