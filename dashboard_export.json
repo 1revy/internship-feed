@@ -14,13 +14,6 @@
     "url": "https://job-boards.greenhouse.io/jomboymedia/jobs/4478036009"
   },
   {
-    "id": "sj:a1299f50-47e3-4269-9aba-1d8e8952b516",
-    "company": "Highmark Health",
-    "title": "Healthcare Analytics Data Science Graduate Intern",
-    "location": "New Mexico; Washington; Kansas; Pennsylvania; North Dakota; Oregon; Delaware; Iowa; California; Washington, DC; Vermont; Wyoming; Connecticut; Texas; Montana; Florida; New Hampshire; Nevada; South Carolina; South Dakota; Georgia; Arizona; Mississippi; Tennessee; Virginia; Arkansas; Minnesota; Colorado; Nebraska; Rhode Island; Utah; Kentucky; West Virginia; NYC; Maryland; Hawaii; Wisconsin; Maine; Massachusetts; North Carolina; Oklahoma; Missouri; Ohio; New Jersey; Indiana; Louisiana; Alaska; Michigan; Illinois; Alabama; Idaho (New York)",
-    "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Healthcare-Analytics-Data-Science-Graduate-Intern_J288345"
-  },
-  {
     "id": "sj:5c521dde-6882-44c5-89a3-a3da7f852020",
     "company": "The New York Times",
     "title": "Product Manager Intern",
@@ -61,20 +54,6 @@
     "title": "Human Resources Data & Analytics Intern",
     "location": "NYC (New York)",
     "url": "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301987"
-  },
-  {
-    "id": "sj:26adecaa-1b1b-48c4-bb1e-931f72e03f7d",
-    "company": "Highmark Health",
-    "title": "Applied Gen AI/Data Scientist Graduate Intern",
-    "location": "New Mexico; Washington; Kansas; Pennsylvania; North Dakota; Oregon; Delaware; Iowa; California; Washington, DC; Vermont; Wyoming; Connecticut; Texas; Montana; Florida; New Hampshire; Nevada; South Carolina; South Dakota; Georgia; Arizona; Mississippi; Tennessee; Virginia; Arkansas; Minnesota; Colorado; Nebraska; Rhode Island; Utah; Kentucky; West Virginia; NYC; Maryland; Hawaii; Wisconsin; Maine; Massachusetts; North Carolina; Oklahoma; Missouri; Ohio; New Jersey; Indiana; Louisiana; Alaska; Michigan; Illinois; Alabama; Idaho (New York)",
-    "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Applied-Gen-AI-Data-Scientist-Graduate-Intern_J288007"
-  },
-  {
-    "id": "sj:c917f0bc-a8d2-4468-ad7c-573f62b007bd",
-    "company": "Highmark Health",
-    "title": "Predictive Modeling & Data Science Graduate Intern",
-    "location": "New Mexico; Washington; Kansas; Pennsylvania; North Dakota; Oregon; Delaware; Iowa; California; Washington, DC; Vermont; Wyoming; Connecticut; Texas; Montana; Florida; New Hampshire; Nevada; South Carolina; South Dakota; Georgia; Arizona; Mississippi; Tennessee; Virginia; Arkansas; Minnesota; Colorado; Nebraska; Rhode Island; Utah; Kentucky; West Virginia; NYC; Maryland; Hawaii; Wisconsin; Maine; Massachusetts; North Carolina; Oklahoma; Missouri; Ohio; New Jersey; Indiana; Louisiana; Alaska; Michigan; Illinois; Alabama; Idaho (New York)",
-    "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Predictive-Modeling---Data-Science-Graduate-Intern_J288333"
   },
   {
     "id": "sj:bfbf3ca8-38df-48d8-9039-e1b886870dca",
@@ -166,13 +145,6 @@
     "title": "AI Consulting Associate Program Product Owner Intern",
     "location": "Chicago, IL; NYC (New York)",
     "url": "https://boards.greenhouse.io/drivewealth/jobs/8038087003"
-  },
-  {
-    "id": "sj:ab71e756-dbd0-4a94-b908-7c717a3fcfaf",
-    "company": "Highmark Health",
-    "title": "Data Science Research and Development Graduate Intern",
-    "location": "New Mexico; Washington; Kansas; Pennsylvania; North Dakota; Oregon; Delaware; Iowa; California; Washington, DC; Vermont; Wyoming; Connecticut; Texas; Montana; Florida; New Hampshire; Nevada; South Carolina; South Dakota; Georgia; Arizona; Mississippi; Tennessee; Virginia; Arkansas; Minnesota; Colorado; Nebraska; Rhode Island; Utah; Kentucky; West Virginia; NYC; Maryland; Hawaii; Wisconsin; Maine; Massachusetts; North Carolina; Oklahoma; Missouri; Ohio; New Jersey; Indiana; Louisiana; Alaska; Michigan; Illinois; Alabama; Idaho (New York)",
-    "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Data-Science-R-D-Graduate-Intern_J287175"
   },
   {
     "id": "sj:29dccfec-8c43-420d-b9be-cb77d19d5499",
@@ -516,13 +488,6 @@
     "title": "Robotics Applied Scientist 2 Intern",
     "location": "Seattle, WA; North Reading, MA; NYC; Bellevue, WA; Sunnyvale, CA; Westborough, MA (New York)",
     "url": "https://amazon.jobs/en/jobs/10591833/2027-applied-science-internship-robotics-united-states"
-  },
-  {
-    "id": "sj:27cab255-9396-4c25-a512-f6c47902a4ef",
-    "company": "Schonfeld",
-    "title": "AI Enablement Intern",
-    "location": "NYC (New York)",
-    "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8171694"
   },
   {
     "id": "sj:28d0195c-1d74-4ea8-af4b-8d6f20cb117c",
@@ -1218,6 +1183,13 @@
     "url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383236008"
   },
   {
+    "id": "sj:65e41535-86d1-4d10-9d27-bac6fad3e8d9",
+    "company": "Shield AI",
+    "title": "Software Engineer Co-op Intern",
+    "location": "Seattle, WA; Washington, DC; Dallas, TX; San Diego, CA (Washington DC / Central NJ)",
+    "url": "https://jobs.lever.co/shieldai/db8fc063-8856-4404-991c-f287712de949/apply"
+  },
+  {
     "id": "sj:b4e7c73b-3dee-4205-b3f7-76f29f632692",
     "company": "NRDC",
     "title": "Knowledge Management Intern",
@@ -1251,13 +1223,6 @@
     "title": "IDAR Summer Intern - Ease",
     "location": "Spring House, PA; Raritan, NJ (Washington DC / Central NJ)",
     "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/IDAR-Summer-Intern--EASE-_R-102328"
-  },
-  {
-    "id": "sj:d9aac9f7-0c18-43c3-a877-644cfdbdb57a",
-    "company": "State Affairs",
-    "title": "Software Engineer Intern",
-    "location": "Washington, DC (Washington DC / Central NJ)",
-    "url": "https://job-boards.greenhouse.io/stateaffairs/jobs/4437430009"
   },
   {
     "id": "sj:cca92450-5ead-4d71-8d7f-084c27b9d1f9",
@@ -1391,6 +1356,13 @@
     "title": "Data Science Machine Learning Intern",
     "location": "London, UK (London / Paris)",
     "url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/London-UK/Data-Science-Machine-Learning-Internship--Summer-2027-_R1345"
+  },
+  {
+    "id": "sj:07ec6ee0-47ff-44b9-a636-55cb72b9b972",
+    "company": "JP Morgan Chase",
+    "title": "Machine Learning Intern - NLP",
+    "location": "London, UK (London / Paris)",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806793"
   },
   {
     "id": "sj:080013e5-3799-4094-8bd3-80591859bd88",
@@ -1610,6 +1582,27 @@
     "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002"
   },
   {
+    "id": "sj:87c7bdc7-60ab-4d4a-8e12-fe8c99a33181",
+    "company": "GM Financial",
+    "title": "Operations Analyst Intern",
+    "location": "Fort Worth, TX (Other)",
+    "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/261259"
+  },
+  {
+    "id": "sj:69c2da8d-f16e-4599-a3ab-37ca479de0e2",
+    "company": "State Farm",
+    "title": "P&C Actuarial & Underwriting Modeling Intern - Data Scientist",
+    "location": "Tempe, AZ; Dunwoody, GA; Richardson, TX; Bloomington, IL (Other)",
+    "url": "https://jobs.statefarm.com/jobs/46227?icims=1&lang=en-us"
+  },
+  {
+    "id": "sj:8c840878-1ba1-4aea-8a5e-bc3037130ffd",
+    "company": "Red Wing Shoe Company",
+    "title": "Data and Analytics Intern",
+    "location": "Red Wing, MN (Other)",
+    "url": "https://jobs.smartrecruiters.com/RedWingShoeCompany/744000159979648"
+  },
+  {
     "id": "sj:f27d4db4-22be-4779-8dba-e9009de6ab08",
     "company": "Liberty Mutual",
     "title": "Analyst Development Intern",
@@ -1643,6 +1636,62 @@
     "title": "Marketing Intern",
     "location": "Waukegan, IL; Milwaukee, WI; Glenview, IL; Pleasant Prairie, WI; Kenosha, WI (Other)",
     "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Marketing-Internship---Summer-2027_R268946"
+  },
+  {
+    "id": "sj:14b94b0f-6bb3-4494-8ba0-ac642f092799",
+    "company": "CareSource",
+    "title": "Data Analyst Intern",
+    "location": "Remote in USA (Other)",
+    "url": "https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Data-Analyst_R14356"
+  },
+  {
+    "id": "sj:e1429183-8700-4ba3-819a-ec28f19d89d1",
+    "company": "Vizient",
+    "title": "Product Operations Intern",
+    "location": "Irving, TX (Other)",
+    "url": "https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/XMLNAME-2027-Summer-Internship---Product-Operations_36065R"
+  },
+  {
+    "id": "sj:705854bc-0870-471f-b49a-bbdfccfc4987",
+    "company": "Vizient",
+    "title": "Product Operations Internship - Metrics & Reporting",
+    "location": "Irving, TX (Other)",
+    "url": "https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/XMLNAME-2027-Summer-Internship---Product-Operations-Metrics---Reporting_36053R-1"
+  },
+  {
+    "id": "sj:fcda4098-94ad-4409-96fc-32ee92289e01",
+    "company": "JM Family",
+    "title": "Data Engineer Intern",
+    "location": "Deerfield Beach, FL (Other)",
+    "url": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Data-Engineering-Intern_JR105086"
+  },
+  {
+    "id": "sj:387ea422-5e64-458e-b052-8dee5cbf777e",
+    "company": "J.M. Smucker",
+    "title": "Data Science Intern",
+    "location": "Remote in USA (Other)",
+    "url": "https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Working-Remote-USA/Data-Science-Intern--Summer-2027_116118"
+  },
+  {
+    "id": "sj:ba1f1bc5-e94b-415b-84c8-61a6c4affb8b",
+    "company": "AstraZeneca",
+    "title": "Manufacturing Digital and AI Intern",
+    "location": "Gaithersburg, MD (Other)",
+    "url": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Gaithersburg---MD/Manufacturing-Digital-and-AI-Intern_R-263647"
+  },
+  {
+    "id": "sj:3cf86e15-c45a-4a95-b5cf-55e5af0e518a",
+    "company": "Eversource Energy",
+    "title": "Electric Operations Intern",
+    "location": "Dorchester, Boston, MA (Other)",
+    "url": "https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Dorchester-MA/XMLNAME-2027-Summer--Electric-Operations-Intern--MA-_R-032507"
+  },
+  {
+    "id": "sj:5007bf51-0f41-454c-9a44-5031a3f369ab",
+    "company": "CrowdStrike",
+    "title": "Sales Data Analytics Intern",
+    "location": "Arlington County, Arlington, VA; Sunnyvale, CA (Other)",
+    "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Sales-Data-Analytics-Intern_R30801"
   },
   {
     "id": "sj:2f96e3d6-e7b7-4c8f-ac5d-832fdca16735",
@@ -3449,54 +3498,5 @@
     "title": "Data Science Intern",
     "location": "Cary, NC (Other)",
     "url": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Cary-North-Carolina/XMLNAME-2027-Summer-Internship---Data-Science_REQ-12799"
-  },
-  {
-    "id": "sj:c32610f4-7f0d-42bd-8186-eb8b18ba634d",
-    "company": "Constellation Energy",
-    "title": "Quantitative Analytics & Data Science Intern",
-    "location": "Baltimore, MD (Other)",
-    "url": "https://jobs.constellationenergy.com/jobs/139494?icims=1"
-  },
-  {
-    "id": "sj:f60317b7-57f8-4a35-8a4a-001aa5b31e8d",
-    "company": "UL Solutions",
-    "title": "Data Science Intern",
-    "location": "Northbrook, IL; Chicago, IL (Other)",
-    "url": "https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/10629"
-  },
-  {
-    "id": "sj:a273034e-3b57-4e7a-9eaa-23b7e5d751d3",
-    "company": "UL Solutions",
-    "title": "Product Management Intern",
-    "location": "Northbrook, IL; Chicago, IL (Other)",
-    "url": "https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/10625"
-  },
-  {
-    "id": "sj:601997d3-10ff-480d-b969-07e2d092725a",
-    "company": "Blue Cross Blue Shield of Michigan",
-    "title": "Data Analytics Intern - HEDIS",
-    "location": "Detroit, MI (Other)",
-    "url": "https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14838"
-  },
-  {
-    "id": "sj:1e39ef9b-ab50-405f-808e-28002f4fc72f",
-    "company": "Itron",
-    "title": "Data Science Intern - Distributed Intelligence",
-    "location": "Liberty Lake, WA (Other)",
-    "url": "https://itron.wd5.myworkdayjobs.com/Itron/job/United-States-of-America-Washington-Liberty-Lake/Intern---Data-Science--Distributed-Intelligence_JR102942"
-  },
-  {
-    "id": "sj:6236ea31-fdc8-485d-a8fc-b2fe9c0aa953",
-    "company": "Itron",
-    "title": "Data Science Intern - Distributed Intelligence",
-    "location": "Liberty Lake, WA (Other)",
-    "url": "https://itron.wd5.myworkdayjobs.com/Early_Careers/job/United-States-of-America-Washington-Liberty-Lake/Intern---Data-Science--Distributed-Intelligence_JR102942-2"
-  },
-  {
-    "id": "sj:1c05aeb6-1548-460d-ac98-cca04204d3a7",
-    "company": "POET",
-    "title": "Data Engineer Intern",
-    "location": "Sioux Falls, SD (Other)",
-    "url": "https://poet.wd1.myworkdayjobs.com/POET/job/Sioux-Falls-SD/Data-Engineering-Intern_R101787"
   }
 ]
