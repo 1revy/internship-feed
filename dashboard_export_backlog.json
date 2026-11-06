@@ -1,12 +1,5 @@
 [
   {
-    "id": "sj:c0d0a7a8-afbc-4283-886f-e4d7e36f52f0",
-    "company": "Booz Allen",
-    "title": "Systems Engineer Intern - Summer Games",
-    "location": "Atlanta, GA (Other)",
-    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/University---2027-Summer-Games--Systems-Engineer-Intern---Atlanta--GA_R0248381"
-  },
-  {
     "id": "sj:bfc7d59a-2729-48fa-8c25-a3278920ef67",
     "company": "DraftKings",
     "title": "Data Science Intern",
@@ -812,6 +805,41 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Remote/System-Software-Engineering-Intern--GPU---2027_JR2025334"
   },
   {
+    "id": "sj:2a9865db-8f3e-40ac-a2fb-b90b64595d1e",
+    "company": "Tinder",
+    "title": "iOS Engineer Intern",
+    "location": "Palo Alto, CA; LA (Other)",
+    "url": "https://jobs.lever.co/matchgroup/cda906dd-c02a-4bbc-b533-1636d58958ef/apply"
+  },
+  {
+    "id": "sj:64d85b01-4fd3-46dd-a653-7af4e042cd4c",
+    "company": "Tinder",
+    "title": "Machine Learning Engineer Intern",
+    "location": "Palo Alto, CA (Other)",
+    "url": "https://jobs.lever.co/matchgroup/860a839a-5be3-44dc-916f-eb2e71d67d72/apply"
+  },
+  {
+    "id": "sj:e2ba2687-1ac6-40c9-a236-61fad22d9407",
+    "company": "Tinder",
+    "title": "Android Engineer Intern",
+    "location": "LA (Other)",
+    "url": "https://jobs.lever.co/matchgroup/f0e29495-4dd2-4bc5-9ceb-31d36f0b5a9d/apply"
+  },
+  {
+    "id": "sj:b0484564-9325-4e1a-a91d-2005a8c9bbfb",
+    "company": "Tinder",
+    "title": "Backend Engineer Intern",
+    "location": "Palo Alto, CA; LA (Other)",
+    "url": "https://jobs.lever.co/matchgroup/54a814d1-9a73-43d7-a266-c933ffd99ce3/apply"
+  },
+  {
+    "id": "sj:e13a771d-0bef-4eba-8e4c-922902e13085",
+    "company": "Waymo",
+    "title": "Software Engineer Intern",
+    "location": "SF (Other)",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8350832"
+  },
+  {
     "id": "sj:07a19024-a7e3-4ed0-8957-671b7122f176",
     "company": "Zoox",
     "title": "Software Engineer Intern - Autonomy Software",
@@ -819,18 +847,25 @@
     "url": "https://jobs.lever.co/zoox/7b20b929-d9a4-4995-a472-16cd4925a877/apply"
   },
   {
+    "id": "sj:8a924ee7-0fe1-4b54-b6ad-a4130a1cf787",
+    "company": "T-Mobile",
+    "title": "Software Engineer Intern",
+    "location": "Overland Park, KS (Other)",
+    "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Internship_REQ380739"
+  },
+  {
+    "id": "sj:e069ea1c-b571-46be-95e2-d1071dbcb2dd",
+    "company": "T-Mobile",
+    "title": "Software Engineering Intern",
+    "location": "Overland Park, KS (Other)",
+    "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Internship_REQ380734"
+  },
+  {
     "id": "sj:540fffcc-1cee-4834-9b92-ebc48f062b36",
     "company": "Public Service Enterprise Group",
     "title": "Staff Intern - Corporate Citizenship - Federal Affairs & Sustainability",
     "location": "Newark, NJ (Other)",
     "url": "https://jobs.pseg.com/job/Newark-Summer-2027-Intern-Corporate-Citizenship-Federal-Affairs-&-Sustainability-NJ-07101/1448352900/?ats=successfactors"
-  },
-  {
-    "id": "sj:328d4568-bcae-457f-96e8-ea5e59164c08",
-    "company": "Lumbermen's",
-    "title": "Software Developer Intern",
-    "location": "Grand Rapids, MI (Other)",
-    "url": "https://job-boards.greenhouse.io/lumbermens/jobs/5474346008"
   },
   {
     "id": "sj:b6c102ff-263e-4702-96a9-65f26a42bb79",
@@ -1463,13 +1498,6 @@
     "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Assoc-AI-Engineer-Internship_REQ380492"
   },
   {
-    "id": "sj:47fc293a-86ff-4dfb-9ef9-71a0f154f798",
-    "company": "Sonos",
-    "title": "Software Engineer Intern",
-    "location": "Boston, MA (Other)",
-    "url": "https://sonos.wd1.myworkdayjobs.com/Sonos/job/Boston-MA/Software-Engineering-Intern--Boston-_R2882-1"
-  },
-  {
     "id": "sj:76f81261-3cc0-45e5-938b-cc7d06c83756",
     "company": "HP Inc.",
     "title": "Software Quality Assurance Intern",
@@ -1545,27 +1573,6 @@
     "title": "Robotics Intern - Trustworthy Learning under Uncertainty",
     "location": "Los Altos, CA (Other)",
     "url": "https://jobs.lever.co/tri/6f60ff79-c902-466a-912c-7ab849ce6424/apply"
-  },
-  {
-    "id": "sj:86cb1b02-b094-4e5e-94bf-bb2c80d2c69e",
-    "company": "Visa",
-    "title": "Software Engineer Intern",
-    "location": "Austin, TX (Other)",
-    "url": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Austin-TX/Software-Engineer--Intern---2027-Austin--TX_REF089918W"
-  },
-  {
-    "id": "sj:4bc03fa9-1a0f-4972-b9ba-e0f07d3372ff",
-    "company": "Visa",
-    "title": "Software Engineer Intern",
-    "location": "Austin, TX (Other)",
-    "url": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Austin-TX/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Austin--TX---2027_REF089882W"
-  },
-  {
-    "id": "sj:394fd625-992b-45aa-9d72-e2ae53a17bf3",
-    "company": "Visa",
-    "title": "Software Engineer Intern",
-    "location": "Austin, TX (Other)",
-    "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Software-Engineer--Intern---2027-Austin--TX_REF089918W-1"
   },
   {
     "id": "sj:27ce0059-c008-45e2-93c4-f9e612b9f8e8",
@@ -2926,13 +2933,6 @@
     "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/216251"
   },
   {
-    "id": "sj:726360c4-caf8-48cc-bc62-9dc9ba9eaca4",
-    "company": "Quantum Signal AI",
-    "title": "Software Engineer Intern - Tools and Prototypes",
-    "location": "Saline, MI (Other)",
-    "url": "https://quantumsignalai.applytojob.com/apply/MWrhQD8Hn9/Software-Engineering-Intern-Tools-And-Prototypes"
-  },
-  {
     "id": "sj:5225e58c-5696-4982-94a4-d20dfef3c850",
     "company": "Ernst & Young",
     "title": "Tax Intern - Other Tax - Americas Tax Technology Group",
@@ -3549,13 +3549,6 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-WA-Seattle/Research-Intern--Robotics---Summer-2027_JR2025647"
   },
   {
-    "id": "sj:e4639935-0247-4578-b4a3-814cab5c5c8e",
-    "company": "Epic Games",
-    "title": "Tools Programmer Intern",
-    "location": "Cary, NC (Other)",
-    "url": "https://epicgames.com/careers/jobs/6200355004?gh_jid=6200355004"
-  },
-  {
     "id": "sj:bbe59360-d6e5-4189-9126-da097b9c93c6",
     "company": "RTX",
     "title": "Software Engineer Intern",
@@ -3939,13 +3932,6 @@
     "title": "Autonomy & Active Safety Engineer Intern",
     "location": "Oshkosh, WI; Pittsburgh, PA (Other)",
     "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Pittsburgh-Pennsylvania-United-States/Autonomy---Active-Safety-Engineering-Intern_R50266"
-  },
-  {
-    "id": "sj:8262d1b0-a155-42eb-b4f5-a14a377ffb1b",
-    "company": "Avis Budget Group",
-    "title": "Transformation Engineer Intern - Accelerate",
-    "location": "Parsippany-Troy Hills, NJ (Other)",
-    "url": "https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/379-Interpace-Pkwy-Parsippany-07054/Accelerate---Transformation-Engineer-Summer-2027-Intern_R0190388"
   },
   {
     "id": "sj:07e245b0-b4de-4587-a8b2-5891870634da",
@@ -4515,13 +4501,6 @@
     "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Honolulu-HI/University---2027-Summer-Games-Software-Developer-Intern---Honolulu--HI_R0248393"
   },
   {
-    "id": "sj:901d71ff-ed64-4848-95e0-094ad0610036",
-    "company": "Booz Allen",
-    "title": "Software Developer Intern",
-    "location": "Fort Walton Beach, FL (Other)",
-    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Walton-Beach-FL/University---2027-Summer-Games-Software-Developer-Intern---Ft-Walton-Beach--FL_R0248404"
-  },
-  {
     "id": "sj:f5f6acb8-6462-4878-a7a4-60a67c219943",
     "company": "Booz Allen",
     "title": "Software Developer Intern - University",
@@ -4611,13 +4590,6 @@
     "title": "Software Engineer Intern - AML Platform",
     "location": "SF (Other)",
     "url": "https://job-boards.greenhouse.io/hpiq/jobs/6114781004"
-  },
-  {
-    "id": "sj:bfeef96e-5bbc-425d-9ee0-3fa12f525bf1",
-    "company": "Epic Games",
-    "title": "Frontend Programmer Intern",
-    "location": "Cary, NC (Other)",
-    "url": "https://epicgames.com/careers/jobs/6173862004?gh_jid=6173862004"
   },
   {
     "id": "sj:53349dba-052e-4667-bc87-a3162afa6b94",
