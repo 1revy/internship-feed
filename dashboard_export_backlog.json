@@ -1,19 +1,5 @@
 [
   {
-    "id": "sj:249dfb65-9e20-4363-a0e2-63f60ee6ee41",
-    "company": "TWG Global",
-    "title": "Data Science Intern - SOLT",
-    "location": "Santa Monica, CA (Other)",
-    "url": "https://apply.workable.com/twgai/j/263B34D737/apply"
-  },
-  {
-    "id": "sj:3f0954b3-4e14-4815-bc41-777fce0a87f4",
-    "company": "Johns Hopkins Applied Physics Laboratory",
-    "title": "Software Developer Intern - Tactical System Prototyping and Deployment",
-    "location": "Laurel, MD (Other)",
-    "url": "https://careers.jhuapl.edu/jobs/59564?icims=1"
-  },
-  {
     "id": "sj:e7948754-b13b-4505-93ff-72bf517be9f3",
     "company": "Johns Hopkins Applied Physics Laboratory",
     "title": "Engineer/Analyst/Scientist Intern - C2 Resilience Sciences",
@@ -250,6 +236,13 @@
     "title": "Product Management Intern - Summer 2027",
     "location": "Chicago, IL; Northfield, IL (Other)",
     "url": "https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Northfield-Illinois/Product-Management-Intern---Summer-2027_R2616983"
+  },
+  {
+    "id": "sj:f6b7f447-ad5a-434e-bf7f-b120f36843eb",
+    "company": "Northwood Space",
+    "title": "Supply Chain Data & Analytics Intern",
+    "location": "LA; Torrance, CA (Other)",
+    "url": "https://jobs.ashbyhq.com/NorthwoodSpace/69f99cd7-3ce7-413a-8cfe-29b7ccbc1490/application?embed=true"
   },
   {
     "id": "sj:f12db905-e4bc-477c-b339-4c9306913d42",
@@ -903,6 +896,13 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Remote/System-Software-Engineering-Intern--GPU---2027_JR2025334"
   },
   {
+    "id": "sj:60fd1301-4412-4891-b853-6eec26f242df",
+    "company": "Tesla",
+    "title": "Software Engineer Intern - SI Reinforcement Learning",
+    "location": "Palo Alto, CA (Other)",
+    "url": "https://www.tesla.com/careers/search/job/289241"
+  },
+  {
     "id": "sj:061b12f4-c554-4c79-a788-b4d8f4ba0880",
     "company": "Zoox",
     "title": "Safety Reporting & Benchmarking Intern",
@@ -1083,13 +1083,6 @@
     "title": "Staff Intern - Corporate Citizenship - Federal Affairs & Sustainability",
     "location": "Newark, NJ (Other)",
     "url": "https://jobs.pseg.com/job/Newark-Summer-2027-Intern-Corporate-Citizenship-Federal-Affairs-&-Sustainability-NJ-07101/1448352900/?ats=successfactors"
-  },
-  {
-    "id": "sj:fe8d2783-4265-46f3-bf32-0172e2ddfe65",
-    "company": "State Farm",
-    "title": "Magnet Program @ University of Illinois Urbana-Champaign Intern",
-    "location": "Champaign, IL (Other)",
-    "url": "https://jobs.statefarm.com/jobs/46049?icims=1"
   },
   {
     "id": "sj:60ae9031-138a-419b-bd54-f4237a95f0ea",
@@ -1566,20 +1559,6 @@
     "title": "Software Engineer Intern",
     "location": "Bellevue, WA (Other)",
     "url": "https://ats.rippling.com/golden/jobs/2ba326f7-9259-47df-9f54-bef4ce5c5fb5"
-  },
-  {
-    "id": "sj:4a56e5c7-104e-4300-af23-cd40dfd09685",
-    "company": "Nutanix",
-    "title": "Software Engineer Intern",
-    "location": "Cambridge, UK (Other)",
-    "url": "https://jobs.jobvite.com/nutanix/job/otr1Afwf?nl=1&nl=1&fr=false"
-  },
-  {
-    "id": "sj:f82632d8-09d1-4568-bbaf-aa4a5ecb312a",
-    "company": "JM Family",
-    "title": "Software Engineer Intern",
-    "location": "Deerfield Beach, FL (Other)",
-    "url": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Software-Engineer-Intern_JR105158"
   },
   {
     "id": "sj:4104d34a-1f77-48e8-bc0d-96899f61db22",
@@ -2252,6 +2231,13 @@
     "title": "AI Consulting Associate Program \u2013 AI Engineer Intern",
     "location": "Chicago, IL (Other)",
     "url": "https://jobs.ashbyhq.com/drivewealth/a214dd6c-e3ac-481e-8308-bf74c2032b8a/application?embed=true"
+  },
+  {
+    "id": "sj:90ce8440-7b7f-4a23-9faf-98290634d956",
+    "company": "DriveWealth",
+    "title": "AI Consulting Associate Program Brokerage Intern",
+    "location": "Chicago, IL (Other)",
+    "url": "https://jobs.ashbyhq.com/drivewealth/b11409e6-a86d-4504-b4da-36636f888c16/application?embed=true"
   },
   {
     "id": "sj:9c3549d6-12b9-488c-9b34-de7b9deb3d97",
