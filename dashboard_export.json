@@ -966,6 +966,13 @@
     "url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383236008"
   },
   {
+    "id": "sj:bead51fa-aa91-421e-9b22-bc3e451072b1",
+    "company": "Shield AI",
+    "title": "Engineer 2 New Grad - Multiple Teams",
+    "location": "Washington, DC (Washington DC / Central NJ)",
+    "url": "https://jobs.lever.co/shieldai/88f7b66e-3412-40c8-b74d-aafc462405ff/apply"
+  },
+  {
     "id": "sj:65e41535-86d1-4d10-9d27-bac6fad3e8d9",
     "company": "Shield AI",
     "title": "Software Engineer Co-op Intern",
@@ -3491,12 +3498,5 @@
     "title": "Data Science Intern - SOLT",
     "location": "Santa Monica, CA (Other)",
     "url": "https://apply.workable.com/twgai/j/263B34D737/apply"
-  },
-  {
-    "id": "sj:3f0954b3-4e14-4815-bc41-777fce0a87f4",
-    "company": "Johns Hopkins Applied Physics Laboratory",
-    "title": "Software Developer Intern - Tactical System Prototyping and Deployment",
-    "location": "Laurel, MD (Other)",
-    "url": "https://careers.jhuapl.edu/jobs/59564?icims=1"
   }
 ]
