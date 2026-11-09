@@ -1,61 +1,5 @@
 [
   {
-    "id": "sj:3f0954b3-4e14-4815-bc41-777fce0a87f4",
-    "company": "Johns Hopkins Applied Physics Laboratory",
-    "title": "Software Developer Intern - Tactical System Prototyping and Deployment",
-    "location": "Laurel, MD (Other)",
-    "url": "https://careers.jhuapl.edu/jobs/59564?icims=1"
-  },
-  {
-    "id": "sj:e7948754-b13b-4505-93ff-72bf517be9f3",
-    "company": "Johns Hopkins Applied Physics Laboratory",
-    "title": "Engineer/Analyst/Scientist Intern - C2 Resilience Sciences",
-    "location": "Laurel, MD (Other)",
-    "url": "https://careers.jhuapl.edu/jobs/59832?icims=1"
-  },
-  {
-    "id": "sj:d35f3d80-1382-4ac7-96f7-d7e26e2368c5",
-    "company": "Johns Hopkins Applied Physics Laboratory",
-    "title": "Engineer/SW Developer/Analyst Intern - Maritime Force Engagement Control",
-    "location": "Laurel, MD (Other)",
-    "url": "https://careers.jhuapl.edu/jobs/59598?icims=1"
-  },
-  {
-    "id": "sj:de308300-adab-4771-916f-fb126c60ad40",
-    "company": "Textron",
-    "title": "Autonomy Engineer Intern - Air Systems",
-    "location": "Hunt Valley, Cockeysville, MD (Other)",
-    "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342925"
-  },
-  {
-    "id": "sj:23a5a6a6-47fc-41cf-8936-946b702be2cd",
-    "company": "Edison International",
-    "title": "Software/Data Engineering Intern",
-    "location": "Chino, CA (Other)",
-    "url": "https://apply.edisoncareers.com/job/Chino-2027-Summer-Internship-SoftwareData-Engineering-(Chino)-CA-91710/1424663800/?ats=successfactors"
-  },
-  {
-    "id": "sj:cf498cbc-375c-45ec-8f68-334ce9a2d7d0",
-    "company": "Edison International",
-    "title": "Data Analytics Intern - Data Science/Applied Math",
-    "location": "Pomona, CA; Rosemead, CA (Other)",
-    "url": "https://apply.edisoncareers.com/job/Rosemead-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-(PomonaRosemead)-1-CA-91770/1425208900/?ats=successfactors"
-  },
-  {
-    "id": "sj:7a58365b-0d72-4b0c-8094-fa29ec18b560",
-    "company": "Edison International",
-    "title": "Data Analytics Intern - Data Science - Applied Math",
-    "location": "Pomona, CA; Rosemead, CA (Other)",
-    "url": "https://apply.edisoncareers.com/job/Rosemead-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-(PomonaRosemead)-CA-91770/1425207700/?ats=successfactors"
-  },
-  {
-    "id": "sj:fbc330bb-a6c5-48a8-b0d9-537f8bf68269",
-    "company": "Travelers",
-    "title": "Business Insights & Analytics Intern - BI&A LDP",
-    "location": "Hartford, CT; St Paul, MN (Other)",
-    "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Business-Insights---Analytics-Leadership-Development-Program--BI-A-LDP--Intern_R-52304"
-  },
-  {
     "id": "sj:f4db16dc-9fd7-499a-b809-554855fcb08f",
     "company": "IAT Insurance Group",
     "title": "Data & Integration Intern",
@@ -1253,13 +1197,6 @@
     "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---R-D-TSRS-Data-Sciences-Operations---Analytic--Summer-2027-_R-260585"
   },
   {
-    "id": "sj:d21074f9-91d2-4034-bdc6-343e4b7baf92",
-    "company": "Zebra Technologies",
-    "title": "Software Engineer Intern",
-    "location": "Holtsville, NY (Other)",
-    "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-Engineer_JR103657"
-  },
-  {
     "id": "sj:6ad57247-699c-41de-9362-2395f80865d4",
     "company": "Microsoft",
     "title": "Software Engineer Intern",
@@ -1447,20 +1384,6 @@
     "title": "Software Engineer Intern",
     "location": "Southern Pines, NC (Other)",
     "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Southern-Pines-NC/Software-Engineer-Intern--Summer-2027-_R0031230"
-  },
-  {
-    "id": "sj:76a9adb2-de1f-4c13-8134-c6ae9614a37d",
-    "company": "T-Mobile",
-    "title": "Software Engineer Intern",
-    "location": "Philadelphia, PA (Other)",
-    "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Philadelphia-Pennsylvania/Summer-2027-Software-Engineering-Internship_REQ380882"
-  },
-  {
-    "id": "sj:48ffbc2e-df41-400b-8812-1097f69556c6",
-    "company": "RTX",
-    "title": "Program Fleet Intern",
-    "location": "East Hartford, CT (Other)",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-OBG--400-Main-St--BLDG-OBG/PW1100G-JM-Program-Fleet-Intern--Summer-2027-_01878283"
   },
   {
     "id": "sj:f9f2c39b-cbd9-4654-bfd9-2ff0ac221771",
@@ -3946,13 +3869,6 @@
     "title": "Exploratory Software Engineer Intern",
     "location": "Charlotte, NC (Other)",
     "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Lowes-Charlotte-Technology-Hub-3505/Exploratory-Software-Engineering---Undergrad-Internship---Summer-2027_JR-02623542"
-  },
-  {
-    "id": "sj:6d28d84c-4927-4e69-87da-3af84ca212c6",
-    "company": "Sun Life",
-    "title": "Medical Intelligence Co-op",
-    "location": "Wellesley, MA (Other)",
-    "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Wellesley-Hills-Massachusetts/Medical-Intelligence-Co-op---Spring-2027_JR00127676"
   },
   {
     "id": "sj:a645e65c-4e25-4cba-8430-d05d91919697",
