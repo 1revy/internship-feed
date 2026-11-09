@@ -539,13 +539,6 @@
     "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4962456101"
   },
   {
-    "id": "sj:59dcdcf5-e048-4e2b-99c1-024440a01f9a",
-    "company": "ICF International",
-    "title": "Energy Researcher Intern",
-    "location": "Arlington County, Arlington, VA; Reston, VA; NYC (New York)",
-    "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Energy-Researcher--Reston--VA--Arlington--VA-_R2603418"
-  },
-  {
     "id": "sj:b29f7462-630f-4a75-8dca-924bcd83bd11",
     "company": "Sigma Computing",
     "title": "Software Engineer Intern - Summer 2027",
@@ -924,13 +917,6 @@
     "url": "https://spa.jibeapply.com/jobs/23634?icims=1"
   },
   {
-    "id": "sj:78f00c1b-3940-465d-b526-efcfd2f70eca",
-    "company": "SoundExchange",
-    "title": "Operations Intern - Royalty Processing & Business Intelligence",
-    "location": "Washington, DC (Washington DC / Central NJ)",
-    "url": "https://job-boards.greenhouse.io/sxinternships/jobs/5231079007"
-  },
-  {
     "id": "sj:c2e6377c-2c49-47ed-a0e6-12520a2d17a4",
     "company": "Ingredion",
     "title": "Digital Innovation Intern",
@@ -980,18 +966,18 @@
     "url": "https://aba.wd1.myworkdayjobs.com/aba/job/US-DC-Main-Office/Intern--Banking-Policy-and-Economic-Research_R625"
   },
   {
-    "id": "sj:fdf4dfa7-1147-46dc-a5e5-0873db565d6f",
-    "company": "Johnson & Johnson",
-    "title": "IDAR Summer Intern - Ease",
-    "location": "Spring House, PA; Raritan, NJ (Washington DC / Central NJ)",
-    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/IDAR-Summer-Intern--EASE-_R-102328"
-  },
-  {
     "id": "sj:cca92450-5ead-4d71-8d7f-084c27b9d1f9",
     "company": "The Nuclear Company",
     "title": "AI/ML Engineer Intern",
     "location": "Washington, DC (Washington DC / Central NJ)",
     "url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383231008"
+  },
+  {
+    "id": "sj:9823b609-27f5-4c61-84a8-4ff83ad1b902",
+    "company": "Citi",
+    "title": "Summer Analyst Intern - Application Development",
+    "location": "London, UK (London / Paris)",
+    "url": "https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Technology---Application-Development--Summer-Analyst--United-Kingdom---London--2027_261007037"
   },
   {
     "id": "sj:15807230-9168-4124-a941-9155bd08a632",
@@ -1267,6 +1253,13 @@
     "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002"
   },
   {
+    "id": "sj:bd1b4d1a-84e5-40d5-8a7e-517d1e227f85",
+    "company": "Badger Meter",
+    "title": "Product Management Intern",
+    "location": "Milwaukee, WI (Other)",
+    "url": "https://badgermeter.wd5.myworkdayjobs.com/US_CareerSite/job/US---WI---Milwaukee-HQ/Product-Management-Intern_4676"
+  },
+  {
     "id": "sj:680cbf01-1662-4204-9638-55b49e07da7c",
     "company": "Zoox",
     "title": "Data Scientist Intern",
@@ -1477,13 +1470,6 @@
     "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/San-Francisco-California-United-States-of-America/Software-Quality-Assurance-Intern_UNI4803"
   },
   {
-    "id": "sj:85296cc2-e177-4e6b-a942-962f6643c9b5",
-    "company": "CareSource",
-    "title": "Data Science Intern",
-    "location": "Remote in USA (Other)",
-    "url": "https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Data-Science-Intern_R14306"
-  },
-  {
     "id": "sj:7d4480fb-523b-4c24-90d8-5b242a7ec976",
     "company": "HP Inc.",
     "title": "Software Engineer Intern - Product & Developer Productivity",
@@ -1603,13 +1589,6 @@
     "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Supervision---Regulation--Business-Relationship-_R-0000033860"
   },
   {
-    "id": "sj:16de67d3-8ae7-46cf-a448-30a53f7bf57d",
-    "company": "T-Mobile",
-    "title": "Product Operations Manager Intern",
-    "location": "Bellevue, WA (Other)",
-    "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Product-Operations-Manager-Internship_REQ380888"
-  },
-  {
     "id": "sj:de7b4b55-30be-4b9e-bfbd-814812a2192f",
     "company": "Applied Materials",
     "title": "Data Intelligence/Technical Program Manager Intern",
@@ -1692,13 +1671,6 @@
     "title": "Data Science and Engineering Intern",
     "location": "Newark, DE; Arlington County, Arlington, VA (Other)",
     "url": "https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Newark-DE/Data-Science---Engineering-Intern_R26_000659"
-  },
-  {
-    "id": "sj:ffc6266f-4786-4043-b824-c50c2f564d80",
-    "company": "JM Family",
-    "title": "Customer Experience Data Analyst Intern",
-    "location": "Deerfield Beach, FL (Other)",
-    "url": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Customer-Experience-Data-Analyst-Intern_JR105125"
   },
   {
     "id": "sj:b748b636-64b5-4ca3-b76a-cc941b9c3ab4",
@@ -2002,13 +1974,6 @@
     "url": "https://ice.jibeapply.com/jobs/14089?icims=1"
   },
   {
-    "id": "sj:f54da270-c7d3-4022-b704-06c0f12cbb2a",
-    "company": "Panasonic Holdings",
-    "title": "Product Management Intern",
-    "location": "Bridgeton, MO (Other)",
-    "url": "https://careers.na.panasonic.com/jobs/51897?icims=1&lang=en-us"
-  },
-  {
     "id": "sj:fedc9268-dfe7-4d88-9700-02a53f0ee30f",
     "company": "Amazon",
     "title": "Technical Product Manager Intern",
@@ -2070,13 +2035,6 @@
     "title": "Technology Analyst Intern - Application Development",
     "location": "Jacksonville, FL (Other)",
     "url": "https://citi.wd5.myworkdayjobs.com/2/job/Jacksonville-Florida-United-States/Technology--Application-Development--Summer-Analyst--Jacksonville---USA--2027_261004418"
-  },
-  {
-    "id": "sj:5871b828-de03-40a2-ac52-83ee05ca8fcf",
-    "company": "Sun Life",
-    "title": "Data Science Intern",
-    "location": "Milwaukee, WI; Kansas City, MO; Hartford, CT; Portland, ME; Wellesley, MA (Other)",
-    "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Experienced-Jobs/job/Wellesley-Hills-Massachusetts/Data-Science-Intern---Summer-2027-Intern_JR00127666"
   },
   {
     "id": "sj:fb7c3da2-a194-48d2-ac39-bdfc88cad4d0",
@@ -2189,13 +2147,6 @@
     "title": "Product Management Advertising Intern",
     "location": "Illinois (Other)",
     "url": "https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---IL-Remote/Arity---Product-Management-Advertising-Intern_R36280"
-  },
-  {
-    "id": "sj:2b618d42-4ed5-4c28-afba-944f17ce61fd",
-    "company": "Athene",
-    "title": "Operations Reporting & Analytics Intern",
-    "location": "West Des Moines, IA (Other)",
-    "url": "https://athene.wd5.myworkdayjobs.com/athene_careers/job/West-Des-Moines-Iowa/Operations-Reporting---Analytics-Intern_R255268"
   },
   {
     "id": "sj:a75a8632-28d8-4ce0-827f-c75ecb99f4c9",
@@ -3311,13 +3262,6 @@
     "url": "https://boards.greenhouse.io/embed/job_app?token=8168322"
   },
   {
-    "id": "sj:229eef02-3f6a-438c-8418-e238047cac56",
-    "company": "Covestro",
-    "title": "Digital R&D Intern",
-    "location": "Pittsburgh, PA (Other)",
-    "url": "https://covestro.wd3.myworkdayjobs.com/cov_external/job/Pittsburgh-PA/Digital-R-D-Intern_JR-2026-02006"
-  },
-  {
     "id": "sj:619bd52a-9875-4fc1-8397-91599716755c",
     "company": "RF-SMART",
     "title": "Product Strategy Intern",
@@ -3498,5 +3442,61 @@
     "title": "Business Insights & Analytics Intern - BI&A LDP",
     "location": "Hartford, CT; St Paul, MN (Other)",
     "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Business-Insights---Analytics-Leadership-Development-Program--BI-A-LDP--Intern_R-52304"
+  },
+  {
+    "id": "sj:f4db16dc-9fd7-499a-b809-554855fcb08f",
+    "company": "IAT Insurance Group",
+    "title": "Data & Integration Intern",
+    "location": "Milwaukee, WI (Other)",
+    "url": "https://iatinsurancegroup.wd1.myworkdayjobs.com/iat/job/Milwaukee-WI/Data---Integration-Internship_JR100404"
+  },
+  {
+    "id": "sj:4c8571fd-a704-4542-babd-54c89d6aeff3",
+    "company": "Booz Allen",
+    "title": "Systems Engineer Intern",
+    "location": "San Diego, CA (Other)",
+    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Diego-CA/University---2027-Summer-Games-Systems-Engineer-Intern---San-Diego--CA_R0248365"
+  },
+  {
+    "id": "sj:53d8eb96-a4a4-4d3d-a59f-1308691c4a1a",
+    "company": "Booz Allen",
+    "title": "Systems Engineer Intern - Summer Games",
+    "location": "Honolulu, HI (Other)",
+    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Honolulu-HI/University---2027-Summer-Games-Systems-Engineer-Intern---Honolulu--HI_R0248370"
+  },
+  {
+    "id": "sj:0e9bb9cd-7dee-4ce0-a479-654d1552f1bc",
+    "company": "Booz Allen",
+    "title": "Systems Engineer Intern - University",
+    "location": "Colorado Springs, CO (Other)",
+    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Colorado-Springs-CO/University---2027-Summer-Games-Systems-Engineer-Intern---Charleston--SC_R0248369"
+  },
+  {
+    "id": "sj:b8511dba-1f6c-40d2-b3b7-e50e87163026",
+    "company": "Booz Allen",
+    "title": "Systems Engineer Intern - University",
+    "location": "Colorado Springs, CO (Other)",
+    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Colorado-Springs-CO/University---2027-Summer-Games-Systems-Engineer-Intern---Colorado-Springs--CO_R0248368"
+  },
+  {
+    "id": "sj:1cd3e703-e004-4850-8dc5-440acec35de0",
+    "company": "Booz Allen",
+    "title": "Systems Engineer Intern",
+    "location": "McLean, VA (Other)",
+    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University---2027-Summer-Games-Systems-Engineer-Intern---McLean--VA_R0248361"
+  },
+  {
+    "id": "sj:bfc7d59a-2729-48fa-8c25-a3278920ef67",
+    "company": "DraftKings",
+    "title": "Data Science Intern",
+    "location": "Boston, MA (Other)",
+    "url": "https://draftkings.wd1.myworkdayjobs.com/Employee_Referral_Portal/job/Boston-MA/Data-Science-Intern-Referral--Summer-2027-_JR14960"
+  },
+  {
+    "id": "sj:183e5059-a65a-4031-89cb-16f14f42f6f0",
+    "company": "Booz Allen",
+    "title": "Data Scientist Intern",
+    "location": "Huntsville, AL (Other)",
+    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Huntsville-AL/University---2027-Summer-Games-Data-Scientist-Intern---Huntsville--AL_R0248407"
   }
 ]
