@@ -1267,6 +1267,20 @@
     "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002"
   },
   {
+    "id": "sj:da999960-efdd-44de-9632-cb4db8868203",
+    "company": "NVIDIA",
+    "title": "AI Operations Intern - AI Clouds",
+    "location": "Santa Clara, CA (Other)",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Operations-Intern--AI-Clouds---Summer-2027_JR2029119-1"
+  },
+  {
+    "id": "sj:33dafa3e-20d8-47c8-aca6-91cf06a6b50a",
+    "company": "T-Mobile",
+    "title": "Business Analytics & Reporting Intern",
+    "location": "Bellevue, WA (Other)",
+    "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Business-Analytics---Reporting-Internship_REQ381319"
+  },
+  {
     "id": "sj:0db6461d-a93a-445c-a639-7522e06981f8",
     "company": "Paccar",
     "title": "Greenhouse Gas Data Analyst Intern",
@@ -1363,6 +1377,13 @@
     "title": "Data Operations Intern",
     "location": "LA (Other)",
     "url": "https://lifeattiktok.com/search/7704912455690504453"
+  },
+  {
+    "id": "sj:ca78c26f-9c4c-4ac1-bcd8-47239a01932d",
+    "company": "TikTok",
+    "title": "Product Operations Intern",
+    "location": "LA (Other)",
+    "url": "https://lifeattiktok.com/search/7704784971953916213"
   },
   {
     "id": "sj:7116355b-7504-4a7e-bd3e-a2309d10544a",
@@ -1650,6 +1671,13 @@
     "title": "Product Manager Intern",
     "location": "Philadelphia, PA (Other)",
     "url": "https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4725351006"
+  },
+  {
+    "id": "sj:e607654c-f29c-4661-80c6-08643000d167",
+    "company": "Selective Insurance",
+    "title": "IT Information Management Intern",
+    "location": "Charlotte, NC (Other)",
+    "url": "https://jobs.selective.com/jobs/5689?icims=1&lang=en-us"
   },
   {
     "id": "sj:ef971fc9-99f7-453f-91a9-664481b3b831",
@@ -2520,13 +2548,6 @@
     "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Longmont/SCS-Commercial-Strategy---Growth-Internship-Summer-2027_R5055048-2"
   },
   {
-    "id": "sj:e0b3cbee-7fd0-464e-a195-d3e925f3e990",
-    "company": "Electronic Arts",
-    "title": "Product Management Intern",
-    "location": "Austin, TX (Other)",
-    "url": "https://jobs.ea.com/en_US/careers/JobDetail/Product-Management-Intern-Fan-Care-Community-Care-Summer-2027/216182"
-  },
-  {
     "id": "sj:3e820b10-ba47-4208-bb88-525a7dc5290a",
     "company": "Cadence Solutions",
     "title": "Product Management Intern",
@@ -3311,6 +3332,48 @@
     "url": "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7986695003"
   },
   {
+    "id": "sj:ec82070a-1dec-4b05-9e7d-e8e93eab62f9",
+    "company": "Selective Insurance",
+    "title": "IT Commercial Lines Summer Intern",
+    "location": "Charlotte, NC; Hartford, CT (Other)",
+    "url": "https://jobs.selective.com/jobs/5701?icims=1&lang=en-us"
+  },
+  {
+    "id": "sj:d1cc7b38-cd60-45a0-a763-480753694ed9",
+    "company": "Selective Insurance",
+    "title": "Commercial Lines Product Intern",
+    "location": "Short Hills, Millburn, NJ; Hartford, CT (Other)",
+    "url": "https://jobs.selective.com/jobs/5709?icims=1&lang=en-us"
+  },
+  {
+    "id": "sj:9a604003-28ad-46f3-991d-0d27170b494c",
+    "company": "Selective Insurance",
+    "title": "IT Information Management Intern",
+    "location": "Short Hills, Millburn, NJ (Other)",
+    "url": "https://jobs.selective.com/jobs/5777?icims=1&lang=en-us"
+  },
+  {
+    "id": "sj:b1c42508-489a-4a21-bf5b-ebd2039bbe7b",
+    "company": "Selective Insurance",
+    "title": "IT Claims Application Delivery Intern",
+    "location": "Charlotte, NC (Other)",
+    "url": "https://jobs.selective.com/jobs/5750?icims=1&lang=en-us"
+  },
+  {
+    "id": "sj:1bd5c700-e454-4a26-bbbd-9880cefb4be7",
+    "company": "Selective Insurance",
+    "title": "IT Information Management Intern",
+    "location": "Charlotte, NC (Other)",
+    "url": "https://jobs.selective.com/jobs/5757?icims=1&lang=en-us"
+  },
+  {
+    "id": "sj:988292e2-9865-480d-8599-0279ef142eb3",
+    "company": "Selective Insurance",
+    "title": "Business Intelligence & Insights Intern",
+    "location": "Branchville, NJ (Other)",
+    "url": "https://jobs.selective.com/jobs/5707?icims=1&lang=en-us"
+  },
+  {
     "id": "sj:1ab411c4-7013-4eeb-8835-d8bb9baa3f39",
     "company": "Dick's Sporting Goods",
     "title": "Product Management Intern - Corporate Internship",
@@ -3435,68 +3498,5 @@
     "title": "Autonomy Engineer Intern - Air Systems",
     "location": "Hunt Valley, Cockeysville, MD (Other)",
     "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342925"
-  },
-  {
-    "id": "sj:23a5a6a6-47fc-41cf-8936-946b702be2cd",
-    "company": "Edison International",
-    "title": "Software/Data Engineering Intern",
-    "location": "Chino, CA (Other)",
-    "url": "https://apply.edisoncareers.com/job/Chino-2027-Summer-Internship-SoftwareData-Engineering-(Chino)-CA-91710/1424663800/?ats=successfactors"
-  },
-  {
-    "id": "sj:cf498cbc-375c-45ec-8f68-334ce9a2d7d0",
-    "company": "Edison International",
-    "title": "Data Analytics Intern - Data Science/Applied Math",
-    "location": "Pomona, CA; Rosemead, CA (Other)",
-    "url": "https://apply.edisoncareers.com/job/Rosemead-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-(PomonaRosemead)-1-CA-91770/1425208900/?ats=successfactors"
-  },
-  {
-    "id": "sj:7a58365b-0d72-4b0c-8094-fa29ec18b560",
-    "company": "Edison International",
-    "title": "Data Analytics Intern - Data Science - Applied Math",
-    "location": "Pomona, CA; Rosemead, CA (Other)",
-    "url": "https://apply.edisoncareers.com/job/Rosemead-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-(PomonaRosemead)-CA-91770/1425207700/?ats=successfactors"
-  },
-  {
-    "id": "sj:fbc330bb-a6c5-48a8-b0d9-537f8bf68269",
-    "company": "Travelers",
-    "title": "Business Insights & Analytics Intern - BI&A LDP",
-    "location": "Hartford, CT; St Paul, MN (Other)",
-    "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Business-Insights---Analytics-Leadership-Development-Program--BI-A-LDP--Intern_R-52304"
-  },
-  {
-    "id": "sj:f4db16dc-9fd7-499a-b809-554855fcb08f",
-    "company": "IAT Insurance Group",
-    "title": "Data & Integration Intern",
-    "location": "Milwaukee, WI (Other)",
-    "url": "https://iatinsurancegroup.wd1.myworkdayjobs.com/iat/job/Milwaukee-WI/Data---Integration-Internship_JR100404"
-  },
-  {
-    "id": "sj:4c8571fd-a704-4542-babd-54c89d6aeff3",
-    "company": "Booz Allen",
-    "title": "Systems Engineer Intern",
-    "location": "San Diego, CA (Other)",
-    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Diego-CA/University---2027-Summer-Games-Systems-Engineer-Intern---San-Diego--CA_R0248365"
-  },
-  {
-    "id": "sj:53d8eb96-a4a4-4d3d-a59f-1308691c4a1a",
-    "company": "Booz Allen",
-    "title": "Systems Engineer Intern - Summer Games",
-    "location": "Honolulu, HI (Other)",
-    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Honolulu-HI/University---2027-Summer-Games-Systems-Engineer-Intern---Honolulu--HI_R0248370"
-  },
-  {
-    "id": "sj:0e9bb9cd-7dee-4ce0-a479-654d1552f1bc",
-    "company": "Booz Allen",
-    "title": "Systems Engineer Intern - University",
-    "location": "Colorado Springs, CO (Other)",
-    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Colorado-Springs-CO/University---2027-Summer-Games-Systems-Engineer-Intern---Charleston--SC_R0248369"
-  },
-  {
-    "id": "sj:b8511dba-1f6c-40d2-b3b7-e50e87163026",
-    "company": "Booz Allen",
-    "title": "Systems Engineer Intern - University",
-    "location": "Colorado Springs, CO (Other)",
-    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Colorado-Springs-CO/University---2027-Summer-Games-Systems-Engineer-Intern---Colorado-Springs--CO_R0248368"
   }
 ]
