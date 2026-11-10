@@ -1,5 +1,68 @@
 [
   {
+    "id": "sj:23a5a6a6-47fc-41cf-8936-946b702be2cd",
+    "company": "Edison International",
+    "title": "Software/Data Engineering Intern",
+    "location": "Chino, CA (Other)",
+    "url": "https://apply.edisoncareers.com/job/Chino-2027-Summer-Internship-SoftwareData-Engineering-(Chino)-CA-91710/1424663800/?ats=successfactors"
+  },
+  {
+    "id": "sj:cf498cbc-375c-45ec-8f68-334ce9a2d7d0",
+    "company": "Edison International",
+    "title": "Data Analytics Intern - Data Science/Applied Math",
+    "location": "Pomona, CA; Rosemead, CA (Other)",
+    "url": "https://apply.edisoncareers.com/job/Rosemead-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-(PomonaRosemead)-1-CA-91770/1425208900/?ats=successfactors"
+  },
+  {
+    "id": "sj:7a58365b-0d72-4b0c-8094-fa29ec18b560",
+    "company": "Edison International",
+    "title": "Data Analytics Intern - Data Science - Applied Math",
+    "location": "Pomona, CA; Rosemead, CA (Other)",
+    "url": "https://apply.edisoncareers.com/job/Rosemead-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-(PomonaRosemead)-CA-91770/1425207700/?ats=successfactors"
+  },
+  {
+    "id": "sj:fbc330bb-a6c5-48a8-b0d9-537f8bf68269",
+    "company": "Travelers",
+    "title": "Business Insights & Analytics Intern - BI&A LDP",
+    "location": "Hartford, CT; St Paul, MN (Other)",
+    "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Business-Insights---Analytics-Leadership-Development-Program--BI-A-LDP--Intern_R-52304"
+  },
+  {
+    "id": "sj:f4db16dc-9fd7-499a-b809-554855fcb08f",
+    "company": "IAT Insurance Group",
+    "title": "Data & Integration Intern",
+    "location": "Milwaukee, WI (Other)",
+    "url": "https://iatinsurancegroup.wd1.myworkdayjobs.com/iat/job/Milwaukee-WI/Data---Integration-Internship_JR100404"
+  },
+  {
+    "id": "sj:4c8571fd-a704-4542-babd-54c89d6aeff3",
+    "company": "Booz Allen",
+    "title": "Systems Engineer Intern",
+    "location": "San Diego, CA (Other)",
+    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Diego-CA/University---2027-Summer-Games-Systems-Engineer-Intern---San-Diego--CA_R0248365"
+  },
+  {
+    "id": "sj:53d8eb96-a4a4-4d3d-a59f-1308691c4a1a",
+    "company": "Booz Allen",
+    "title": "Systems Engineer Intern - Summer Games",
+    "location": "Honolulu, HI (Other)",
+    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Honolulu-HI/University---2027-Summer-Games-Systems-Engineer-Intern---Honolulu--HI_R0248370"
+  },
+  {
+    "id": "sj:0e9bb9cd-7dee-4ce0-a479-654d1552f1bc",
+    "company": "Booz Allen",
+    "title": "Systems Engineer Intern - University",
+    "location": "Colorado Springs, CO (Other)",
+    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Colorado-Springs-CO/University---2027-Summer-Games-Systems-Engineer-Intern---Charleston--SC_R0248369"
+  },
+  {
+    "id": "sj:b8511dba-1f6c-40d2-b3b7-e50e87163026",
+    "company": "Booz Allen",
+    "title": "Systems Engineer Intern - University",
+    "location": "Colorado Springs, CO (Other)",
+    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Colorado-Springs-CO/University---2027-Summer-Games-Systems-Engineer-Intern---Colorado-Springs--CO_R0248368"
+  },
+  {
     "id": "sj:1cd3e703-e004-4850-8dc5-440acec35de0",
     "company": "Booz Allen",
     "title": "Systems Engineer Intern",
@@ -96,6 +159,13 @@
     "title": "Software Engineer Intern - Product & Developer Productivity - Summer 2027",
     "location": "SF (Other)",
     "url": "https://job-boards.greenhouse.io/hpiq/jobs/6114890004"
+  },
+  {
+    "id": "sj:f4714242-ad4a-4bef-9ee7-8dc639cd7e0f",
+    "company": "Compeer Financial",
+    "title": "Data Analytics Intern",
+    "location": "Eau Claire, WI; Rochester, MN; Lakeville, MN; Mankato, MN; Bloomington, IL (Other)",
+    "url": "https://job-boards.greenhouse.io/compeerfinancial/jobs/5409874008"
   },
   {
     "id": "sj:222db458-975e-451f-8e50-02fed5bc0583",
@@ -812,11 +882,32 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Remote/System-Software-Engineering-Intern--GPU---2027_JR2025334"
   },
   {
+    "id": "sj:ae7750b1-899e-4303-94dc-793bbd2be58d",
+    "company": "Matillion",
+    "title": "Computer Science Intern - Software Engineering with AI",
+    "location": "Manchester, UK (Other)",
+    "url": "https://jobs.lever.co/matillion/72564dd8-fed7-4fc5-9b16-8c7a2cfd3f22/apply"
+  },
+  {
     "id": "sj:55e6b934-6590-46a7-97c8-0304e24dd3bb",
     "company": "REGENT",
     "title": "Mission Software Engineering Intern",
     "location": "North Kingstown, RI (Other)",
     "url": "https://jobs.ashbyhq.com/regent/1da518a0-9030-48d1-a58c-15d1f88f0eaa/application?embed=true"
+  },
+  {
+    "id": "sj:6f89592c-cad0-4384-8d65-14460588b283",
+    "company": "T-Mobile",
+    "title": "Software Engineer Intern - T-Ads",
+    "location": "Philadelphia, PA (Other)",
+    "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Philadelphia-Pennsylvania/Summer-2027-T-Ads-Software-Engineering-Internship_REQ381219"
+  },
+  {
+    "id": "sj:079bf3d3-847a-4fc1-988a-ae3cdbafd70e",
+    "company": "T-Mobile",
+    "title": "Software Engineer Intern",
+    "location": "Philadelphia, PA (Other)",
+    "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Philadelphia-Pennsylvania/Summer-2027-T-Ads-Software-Engineering-Internship_REQ381225"
   },
   {
     "id": "sj:aeab764d-5a2a-4abf-8dc2-c9aef5a4ec51",
@@ -2121,13 +2212,6 @@
     "url": "https://job-boards.greenhouse.io/graphcore/jobs/8894868002"
   },
   {
-    "id": "sj:adea30a6-775b-4c81-ae92-6ed234b64e3b",
-    "company": "Redgate",
-    "title": "Software Engineer Intern",
-    "location": "Cambridge, UK (Other)",
-    "url": "https://jobs.ashbyhq.com/red-gate/2449a05b-81da-40de-b64d-3436c8ddb1df/application?embed=true"
-  },
-  {
     "id": "sj:23e73d43-3b98-441f-abc3-9363e7f5d4aa",
     "company": "Graphcore",
     "title": "Software Engineer Intern - AI Compute Libraries & Performance",
@@ -3304,6 +3388,13 @@
     "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Software-Tools-and-Assurance-Engineering-Grad-Intern_R016753"
   },
   {
+    "id": "sj:666cecc4-d856-4a1b-9594-9e715d560387",
+    "company": "Veterans United",
+    "title": "Software Engineer Intern",
+    "location": "Missouri (Other)",
+    "url": "https://veteransunited.wd1.myworkdayjobs.com/VUHL/job/Remote-MO/Intern---Software-Engineer---Summer-2027_R6249"
+  },
+  {
     "id": "sj:ec241207-37cb-48f4-aa65-cf19d960f7a2",
     "company": "Flint",
     "title": "Engineering Intern - Summer 2027",
@@ -3456,13 +3547,6 @@
     "title": "Software Development Engineer Intern",
     "location": "Seattle, WA (Other)",
     "url": "https://jobs.ashbyhq.com/qumulo/43855947-3a85-4d1c-8b8e-e0c0ddcaf183/application?embed=true"
-  },
-  {
-    "id": "sj:195612f9-142a-49fb-9059-cfc4fe8c83de",
-    "company": "Klaviyo",
-    "title": "Machine Learning Engineer Intern",
-    "location": "Palo Alto, CA (Other)",
-    "url": "https://job-boards.greenhouse.io/klaviyocampus/jobs/7999274003"
   },
   {
     "id": "sj:27be24cd-78e1-4eca-9e66-1c1004286831",
@@ -4345,13 +4429,6 @@
     "title": "Software Engineer Intern - Command & Control",
     "location": "Atlanta, GA (Other)",
     "url": "https://jobs.lever.co/hermeus/5b08e2df-c9db-4831-aece-67d89e744796/apply"
-  },
-  {
-    "id": "sj:100aa374-4fc4-4766-87fe-7cdd6b8a5ecc",
-    "company": "Motorola",
-    "title": "Android Platform Software Engineer Intern - Summer 2027",
-    "location": "Schaumburg, IL; Plantation, FL (Other)",
-    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Android-Platform-Software-Engineering-Intern---Summer-2027_R68363"
   },
   {
     "id": "sj:f455fc61-2abc-42c1-96e2-b19e6f175508",
@@ -5432,13 +5509,6 @@
     "url": "https://lifeattiktok.com/search/7667339583362025781"
   },
   {
-    "id": "sj:db960900-01f6-4f01-9c82-84153cdf5547",
-    "company": "TikTok",
-    "title": "Backend Software Engineer Intern",
-    "location": "San Jose, CA (Other)",
-    "url": "https://lifeattiktok.com/search/7667935565120112949"
-  },
-  {
     "id": "sj:583da786-a806-4182-a9ea-6299307644ac",
     "company": "TikTok",
     "title": "Machine Learning Engineer Intern",
@@ -5467,13 +5537,6 @@
     "url": "https://lifeattiktok.com/search/7667934635573692725"
   },
   {
-    "id": "sj:8db73e59-868b-443c-ae94-c136c0561141",
-    "company": "TikTok",
-    "title": "Artificial Intelligence Engineer Intern - Client Architecture",
-    "location": "San Jose, CA (Other)",
-    "url": "https://lifeattiktok.com/search/7667935738190465285"
-  },
-  {
     "id": "sj:df848f9e-ca3e-4ea9-ac5c-e1e9596730ba",
     "company": "TikTok",
     "title": "Machine Learning Scientist Intern",
@@ -5500,13 +5563,6 @@
     "title": "Research Scientist Intern - Neural Graphics and World Models",
     "location": "San Jose, CA (Other)",
     "url": "https://lifeattiktok.com/search/7667935738840090933"
-  },
-  {
-    "id": "sj:a369c444-d6b3-4421-8a25-859336530e56",
-    "company": "TikTok",
-    "title": "Software Engineer Intern",
-    "location": "San Jose, CA (Other)",
-    "url": "https://lifeattiktok.com/search/7667935738376227077"
   },
   {
     "id": "sj:8f05dd2f-befa-4ddd-8488-134b03cc716d",
