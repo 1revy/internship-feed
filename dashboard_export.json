@@ -623,13 +623,6 @@
     "url": "https://metlife.avature.net/en_US/ml/JobDetail/20701"
   },
   {
-    "id": "sj:5eb5b284-a13e-460f-8868-b285bb6e1821",
-    "company": "Grow Therapy",
-    "title": "Software Engineer Intern",
-    "location": "NYC (New York)",
-    "url": "https://jobs.ashbyhq.com/grow-therapy/92bfe88a-4c23-48c8-8f7b-4959ab6cd8d8/application?embed=true"
-  },
-  {
     "id": "sj:0315cabd-eed9-4fb0-bf72-2770478f6bb9",
     "company": "Rippling",
     "title": "Full Stack Software Engineer Intern",
@@ -2940,13 +2933,6 @@
     "url": "https://standoutforgood.wd12.myworkdayjobs.com/StandOutForGood/job/Knoxville-TN/Spring-2027-IT-Analytics-Intern_SOSJ12499"
   },
   {
-    "id": "sj:721628f6-7dc9-47f6-8d08-1283695301ad",
-    "company": "Gordon Food Service",
-    "title": "Category Insights Analyst Intern",
-    "location": "Wyoming, MI (Other)",
-    "url": "https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/NA-Category-Insights-Analyst-Intern_R-57366-1"
-  },
-  {
     "id": "sj:534fe275-9db8-4d1e-b359-1b5b27b504c0",
     "company": "Netsmart",
     "title": "Revenue Cycle Management Operations Analyst Intern - Revenue Cycle Management",
@@ -3143,20 +3129,6 @@
     "url": "https://lifeattiktok.com/search/7684612598114240821"
   },
   {
-    "id": "sj:c35fa7e0-84f9-47b5-b3b2-bcf8c4b35214",
-    "company": "Enact Mortgage Insurance",
-    "title": "Process Improvement Analyst Intern",
-    "location": "Raleigh, NC (Other)",
-    "url": "https://gnw.wd1.myworkdayjobs.com/enact_mi/job/Raleigh-North-Carolina/Process-Improvement-Analyst-Intern_REQ-260360"
-  },
-  {
-    "id": "sj:a6d458af-c99e-4109-a0f2-8231e3b60c9d",
-    "company": "Genworth Financial",
-    "title": "Process Improvement Analyst Intern",
-    "location": "Raleigh, NC (Other)",
-    "url": "https://gnw.wd1.myworkdayjobs.com/GNW/job/Raleigh-North-Carolina/Process-Improvement-Analyst-Intern_REQ-260360-1"
-  },
-  {
     "id": "sj:9f24eba1-f1d2-4c28-953b-412af51abd49",
     "company": "3M",
     "title": "Business Analyst Intern - Consumer Business Group",
@@ -3276,13 +3248,6 @@
     "url": "https://albemarle.wd5.myworkdayjobs.com/en-US/ketjenexternal/job/Houston-Texas-United-States-of-America/Ketjen-Summer-2027-Data-Science-Internship_REQ-31411"
   },
   {
-    "id": "sj:e324dbfe-55ba-4099-a9f0-2268a787100e",
-    "company": "Immuta",
-    "title": "Product Engineering Intern",
-    "location": "College Park, MD (Other)",
-    "url": "https://jobs.lever.co/immuta/bf3c9d23-8da9-4a11-adf6-ecb7bce82ad4/apply"
-  },
-  {
     "id": "sj:93048763-5a4d-430c-bb12-ed0ad0d9cfa7",
     "company": "Coinbase",
     "title": "Data Science Intern - Strategy, Execution, & Analytics - Platform",
@@ -3395,13 +3360,6 @@
     "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/Newcastle---Bank/Oliver-Wyman---Data---Analytics-Summer-Internship-2027---Newcastle_R_364984-1"
   },
   {
-    "id": "sj:4450e57d-6850-4b61-b0f6-39350674e9d9",
-    "company": "AArete",
-    "title": "Business Analytics Intern - Summer 2027",
-    "location": "Chicago, IL (Other)",
-    "url": "https://jobs.jobvite.com/aarete/job/oBXLAfwD?nl=1&nl=1&fr=false"
-  },
-  {
     "id": "sj:8028ea71-392c-4173-9d2a-1dc31c5a4571",
     "company": "Hadrian",
     "title": "Data Science/Data Engineer Intern",
@@ -3498,5 +3456,47 @@
     "title": "Autonomy Engineer Intern - Air Systems",
     "location": "Hunt Valley, Cockeysville, MD (Other)",
     "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342925"
+  },
+  {
+    "id": "sj:23a5a6a6-47fc-41cf-8936-946b702be2cd",
+    "company": "Edison International",
+    "title": "Software/Data Engineering Intern",
+    "location": "Chino, CA (Other)",
+    "url": "https://apply.edisoncareers.com/job/Chino-2027-Summer-Internship-SoftwareData-Engineering-(Chino)-CA-91710/1424663800/?ats=successfactors"
+  },
+  {
+    "id": "sj:cf498cbc-375c-45ec-8f68-334ce9a2d7d0",
+    "company": "Edison International",
+    "title": "Data Analytics Intern - Data Science/Applied Math",
+    "location": "Pomona, CA; Rosemead, CA (Other)",
+    "url": "https://apply.edisoncareers.com/job/Rosemead-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-(PomonaRosemead)-1-CA-91770/1425208900/?ats=successfactors"
+  },
+  {
+    "id": "sj:7a58365b-0d72-4b0c-8094-fa29ec18b560",
+    "company": "Edison International",
+    "title": "Data Analytics Intern - Data Science - Applied Math",
+    "location": "Pomona, CA; Rosemead, CA (Other)",
+    "url": "https://apply.edisoncareers.com/job/Rosemead-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-(PomonaRosemead)-CA-91770/1425207700/?ats=successfactors"
+  },
+  {
+    "id": "sj:fbc330bb-a6c5-48a8-b0d9-537f8bf68269",
+    "company": "Travelers",
+    "title": "Business Insights & Analytics Intern - BI&A LDP",
+    "location": "Hartford, CT; St Paul, MN (Other)",
+    "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Business-Insights---Analytics-Leadership-Development-Program--BI-A-LDP--Intern_R-52304"
+  },
+  {
+    "id": "sj:f4db16dc-9fd7-499a-b809-554855fcb08f",
+    "company": "IAT Insurance Group",
+    "title": "Data & Integration Intern",
+    "location": "Milwaukee, WI (Other)",
+    "url": "https://iatinsurancegroup.wd1.myworkdayjobs.com/iat/job/Milwaukee-WI/Data---Integration-Internship_JR100404"
+  },
+  {
+    "id": "sj:4c8571fd-a704-4542-babd-54c89d6aeff3",
+    "company": "Booz Allen",
+    "title": "Systems Engineer Intern",
+    "location": "San Diego, CA (Other)",
+    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Diego-CA/University---2027-Summer-Games-Systems-Engineer-Intern---San-Diego--CA_R0248365"
   }
 ]
