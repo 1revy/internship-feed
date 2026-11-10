@@ -1,47 +1,5 @@
 [
   {
-    "id": "sj:23a5a6a6-47fc-41cf-8936-946b702be2cd",
-    "company": "Edison International",
-    "title": "Software/Data Engineering Intern",
-    "location": "Chino, CA (Other)",
-    "url": "https://apply.edisoncareers.com/job/Chino-2027-Summer-Internship-SoftwareData-Engineering-(Chino)-CA-91710/1424663800/?ats=successfactors"
-  },
-  {
-    "id": "sj:cf498cbc-375c-45ec-8f68-334ce9a2d7d0",
-    "company": "Edison International",
-    "title": "Data Analytics Intern - Data Science/Applied Math",
-    "location": "Pomona, CA; Rosemead, CA (Other)",
-    "url": "https://apply.edisoncareers.com/job/Rosemead-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-(PomonaRosemead)-1-CA-91770/1425208900/?ats=successfactors"
-  },
-  {
-    "id": "sj:7a58365b-0d72-4b0c-8094-fa29ec18b560",
-    "company": "Edison International",
-    "title": "Data Analytics Intern - Data Science - Applied Math",
-    "location": "Pomona, CA; Rosemead, CA (Other)",
-    "url": "https://apply.edisoncareers.com/job/Rosemead-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-(PomonaRosemead)-CA-91770/1425207700/?ats=successfactors"
-  },
-  {
-    "id": "sj:fbc330bb-a6c5-48a8-b0d9-537f8bf68269",
-    "company": "Travelers",
-    "title": "Business Insights & Analytics Intern - BI&A LDP",
-    "location": "Hartford, CT; St Paul, MN (Other)",
-    "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Business-Insights---Analytics-Leadership-Development-Program--BI-A-LDP--Intern_R-52304"
-  },
-  {
-    "id": "sj:f4db16dc-9fd7-499a-b809-554855fcb08f",
-    "company": "IAT Insurance Group",
-    "title": "Data & Integration Intern",
-    "location": "Milwaukee, WI (Other)",
-    "url": "https://iatinsurancegroup.wd1.myworkdayjobs.com/iat/job/Milwaukee-WI/Data---Integration-Internship_JR100404"
-  },
-  {
-    "id": "sj:4c8571fd-a704-4542-babd-54c89d6aeff3",
-    "company": "Booz Allen",
-    "title": "Systems Engineer Intern",
-    "location": "San Diego, CA (Other)",
-    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Diego-CA/University---2027-Summer-Games-Systems-Engineer-Intern---San-Diego--CA_R0248365"
-  },
-  {
     "id": "sj:53d8eb96-a4a4-4d3d-a59f-1308691c4a1a",
     "company": "Booz Allen",
     "title": "Systems Engineer Intern - Summer Games",
@@ -3591,20 +3549,6 @@
     "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/661d7ac4-51df-454d-82c8-2a0d94852036/application?embed=true"
   },
   {
-    "id": "sj:7a0fcd2a-9cdd-4832-95ba-6a0989ecb3a3",
-    "company": "Klaviyo",
-    "title": "Machine Learning Engineer Intern",
-    "location": "Palo Alto, CA (Other)",
-    "url": "https://jobs.ashbyhq.com/f40d14d9-07f4-403d-802b-37453deccf0a/1fa911e4-18cd-4572-85ce-19f8fb24e5df/application?embed=true"
-  },
-  {
-    "id": "sj:720fee65-6f2f-44db-9bbe-9df7f53f1bb0",
-    "company": "Klaviyo",
-    "title": "AI Engineer Intern",
-    "location": "Boston, MA (Other)",
-    "url": "https://jobs.ashbyhq.com/f40d14d9-07f4-403d-802b-37453deccf0a/d1752b32-eebe-4edd-9e51-3ef06a3b75a2/application?embed=true"
-  },
-  {
     "id": "sj:93ae3a0d-e1e0-4d7a-ad67-4adba9311b49",
     "company": "Rippling",
     "title": "Machine Learning Software Engineer Intern - Summer 2027",
@@ -3673,13 +3617,6 @@
     "title": "Software Development Intern - Summer 2027",
     "location": "Plano, TX (Other)",
     "url": "https://jobs.jobvite.com/tylertech/job/oMAPAfwv?nl=1&nl=1&fr=false"
-  },
-  {
-    "id": "sj:63c49c26-a318-41ac-a40f-775acc74c21c",
-    "company": "AMD",
-    "title": "Generative AI and Reinforcement Learning Research Intern",
-    "location": "Santa Clara, CA (Other)",
-    "url": "https://careers.amd.com/jobs/90910?icims=1"
   },
   {
     "id": "sj:0d31c6d5-14e5-44e6-8018-c466302d681e",
@@ -3813,13 +3750,6 @@
     "title": "Software Engineer Intern - Device Team",
     "location": "Raleigh, NC (Other)",
     "url": "https://job-boards.greenhouse.io/relaypro/jobs/8180836"
-  },
-  {
-    "id": "sj:59143a12-b5c5-4756-adf5-a3376f4b7296",
-    "company": "RAVE Aerospace",
-    "title": "Software Engineer Intern",
-    "location": "Laramie, WY (Other)",
-    "url": "https://apply.workable.com/raveaerospace/j/739753C003/apply"
   },
   {
     "id": "sj:3a88588d-781e-4310-871c-3d14276eb6dd",
@@ -4009,13 +3939,6 @@
     "title": "Policy Engineering Intern",
     "location": "San Jose, CA (Other)",
     "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955482101"
-  },
-  {
-    "id": "sj:a551edfe-1860-47a5-84ba-2aa807b90cd1",
-    "company": "Veeam Software",
-    "title": "Engineering Intern",
-    "location": "California (Other)",
-    "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4951792101"
   },
   {
     "id": "sj:7b2cb969-df39-4029-8cdf-b12669432319",
@@ -4445,13 +4368,6 @@
     "url": "https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Software-Engineer-Intern--Summer-2027-_R16294"
   },
   {
-    "id": "sj:b7c2c963-6116-45d7-aa64-15930ea624ae",
-    "company": "DriveTime",
-    "title": "Database Engineer Intern",
-    "location": "Tempe, AZ (Other)",
-    "url": "https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Data-Engineer-Intern--Summer-2027-_R16300"
-  },
-  {
     "id": "sj:dbb2453a-671b-457f-94ce-d79c019d10a4",
     "company": "BP",
     "title": "Seismic Imaging Technology Intern",
@@ -4534,13 +4450,6 @@
     "title": "Software Engineer Intern - Relational Database",
     "location": "San Jose, CA (Other)",
     "url": "https://jobs.bytedance.com/en/position/7678449088065997109/detail"
-  },
-  {
-    "id": "sj:b96c7c0a-e52d-479c-8c01-d4e54118328f",
-    "company": "AMD",
-    "title": "Compiler Engineer Intern/Co-op",
-    "location": "San Jose, CA; Santa Clara, CA (Other)",
-    "url": "https://careers.amd.com/jobs/91865?icims=1"
   },
   {
     "id": "sj:e9f9050a-780c-47dd-b98a-17dda2af0453",
@@ -4975,13 +4884,6 @@
     "title": "Machine Learning Intern/Co-op - Machine Learning - Artificial Intelligence",
     "location": "San Jose, CA; Santa Clara, CA (Other)",
     "url": "https://careers.amd.com/jobs/90892?icims=1"
-  },
-  {
-    "id": "sj:646c1eeb-a6b8-40f6-95c7-581780504d2e",
-    "company": "AMD",
-    "title": "Machine Learning Intern/Co-op - Artificial Intelligence",
-    "location": "Rochester, NY; Austin, TX; Longmont, CO; Fishkill, NY; Fort Collins, CO; Boxborough, MA (Other)",
-    "url": "https://careers.amd.com/jobs/91181?icims=1"
   },
   {
     "id": "sj:ec03908e-3e83-4c51-adc1-4f9414e3faef",
