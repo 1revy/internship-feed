@@ -1302,6 +1302,13 @@
     "url": "https://job-boards.greenhouse.io/scoutmotors/jobs/5287137007"
   },
   {
+    "id": "sj:4b696a25-371d-4850-bd83-a776f749aa20",
+    "company": "Trilogy Health Services",
+    "title": "Information Systems Developer of AI and Automated Solutions Intern",
+    "location": "Louisville, KY (Other)",
+    "url": "https://jobs.trilogyhs.com/jobs/214624?icims=1&lang=en-us"
+  },
+  {
     "id": "sj:bd1b4d1a-84e5-40d5-8a7e-517d1e227f85",
     "company": "Badger Meter",
     "title": "Product Management Intern",
@@ -1531,13 +1538,6 @@
     "title": "Summer Intern - Digital Collaboration & Data Insights",
     "location": "Chicago, IL (Other)",
     "url": "https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Chicago-IL-60607/XMLNAME-2027-Summer-Internship---Digital-Collaboration---Data-Insights_35969R"
-  },
-  {
-    "id": "sj:f5113035-5f0f-4f0c-970b-772d643acbf6",
-    "company": "Arch Capital Group",
-    "title": "Originations Portal IT Intern",
-    "location": "Greensboro, NC (Other)",
-    "url": "https://archgroup.wd1.myworkdayjobs.com/careers/job/Greensboro-NC-United-States-of-America/Originations-Portal-IT-Intern_R26_1135"
   },
   {
     "id": "sj:8389b458-1a55-45d4-a63d-b9cfecb8824d",
@@ -1827,20 +1827,6 @@
     "url": "https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Summer-2027-Data-Scientist-Intern--Bachelor-s--Austin--TX-_R2627409"
   },
   {
-    "id": "sj:6e6e8a0d-abd2-4f63-a9c0-d64af46f366d",
-    "company": "Marvell",
-    "title": "Data Science Intern",
-    "location": "Boise, ID (Other)",
-    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Boise-ID/Data-Science-Intern--BS---Summer-2027_2603782"
-  },
-  {
-    "id": "sj:9b9fd13e-39d9-47b3-9e15-80ac82205d1b",
-    "company": "Regeneron Pharmaceuticals",
-    "title": "Data Science & Digital Innovation Intern - Industrial Operations and Product Supply",
-    "location": "Rensselaer, NY (Other)",
-    "url": "https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/RENSSELAER/XMLNAME-2027-Summer-Intern-Data-Science---Digital-Innovation--IOPS-_R51821-1"
-  },
-  {
     "id": "sj:3a53411a-544e-46b8-bdcb-b481c9421c49",
     "company": "Regeneron Pharmaceuticals",
     "title": "AI/ML & Data Engineering Intern",
@@ -2098,13 +2084,6 @@
     "title": "Data & Digital Transformation Intern - Geysers",
     "location": "Middletown, CA (Other)",
     "url": "https://jobs.constellationenergy.com/jobs/140352?icims=1&lang=en-us"
-  },
-  {
-    "id": "sj:adb9b1d3-a6e4-4743-8130-637863eba912",
-    "company": "General Dynamics Information Technology",
-    "title": "Financial Data Analyst Intern",
-    "location": "Falls Church, VA (Other)",
-    "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Financial-Data-Analyst-Intern--Seasonal-_RQ230761"
   },
   {
     "id": "sj:39c401c3-d14a-4997-a485-e8e68788de4f",
@@ -2884,6 +2863,13 @@
     "url": "https://jobs.erieinsurance.com/job/Erie-Intern-II-(Data)-PA-16506/1432176200/?ats=successfactors"
   },
   {
+    "id": "sj:c050f36e-820f-4cd1-90dc-939c7c6c2b4a",
+    "company": "The Marzetti Company",
+    "title": "IT Analytics Intern",
+    "location": "Columbus, OH (Other)",
+    "url": "https://careers.marzetticompany.com/jobs/8067?icims=1&lang=en-us"
+  },
+  {
     "id": "sj:837d3ab9-da77-4d10-9ae6-5fa9bc3f5a5d",
     "company": "General Motors",
     "title": "Software Engineer Intern - Digital Product: Software Engineering",
@@ -3498,5 +3484,19 @@
     "title": "Systems Engineer Intern - Summer Games",
     "location": "Honolulu, HI (Other)",
     "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Honolulu-HI/University---2027-Summer-Games-Systems-Engineer-Intern---Honolulu--HI_R0248370"
+  },
+  {
+    "id": "sj:0e9bb9cd-7dee-4ce0-a479-654d1552f1bc",
+    "company": "Booz Allen",
+    "title": "Systems Engineer Intern - University",
+    "location": "Colorado Springs, CO (Other)",
+    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Colorado-Springs-CO/University---2027-Summer-Games-Systems-Engineer-Intern---Charleston--SC_R0248369"
+  },
+  {
+    "id": "sj:b8511dba-1f6c-40d2-b3b7-e50e87163026",
+    "company": "Booz Allen",
+    "title": "Systems Engineer Intern - University",
+    "location": "Colorado Springs, CO (Other)",
+    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Colorado-Springs-CO/University---2027-Summer-Games-Systems-Engineer-Intern---Colorado-Springs--CO_R0248368"
   }
 ]
