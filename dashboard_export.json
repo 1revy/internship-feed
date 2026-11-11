@@ -413,13 +413,6 @@
     "url": "https://jobs.ashbyhq.com/notion/43ffba97-b64a-4c6a-ac13-c803253c9413/application?embed=true"
   },
   {
-    "id": "sj:f026f7ec-de3d-49c1-abe2-823d98909827",
-    "company": "Vatic Investments",
-    "title": "AI Research Intern",
-    "location": "NYC (New York)",
-    "url": "https://job-boards.greenhouse.io/vaticlabs/jobs/7205954"
-  },
-  {
     "id": "sj:e00d51e8-391a-473d-a100-37fa803e306d",
     "company": "Andreessen Horowitz",
     "title": "Research Intern - Frontier",
@@ -1015,13 +1008,6 @@
     "url": "https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Technology---Application-Development--Summer-Analyst--United-Kingdom---London--2027_261007037"
   },
   {
-    "id": "sj:15807230-9168-4124-a941-9155bd08a632",
-    "company": "Baringa",
-    "title": "Solutions AI Lab Intern",
-    "location": "London, UK (London / Paris)",
-    "url": "https://job-boards.eu.greenhouse.io/baringa/jobs/5028472101"
-  },
-  {
     "id": "sj:dabca611-fa12-4b6e-9215-8952a2c58c16",
     "company": "Qube Research & Technologies",
     "title": "Business Data Analytics Intern",
@@ -1097,6 +1083,20 @@
     "title": "Data Science Machine Learning Intern",
     "location": "London, UK (London / Paris)",
     "url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/London-UK/Data-Science-Machine-Learning-Internship--Summer-2027-_R1345"
+  },
+  {
+    "id": "sj:d4c53c63-9dbe-4a0d-8121-cf0a9a7d853c",
+    "company": "DraftKings",
+    "title": "Software Engineer Intern",
+    "location": "London, UK (London / Paris)",
+    "url": "https://draftkings.wd1.myworkdayjobs.com/Employee_Referral_Portal/job/London-UK/Software-Engineering-Intern--Summer-2027-_JR15150-1"
+  },
+  {
+    "id": "sj:43fae795-fcaa-4f9c-8fdb-899db9ff856e",
+    "company": "DraftKings",
+    "title": "Software Engineer Intern",
+    "location": "London, UK (London / Paris)",
+    "url": "https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/London-UK/Software-Engineering-Intern--Summer-2027-_JR15150"
   },
   {
     "id": "sj:bbf19011-e0e7-4461-ad61-a3cdefe5aae5",
@@ -1288,6 +1288,13 @@
     "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002"
   },
   {
+    "id": "sj:0a8fac2b-a162-4852-a387-bb6d8ee58bd7",
+    "company": "APEX Analytix",
+    "title": "Product Management Intern",
+    "location": "Greensboro, NC (Other)",
+    "url": "https://ats.rippling.com/apexanalytix-careers/jobs/116e13fe-7202-45ba-a119-a81af4fcb4b9"
+  },
+  {
     "id": "sj:6c623df8-7d81-4f90-be6f-b3fdde876280",
     "company": "Riot Games",
     "title": "Data Engineer Intern",
@@ -1365,13 +1372,6 @@
     "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Business-Analytics---Reporting-Internship_REQ381319"
   },
   {
-    "id": "sj:8d781ddc-c921-4453-97e0-fa7e1cacf002",
-    "company": "Jabil",
-    "title": "AI Agent Developer Intern - Supply Chain IT - AI & Enablement",
-    "location": "St. Petersburg, FL (Other)",
-    "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/AI-Agent-Developer-Intern--Supply-Chain-IT---AI---Enablement-_J2469054"
-  },
-  {
     "id": "sj:ec960685-32ba-4b85-a1ed-2584192d31aa",
     "company": "GlobalFoundries",
     "title": "Systems Engineer Intern",
@@ -1426,13 +1426,6 @@
     "title": "Product Management Intern",
     "location": "Milwaukee, WI (Other)",
     "url": "https://badgermeter.wd5.myworkdayjobs.com/US_CareerSite/job/US---WI---Milwaukee-HQ/Product-Management-Intern_4676"
-  },
-  {
-    "id": "sj:c7ab76aa-55a7-4283-bba4-e4f368c17bd5",
-    "company": "7-Eleven",
-    "title": "Data Engineer Intern",
-    "location": "Irving, TX (Other)",
-    "url": "https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/Data-Engineer-Intern_R26_6281"
   },
   {
     "id": "sj:24826417-180f-4a45-aa6a-5a16f745a927",
@@ -1944,13 +1937,6 @@
     "title": "Data Scientist Intern",
     "location": "Austin, TX (Other)",
     "url": "https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Summer-2027-Data-Scientist-Intern--Bachelor-s--Austin--TX-_R2627409"
-  },
-  {
-    "id": "sj:3a53411a-544e-46b8-bdcb-b481c9421c49",
-    "company": "Regeneron Pharmaceuticals",
-    "title": "AI/ML & Data Engineering Intern",
-    "location": "Cambridge, MA; Armonk, NY; Warren, NJ; Sleepy Hollow, NY; Tarrytown, NY (Other)",
-    "url": "https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-AI-ML---Data-Engineering_R52560-1"
   },
   {
     "id": "sj:d2f0c44e-b2d5-4ab2-ad1e-7991506e8027",
@@ -3416,13 +3402,6 @@
     "url": "https://jobs.selective.com/jobs/5777?icims=1&lang=en-us"
   },
   {
-    "id": "sj:b1c42508-489a-4a21-bf5b-ebd2039bbe7b",
-    "company": "Selective Insurance",
-    "title": "IT Claims Application Delivery Intern",
-    "location": "Charlotte, NC (Other)",
-    "url": "https://jobs.selective.com/jobs/5750?icims=1&lang=en-us"
-  },
-  {
     "id": "sj:1bd5c700-e454-4a26-bbbd-9880cefb4be7",
     "company": "Selective Insurance",
     "title": "IT Information Management Intern",
@@ -3498,5 +3477,26 @@
     "title": "Ecosystem Analyst Intern - TikTok LIVE",
     "location": "LA (Other)",
     "url": "https://lifeattiktok.com/search/7678985103851407669"
+  },
+  {
+    "id": "sj:acaafa81-6155-4e77-8d56-dc8aac3847d6",
+    "company": "First National Bank",
+    "title": "Enterprise Data Governance Intern - Data Quality and Governance",
+    "location": "Pittsburgh, PA (Other)",
+    "url": "https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-Enterprise-Data-Governance-Intern_2026-01835-1"
+  },
+  {
+    "id": "sj:b1b8e29b-5511-480f-81c2-be6ceb87b8cf",
+    "company": "Allied Solutions",
+    "title": "Product Management Intern - Risk Management",
+    "location": "St Paul, MN (Other)",
+    "url": "https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/St-Paul-MN/Product-Management-Intern---Risk-Management_R-011083"
+  },
+  {
+    "id": "sj:41911f17-07a7-48d7-851e-c45ea9dc2e89",
+    "company": "TWG Global",
+    "title": "Data Science Intern - MAQR",
+    "location": "Santa Monica, CA (Other)",
+    "url": "https://apply.workable.com/twgai/j/AC536E5EE2/apply"
   }
 ]
