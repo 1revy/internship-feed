@@ -1,5 +1,12 @@
 [
   {
+    "id": "sj:40777e16-e8c0-49d2-9b63-a8911984fcc1",
+    "company": "Addepar",
+    "title": "Data Engineer Intern",
+    "location": "NYC (New York)",
+    "url": "https://job-boards.greenhouse.io/addepar1/jobs/8910327002"
+  },
+  {
     "id": "sj:05db53e8-06ac-4c35-9f36-918e9d7ee3c2",
     "company": "The New York Times",
     "title": "Data Analyst Intern",
@@ -301,11 +308,32 @@
     "url": "https://www.citadel.com/careers/details/sector-data-scientist-2027-intern-us/"
   },
   {
+    "id": "sj:6f84906a-1c80-4e4e-9e1e-e9823c821842",
+    "company": "Addepar",
+    "title": "AI Engineer Intern",
+    "location": "NYC (New York)",
+    "url": "https://job-boards.greenhouse.io/addepar1/jobs/8927543002"
+  },
+  {
+    "id": "sj:4d0d75c7-3dee-4949-8213-a6940fd8a2e9",
+    "company": "Addepar",
+    "title": "Software Engineer Intern",
+    "location": "NYC (New York)",
+    "url": "https://job-boards.greenhouse.io/addepar1/jobs/8927531002"
+  },
+  {
     "id": "sj:c0f9841a-4867-4a52-8302-9f1d9e05ca08",
     "company": "The New York Times",
     "title": "Machine Learning Scientist Intern",
     "location": "NYC (New York)",
     "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4752926005"
+  },
+  {
+    "id": "sj:84ac8ab7-abcc-40b8-a4f6-f5d5125165dc",
+    "company": "Formulary Financial",
+    "title": "Software Engineer Intern",
+    "location": "NYC (New York)",
+    "url": "https://jobs.ashbyhq.com/formulary/bbc4fef5-3cff-4879-89bc-65aba1214b04/application?embed=true"
   },
   {
     "id": "sj:482492ee-a5b2-4831-a3e9-65a37b6c1a46",
@@ -1260,6 +1288,62 @@
     "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002"
   },
   {
+    "id": "sj:69fc016e-5ad7-44cf-b4a2-2659826b2808",
+    "company": "Tesla",
+    "title": "Software Developer Intern - IT Apps",
+    "location": "Fremont, CA (Other)",
+    "url": "https://www.tesla.com/careers/search/job/289683"
+  },
+  {
+    "id": "sj:402b91bc-9773-4d5f-acdc-da6a76d80934",
+    "company": "General Dynamics Information Technology",
+    "title": "AI/ML Business Intelligence Development Intern",
+    "location": "Bossier City, LA (Other)",
+    "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Business-Intelligence-Development-Internship_RQ228935"
+  },
+  {
+    "id": "sj:99f21d5c-7198-4ea0-af0f-623286ed3a1f",
+    "company": "Art of Problem Solving",
+    "title": "Data Science Intern",
+    "location": "San Diego, CA (Other)",
+    "url": "https://artofproblemsolving.com/careers/job/8201037003?gh_jid=8201037003"
+  },
+  {
+    "id": "sj:2ebd3798-d01b-4942-8ef2-ac23a6ae5f6f",
+    "company": "Altice USA",
+    "title": "Product Management Customer Management App Intern",
+    "location": "Bethpage, NY (Other)",
+    "url": "https://www.optimumcareers.com/job/Bethpage-Intern-Product-Management-Customer-Management-App-NY-11714/1449512200/?ats=successfactors"
+  },
+  {
+    "id": "sj:5a41cc41-928a-4159-8876-72eabec8b8d9",
+    "company": "Altice USA",
+    "title": "Product Management B2B Broadband Services Intern",
+    "location": "Bethpage, NY (Other)",
+    "url": "https://www.optimumcareers.com/job/Bethpage-Intern-Product-Management-B2B-Broadband-Services-NY-11714/1449513100/?ats=successfactors"
+  },
+  {
+    "id": "sj:3b677082-2af5-4469-8ca6-bf5f8a107b6d",
+    "company": "Rubrik",
+    "title": "Product Management Intern",
+    "location": "Palo Alto, CA (Other)",
+    "url": "https://www.rubrik.com/company/careers/departments/job.8350601?gh_jid=8350601"
+  },
+  {
+    "id": "sj:348e894b-d90b-42cd-85d5-3225f329f698",
+    "company": "Addepar",
+    "title": "Data Projects Intern",
+    "location": "Edinburgh, UK (Other)",
+    "url": "https://job-boards.greenhouse.io/addepar1/jobs/8935678002"
+  },
+  {
+    "id": "sj:a2c1bd5a-3619-4278-8c13-df7ba3a0b2f7",
+    "company": "Addepar",
+    "title": "Portfolio Data Analyst Intern",
+    "location": "Edinburgh, UK (Other)",
+    "url": "https://job-boards.greenhouse.io/addepar1/jobs/8910310002"
+  },
+  {
     "id": "sj:da999960-efdd-44de-9632-cb4db8868203",
     "company": "NVIDIA",
     "title": "AI Operations Intern - AI Clouds",
@@ -1272,6 +1356,20 @@
     "title": "Business Analytics & Reporting Intern",
     "location": "Bellevue, WA (Other)",
     "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Business-Analytics---Reporting-Internship_REQ381319"
+  },
+  {
+    "id": "sj:8d781ddc-c921-4453-97e0-fa7e1cacf002",
+    "company": "Jabil",
+    "title": "AI Agent Developer Intern - Supply Chain IT - AI & Enablement",
+    "location": "St. Petersburg, FL (Other)",
+    "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/AI-Agent-Developer-Intern--Supply-Chain-IT---AI---Enablement-_J2469054"
+  },
+  {
+    "id": "sj:ec960685-32ba-4b85-a1ed-2584192d31aa",
+    "company": "GlobalFoundries",
+    "title": "Systems Engineer Intern",
+    "location": "Richardson, TX (Other)",
+    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/Systems-Engineering-Intern--Summer-2027-_JR-2604045"
   },
   {
     "id": "sj:0db6461d-a93a-445c-a639-7522e06981f8",
@@ -1461,13 +1559,6 @@
     "title": "Marketing Intern",
     "location": "Waukegan, IL; Milwaukee, WI; Glenview, IL; Pleasant Prairie, WI; Kenosha, WI (Other)",
     "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Marketing-Internship---Summer-2027_R268946"
-  },
-  {
-    "id": "sj:14b94b0f-6bb3-4494-8ba0-ac642f092799",
-    "company": "CareSource",
-    "title": "Data Analyst Intern",
-    "location": "Remote in USA (Other)",
-    "url": "https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Data-Analyst_R14356"
   },
   {
     "id": "sj:e1429183-8700-4ba3-819a-ec28f19d89d1",
@@ -2259,6 +2350,13 @@
     "title": "Product Management Intern",
     "location": "Downers Grove, IL (Other)",
     "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Downers-Grove-IL/Product-Management-Intern---Summer-2027_REQ-020065"
+  },
+  {
+    "id": "sj:95fb9f92-a2f7-41a5-b347-ae9291d375fc",
+    "company": "CenturyLink",
+    "title": "AI Product & Business Innovation Intern",
+    "location": "Remote in USA (Other)",
+    "url": "https://internaljobs.centurylink.com/job/Remote-AI-Product-&-Business-Innovation-Summer-2027-Internship-Pathway/1440948000/?ats=successfactors"
   },
   {
     "id": "sj:ce00eaa7-df83-4141-bab1-3a0646ca5c07",
@@ -3400,103 +3498,5 @@
     "title": "Ecosystem Analyst Intern - TikTok LIVE",
     "location": "LA (Other)",
     "url": "https://lifeattiktok.com/search/7678985103851407669"
-  },
-  {
-    "id": "sj:acaafa81-6155-4e77-8d56-dc8aac3847d6",
-    "company": "First National Bank",
-    "title": "Enterprise Data Governance Intern - Data Quality and Governance",
-    "location": "Pittsburgh, PA (Other)",
-    "url": "https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-Enterprise-Data-Governance-Intern_2026-01835-1"
-  },
-  {
-    "id": "sj:b1b8e29b-5511-480f-81c2-be6ceb87b8cf",
-    "company": "Allied Solutions",
-    "title": "Product Management Intern - Risk Management",
-    "location": "St Paul, MN (Other)",
-    "url": "https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/St-Paul-MN/Product-Management-Intern---Risk-Management_R-011083"
-  },
-  {
-    "id": "sj:41911f17-07a7-48d7-851e-c45ea9dc2e89",
-    "company": "TWG Global",
-    "title": "Data Science Intern - MAQR",
-    "location": "Santa Monica, CA (Other)",
-    "url": "https://apply.workable.com/twgai/j/AC536E5EE2/apply"
-  },
-  {
-    "id": "sj:249dfb65-9e20-4363-a0e2-63f60ee6ee41",
-    "company": "TWG Global",
-    "title": "Data Science Intern - SOLT",
-    "location": "Santa Monica, CA (Other)",
-    "url": "https://apply.workable.com/twgai/j/263B34D737/apply"
-  },
-  {
-    "id": "sj:3f0954b3-4e14-4815-bc41-777fce0a87f4",
-    "company": "Johns Hopkins Applied Physics Laboratory",
-    "title": "Software Developer Intern - Tactical System Prototyping and Deployment",
-    "location": "Laurel, MD (Other)",
-    "url": "https://careers.jhuapl.edu/jobs/59564?icims=1"
-  },
-  {
-    "id": "sj:e7948754-b13b-4505-93ff-72bf517be9f3",
-    "company": "Johns Hopkins Applied Physics Laboratory",
-    "title": "Engineer/Analyst/Scientist Intern - C2 Resilience Sciences",
-    "location": "Laurel, MD (Other)",
-    "url": "https://careers.jhuapl.edu/jobs/59832?icims=1"
-  },
-  {
-    "id": "sj:d35f3d80-1382-4ac7-96f7-d7e26e2368c5",
-    "company": "Johns Hopkins Applied Physics Laboratory",
-    "title": "Engineer/SW Developer/Analyst Intern - Maritime Force Engagement Control",
-    "location": "Laurel, MD (Other)",
-    "url": "https://careers.jhuapl.edu/jobs/59598?icims=1"
-  },
-  {
-    "id": "sj:de308300-adab-4771-916f-fb126c60ad40",
-    "company": "Textron",
-    "title": "Autonomy Engineer Intern - Air Systems",
-    "location": "Hunt Valley, Cockeysville, MD (Other)",
-    "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342925"
-  },
-  {
-    "id": "sj:23a5a6a6-47fc-41cf-8936-946b702be2cd",
-    "company": "Edison International",
-    "title": "Software/Data Engineering Intern",
-    "location": "Chino, CA (Other)",
-    "url": "https://apply.edisoncareers.com/job/Chino-2027-Summer-Internship-SoftwareData-Engineering-(Chino)-CA-91710/1424663800/?ats=successfactors"
-  },
-  {
-    "id": "sj:cf498cbc-375c-45ec-8f68-334ce9a2d7d0",
-    "company": "Edison International",
-    "title": "Data Analytics Intern - Data Science/Applied Math",
-    "location": "Pomona, CA; Rosemead, CA (Other)",
-    "url": "https://apply.edisoncareers.com/job/Rosemead-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-(PomonaRosemead)-1-CA-91770/1425208900/?ats=successfactors"
-  },
-  {
-    "id": "sj:7a58365b-0d72-4b0c-8094-fa29ec18b560",
-    "company": "Edison International",
-    "title": "Data Analytics Intern - Data Science - Applied Math",
-    "location": "Pomona, CA; Rosemead, CA (Other)",
-    "url": "https://apply.edisoncareers.com/job/Rosemead-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-(PomonaRosemead)-CA-91770/1425207700/?ats=successfactors"
-  },
-  {
-    "id": "sj:fbc330bb-a6c5-48a8-b0d9-537f8bf68269",
-    "company": "Travelers",
-    "title": "Business Insights & Analytics Intern - BI&A LDP",
-    "location": "Hartford, CT; St Paul, MN (Other)",
-    "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Business-Insights---Analytics-Leadership-Development-Program--BI-A-LDP--Intern_R-52304"
-  },
-  {
-    "id": "sj:f4db16dc-9fd7-499a-b809-554855fcb08f",
-    "company": "IAT Insurance Group",
-    "title": "Data & Integration Intern",
-    "location": "Milwaukee, WI (Other)",
-    "url": "https://iatinsurancegroup.wd1.myworkdayjobs.com/iat/job/Milwaukee-WI/Data---Integration-Internship_JR100404"
-  },
-  {
-    "id": "sj:4c8571fd-a704-4542-babd-54c89d6aeff3",
-    "company": "Booz Allen",
-    "title": "Systems Engineer Intern",
-    "location": "San Diego, CA (Other)",
-    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Diego-CA/University---2027-Summer-Games-Systems-Engineer-Intern---San-Diego--CA_R0248365"
   }
 ]
