@@ -1,5 +1,103 @@
 [
   {
+    "id": "sj:acaafa81-6155-4e77-8d56-dc8aac3847d6",
+    "company": "First National Bank",
+    "title": "Enterprise Data Governance Intern - Data Quality and Governance",
+    "location": "Pittsburgh, PA (Other)",
+    "url": "https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-Enterprise-Data-Governance-Intern_2026-01835-1"
+  },
+  {
+    "id": "sj:b1b8e29b-5511-480f-81c2-be6ceb87b8cf",
+    "company": "Allied Solutions",
+    "title": "Product Management Intern - Risk Management",
+    "location": "St Paul, MN (Other)",
+    "url": "https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/St-Paul-MN/Product-Management-Intern---Risk-Management_R-011083"
+  },
+  {
+    "id": "sj:41911f17-07a7-48d7-851e-c45ea9dc2e89",
+    "company": "TWG Global",
+    "title": "Data Science Intern - MAQR",
+    "location": "Santa Monica, CA (Other)",
+    "url": "https://apply.workable.com/twgai/j/AC536E5EE2/apply"
+  },
+  {
+    "id": "sj:249dfb65-9e20-4363-a0e2-63f60ee6ee41",
+    "company": "TWG Global",
+    "title": "Data Science Intern - SOLT",
+    "location": "Santa Monica, CA (Other)",
+    "url": "https://apply.workable.com/twgai/j/263B34D737/apply"
+  },
+  {
+    "id": "sj:3f0954b3-4e14-4815-bc41-777fce0a87f4",
+    "company": "Johns Hopkins Applied Physics Laboratory",
+    "title": "Software Developer Intern - Tactical System Prototyping and Deployment",
+    "location": "Laurel, MD (Other)",
+    "url": "https://careers.jhuapl.edu/jobs/59564?icims=1"
+  },
+  {
+    "id": "sj:e7948754-b13b-4505-93ff-72bf517be9f3",
+    "company": "Johns Hopkins Applied Physics Laboratory",
+    "title": "Engineer/Analyst/Scientist Intern - C2 Resilience Sciences",
+    "location": "Laurel, MD (Other)",
+    "url": "https://careers.jhuapl.edu/jobs/59832?icims=1"
+  },
+  {
+    "id": "sj:d35f3d80-1382-4ac7-96f7-d7e26e2368c5",
+    "company": "Johns Hopkins Applied Physics Laboratory",
+    "title": "Engineer/SW Developer/Analyst Intern - Maritime Force Engagement Control",
+    "location": "Laurel, MD (Other)",
+    "url": "https://careers.jhuapl.edu/jobs/59598?icims=1"
+  },
+  {
+    "id": "sj:de308300-adab-4771-916f-fb126c60ad40",
+    "company": "Textron",
+    "title": "Autonomy Engineer Intern - Air Systems",
+    "location": "Hunt Valley, Cockeysville, MD (Other)",
+    "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342925"
+  },
+  {
+    "id": "sj:23a5a6a6-47fc-41cf-8936-946b702be2cd",
+    "company": "Edison International",
+    "title": "Software/Data Engineering Intern",
+    "location": "Chino, CA (Other)",
+    "url": "https://apply.edisoncareers.com/job/Chino-2027-Summer-Internship-SoftwareData-Engineering-(Chino)-CA-91710/1424663800/?ats=successfactors"
+  },
+  {
+    "id": "sj:cf498cbc-375c-45ec-8f68-334ce9a2d7d0",
+    "company": "Edison International",
+    "title": "Data Analytics Intern - Data Science/Applied Math",
+    "location": "Pomona, CA; Rosemead, CA (Other)",
+    "url": "https://apply.edisoncareers.com/job/Rosemead-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-(PomonaRosemead)-1-CA-91770/1425208900/?ats=successfactors"
+  },
+  {
+    "id": "sj:7a58365b-0d72-4b0c-8094-fa29ec18b560",
+    "company": "Edison International",
+    "title": "Data Analytics Intern - Data Science - Applied Math",
+    "location": "Pomona, CA; Rosemead, CA (Other)",
+    "url": "https://apply.edisoncareers.com/job/Rosemead-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-(PomonaRosemead)-CA-91770/1425207700/?ats=successfactors"
+  },
+  {
+    "id": "sj:fbc330bb-a6c5-48a8-b0d9-537f8bf68269",
+    "company": "Travelers",
+    "title": "Business Insights & Analytics Intern - BI&A LDP",
+    "location": "Hartford, CT; St Paul, MN (Other)",
+    "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Business-Insights---Analytics-Leadership-Development-Program--BI-A-LDP--Intern_R-52304"
+  },
+  {
+    "id": "sj:f4db16dc-9fd7-499a-b809-554855fcb08f",
+    "company": "IAT Insurance Group",
+    "title": "Data & Integration Intern",
+    "location": "Milwaukee, WI (Other)",
+    "url": "https://iatinsurancegroup.wd1.myworkdayjobs.com/iat/job/Milwaukee-WI/Data---Integration-Internship_JR100404"
+  },
+  {
+    "id": "sj:4c8571fd-a704-4542-babd-54c89d6aeff3",
+    "company": "Booz Allen",
+    "title": "Systems Engineer Intern",
+    "location": "San Diego, CA (Other)",
+    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Diego-CA/University---2027-Summer-Games-Systems-Engineer-Intern---San-Diego--CA_R0248365"
+  },
+  {
     "id": "sj:53d8eb96-a4a4-4d3d-a59f-1308691c4a1a",
     "company": "Booz Allen",
     "title": "Systems Engineer Intern - Summer Games",
@@ -840,6 +938,41 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Remote/System-Software-Engineering-Intern--GPU---2027_JR2025334"
   },
   {
+    "id": "sj:3dd2c951-2883-4af9-bb11-1099a176d735",
+    "company": "McDonald's",
+    "title": "Software Development Engineer Intern",
+    "location": "Chicago, IL (Other)",
+    "url": "https://jobs.mcdonalds.com/job/Chicago-Software-Development-Engineer-Intern-IL-60607/1449046600/?ats=successfactors"
+  },
+  {
+    "id": "sj:a33d39bf-29f5-4149-b0f8-c185401a2e9c",
+    "company": "Toyota Research Institute",
+    "title": "Human-Centered AI Research Intern - Causal Reasoning Models",
+    "location": "Los Altos, CA (Other)",
+    "url": "https://jobs.lever.co/tri/be41a03c-460e-4ff7-b817-f012aa1c4b37/apply"
+  },
+  {
+    "id": "sj:d9461ffc-f97d-4212-9d5c-5603ebac867a",
+    "company": "International",
+    "title": "Artificial Intelligence/Machine Learning Intern",
+    "location": "Lisle, IL (Other)",
+    "url": "https://careers.international.com/jobs/60456?icims=1&lang=en-us"
+  },
+  {
+    "id": "sj:ae9aa4de-c8a0-4a11-9445-175734afdd68",
+    "company": "Schneider Electric",
+    "title": "Offer Management Intern",
+    "location": "Florham Park, NJ (Other)",
+    "url": "https://se.jibeapply.com/jobs/141359?icims=1&lang=en-us"
+  },
+  {
+    "id": "sj:b785500e-0243-4933-92f7-1a66eef04648",
+    "company": "Addepar",
+    "title": "Software Engineer Intern",
+    "location": "Edinburgh, UK (Other)",
+    "url": "https://job-boards.greenhouse.io/addepar1/jobs/8927507002"
+  },
+  {
     "id": "sj:ae7750b1-899e-4303-94dc-793bbd2be58d",
     "company": "Matillion",
     "title": "Computer Science Intern - Software Engineering with AI",
@@ -866,6 +999,69 @@
     "title": "Software Engineer Intern",
     "location": "Philadelphia, PA (Other)",
     "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Philadelphia-Pennsylvania/Summer-2027-T-Ads-Software-Engineering-Internship_REQ381225"
+  },
+  {
+    "id": "sj:ea1d2e68-6b46-4d69-817a-c5ae496ba6d4",
+    "company": "General Motors",
+    "title": "Software Engineer Intern - Machine Learning Engineer - Embodied AI",
+    "location": "Sunnyvale, CA (Other)",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--Embodied-AI_JR-202624034"
+  },
+  {
+    "id": "sj:1fc7609f-1901-43d7-b514-6dfcc545d605",
+    "company": "Eversource Energy",
+    "title": "GIS Intern",
+    "location": "Manchester, NH (Other)",
+    "url": "https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Manchester-NH/XMLNAME-2027-Summer--GIS-Intern--NH-_R-032537"
+  },
+  {
+    "id": "sj:96d3f23c-1acb-4421-9b43-f1b18ad04fe1",
+    "company": "Vizient",
+    "title": "Spend Management Insights Intern",
+    "location": "Irving, TX (Other)",
+    "url": "https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/XMLNAME-2027-Summer-Internship---Spend-Management-Insights_36212R"
+  },
+  {
+    "id": "sj:77f95303-20e3-473d-bd6e-a80db7329381",
+    "company": "Skydio",
+    "title": "Middleware Software Engineer Intern",
+    "location": "San Mateo, CA (Other)",
+    "url": "https://jobs.ashbyhq.com/skydio/c85af510-9fe4-4167-a914-c3ab344bef03/application?embed=true"
+  },
+  {
+    "id": "sj:35f37b8f-3b5b-4241-9fde-20c63c78d431",
+    "company": "Echo Global Logistics",
+    "title": "Software Engineer Intern",
+    "location": "United States (Other)",
+    "url": "https://echo.wd1.myworkdayjobs.com/en-US/Echo_Logistics/job/Remote/Software-Engineering-Intern--Chicago_R4645-1"
+  },
+  {
+    "id": "sj:ffd39d30-42ea-42da-af1b-347fc146a71a",
+    "company": "Shield AI",
+    "title": "Software Engineer Intern",
+    "location": "San Diego, CA (Other)",
+    "url": "https://jobs.ashbyhq.com/shield/db04c516-d21a-449c-8bfd-1cf830eafb5a/application?embed=true"
+  },
+  {
+    "id": "sj:cbf0ae78-7117-4952-b05e-ab26f07e9803",
+    "company": "RTX",
+    "title": "Software Engineer Intern",
+    "location": "Richardson, TX (Other)",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Intern--Summer-2027-_01888049"
+  },
+  {
+    "id": "sj:80c6e6ac-d2b1-4b56-a312-b3ba9150ec5e",
+    "company": "McDonald's",
+    "title": "Software Development Engineer Intern",
+    "location": "Chicago, IL (Other)",
+    "url": "https://jobs.mcdonalds.com/job/Chicago-Software-Development-Engineer-Intern-IL-60607/1449058700/?ats=successfactors"
+  },
+  {
+    "id": "sj:a34749cb-1425-494f-8acb-09f66135961e",
+    "company": "McDonald's",
+    "title": "Software Engineer Intern",
+    "location": "Chicago, IL (Other)",
+    "url": "https://jobs.mcdonalds.com/job/Chicago-Software-Development-Engineer-Intern-IL-60607/1449052900/?ats=successfactors"
   },
   {
     "id": "sj:aeab764d-5a2a-4abf-8dc2-c9aef5a4ec51",
@@ -1286,6 +1482,13 @@
     "title": "Intelligence Intern",
     "location": "Arlington County, Arlington, VA (Other)",
     "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Arlington-VA/Intelligence-Intern---Summer-2027_R30605"
+  },
+  {
+    "id": "sj:10be2e60-c579-4804-8665-b9ea32e009ab",
+    "company": "Shield AI",
+    "title": "Software Engineer Intern Co-op",
+    "location": "Dallas, TX (Other)",
+    "url": "https://jobs.ashbyhq.com/shield/a28e047a-ee12-452c-883b-ecd995d1b6b2/application?embed=true"
   },
   {
     "id": "sj:b1426836-12a4-4ad5-8a7f-bea74b0446eb",
@@ -2632,13 +2835,6 @@
     "url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Santa-Clara-California---United-States-of-America/AI-Robotics-Research-Intern---Summer-2027---Santa-Clara--CA_R00214267"
   },
   {
-    "id": "sj:92e9545b-71c8-4dda-aea6-8cfaf7374068",
-    "company": "ICF International",
-    "title": "AI Engineer Intern",
-    "location": "Reston, VA (Other)",
-    "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--AI-Engineer--Reston--VA-_R2603521"
-  },
-  {
     "id": "sj:2599beb7-cad8-4b9b-9020-7baf41143bfb",
     "company": "Armadin",
     "title": "Frontend Engineer Intern - Member of Technical Staff",
@@ -3549,6 +3745,13 @@
     "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/661d7ac4-51df-454d-82c8-2a0d94852036/application?embed=true"
   },
   {
+    "id": "sj:6f56f938-52a1-426d-a979-45b4ab73ed2c",
+    "company": "Shield AI",
+    "title": "Software Engineer Intern",
+    "location": "San Diego, CA (Other)",
+    "url": "https://jobs.ashbyhq.com/shield/661d7ac4-51df-454d-82c8-2a0d94852036/application?embed=true"
+  },
+  {
     "id": "sj:93ae3a0d-e1e0-4d7a-ad67-4adba9311b49",
     "company": "Rippling",
     "title": "Machine Learning Software Engineer Intern - Summer 2027",
@@ -3617,13 +3820,6 @@
     "title": "Software Development Intern - Summer 2027",
     "location": "Plano, TX (Other)",
     "url": "https://jobs.jobvite.com/tylertech/job/oMAPAfwv?nl=1&nl=1&fr=false"
-  },
-  {
-    "id": "sj:0d31c6d5-14e5-44e6-8018-c466302d681e",
-    "company": "AMD",
-    "title": "AI Research Infrastructure \u2013 Reinforcement Learning Post-Training Intern",
-    "location": "Santa Clara, CA (Other)",
-    "url": "https://careers.amd.com/jobs/90950?icims=1"
   },
   {
     "id": "sj:876c3f6f-84b9-4e5d-a61c-3f403eeed9bb",
@@ -3981,13 +4177,6 @@
     "title": "GIS Intern - Summer 2027",
     "location": "Nashville, TN (Other)",
     "url": "https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Nashville-TN-City-Center/GIS-Intern---Summer-2027_R-31562-2"
-  },
-  {
-    "id": "sj:e3c16702-69b1-496c-b4a7-13ea33504cfc",
-    "company": "Oshkosh",
-    "title": "Autonomy & Active Safety Engineer Intern",
-    "location": "Oshkosh, WI; Pittsburgh, PA (Other)",
-    "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Pittsburgh-Pennsylvania-United-States/Autonomy---Active-Safety-Engineering-Intern_R50266"
   },
   {
     "id": "sj:07e245b0-b4de-4587-a8b2-5891870634da",
@@ -4452,20 +4641,6 @@
     "url": "https://jobs.bytedance.com/en/position/7678449088065997109/detail"
   },
   {
-    "id": "sj:e9f9050a-780c-47dd-b98a-17dda2af0453",
-    "company": "AMD",
-    "title": "Compiler Engineer Intern/Co-op",
-    "location": "Austin, TX; Longmont, CO; Fishkill, NY; Fort Collins, CO; Boxborough, MA (Other)",
-    "url": "https://careers.amd.com/jobs/91864?icims=1"
-  },
-  {
-    "id": "sj:f0736d54-fe0a-4d54-ad35-f1085b1bd50c",
-    "company": "AMD",
-    "title": "Compiler Engineer Intern/Co-op",
-    "location": "San Jose, CA; Santa Clara, CA (Other)",
-    "url": "https://careers.amd.com/jobs/91866?icims=1"
-  },
-  {
     "id": "sj:307102b6-7bde-45af-b161-e8eab5117a56",
     "company": "Stoke Space",
     "title": "Software Intern",
@@ -4856,41 +5031,6 @@
     "title": "Software Engineer Intern",
     "location": "San Jose, CA (Other)",
     "url": "https://lifeattiktok.com/search/7676276048527214901"
-  },
-  {
-    "id": "sj:f7eaba38-fbcf-47fb-88d0-928f5427c0cb",
-    "company": "AMD",
-    "title": "Machine Learning Intern/Co-op - Multiple Teams",
-    "location": "Rochester, NY; Austin, TX; Longmont, CO; Fishkill, NY; Fort Collins, CO; Boxborough, MA (Other)",
-    "url": "https://careers.amd.com/jobs/91170?icims=1"
-  },
-  {
-    "id": "sj:3142b23d-4dfa-443e-82dd-703b3711394b",
-    "company": "AMD",
-    "title": "Software Engineer Intern/Co-op",
-    "location": "Rochester, NY; Austin, TX; Longmont, CO; Fishkill, NY; Fort Collins, CO; Boxborough, MA (Other)",
-    "url": "https://careers.amd.com/jobs/91180?icims=1"
-  },
-  {
-    "id": "sj:944978fc-7eeb-4346-82ad-857bec5239a5",
-    "company": "AMD",
-    "title": "Software Engineer Intern/Co-op",
-    "location": "Rochester, NY; Austin, TX; Longmont, CO; Fishkill, NY; Fort Collins, CO; Boxborough, MA (Other)",
-    "url": "https://careers.amd.com/jobs/90947?icims=1"
-  },
-  {
-    "id": "sj:212a153a-1fd0-4d17-a022-c1db71569fd9",
-    "company": "AMD",
-    "title": "Machine Learning Intern/Co-op - Machine Learning - Artificial Intelligence",
-    "location": "San Jose, CA; Santa Clara, CA (Other)",
-    "url": "https://careers.amd.com/jobs/90892?icims=1"
-  },
-  {
-    "id": "sj:ec03908e-3e83-4c51-adc1-4f9414e3faef",
-    "company": "AMD",
-    "title": "Machine Learning Intern/Co-op - Machine Learning - Artificial Intelligence",
-    "location": "San Jose, CA; Santa Clara, CA (Other)",
-    "url": "https://careers.amd.com/jobs/91177?icims=1"
   },
   {
     "id": "sj:52280fbc-05cd-4714-a6fa-72ff9c3d0f9f",
@@ -5810,6 +5950,13 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shenzhen/AI-Developer-Technology-Engineering-Intern---2027_JR2024818"
   },
   {
+    "id": "sj:7e72d2cd-9045-4a9f-951e-e816064fd1cd",
+    "company": "Entegris",
+    "title": "Filtration Portfolio Automation Intern",
+    "location": "Billerica, MA (Other)",
+    "url": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Billerica-MA/Filtration-Portfolio-Automation-Intern_REQ-15840"
+  },
+  {
     "id": "sj:6bd2bc4c-a45f-43fc-85b7-a95cc3796271",
     "company": "Waymo",
     "title": "Depot Automation Intern",
@@ -5857,6 +6004,13 @@
     "title": "Advanced Automation Engineer Intern - Cell Engineering - Winter/Spring 2027",
     "location": "Fremont, CA (Other)",
     "url": "https://www.tesla.com/careers/search/job/286986"
+  },
+  {
+    "id": "sj:2e87beaa-56db-45b5-b8c7-ff1ad1780322",
+    "company": "CenturyLink",
+    "title": "AI & Automation Builders Internship",
+    "location": "Remote in USA (Other)",
+    "url": "https://internaljobs.centurylink.com/job/Remote-AI-&-Automation-Builders-Summer-2027-Internship-Pathway/1440953200/?ats=successfactors"
   },
   {
     "id": "sj:201e83f0-5fbc-4c24-8bdc-9590cb7ebbf5",
