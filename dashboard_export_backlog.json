@@ -1029,13 +1029,6 @@
     "url": "https://jobs.ashbyhq.com/skydio/c85af510-9fe4-4167-a914-c3ab344bef03/application?embed=true"
   },
   {
-    "id": "sj:35f37b8f-3b5b-4241-9fde-20c63c78d431",
-    "company": "Echo Global Logistics",
-    "title": "Software Engineer Intern",
-    "location": "United States (Other)",
-    "url": "https://echo.wd1.myworkdayjobs.com/en-US/Echo_Logistics/job/Remote/Software-Engineering-Intern--Chicago_R4645-1"
-  },
-  {
     "id": "sj:ffd39d30-42ea-42da-af1b-347fc146a71a",
     "company": "Shield AI",
     "title": "Software Engineer Intern",
@@ -1323,13 +1316,6 @@
     "url": "https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/XMLNAME-2027-Summer-Internship---Revenue-Intelligence_36048R-1"
   },
   {
-    "id": "sj:f5b8482b-aa0c-4812-b838-360a26040662",
-    "company": "Great American Insurance Company",
-    "title": "Claims Technical Intern",
-    "location": "Cincinnati, OH (Other)",
-    "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Claims-Technical-Intern---Summer-2027_R9873-1"
-  },
-  {
     "id": "sj:0df6ecc9-530f-46d9-aa92-5271e6287412",
     "company": "United Parcel Service",
     "title": "Summer Engineer Intern",
@@ -1561,13 +1547,6 @@
     "url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8927216002"
   },
   {
-    "id": "sj:1bc20c6e-0eb9-4303-9f38-13bb3df03fa8",
-    "company": "Electronic Arts",
-    "title": "Anticheat Engineer Intern",
-    "location": "Austin, TX (Other)",
-    "url": "https://jobs.ea.com/en_US/careers/JobDetail/Anticheat-Engineer-Intern-Summer-2027/216242"
-  },
-  {
     "id": "sj:559f2104-6ca2-4331-8157-be28b1324602",
     "company": "TikTok",
     "title": "Machine Learning Engineer Intern",
@@ -1664,6 +1643,13 @@
     "title": "AI Engineer Intern",
     "location": "United Kingdom (Other)",
     "url": "https://job-boards.eu.greenhouse.io/cambridgeconsultantslimited/jobs/4995820101"
+  },
+  {
+    "id": "sj:76a595e0-ce67-4310-b97a-58c8e96f4b04",
+    "company": "Trilogy Health Services",
+    "title": "Value Based Care Finance Intern",
+    "location": "Louisville, KY (Other)",
+    "url": "https://jobs.trilogyhs.com/jobs/213634?icims=1&lang=en-us"
   },
   {
     "id": "sj:570083cf-94ad-40b3-ae98-cbb61d20eee7",
@@ -2282,13 +2268,6 @@
     "url": "https://pg.wd5.myworkdayjobs.com/1000/job/READING-TECH-CENTER/Research---Development-Summer-Internship-2027_R000161362"
   },
   {
-    "id": "sj:ce026bae-c60a-419e-8307-847eafa898fd",
-    "company": "RTX",
-    "title": "Software Engineer Intern",
-    "location": "Aurora, CO (Other)",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S77--16470-E-Hughes-Dr--BLDG-S77/Software-Engineering--Intern--Summer-2027-_01881520"
-  },
-  {
     "id": "sj:7103d806-4eb2-4d9a-9d3d-14938fbaffa2",
     "company": "KION Group",
     "title": "Software Analytics Co-op",
@@ -2637,13 +2616,6 @@
     "title": "Software Engineer Tools Intern",
     "location": "Birmingham, UK (Other)",
     "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern-Tools/216192"
-  },
-  {
-    "id": "sj:3040c492-d83d-4c3a-ba12-bfc0edc75a1f",
-    "company": "Electronic Arts",
-    "title": "UI Scripter Intern",
-    "location": "Guildford, UK (Other)",
-    "url": "https://jobs.ea.com/en_US/careers/JobDetail/UI-Scripter-Intern/216359"
   },
   {
     "id": "sj:c6cf89af-fd3e-48e3-b886-b14efade21e6",
@@ -4303,13 +4275,6 @@
     "title": "Information Technology Development and Infrastructure Intern",
     "location": "Madison, WI (Other)",
     "url": "https://trustage.wd1.myworkdayjobs.com/TruStage/job/Wisconsin---Remote/Enterprise-Information---Technology-Internship--Hybrid-_R-012155"
-  },
-  {
-    "id": "sj:3dcaee02-3f62-48f4-a9a3-20eb7b2a97bb",
-    "company": "RTX",
-    "title": "Software Engineer Intern - Summer 2027",
-    "location": "Aurora, CO (Other)",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Software-Engineering-Intern--Summer-2027-_01873646"
   },
   {
     "id": "sj:2800fc16-c3a8-41ad-a36d-d60bc2c68380",
