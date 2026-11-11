@@ -1,26 +1,5 @@
 [
   {
-    "id": "sj:acaafa81-6155-4e77-8d56-dc8aac3847d6",
-    "company": "First National Bank",
-    "title": "Enterprise Data Governance Intern - Data Quality and Governance",
-    "location": "Pittsburgh, PA (Other)",
-    "url": "https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-Enterprise-Data-Governance-Intern_2026-01835-1"
-  },
-  {
-    "id": "sj:b1b8e29b-5511-480f-81c2-be6ceb87b8cf",
-    "company": "Allied Solutions",
-    "title": "Product Management Intern - Risk Management",
-    "location": "St Paul, MN (Other)",
-    "url": "https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/St-Paul-MN/Product-Management-Intern---Risk-Management_R-011083"
-  },
-  {
-    "id": "sj:41911f17-07a7-48d7-851e-c45ea9dc2e89",
-    "company": "TWG Global",
-    "title": "Data Science Intern - MAQR",
-    "location": "Santa Monica, CA (Other)",
-    "url": "https://apply.workable.com/twgai/j/AC536E5EE2/apply"
-  },
-  {
     "id": "sj:249dfb65-9e20-4363-a0e2-63f60ee6ee41",
     "company": "TWG Global",
     "title": "Data Science Intern - SOLT",
@@ -215,13 +194,6 @@
     "title": "Software Engineer Intern - Product & Developer Productivity - Summer 2027",
     "location": "SF (Other)",
     "url": "https://job-boards.greenhouse.io/hpiq/jobs/6114890004"
-  },
-  {
-    "id": "sj:f4714242-ad4a-4bef-9ee7-8dc639cd7e0f",
-    "company": "Compeer Financial",
-    "title": "Data Analytics Intern",
-    "location": "Eau Claire, WI; Rochester, MN; Lakeville, MN; Mankato, MN; Bloomington, IL (Other)",
-    "url": "https://job-boards.greenhouse.io/compeerfinancial/jobs/5409874008"
   },
   {
     "id": "sj:222db458-975e-451f-8e50-02fed5bc0583",
@@ -938,13 +910,6 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Remote/System-Software-Engineering-Intern--GPU---2027_JR2025334"
   },
   {
-    "id": "sj:3dd2c951-2883-4af9-bb11-1099a176d735",
-    "company": "McDonald's",
-    "title": "Software Development Engineer Intern",
-    "location": "Chicago, IL (Other)",
-    "url": "https://jobs.mcdonalds.com/job/Chicago-Software-Development-Engineer-Intern-IL-60607/1449046600/?ats=successfactors"
-  },
-  {
     "id": "sj:a33d39bf-29f5-4149-b0f8-c185401a2e9c",
     "company": "Toyota Research Institute",
     "title": "Human-Centered AI Research Intern - Causal Reasoning Models",
@@ -1041,27 +1006,6 @@
     "title": "Software Engineer Intern",
     "location": "Richardson, TX (Other)",
     "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Intern--Summer-2027-_01888049"
-  },
-  {
-    "id": "sj:80c6e6ac-d2b1-4b56-a312-b3ba9150ec5e",
-    "company": "McDonald's",
-    "title": "Software Development Engineer Intern",
-    "location": "Chicago, IL (Other)",
-    "url": "https://jobs.mcdonalds.com/job/Chicago-Software-Development-Engineer-Intern-IL-60607/1449058700/?ats=successfactors"
-  },
-  {
-    "id": "sj:a34749cb-1425-494f-8acb-09f66135961e",
-    "company": "McDonald's",
-    "title": "Software Engineer Intern",
-    "location": "Chicago, IL (Other)",
-    "url": "https://jobs.mcdonalds.com/job/Chicago-Software-Development-Engineer-Intern-IL-60607/1449052900/?ats=successfactors"
-  },
-  {
-    "id": "sj:aeab764d-5a2a-4abf-8dc2-c9aef5a4ec51",
-    "company": "Amazon",
-    "title": "Software Engineer Intern",
-    "location": "Boston, MA; Seattle, WA; Austin, TX; Arlington County, Arlington, VA; Denver, CO (Other)",
-    "url": "https://amazon.jobs/en/jobs/10597379/software-development-engineer-intern-summer-2027"
   },
   {
     "id": "sj:ee2563b2-9b6b-44b2-9c70-3a8e4b9284da",
@@ -2296,13 +2240,6 @@
     "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/AI-Software-Intern--Summer-2027-_JR-2604029"
   },
   {
-    "id": "sj:fb38e938-a410-4c0d-8933-595419ce7ac4",
-    "company": "GlobalFoundries",
-    "title": "Software Engineer Intern - Cloud Platform",
-    "location": "Santa Clara, CA (Other)",
-    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/Software-Engineering-Intern--Cloud-Platform--Summer-2027-_JR-2604034"
-  },
-  {
     "id": "sj:6244dbb0-e314-486b-b2c6-143c829bd211",
     "company": "Zillow",
     "title": "Software Development Engineer Intern",
@@ -2772,13 +2709,6 @@
     "url": "https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Orrville-OH/Net-Revenue-Optimization-Intern--Summer-2027_116006"
   },
   {
-    "id": "sj:741a3736-0994-46fa-a2e1-80cd78dc6722",
-    "company": "Covestro",
-    "title": "Supply Chain Application Developer Co-op",
-    "location": "Pittsburgh, PA (Other)",
-    "url": "https://covestro.wd3.myworkdayjobs.com/cov_external/job/Pittsburgh-PA/Supply-Chain-Application-Developer-Co-Op_JR-2026-02346-1"
-  },
-  {
     "id": "sj:c2cb4e52-0a06-45a3-beff-da2436315c4d",
     "company": "Assurant",
     "title": "Software Engineer Intern",
@@ -2973,13 +2903,6 @@
     "title": "Seam Intern - Embodied AI",
     "location": "Sunnyvale, CA (Other)",
     "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--SEAM--Embodied-AI_JR-202622143"
-  },
-  {
-    "id": "sj:2be561b9-160a-48ef-bd5b-6428e001f402",
-    "company": "GlobalFoundries",
-    "title": "Software Engineer Intern",
-    "location": "Austin, TX; Santa Clara, CA (Other)",
-    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Software-Engineering-Intern--Summer-2027-_JR-2604039"
   },
   {
     "id": "sj:7d29e9a8-e116-43c5-a3b9-267f864cddfc",
@@ -3407,13 +3330,6 @@
     "title": "Analytics Intern",
     "location": "Boston, MA (Other)",
     "url": "https://draftkings.wd1.myworkdayjobs.com/Employee_Referral_Portal/job/Boston-MA/Analyst-Intern-Referral--Summer-2027-_JR15187"
-  },
-  {
-    "id": "sj:282a057f-48f4-4133-a52c-2261299e04a8",
-    "company": "Enova",
-    "title": "Software Engineer Intern",
-    "location": "Chicago, IL (Other)",
-    "url": "https://job-boards.greenhouse.io/enova/jobs/8239619"
   },
   {
     "id": "sj:cdebfd0a-6bc1-4ec9-904b-67106dabdb42",
@@ -4359,13 +4275,6 @@
     "title": "Software Engineer Intern",
     "location": "Eden Prairie, MN (Other)",
     "url": "https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Eden-Prairie-MN-United-States-of-America/Software-Engineering-Internship-2027_R49323"
-  },
-  {
-    "id": "sj:2339b28c-2c1e-486e-a448-13adc31b9ad2",
-    "company": "Dimensional Fund Advisors",
-    "title": "Software Engineer Intern",
-    "location": "Austin, TX (Other)",
-    "url": "https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Austin/Internship-in-Technology---Software-Engineer_2026-9022"
   },
   {
     "id": "sj:8de05538-819d-40af-a938-46dd512caaeb",
@@ -5955,13 +5864,6 @@
     "title": "Data Analytics and Automation Intern - Finance",
     "location": "Liberty Lake, WA (Other)",
     "url": "https://itron.wd5.myworkdayjobs.com/Itron/job/United-States-of-America-Washington-Liberty-Lake/Intern---Data-Analytics-and-Automation--Finance_JR103020-1"
-  },
-  {
-    "id": "sj:c6e23a15-483d-4f98-9251-ded86e7eac63",
-    "company": "Regeneron Pharmaceuticals",
-    "title": "Data Analytics Intern - Dashboards & Business Process Automation",
-    "location": "Armonk, NY; Warren, NJ; Tarrytown, NY (Other)",
-    "url": "https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-Data-Analytics--Dashboards---Business-Process-Automation_R52559-1"
   },
   {
     "id": "sj:931408fb-5cb7-4179-8c33-35a242bbc266",
