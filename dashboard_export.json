@@ -854,13 +854,6 @@
     "url": "https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c/application?embed=true"
   },
   {
-    "id": "sj:d7cb67a6-930f-4fc0-a3b7-3f7d47bcdb31",
-    "company": "Quantbot Technologies",
-    "title": "Machine Learning Research Engineer Intern",
-    "location": "NYC (New York)",
-    "url": "https://www.quantbot.com/careers/4340833009?gh_jid=4340833009"
-  },
-  {
     "id": "sj:f845f125-fa49-4e15-a653-128534761cd4",
     "company": "DV Trading",
     "title": "Software Engineer Intern",
@@ -1288,6 +1281,27 @@
     "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002"
   },
   {
+    "id": "sj:1982a165-a74a-476f-8ebb-5136a38d056d",
+    "company": "McDonald's",
+    "title": "Global Tech Infrastructure & Operations Intern",
+    "location": "Chicago, IL (Other)",
+    "url": "https://jobs.mcdonalds.com/job/Chicago-Global-Tech-Infrastructure-&-Operations-Intern-IL-60607/1449562300/?ats=successfactors"
+  },
+  {
+    "id": "sj:cf087720-dc7e-4df3-b9fa-d0d59e3b023a",
+    "company": "Rubrik",
+    "title": "Product Manager Intern - Managed Service Provider",
+    "location": "Palo Alto, CA (Other)",
+    "url": "https://www.rubrik.com/company/careers/departments/job.8346967?gh_jid=8346967"
+  },
+  {
+    "id": "sj:106335e4-8b55-4297-a586-7b5a6c2cde1c",
+    "company": "Riot Games",
+    "title": "Insights Analyst Intern - League of Legends",
+    "location": "LA (Other)",
+    "url": "https://www.riotgames.com/en/work-with-us/job/8356372?gh_jid=8356372"
+  },
+  {
     "id": "sj:0a8fac2b-a162-4852-a387-bb6d8ee58bd7",
     "company": "APEX Analytix",
     "title": "Product Management Intern",
@@ -1307,6 +1321,27 @@
     "title": "Software Developer Intern - IT Apps",
     "location": "Fremont, CA (Other)",
     "url": "https://www.tesla.com/careers/search/job/289683"
+  },
+  {
+    "id": "sj:b886be52-5989-4569-9fe1-b6d2d4e430cd",
+    "company": "FNBO",
+    "title": "Banking Product Intern",
+    "location": "Omaha, NE (Other)",
+    "url": "https://firstnational.wd12.myworkdayjobs.com/fnbocareers/job/Omaha---FN-Tower/Intern--Banking-Product_R-20261996"
+  },
+  {
+    "id": "sj:6148ec5d-dd2a-47df-9649-33d31c25173a",
+    "company": "State of Wisconsin Investment Board",
+    "title": "Data Analytics Engineering Intern",
+    "location": "Madison, WI (Other)",
+    "url": "https://swib.wd12.myworkdayjobs.com/en-US/ext/job/Madison-Wisconsin/Data-Analytics-Engineering-Intern_R-001330"
+  },
+  {
+    "id": "sj:a0856c0c-9c02-41ee-9b12-8f018fd3326e",
+    "company": "Panera Bread",
+    "title": "Data Science & AI Analytics Intern",
+    "location": "Newton, MA (Other)",
+    "url": "https://panerabread.wd5.myworkdayjobs.com/panera_careers/job/Newton-Support-Center/Data-Science---AI-Analytics---Summer-2027-Internship-Program_JR0049082"
   },
   {
     "id": "sj:402b91bc-9773-4d5f-acdc-da6a76d80934",
@@ -1580,13 +1615,6 @@
     "title": "Data Engineer Intern",
     "location": "Deerfield Beach, FL (Other)",
     "url": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Data-Engineering-Intern_JR105086"
-  },
-  {
-    "id": "sj:387ea422-5e64-458e-b052-8dee5cbf777e",
-    "company": "J.M. Smucker",
-    "title": "Data Science Intern",
-    "location": "Remote in USA (Other)",
-    "url": "https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Working-Remote-USA/Data-Science-Intern--Summer-2027_116118"
   },
   {
     "id": "sj:3cf86e15-c45a-4a95-b5cf-55e5af0e518a",
@@ -2562,6 +2590,13 @@
     "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Product-Manager-Intern_JR-0110813"
   },
   {
+    "id": "sj:bcd6d25f-bd8c-4b5e-93ef-c9702e3f39ba",
+    "company": "Tacit",
+    "title": "Data Scientist Intern",
+    "location": "SF (Other)",
+    "url": "https://jobs.ashbyhq.com/tacit/561245bf-8341-45ba-802c-2fa8bb475da0/application?embed=true"
+  },
+  {
     "id": "sj:60881082-3930-422a-9543-38028c8e9208",
     "company": "Amazon",
     "title": "Business Intelligence Engineer Intern",
@@ -3227,13 +3262,6 @@
     "url": "https://jobs.constellationenergy.com/jobs/138716?icims=1"
   },
   {
-    "id": "sj:772bc79c-99f8-434b-b3f8-c449513885d4",
-    "company": "Brain Co.",
-    "title": "AI Product Intern",
-    "location": "SF (Other)",
-    "url": "https://jobs.ashbyhq.com/brainco/28c6cd2f-b609-4ca6-a2f6-adfa3d679d0b/application?embed=true"
-  },
-  {
     "id": "sj:2649b240-bda5-4d10-bbcc-5ddb74bb2202",
     "company": "Perpay",
     "title": "Data Engineering Intern",
@@ -3470,33 +3498,5 @@
     "title": "Software Engineer Intern - Data Analytics",
     "location": "King of Prussia, PA (Other)",
     "url": "https://jobs.uhsinc.com/jobs/367247?icims=1"
-  },
-  {
-    "id": "sj:3f7978bc-c83d-4088-abff-540cb9036839",
-    "company": "TikTok",
-    "title": "Ecosystem Analyst Intern - TikTok LIVE",
-    "location": "LA (Other)",
-    "url": "https://lifeattiktok.com/search/7678985103851407669"
-  },
-  {
-    "id": "sj:acaafa81-6155-4e77-8d56-dc8aac3847d6",
-    "company": "First National Bank",
-    "title": "Enterprise Data Governance Intern - Data Quality and Governance",
-    "location": "Pittsburgh, PA (Other)",
-    "url": "https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-Enterprise-Data-Governance-Intern_2026-01835-1"
-  },
-  {
-    "id": "sj:b1b8e29b-5511-480f-81c2-be6ceb87b8cf",
-    "company": "Allied Solutions",
-    "title": "Product Management Intern - Risk Management",
-    "location": "St Paul, MN (Other)",
-    "url": "https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/St-Paul-MN/Product-Management-Intern---Risk-Management_R-011083"
-  },
-  {
-    "id": "sj:41911f17-07a7-48d7-851e-c45ea9dc2e89",
-    "company": "TWG Global",
-    "title": "Data Science Intern - MAQR",
-    "location": "Santa Monica, CA (Other)",
-    "url": "https://apply.workable.com/twgai/j/AC536E5EE2/apply"
   }
 ]
