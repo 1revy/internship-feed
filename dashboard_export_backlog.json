@@ -1,19 +1,5 @@
 [
   {
-    "id": "sj:3f7978bc-c83d-4088-abff-540cb9036839",
-    "company": "TikTok",
-    "title": "Ecosystem Analyst Intern - TikTok LIVE",
-    "location": "LA (Other)",
-    "url": "https://lifeattiktok.com/search/7678985103851407669"
-  },
-  {
-    "id": "sj:acaafa81-6155-4e77-8d56-dc8aac3847d6",
-    "company": "First National Bank",
-    "title": "Enterprise Data Governance Intern - Data Quality and Governance",
-    "location": "Pittsburgh, PA (Other)",
-    "url": "https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-Enterprise-Data-Governance-Intern_2026-01835-1"
-  },
-  {
     "id": "sj:b1b8e29b-5511-480f-81c2-be6ceb87b8cf",
     "company": "Allied Solutions",
     "title": "Product Management Intern - Risk Management",
@@ -938,6 +924,13 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Remote/System-Software-Engineering-Intern--GPU---2027_JR2025334"
   },
   {
+    "id": "sj:7be3b067-334e-4e71-9af4-fa7933195bdb",
+    "company": "TikTok",
+    "title": "Software Engineer Intern - TikTok Search",
+    "location": "San Jose, CA (Other)",
+    "url": "https://lifeattiktok.com/search/7704696088079010053"
+  },
+  {
     "id": "sj:f176d1e9-17ce-4475-93c3-e20392a140d5",
     "company": "Airbnb",
     "title": "Advanced Analytics Intern",
@@ -1020,6 +1013,13 @@
     "title": "Engineer 2 New Grad - Software - Autonomy Capabilities",
     "location": "United States (Other)",
     "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/24de5a65-86ce-4269-ad26-0a3e85b42eec/application?embed=true"
+  },
+  {
+    "id": "sj:13406577-a352-4c40-b0c7-740db3cec68c",
+    "company": "RTX",
+    "title": "Software Engineer Intern",
+    "location": "West Valley City, UT (Other)",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineering-Intern--Summer-2027-_01886446-1"
   },
   {
     "id": "sj:a33d39bf-29f5-4149-b0f8-c185401a2e9c",
@@ -1118,13 +1118,6 @@
     "title": "Software Engineer Intern",
     "location": "Richardson, TX (Other)",
     "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Intern--Summer-2027-_01888049"
-  },
-  {
-    "id": "sj:ee2563b2-9b6b-44b2-9c70-3a8e4b9284da",
-    "company": "Art of Problem Solving",
-    "title": "Software Engineer Intern",
-    "location": "San Diego, CA (Other)",
-    "url": "https://artofproblemsolving.com/careers/job/8199296003?gh_jid=8199296003"
   },
   {
     "id": "sj:9ab28903-ae46-4bfe-9491-da387c3a1628",
@@ -1407,13 +1400,6 @@
     "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-AI-Engineering-Internship_REQ380765"
   },
   {
-    "id": "sj:590dc2fa-43f6-41c2-96fc-c01b91e85aac",
-    "company": "T-Mobile",
-    "title": "AI Engineering Intern",
-    "location": "Bellevue, WA (Other)",
-    "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-AI-Engineering-Internship_REQ381198"
-  },
-  {
     "id": "sj:315c7747-5b1d-4826-ab3c-d515de8f870d",
     "company": "T-Mobile",
     "title": "AI Engineering Intern",
@@ -1503,13 +1489,6 @@
     "title": "Research Analytics & Insights Intern",
     "location": "Chicago, IL (Other)",
     "url": "https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Chicago-IL-60607/XMLNAME-2027-Summer-Internship---Research-Analytics---Insights_36064R-2"
-  },
-  {
-    "id": "sj:70e0a583-e0c2-4a95-a452-fdfddad3b3db",
-    "company": "T-Mobile",
-    "title": "Software Engineer Intern",
-    "location": "Atlanta, GA (Other)",
-    "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Atlanta-Georgia/Summer-2027-Software-Engineering-Internship_REQ380650"
   },
   {
     "id": "sj:5e01c887-e95d-4785-9a00-436d4da36038",
@@ -1722,13 +1701,6 @@
     "url": "https://www.weareroku.com/jobs/8258241?gh_jid=8258241"
   },
   {
-    "id": "sj:d94706b4-e0c8-45c2-8504-eb350c6ac473",
-    "company": "JM Family",
-    "title": "AI Intern",
-    "location": "Deerfield Beach, FL (Other)",
-    "url": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/AI-Intern_JR105180"
-  },
-  {
     "id": "sj:80f18dd7-dd58-4635-88b5-28ffe8a06439",
     "company": "KLA Corporation",
     "title": "Software Engineer Intern",
@@ -1799,6 +1771,20 @@
     "url": "https://careers.withwaymo.com/jobs?gh_jid=8337719"
   },
   {
+    "id": "sj:bc1f458c-6db2-45dd-a119-b249ad9fb181",
+    "company": "Nintendo",
+    "title": "Software Engineer Intern - Performance Tools",
+    "location": "Redmond, WA (Other)",
+    "url": "https://careers.nintendo.com/?gh_jid=4473568009"
+  },
+  {
+    "id": "sj:5c7ed4c4-55c6-460d-bf59-c0861c2ae55a",
+    "company": "Nintendo",
+    "title": "Software Engineer Intern - Graphics",
+    "location": "Redmond, WA (Other)",
+    "url": "https://careers.nintendo.com/?gh_jid=4473550009"
+  },
+  {
     "id": "sj:bf045bbb-19b5-4bf0-a8de-2d2a06103832",
     "company": "Nissan",
     "title": "Purchasing Transformation Intern",
@@ -1846,6 +1832,13 @@
     "title": "Software Engineering Intern",
     "location": "Seattle, WA (Other)",
     "url": "https://ats.rippling.com/overland-ai/jobs/37dd9f44-cdb1-4e2e-98c5-800b9b8cb40e"
+  },
+  {
+    "id": "sj:4d0ce369-45ff-46bb-96d8-544aba88d73a",
+    "company": "Nintendo",
+    "title": "Software Engineer Intern - Connectivity",
+    "location": "Redmond, WA (Other)",
+    "url": "https://careers.nintendo.com/?gh_jid=4472147009"
   },
   {
     "id": "sj:4104d34a-1f77-48e8-bc0d-96899f61db22",
@@ -1916,6 +1909,34 @@
     "title": "Software Engineer Intern",
     "location": "Cambridge, UK (Other)",
     "url": "https://jobs.ashbyhq.com/gearset/637b4805-e079-4bbd-91e8-96af81dd288f/application?embed=true"
+  },
+  {
+    "id": "sj:97debd91-4d82-4379-9fee-dbaa7c8a5518",
+    "company": "Nintendo",
+    "title": "Software Engineer Intern - Platform Security",
+    "location": "Redmond, WA (Other)",
+    "url": "https://careers.nintendo.com/?gh_jid=4469778009"
+  },
+  {
+    "id": "sj:0901e982-38db-4dc3-b6ad-ce0fc2debca2",
+    "company": "Nintendo",
+    "title": "Software Engineer Intern - Audio",
+    "location": "Redmond, WA (Other)",
+    "url": "https://careers.nintendo.com/?gh_jid=4470048009"
+  },
+  {
+    "id": "sj:e4f1039d-3d07-49fc-b6d7-d5140173ca23",
+    "company": "Nintendo",
+    "title": "Software Engineer Intern - CPU Profiler",
+    "location": "Redmond, WA (Other)",
+    "url": "https://careers.nintendo.com/?gh_jid=4469762009"
+  },
+  {
+    "id": "sj:1c6d1a76-8aaa-45c0-aed9-3c1dee238b16",
+    "company": "Nintendo",
+    "title": "Software Engineer Intern - CPU Debugger - NTD",
+    "location": "Redmond, WA (Other)",
+    "url": "https://careers.nintendo.com/?gh_jid=4471972009"
   },
   {
     "id": "sj:1099db4b-84db-44c0-abbd-4f3675aaf6e0",
@@ -4095,13 +4116,6 @@
     "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Lowes-Charlotte-Technology-Hub-3505/Exploratory-Software-Engineering---Undergrad-Internship---Summer-2027_JR-02623542"
   },
   {
-    "id": "sj:a645e65c-4e25-4cba-8430-d05d91919697",
-    "company": "Brain Co.",
-    "title": "Machine Learning Engineer \u2013 Applied AI Intern",
-    "location": "SF (Other)",
-    "url": "https://jobs.ashbyhq.com/brainco/a4bdb254-8007-4142-bf36-a3e8622b1ed9/application?embed=true"
-  },
-  {
     "id": "sj:c4f9efb0-cfe9-4fa9-8eba-dd91a195bd79",
     "company": "AnaVation",
     "title": "Computer Science Intern - Summer 2027",
@@ -4758,13 +4772,6 @@
     "title": "Software Engineer Intern - Summer 2027",
     "location": "Tysons, VA (Other)",
     "url": "https://careers.cvent.com/jobs/10806?icims=1"
-  },
-  {
-    "id": "sj:949d51a9-718b-4bfe-8a44-2735fc2a1a8a",
-    "company": "HP IQ",
-    "title": "Software Engineer Intern - Cloud Services - Summer 2027",
-    "location": "SF (Other)",
-    "url": "https://job-boards.greenhouse.io/hpiq/jobs/6111955004"
   },
   {
     "id": "sj:335f80f5-c466-4364-a041-7daa9748daa0",
