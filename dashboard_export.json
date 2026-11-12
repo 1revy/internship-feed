@@ -1281,6 +1281,13 @@
     "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002"
   },
   {
+    "id": "sj:6d3f5916-cf7c-49e6-a3dc-a48791bec4fd",
+    "company": "Microsoft",
+    "title": "Data Scientist Intern - CoreAI",
+    "location": "Redmond, WA (Other)",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557027390"
+  },
+  {
     "id": "sj:1982a165-a74a-476f-8ebb-5136a38d056d",
     "company": "McDonald's",
     "title": "Global Tech Infrastructure & Operations Intern",
@@ -1545,20 +1552,6 @@
     "title": "Managed Data Services Intern - Ilevel - GP Mds",
     "location": "Dallas, TX (Other)",
     "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Dallas-TX/Summer-intern--iLevel---GP-MDS_332651-1"
-  },
-  {
-    "id": "sj:e7ce5c86-d8b9-4777-9fa8-da999bbec4d1",
-    "company": "T-Mobile",
-    "title": "Data Engineering Intern",
-    "location": "Frisco, TX; Atlanta, GA (Other)",
-    "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Summer-2027-Data-Engineering-Internship_REQ380755"
-  },
-  {
-    "id": "sj:c4ebb5a6-905a-424b-ab32-d44fda5d3be0",
-    "company": "T-Mobile",
-    "title": "Data Engineer Intern",
-    "location": "Frisco, TX; Atlanta, GA (Other)",
-    "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Summer-2027-Data-Engineering-Internship_REQ380754"
   },
   {
     "id": "sj:ef8bdc0e-a54e-411a-9367-999007481d55",
@@ -2035,13 +2028,6 @@
     "title": "Renewable Energy Analyst Intern",
     "location": "Boulder, CO (Other)",
     "url": "https://apply.workable.com/scout-clean-energy/j/30CCB1602D/apply"
-  },
-  {
-    "id": "sj:133d545a-51bd-4c95-a80d-8f09d0bd21ba",
-    "company": "Paccar",
-    "title": "Product Planning Intern",
-    "location": "Kirkland, WA (Other)",
-    "url": "https://jobs.paccar.com/job/Kirkland-Summer-2027-Product-Planning-Intern-WA-98033/1451437033/?ats=successfactors"
   },
   {
     "id": "sj:5e2d95be-4aa3-4837-8222-35bef4eeb890",
@@ -3498,5 +3484,19 @@
     "title": "Software Engineer Intern - Data Analytics",
     "location": "King of Prussia, PA (Other)",
     "url": "https://jobs.uhsinc.com/jobs/367247?icims=1"
+  },
+  {
+    "id": "sj:3f7978bc-c83d-4088-abff-540cb9036839",
+    "company": "TikTok",
+    "title": "Ecosystem Analyst Intern - TikTok LIVE",
+    "location": "LA (Other)",
+    "url": "https://lifeattiktok.com/search/7678985103851407669"
+  },
+  {
+    "id": "sj:acaafa81-6155-4e77-8d56-dc8aac3847d6",
+    "company": "First National Bank",
+    "title": "Enterprise Data Governance Intern - Data Quality and Governance",
+    "location": "Pittsburgh, PA (Other)",
+    "url": "https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-Enterprise-Data-Governance-Intern_2026-01835-1"
   }
 ]
