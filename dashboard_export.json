@@ -63,6 +63,13 @@
     "url": "https://careers.axa.com/jobs/25498?icims=1"
   },
   {
+    "id": "sj:457f471d-0890-4c19-b624-05089c7e682e",
+    "company": "Trinity Life Sciences",
+    "title": "Data Science Intern",
+    "location": "Waltham, MA; NYC (New York)",
+    "url": "https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity/job/Waltham-MA---Headquarters/Data-Science-Intern_JR100881"
+  },
+  {
     "id": "sj:f58cb7db-54c6-41d1-8762-0f0c2661bc7d",
     "company": "Intercontinental Exchange",
     "title": "Data Science Intern",
@@ -1078,6 +1085,20 @@
     "url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/London-UK/Data-Science-Machine-Learning-Internship--Summer-2027-_R1345"
   },
   {
+    "id": "sj:affc590b-a2f9-4382-aed2-78c9c3354d5f",
+    "company": "Visa",
+    "title": "Software Engineer Intern",
+    "location": "London, UK (London / Paris)",
+    "url": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/GB---London-United-Kingdom/Software-Engineer-Intern_REF090469W"
+  },
+  {
+    "id": "sj:92a76b0d-306a-41d5-8f29-62685b342a55",
+    "company": "Visa",
+    "title": "Software Engineer Intern",
+    "location": "London, UK (London / Paris)",
+    "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/GB---London-United-Kingdom/Software-Engineer-Intern_REF090469W-1"
+  },
+  {
     "id": "sj:d4c53c63-9dbe-4a0d-8121-cf0a9a7d853c",
     "company": "DraftKings",
     "title": "Software Engineer Intern",
@@ -1281,6 +1302,13 @@
     "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002"
   },
   {
+    "id": "sj:e3e929ab-e394-4415-9e80-2b0eba7fbeea",
+    "company": "SharkNinja",
+    "title": "Data Science Intern",
+    "location": "Needham, MA (Other)",
+    "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4727539006"
+  },
+  {
     "id": "sj:6d3f5916-cf7c-49e6-a3dc-a48791bec4fd",
     "company": "Microsoft",
     "title": "Data Scientist Intern - CoreAI",
@@ -1288,11 +1316,11 @@
     "url": "https://apply.careers.microsoft.com/careers/job/1970393557027390"
   },
   {
-    "id": "sj:1982a165-a74a-476f-8ebb-5136a38d056d",
-    "company": "McDonald's",
-    "title": "Global Tech Infrastructure & Operations Intern",
-    "location": "Chicago, IL (Other)",
-    "url": "https://jobs.mcdonalds.com/job/Chicago-Global-Tech-Infrastructure-&-Operations-Intern-IL-60607/1449562300/?ats=successfactors"
+    "id": "sj:e0eaa7f8-aae0-4a96-b1f6-10ad994f4751",
+    "company": "Vizient",
+    "title": "Contract Operations Intern - Analytics",
+    "location": "Irving, TX (Other)",
+    "url": "https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Chicago-IL-60607/XMLNAME-2027-Summer-Internship---Contract-Operations---Analytics_36238R-1"
   },
   {
     "id": "sj:cf087720-dc7e-4df3-b9fa-d0d59e3b023a",
@@ -1748,13 +1776,6 @@
     "title": "Production Business Intelligence Intern",
     "location": "Torrance, CA (Other)",
     "url": "https://job-boards.greenhouse.io/divergent/jobs/5393537008"
-  },
-  {
-    "id": "sj:4374aa77-1cb7-43ac-b98c-61c5c9bc7f02",
-    "company": "Tria Federal",
-    "title": "Growth Operations Intern",
-    "location": "Arlington County, Arlington, VA (Other)",
-    "url": "https://triafed.com/jobs/?gh_jid=5470246008"
   },
   {
     "id": "sj:7274511d-039e-4c72-8752-a5ed8b0d3a57",
@@ -2252,6 +2273,13 @@
     "title": "AI & Analytics Analyst Intern",
     "location": "Nashville, TN (Other)",
     "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Nashville-Tennessee-United-States/Intern---AI---Analytics-Analyst---Nashville--TN---Spring-2027_593012"
+  },
+  {
+    "id": "sj:39f4bee9-7483-4139-b046-8f67f8fd9cd9",
+    "company": "Martin Marietta",
+    "title": "Geographic Information Systems Intern",
+    "location": "Raleigh, NC (Other)",
+    "url": "https://martinmarietta.wd5.myworkdayjobs.com/Martin_Marietta_Careers/job/Raleigh-NC/Intern--Geographic-Information-Systems--Summer-2027-_JR023605"
   },
   {
     "id": "sj:e7350a2d-fa26-4da5-908e-82eb0a7a4b34",
@@ -3470,33 +3498,5 @@
     "title": "Data Science Intern - Enterprise Reporting & Analytics",
     "location": "Niskayuna, NY (Other)",
     "url": "https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Niskayuna/Summer-2027-Intern---Enterprise-Reporting---Analytics---Data-Science_R9807-1"
-  },
-  {
-    "id": "sj:721548ed-6f3b-4fc1-ae29-76461872f99a",
-    "company": "DriveTime",
-    "title": "Data Science Intern - Summer 2027",
-    "location": "Dallas, TX; Tempe, AZ (Other)",
-    "url": "https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Data-Science-Intern--Summer-2027-_R16301"
-  },
-  {
-    "id": "sj:af65cbd5-11f8-4a7d-a45a-939597dd3471",
-    "company": "Universal Health Services",
-    "title": "Software Engineer Intern - Data Analytics",
-    "location": "King of Prussia, PA (Other)",
-    "url": "https://jobs.uhsinc.com/jobs/367247?icims=1"
-  },
-  {
-    "id": "sj:3f7978bc-c83d-4088-abff-540cb9036839",
-    "company": "TikTok",
-    "title": "Ecosystem Analyst Intern - TikTok LIVE",
-    "location": "LA (Other)",
-    "url": "https://lifeattiktok.com/search/7678985103851407669"
-  },
-  {
-    "id": "sj:acaafa81-6155-4e77-8d56-dc8aac3847d6",
-    "company": "First National Bank",
-    "title": "Enterprise Data Governance Intern - Data Quality and Governance",
-    "location": "Pittsburgh, PA (Other)",
-    "url": "https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-Enterprise-Data-Governance-Intern_2026-01835-1"
   }
 ]
