@@ -1,5 +1,33 @@
 [
   {
+    "id": "sj:721548ed-6f3b-4fc1-ae29-76461872f99a",
+    "company": "DriveTime",
+    "title": "Data Science Intern - Summer 2027",
+    "location": "Dallas, TX; Tempe, AZ (Other)",
+    "url": "https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Data-Science-Intern--Summer-2027-_R16301"
+  },
+  {
+    "id": "sj:af65cbd5-11f8-4a7d-a45a-939597dd3471",
+    "company": "Universal Health Services",
+    "title": "Software Engineer Intern - Data Analytics",
+    "location": "King of Prussia, PA (Other)",
+    "url": "https://jobs.uhsinc.com/jobs/367247?icims=1"
+  },
+  {
+    "id": "sj:3f7978bc-c83d-4088-abff-540cb9036839",
+    "company": "TikTok",
+    "title": "Ecosystem Analyst Intern - TikTok LIVE",
+    "location": "LA (Other)",
+    "url": "https://lifeattiktok.com/search/7678985103851407669"
+  },
+  {
+    "id": "sj:acaafa81-6155-4e77-8d56-dc8aac3847d6",
+    "company": "First National Bank",
+    "title": "Enterprise Data Governance Intern - Data Quality and Governance",
+    "location": "Pittsburgh, PA (Other)",
+    "url": "https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-Enterprise-Data-Governance-Intern_2026-01835-1"
+  },
+  {
     "id": "sj:b1b8e29b-5511-480f-81c2-be6ceb87b8cf",
     "company": "Allied Solutions",
     "title": "Product Management Intern - Risk Management",
@@ -924,11 +952,46 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Remote/System-Software-Engineering-Intern--GPU---2027_JR2025334"
   },
   {
+    "id": "sj:b9075c04-a0bf-4ac8-973b-60aa1d7c730e",
+    "company": "State Farm",
+    "title": "Property and Casualty Underwriting Intern - Knowledge Management",
+    "location": "Richardson, TX; Bloomington, IL (Other)",
+    "url": "https://jobs.statefarm.com/jobs/46442?icims=1&lang=en-us"
+  },
+  {
     "id": "sj:7be3b067-334e-4e71-9af4-fa7933195bdb",
     "company": "TikTok",
     "title": "Software Engineer Intern - TikTok Search",
     "location": "San Jose, CA (Other)",
     "url": "https://lifeattiktok.com/search/7704696088079010053"
+  },
+  {
+    "id": "sj:db47c3f9-10a7-47a6-bc11-6f289c9d2291",
+    "company": "Visa",
+    "title": "Software Engineer Intern",
+    "location": "Reading, UK (Other)",
+    "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/GB---Reading-United-Kingdom/Software-Engineer-Intern_REF090466W"
+  },
+  {
+    "id": "sj:be5563f9-1a50-43de-91fc-6b0b11d799eb",
+    "company": "Visa",
+    "title": "Software Engineer Intern",
+    "location": "Cambridge, UK (Other)",
+    "url": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/GB---Cambridge-United-Kingdom/Software-Engineer-Intern_REF090467W"
+  },
+  {
+    "id": "sj:e6dfef1e-0040-4298-bbd6-b95d30d5220b",
+    "company": "Visa",
+    "title": "Software Engineer Intern",
+    "location": "Reading, UK (Other)",
+    "url": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/GB---Reading-United-Kingdom/Software-Engineer-Intern_REF090466W-2"
+  },
+  {
+    "id": "sj:709d2a20-5676-43d5-835a-d5ee1b75506d",
+    "company": "Visa",
+    "title": "Software Engineer Intern",
+    "location": "Cambridge, UK (Other)",
+    "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/GB---Cambridge-United-Kingdom/Software-Engineer-Intern_REF090467W-1"
   },
   {
     "id": "sj:f176d1e9-17ce-4475-93c3-e20392a140d5",
@@ -964,13 +1027,6 @@
     "title": "GIS Intern",
     "location": "Seattle, WA; Houston, TX; Lakewood, CO; Raleigh, NC; Chicago, IL; Phoenix, AZ (Other)",
     "url": "https://careers.trccompanies.com/jobs/28698?icims=1&lang=en-us"
-  },
-  {
-    "id": "sj:7c3a4e38-9f60-4930-b927-0bca4f0e442f",
-    "company": "Brex",
-    "title": "Software Engineer Intern",
-    "location": "SF (Other)",
-    "url": "https://www.brex.com/careers/8936403002?gh_jid=8936403002"
   },
   {
     "id": "sj:74a583d1-c612-4fb8-85a5-e8ff9a522b4b",
@@ -1211,13 +1267,6 @@
     "url": "https://aaaie.wd1.myworkdayjobs.com/CSAACareers2/job/Arizona---Home-Teleworkers/Advanced-Analysis-Intern_R8005-1"
   },
   {
-    "id": "sj:dfd55e25-d0a1-4c27-88be-920fc972e4b4",
-    "company": "Radiance Technologies",
-    "title": "Software Engineer Intern",
-    "location": "Beavercreek, OH (Other)",
-    "url": "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Dayton-Office/Software-Engineer-Intern-Spring-Summer-2027_HR102562"
-  },
-  {
     "id": "sj:81bb64c3-b219-41c9-8a9d-5d61feb95dbc",
     "company": "Radiance Technologies",
     "title": "Software Engineer Intern",
@@ -1372,39 +1421,11 @@
     "url": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---MIDDLEBURG-HEIGHTS-OHMID/XMLNAME-2027-Summer-Engineering-Intern---Cleveland-OH_R26039950"
   },
   {
-    "id": "sj:9143ae88-6ad5-4f65-9361-f85e91e18ece",
-    "company": "T-Mobile",
-    "title": "Software Engineer Intern",
-    "location": "Bellevue, WA (Other)",
-    "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Software-Engineering-Internship_REQ380768"
-  },
-  {
     "id": "sj:3bc108c2-89c8-4ffa-b7e5-7f1482d1fd91",
     "company": "T-Mobile",
     "title": "AI Strategist Intern",
     "location": "Bellevue, WA (Other)",
     "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-AI-Strategist-Internship_REQ381279"
-  },
-  {
-    "id": "sj:695a2bb6-3e9e-4b05-a39b-6d6cfe7f3b91",
-    "company": "T-Mobile",
-    "title": "Software Engineer Intern",
-    "location": "Bellevue, WA (Other)",
-    "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Software-Engineering-Internship_REQ380917"
-  },
-  {
-    "id": "sj:744eff9c-451a-4759-909e-8d912f801286",
-    "company": "T-Mobile",
-    "title": "AI Engineering Intern",
-    "location": "Bellevue, WA (Other)",
-    "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-AI-Engineering-Internship_REQ380765"
-  },
-  {
-    "id": "sj:315c7747-5b1d-4826-ab3c-d515de8f870d",
-    "company": "T-Mobile",
-    "title": "AI Engineering Intern",
-    "location": "Bellevue, WA (Other)",
-    "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-AI-Engineering-Internship_REQ381194"
   },
   {
     "id": "sj:669e846d-6122-44e9-a9d6-d58d25ce61f0",
@@ -1652,6 +1673,13 @@
     "url": "https://trustage.wd1.myworkdayjobs.com/TruStage/job/Madison-WI/IT---Innovation---AI-Technology-Internship--Hybrid-_R-012293"
   },
   {
+    "id": "sj:1ef1101e-e7ee-4594-ac30-7f014265d763",
+    "company": "Martin Marietta",
+    "title": "Telematics Intern",
+    "location": "Dallas, TX (Other)",
+    "url": "https://martinmarietta.wd5.myworkdayjobs.com/Martin_Marietta_Careers/job/Dallas-TX/Intern--Telematics--Summer-2027-_JR024021-1"
+  },
+  {
     "id": "sj:f1c48f63-d8ea-4e90-8539-67591d5ad08f",
     "company": "Costco",
     "title": "CDS Intern - Innovation",
@@ -1734,13 +1762,6 @@
     "title": "Software Engineer Intern",
     "location": "Austin, TX (Other)",
     "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Austin-TX/Software-Engineering-Intern_2642004"
-  },
-  {
-    "id": "sj:73205f44-451a-4bd5-add5-2cba415a4dbf",
-    "company": "JM Family",
-    "title": "Software Engineer Intern",
-    "location": "Deerfield Beach, FL (Other)",
-    "url": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Software-Engineer-Intern_JR105182"
   },
   {
     "id": "sj:46fd3fa6-a273-49da-b7ac-7cb7fcf894a9",
@@ -1909,6 +1930,13 @@
     "title": "Software Engineer Intern",
     "location": "Cambridge, UK (Other)",
     "url": "https://jobs.ashbyhq.com/gearset/637b4805-e079-4bbd-91e8-96af81dd288f/application?embed=true"
+  },
+  {
+    "id": "sj:c2d94f4d-4b20-4555-839d-59bfaea7bcd8",
+    "company": "Chatham Financial",
+    "title": "Software Engineer Intern",
+    "location": "Kennett Square, PA (Other)",
+    "url": "https://chathamfinancial.wd501.myworkdayjobs.com/ChathamFinancial/job/Kennett-Square/XMLNAME-2027-Software-Engineering-Intern_R-100348"
   },
   {
     "id": "sj:97debd91-4d82-4379-9fee-dbaa7c8a5518",
@@ -2084,6 +2112,20 @@
     "title": "Claims Lab Developer Intern",
     "location": "Cincinnati, OH (Other)",
     "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Claims-Lab-Developer-Intern---Summer-2027_R9803"
+  },
+  {
+    "id": "sj:c954619f-edf2-43f7-88e7-7dd114fbd845",
+    "company": "Greystone",
+    "title": "Full Stack Engineer Intern",
+    "location": "Warrenton, VA (Other)",
+    "url": "https://greyco.wd108.myworkdayjobs.com/GTI/job/Warrenton-VA/Summer-2027---Full-Stack-Engineer-Internship_JR0000145"
+  },
+  {
+    "id": "sj:d1904255-ff24-4a54-948f-1b66a6a7a370",
+    "company": "Chatham Financial",
+    "title": "Software Engineer Intern",
+    "location": "Denver, CO (Other)",
+    "url": "https://chathamfinancial.wd501.myworkdayjobs.com/ChathamFinancial/job/Denver/XMLNAME-2027-Software-Engineering-Intern_R-100349"
   },
   {
     "id": "sj:06117524-06d7-43ef-9ecc-89fd1e7e9baf",
@@ -3199,6 +3241,13 @@
     "url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---Palo-Alto/Summer-2027-Intern---Tableau-Research_JR363252"
   },
   {
+    "id": "sj:38ce67af-7cd9-46cd-86b7-8f0fce858a9d",
+    "company": "Illinois Tool Works",
+    "title": "Software Engineer Intern - Application Software",
+    "location": "Eden Prairie, MN (Other)",
+    "url": "https://itw.wd5.myworkdayjobs.com/external/job/MTS-Headquarters/Summer-2027-Software-Engineer-Intern--Application-Software-_JR10491-1"
+  },
+  {
     "id": "sj:4bed7671-153b-4cbc-84ad-30fbb5e3f1f1",
     "company": "Pure Storage",
     "title": "Software Engineer Intern",
@@ -3449,6 +3498,13 @@
     "title": "Analytics Intern",
     "location": "Boston, MA (Other)",
     "url": "https://draftkings.wd1.myworkdayjobs.com/Employee_Referral_Portal/job/Boston-MA/Analyst-Intern-Referral--Summer-2027-_JR15187"
+  },
+  {
+    "id": "sj:14085e38-d7e6-4dde-89a8-5714d59445d5",
+    "company": "Illinois Tool Works",
+    "title": "Software Engineer Intern",
+    "location": "United States (Other)",
+    "url": "https://itw.wd5.myworkdayjobs.com/external/job/MTS-Headquarters/Software-Engineering-Intern_JR10261"
   },
   {
     "id": "sj:cdebfd0a-6bc1-4ec9-904b-67106dabdb42",
@@ -3743,20 +3799,6 @@
     "title": "Generative AI Software Development Intern",
     "location": "Bossier City, LA (Other)",
     "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-Generative-AI-Software-Development-Internship_RQ228933-1"
-  },
-  {
-    "id": "sj:6510633a-12fb-403f-b2e5-b91ca20197b7",
-    "company": "Shield AI",
-    "title": "Software Engineer Intern",
-    "location": "San Diego, CA (Other)",
-    "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/661d7ac4-51df-454d-82c8-2a0d94852036/application?embed=true"
-  },
-  {
-    "id": "sj:6f56f938-52a1-426d-a979-45b4ab73ed2c",
-    "company": "Shield AI",
-    "title": "Software Engineer Intern",
-    "location": "San Diego, CA (Other)",
-    "url": "https://jobs.ashbyhq.com/shield/661d7ac4-51df-454d-82c8-2a0d94852036/application?embed=true"
   },
   {
     "id": "sj:93ae3a0d-e1e0-4d7a-ad67-4adba9311b49",
@@ -4254,6 +4296,13 @@
     "title": "Software Engineer 2 Intern",
     "location": "Bentonville, AR; Bellevue, WA; Sunnyvale, CA (Other)",
     "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern---Software-Engineer-II_R-2630029-1"
+  },
+  {
+    "id": "sj:146e2884-2956-4a84-9f53-3abbc462c608",
+    "company": "Bracco",
+    "title": "Software Engineer Intern/Co-op - R&D Sustaining",
+    "location": "Eden Prairie, MN (Other)",
+    "url": "https://bracco.wd103.myworkdayjobs.com/braccocareers/job/USA-Eden-Prairie-Minnesota-55344/Software-Engineering-Intern--Co-op--R-D-Sustaining-_JR100327"
   },
   {
     "id": "sj:36ded0a7-bb49-4395-ad3a-32a1fa86b8b2",
