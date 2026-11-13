@@ -217,13 +217,6 @@
     "url": "https://boards.greenhouse.io/figma/jobs/6200626004"
   },
   {
-    "id": "sj:36ca9c42-5715-4e50-acfe-f95b266ced75",
-    "company": "TikTok",
-    "title": "Client Solutions Intern",
-    "location": "NYC (New York)",
-    "url": "https://lifeattiktok.com/search/7684622182248548661"
-  },
-  {
     "id": "sj:f818d803-75b1-4afe-a3e5-d7e9f66bbac2",
     "company": "Ernst & Young",
     "title": "Data Engineer Intern - Multiple Teams",
@@ -966,6 +959,13 @@
     "url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383236008"
   },
   {
+    "id": "sj:96c7f622-1cce-4faa-831c-906a6515ce68",
+    "company": "Shield AI",
+    "title": "Human Machine Teaming Intern",
+    "location": "Washington, DC (Washington DC / Central NJ)",
+    "url": "https://jobs.lever.co/shieldai/a737063e-e831-49e1-98c3-25be44faac30/apply"
+  },
+  {
     "id": "sj:bead51fa-aa91-421e-9b22-bc3e451072b1",
     "company": "Shield AI",
     "title": "Engineer 2 New Grad - Multiple Teams",
@@ -992,6 +992,20 @@
     "title": "AI/ML Engineer Intern",
     "location": "Washington, DC (Washington DC / Central NJ)",
     "url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383231008"
+  },
+  {
+    "id": "sj:61cec817-fbbc-4b1c-a32b-3f284958fabd",
+    "company": "DraftKings",
+    "title": "Data Science Intern",
+    "location": "London, UK (London / Paris)",
+    "url": "https://draftkings.wd1.myworkdayjobs.com/Employee_Referral_Portal/job/London-UK/Data-Science-Intern--Summer-2027-_JR15149-1"
+  },
+  {
+    "id": "sj:5e3ec9de-8cd9-4e62-bd37-bb937a73dc1d",
+    "company": "DraftKings",
+    "title": "Data Science Intern",
+    "location": "London, UK (London / Paris)",
+    "url": "https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/London-UK/Data-Science-Intern--Summer-2027-_JR15149"
   },
   {
     "id": "sj:9823b609-27f5-4c61-84a8-4ff83ad1b902",
@@ -1288,11 +1302,46 @@
     "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002"
   },
   {
+    "id": "sj:45d13310-8ccb-4932-af40-0c16e8220885",
+    "company": "Merrick",
+    "title": "GIS Analyst Intern",
+    "location": "Greenwood Village, CO (Other)",
+    "url": "https://careers.merrick.com/jobs/8476?icims=1&lang=en-us"
+  },
+  {
     "id": "sj:b8ad3dc7-cf43-4e11-909c-85b6cf1d5722",
     "company": "Zoox",
     "title": "Data Scientist Intern",
     "location": "Foster City, CA (Other)",
     "url": "https://jobs.lever.co/zoox/0f42ac76-3821-4805-8b59-446477d1e1db/apply"
+  },
+  {
+    "id": "sj:380d6f38-7127-4d0c-a076-883abe2a4254",
+    "company": "The Toro Company",
+    "title": "CX and Customer Lifetime Value Intern - Operations Analyst",
+    "location": "Bloomington, MN (Other)",
+    "url": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/CX-and-Customer-Lifetime-Value---Operations-Analyst---The-Toro-Company_JR17819"
+  },
+  {
+    "id": "sj:470b39db-6434-4cac-81d5-bfa9c179796e",
+    "company": "Entegris",
+    "title": "Associate Product Manager Intern",
+    "location": "Chaska, MN (Other)",
+    "url": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Chaska-MN/Associate-Product-Manager-Intern_REQ-15844"
+  },
+  {
+    "id": "sj:4e1d3eca-60ed-4189-856e-6f7c6a717741",
+    "company": "Rocket Mortgage",
+    "title": "Data Analyst Intern",
+    "location": "Detroit, MI (Other)",
+    "url": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Data-Analyst-Intern---Summer-2027_R-083832"
+  },
+  {
+    "id": "sj:2b041c35-8b41-4e11-ab87-232b37636213",
+    "company": "Rocket Mortgage",
+    "title": "Customer Correspondence Analyst Intern",
+    "location": "Detroit, MI (Other)",
+    "url": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Customer-Correspondence-Analyst---Summer-2027_R-085167-1"
   },
   {
     "id": "sj:f7300419-4cb7-4b86-bb44-cac2e3d6a836",
@@ -1482,20 +1531,6 @@
     "title": "Systems Engineer Intern",
     "location": "Richardson, TX (Other)",
     "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/Systems-Engineering-Intern--Summer-2027-_JR-2604045"
-  },
-  {
-    "id": "sj:ae389eee-b409-4b65-98f9-d024c40d1a06",
-    "company": "General Dynamics Information Technology",
-    "title": "Data Analytics Associate Intern",
-    "location": "Falls Church, VA (Other)",
-    "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Summer-2027-Technical-Intern_RQ232200"
-  },
-  {
-    "id": "sj:0db6461d-a93a-445c-a639-7522e06981f8",
-    "company": "Paccar",
-    "title": "Greenhouse Gas Data Analyst Intern",
-    "location": "Kirkland, WA (Other)",
-    "url": "https://jobs.paccar.com/job/Kirkland-Summer-2027-Greenhouse-Gas-Data-Analyst-Intern-WA-98033/1455720933/?ats=successfactors"
   },
   {
     "id": "sj:8fb9267e-435a-4e02-86a7-7ef1fbfe494f",
@@ -1748,34 +1783,6 @@
     "title": "Software Engineer Intern - Product & Developer Productivity",
     "location": "SF (Other)",
     "url": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/San-Francisco-California-United-States-of-America/Software-Quality-Assurance-Intern_UNI4803-1"
-  },
-  {
-    "id": "sj:e20b5924-fa25-474c-b3ce-6a1d27642caf",
-    "company": "Costco",
-    "title": "CDS Intern - Powerapps Developer - ECM Digital Workflow",
-    "location": "Issaquah, WA (Other)",
-    "url": "https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=11001"
-  },
-  {
-    "id": "sj:9aff2860-cf5d-4547-b10b-b5330f2655ee",
-    "company": "Costco",
-    "title": "Costco Digital Services Intern - Infosec AI/ML",
-    "location": "Issaquah, WA (Other)",
-    "url": "https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=10994"
-  },
-  {
-    "id": "sj:501df30d-2f76-4464-a3ec-500e952ced2d",
-    "company": "Costco",
-    "title": "Costco Data Systems Intern - IT Product Owner",
-    "location": "Issaquah, WA (Other)",
-    "url": "https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=11024"
-  },
-  {
-    "id": "sj:0a1e3285-1442-4dec-a54b-8f1506490d30",
-    "company": "Costco",
-    "title": "CDS Intern - Software Engineer - IT Retail Media",
-    "location": "Issaquah, WA (Other)",
-    "url": "https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=11013"
   },
   {
     "id": "sj:5e330896-c4d5-49b9-815e-79ff21bc19c7",
@@ -2156,13 +2163,6 @@
     "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Lexington-MA/University---2027-Summer-Games-Data-Scientist-Intern---Lexington--MA_R0252275"
   },
   {
-    "id": "sj:f51fcb61-d19e-4ed3-81ec-258f5931b9db",
-    "company": "Zillow",
-    "title": "Data Science Intern",
-    "location": "Seattle, WA (Other)",
-    "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Data-Science-Intern_P751677-1"
-  },
-  {
     "id": "sj:b5719b13-e976-4a46-a904-a27b96888b47",
     "company": "Roche",
     "title": "Data Expert Intern - Compliance by Design - Data Capability",
@@ -2371,13 +2371,6 @@
     "title": "Engineering Operations Intern",
     "location": "Kirkland, WA (Other)",
     "url": "https://jobs.paccar.com/job/Kirkland-Summer-2027-Engineering-Operations-Intern-WA-98033/1449526733/?ats=successfactors"
-  },
-  {
-    "id": "sj:aaac9d8b-db6b-4050-ad94-8cb5584c0bbd",
-    "company": "Cigna Group",
-    "title": "Business Analytics Intern",
-    "location": "Bloomfield, CT (Other)",
-    "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bloomfield-CT/Business-Analytics-Intern_26012472"
   },
   {
     "id": "sj:274daa15-b592-485a-8d98-cc56d12ebdca",
@@ -3213,13 +3206,6 @@
     "url": "https://careers.hfsinclair.com/job/Dallas-Branded-Fuels-Business-Analytics-Intern-TX-75219/1430072700/?ats=successfactors"
   },
   {
-    "id": "sj:57be7ebf-f14e-424a-81ff-8a9b7d08c97e",
-    "company": "TikTok",
-    "title": "Client Solutions Intern - Global Business Solutions",
-    "location": "Austin, TX (Other)",
-    "url": "https://lifeattiktok.com/search/7684623688945961221"
-  },
-  {
     "id": "sj:21a32efc-4b6e-45b0-88ad-d1295fe970ad",
     "company": "Dallas Fort Worth International Airport",
     "title": "Undergraduate Internship - Geospatial Data",
@@ -3498,5 +3484,19 @@
     "title": "Data & Analytics Intern - Data & Analytics",
     "location": "Newcastle upon Tyne, UK (Other)",
     "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/Newcastle---Bank/Oliver-Wyman---Data---Analytics-Summer-Internship-2027---Newcastle_R_364984-1"
+  },
+  {
+    "id": "sj:8028ea71-392c-4173-9d2a-1dc31c5a4571",
+    "company": "Hadrian",
+    "title": "Data Science/Data Engineer Intern",
+    "location": "LA; Torrance, CA (Other)",
+    "url": "https://jobs.ashbyhq.com/hadrian-automation/f718bcfe-3f5b-4682-a294-697499caf813/application?embed=true"
+  },
+  {
+    "id": "sj:82b82765-ac44-4015-94fc-97d512495e37",
+    "company": "TikTok",
+    "title": "AI Governance Strategy Product Manager Intern - Platform Trust and Ecosystem",
+    "location": "San Jose, CA (Other)",
+    "url": "https://lifeattiktok.com/search/7677493272788683013"
   }
 ]
