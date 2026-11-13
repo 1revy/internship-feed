@@ -1,5 +1,54 @@
 [
   {
+    "id": "sj:988292e2-9865-480d-8599-0279ef142eb3",
+    "company": "Selective Insurance",
+    "title": "Business Intelligence & Insights Intern",
+    "location": "Branchville, NJ (Other)",
+    "url": "https://jobs.selective.com/jobs/5707?icims=1&lang=en-us"
+  },
+  {
+    "id": "sj:1ab411c4-7013-4eeb-8835-d8bb9baa3f39",
+    "company": "Dick's Sporting Goods",
+    "title": "Product Management Intern - Corporate Internship",
+    "location": "Pittsburgh, PA (Other)",
+    "url": "https://dickssportinggoods.wd1.myworkdayjobs.com/en-US/DSG/job/Customer-Support-Center/Product-Management---Summer-2027-Corporate-Internship_202608791-1"
+  },
+  {
+    "id": "sj:a1c4c9f3-d62d-413d-937e-97b35075c9c6",
+    "company": "RTX",
+    "title": "Systems Co-op",
+    "location": "Cedar Rapids, IA (Other)",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/XMLNAME-2027-Spring-Summer-Co-Op---Systems---AVI-MIL-FMS-DAS_01872835"
+  },
+  {
+    "id": "sj:3b1e5ee1-c09b-4eea-820a-35105021957d",
+    "company": "Marsh & McLennan",
+    "title": "Data & Analytics Intern - Data & Analytics",
+    "location": "Newcastle upon Tyne, UK (Other)",
+    "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/Newcastle---Bank/Oliver-Wyman---Data---Analytics-Summer-Internship-2027---Newcastle_R_364984-1"
+  },
+  {
+    "id": "sj:8028ea71-392c-4173-9d2a-1dc31c5a4571",
+    "company": "Hadrian",
+    "title": "Data Science/Data Engineer Intern",
+    "location": "LA; Torrance, CA (Other)",
+    "url": "https://jobs.ashbyhq.com/hadrian-automation/f718bcfe-3f5b-4682-a294-697499caf813/application?embed=true"
+  },
+  {
+    "id": "sj:82b82765-ac44-4015-94fc-97d512495e37",
+    "company": "TikTok",
+    "title": "AI Governance Strategy Product Manager Intern - Platform Trust and Ecosystem",
+    "location": "San Jose, CA (Other)",
+    "url": "https://lifeattiktok.com/search/7677493272788683013"
+  },
+  {
+    "id": "sj:48c0bb4b-9270-49f7-8ef8-72f592c37b0a",
+    "company": "Momentive",
+    "title": "Data Science Intern - Enterprise Reporting & Analytics",
+    "location": "Niskayuna, NY (Other)",
+    "url": "https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Niskayuna/Summer-2027-Intern---Enterprise-Reporting---Analytics---Data-Science_R9807-1"
+  },
+  {
     "id": "sj:721548ed-6f3b-4fc1-ae29-76461872f99a",
     "company": "DriveTime",
     "title": "Data Science Intern - Summer 2027",
@@ -952,6 +1001,20 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Remote/System-Software-Engineering-Intern--GPU---2027_JR2025334"
   },
   {
+    "id": "sj:8a4e9608-ce8b-49b7-8abf-67ae536f0ded",
+    "company": "Octant Bio",
+    "title": "Software Engineering Intern",
+    "location": "Emeryville, CA (Other)",
+    "url": "https://www.octant.bio/jobs?gh_jid=6260895004"
+  },
+  {
+    "id": "sj:b93c8f86-a564-4e72-9fa9-39d5a5329901",
+    "company": "StackAV",
+    "title": "Research Intern - Autonomy",
+    "location": "Remote in USA; Pittsburgh, PA (Other)",
+    "url": "https://job-boards.greenhouse.io/stackav/jobs/5287594007"
+  },
+  {
     "id": "sj:b9075c04-a0bf-4ac8-973b-60aa1d7c730e",
     "company": "State Farm",
     "title": "Property and Casualty Underwriting Intern - Knowledge Management",
@@ -992,6 +1055,41 @@
     "title": "Software Engineer Intern",
     "location": "Cambridge, UK (Other)",
     "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/GB---Cambridge-United-Kingdom/Software-Engineer-Intern_REF090467W-1"
+  },
+  {
+    "id": "sj:6b04973d-41fd-4c44-990d-0a01f8ce700e",
+    "company": "Eversource Energy",
+    "title": "GIS Intern",
+    "location": "Dorchester, Boston, MA (Other)",
+    "url": "https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Dorchester-MA/XMLNAME-2027-Summer--GIS-Intern--MA-_R-032519"
+  },
+  {
+    "id": "sj:4b853c05-5bdf-470c-a923-8b825bb0ac8a",
+    "company": "Environmental Defense Fund",
+    "title": "Consumer Energy Analytics Intern",
+    "location": "Remote in USA; St. Petersburg, FL (Other)",
+    "url": "https://osv-edf.wd5.myworkdayjobs.com/Confidential/job/Remote---US-Home/Florida-Consumer-Energy-Analytics-Intern_REQ-002752"
+  },
+  {
+    "id": "sj:858c0ee0-0430-4380-bd5f-089a625da132",
+    "company": "CareSource",
+    "title": "Summer Internship Program \u2013 Provider Analytics AI Intern",
+    "location": "Remote in USA (Other)",
+    "url": "https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program----Provider-Analytics-AI-Intern_R14481"
+  },
+  {
+    "id": "sj:591ce27b-c9c3-4753-9411-c8c9b6186cf7",
+    "company": "CareSource",
+    "title": "Software Engineer Intern",
+    "location": "Remote in USA (Other)",
+    "url": "https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Software-Engineer_R14136"
+  },
+  {
+    "id": "sj:f856d645-fee3-4ce9-a3ca-7610daf558ca",
+    "company": "Vital Lyfe",
+    "title": "Software Engineer Intern",
+    "location": "Torrance, CA (Other)",
+    "url": "https://jobs.ashbyhq.com/vital-lyfe/5b5e7e6d-d59e-410b-9a7f-619717c3c942/application?embed=true"
   },
   {
     "id": "sj:f176d1e9-17ce-4475-93c3-e20392a140d5",
@@ -1134,13 +1232,6 @@
     "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Philadelphia-Pennsylvania/Summer-2027-T-Ads-Software-Engineering-Internship_REQ381225"
   },
   {
-    "id": "sj:ea1d2e68-6b46-4d69-817a-c5ae496ba6d4",
-    "company": "General Motors",
-    "title": "Software Engineer Intern - Machine Learning Engineer - Embodied AI",
-    "location": "Sunnyvale, CA (Other)",
-    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--Embodied-AI_JR-202624034"
-  },
-  {
     "id": "sj:1fc7609f-1901-43d7-b514-6dfcc545d605",
     "company": "Eversource Energy",
     "title": "GIS Intern",
@@ -1225,13 +1316,6 @@
     "url": "https://lifeattiktok.com/search/7704986879082907909"
   },
   {
-    "id": "sj:d4918514-6348-4f6f-8642-5a2c01ff7162",
-    "company": "Great American Insurance Company",
-    "title": "Telematics / Predictive Analytics Intern",
-    "location": "Cincinnati, OH (Other)",
-    "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Telematics-Intern---Predictive-Analytics-Intern---Summer-2027_R9868"
-  },
-  {
     "id": "sj:f011fb5a-1c6a-4bd5-b057-c3c730ee16ce",
     "company": "Ryan",
     "title": "Application Development Intern - Application Development",
@@ -1265,13 +1349,6 @@
     "title": "Advanced Analysis Intern",
     "location": "Phoenix, AZ (Other)",
     "url": "https://aaaie.wd1.myworkdayjobs.com/CSAACareers2/job/Arizona---Home-Teleworkers/Advanced-Analysis-Intern_R8005-1"
-  },
-  {
-    "id": "sj:81bb64c3-b219-41c9-8a9d-5d61feb95dbc",
-    "company": "Radiance Technologies",
-    "title": "Software Engineer Intern",
-    "location": "Beavercreek, OH (Other)",
-    "url": "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Dayton-Office/Software-Engineer-Intern-Spring-Summer-2027_HR102563"
   },
   {
     "id": "sj:f65fae53-12fa-41c7-8b16-6ac0f05a0256",
@@ -2478,13 +2555,6 @@
     "url": "https://jobs.lever.co/parallelwireless/d30be600-d1cd-4579-9875-ac70c72a4426/apply"
   },
   {
-    "id": "sj:c6a828f1-5ffe-4585-929f-87f96db8518b",
-    "company": "Vertex Pharmaceuticals",
-    "title": "Commercial Analytics Co-op - Commercial Analytics",
-    "location": "Boston, MA (Other)",
-    "url": "https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Spring-Co-Op-2027--Commercial-Analytics_REQ-31112-1"
-  },
-  {
     "id": "sj:ba0364a9-1ac6-476c-bce0-118895d7a5ed",
     "company": "Allstate",
     "title": "Software Engineer Intern",
@@ -3220,13 +3290,6 @@
     "url": "https://careers.withwaymo.com/jobs?gh_jid=8257801"
   },
   {
-    "id": "sj:db1e9518-ba7e-4cdc-8914-5ec391f9a78d",
-    "company": "SailPoint",
-    "title": "Software Engineer Intern - Platform Engines",
-    "location": "Remote in UK (Other)",
-    "url": "https://sailpoint.wd1.myworkdayjobs.com/en-US/SailPoint/job/Remote-United-Kingdom/Software-Engineer-Intern---Platform-Engines_R014164"
-  },
-  {
     "id": "sj:69466e79-6419-41e0-9f96-b3560e811b54",
     "company": "Salesforce",
     "title": "Tableau Research Intern",
@@ -3288,13 +3351,6 @@
     "title": "Software Developer Intern",
     "location": "San Jose, CA (Other)",
     "url": "https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/San-Jose/Software-Development-Engineer-Intern--San-Jose--CA-_RP1039076"
-  },
-  {
-    "id": "sj:636ac431-7ae3-4201-af3c-92c9811ae889",
-    "company": "RTX",
-    "title": "Application Portfolio Support Intern - Summer 2027",
-    "location": "Farmington, CT (Other)",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-FARMINGTON-0004--4-Farm-Springs-Rd--4-FARM-SPRINGS/Application-Portfolio-Support-Intern--Summer-2027-_01879981"
   },
   {
     "id": "sj:ec223388-d88d-4b7b-ad95-bc08ce04bd3c",
@@ -4324,13 +4380,6 @@
     "title": "Software Engineer Intern",
     "location": "Fremont, CA; Los Lunas, NM; San Leandro, CA (Other)",
     "url": "https://job-boards.greenhouse.io/pacificfusion/jobs/4398373009"
-  },
-  {
-    "id": "sj:20b0f4b1-dafa-4b0c-bebe-41e1e3676175",
-    "company": "K2 Space",
-    "title": "Simulation Software Engineering Intern",
-    "location": "LA (Other)",
-    "url": "https://job-boards.greenhouse.io/k2spacecorporation/jobs/5418727008"
   },
   {
     "id": "sj:52c6c00b-0538-4eae-ba83-7a32198496a7",
