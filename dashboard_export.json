@@ -1078,13 +1078,6 @@
     "url": "https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Data-Science-Internship_R3679"
   },
   {
-    "id": "sj:ef340463-f818-4cd0-874c-2b1574493963",
-    "company": "Castleton Commodities International",
-    "title": "Data Science Machine Learning Intern",
-    "location": "London, UK (London / Paris)",
-    "url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/London-UK/Data-Science-Machine-Learning-Internship--Summer-2027-_R1345"
-  },
-  {
     "id": "sj:affc590b-a2f9-4382-aed2-78c9c3354d5f",
     "company": "Visa",
     "title": "Software Engineer Intern",
@@ -1097,6 +1090,13 @@
     "title": "Software Engineer Intern",
     "location": "London, UK (London / Paris)",
     "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/GB---London-United-Kingdom/Software-Engineer-Intern_REF090469W-1"
+  },
+  {
+    "id": "sj:a8837e6f-d12f-40d3-b941-d2612b28e736",
+    "company": "CrowdStrike",
+    "title": "Intelligence Launch Intern",
+    "location": "London, UK; Reading, UK (London / Paris)",
+    "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/United-Kingdom---Reading/Intelligence-Launch-Intern---Summer-2027_R30500"
   },
   {
     "id": "sj:d4c53c63-9dbe-4a0d-8121-cf0a9a7d853c",
@@ -1302,6 +1302,27 @@
     "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002"
   },
   {
+    "id": "sj:f7300419-4cb7-4b86-bb44-cac2e3d6a836",
+    "company": "Muon Space",
+    "title": "Software Engineer Intern - Information Systems",
+    "location": "San Jose, CA (Other)",
+    "url": "https://job-boards.greenhouse.io/muonspace/jobs/5293973007"
+  },
+  {
+    "id": "sj:3ccd0b28-1c06-43f2-be85-1902e772f95b",
+    "company": "Lightmatter",
+    "title": "Data & AI Platform Intern",
+    "location": "Boston, MA (Other)",
+    "url": "https://boards.greenhouse.io/lightmatter/jobs/5474807008"
+  },
+  {
+    "id": "sj:d3d5d456-9dea-4206-a7a1-3c53ec6ba1c4",
+    "company": "Stratolaunch",
+    "title": "Business Intelligence & Systems Analyst Intern",
+    "location": "Mojave, CA (Other)",
+    "url": "https://job-boards.greenhouse.io/stratolaunch/jobs/5480612008"
+  },
+  {
     "id": "sj:e3e929ab-e394-4415-9e80-2b0eba7fbeea",
     "company": "SharkNinja",
     "title": "Data Science Intern",
@@ -1321,6 +1342,34 @@
     "title": "Contract Operations Intern - Analytics",
     "location": "Irving, TX (Other)",
     "url": "https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Chicago-IL-60607/XMLNAME-2027-Summer-Internship---Contract-Operations---Analytics_36238R-1"
+  },
+  {
+    "id": "sj:c61c3197-26ec-4fec-a5f5-e604bd6d0899",
+    "company": "T-Mobile",
+    "title": "Data Product Intern",
+    "location": "Bellevue, WA (Other)",
+    "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Data-Product-Internship_REQ381212"
+  },
+  {
+    "id": "sj:48f299b0-6d42-4aea-8ef4-9d6c0d9fc484",
+    "company": "Stanley Black & Decker",
+    "title": "Data Analyst Intern",
+    "location": "Towson, MD (Other)",
+    "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Intern--Data-Analyst---BI--Summer-2027_REQ-1000052481"
+  },
+  {
+    "id": "sj:ac91c5c4-10f9-42af-84f5-18018caf5088",
+    "company": "Entegris",
+    "title": "Product Management Intern",
+    "location": "Colorado Springs, CO (Other)",
+    "url": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Rockrimmon-Colorado-Springs-CO/Product-Management-Intern_REQ-15838"
+  },
+  {
+    "id": "sj:26ed8f15-5f1f-4a5a-9cca-0403cf4d7334",
+    "company": "Entegris",
+    "title": "Data Engineering Intern",
+    "location": "Aurora, IL (Other)",
+    "url": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Aurora-IL/Data-Engineering-Intern---Summer-2027_REQ-15839"
   },
   {
     "id": "sj:cf087720-dc7e-4df3-b9fa-d0d59e3b023a",
@@ -1447,6 +1496,13 @@
     "title": "Systems Engineer Intern",
     "location": "Richardson, TX (Other)",
     "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/Systems-Engineering-Intern--Summer-2027-_JR-2604045"
+  },
+  {
+    "id": "sj:ae389eee-b409-4b65-98f9-d024c40d1a06",
+    "company": "General Dynamics Information Technology",
+    "title": "Data Analytics Associate Intern",
+    "location": "Falls Church, VA (Other)",
+    "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Summer-2027-Technical-Intern_RQ232200"
   },
   {
     "id": "sj:0db6461d-a93a-445c-a639-7522e06981f8",
@@ -2070,13 +2126,6 @@
     "title": "Product Management Intern",
     "location": "Lincolnshire, IL (Other)",
     "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Product-Management_JR103652"
-  },
-  {
-    "id": "sj:2daece64-1f02-4b15-8dd6-e4c4e1ce0b89",
-    "company": "Highmark Health",
-    "title": "Data Analyst Intern",
-    "location": "Pittsburgh, PA (Other)",
-    "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/Summer-2027-Data-Analyst-enGen-Undergraduate-Intern_J286826"
   },
   {
     "id": "sj:c9e31c4f-86b8-46c5-9152-5c9ae49ea875",
@@ -3449,54 +3498,5 @@
     "title": "IT Information Management Intern",
     "location": "Charlotte, NC (Other)",
     "url": "https://jobs.selective.com/jobs/5757?icims=1&lang=en-us"
-  },
-  {
-    "id": "sj:988292e2-9865-480d-8599-0279ef142eb3",
-    "company": "Selective Insurance",
-    "title": "Business Intelligence & Insights Intern",
-    "location": "Branchville, NJ (Other)",
-    "url": "https://jobs.selective.com/jobs/5707?icims=1&lang=en-us"
-  },
-  {
-    "id": "sj:1ab411c4-7013-4eeb-8835-d8bb9baa3f39",
-    "company": "Dick's Sporting Goods",
-    "title": "Product Management Intern - Corporate Internship",
-    "location": "Pittsburgh, PA (Other)",
-    "url": "https://dickssportinggoods.wd1.myworkdayjobs.com/en-US/DSG/job/Customer-Support-Center/Product-Management---Summer-2027-Corporate-Internship_202608791-1"
-  },
-  {
-    "id": "sj:a1c4c9f3-d62d-413d-937e-97b35075c9c6",
-    "company": "RTX",
-    "title": "Systems Co-op",
-    "location": "Cedar Rapids, IA (Other)",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/XMLNAME-2027-Spring-Summer-Co-Op---Systems---AVI-MIL-FMS-DAS_01872835"
-  },
-  {
-    "id": "sj:3b1e5ee1-c09b-4eea-820a-35105021957d",
-    "company": "Marsh & McLennan",
-    "title": "Data & Analytics Intern - Data & Analytics",
-    "location": "Newcastle upon Tyne, UK (Other)",
-    "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/Newcastle---Bank/Oliver-Wyman---Data---Analytics-Summer-Internship-2027---Newcastle_R_364984-1"
-  },
-  {
-    "id": "sj:8028ea71-392c-4173-9d2a-1dc31c5a4571",
-    "company": "Hadrian",
-    "title": "Data Science/Data Engineer Intern",
-    "location": "LA; Torrance, CA (Other)",
-    "url": "https://jobs.ashbyhq.com/hadrian-automation/f718bcfe-3f5b-4682-a294-697499caf813/application?embed=true"
-  },
-  {
-    "id": "sj:82b82765-ac44-4015-94fc-97d512495e37",
-    "company": "TikTok",
-    "title": "AI Governance Strategy Product Manager Intern - Platform Trust and Ecosystem",
-    "location": "San Jose, CA (Other)",
-    "url": "https://lifeattiktok.com/search/7677493272788683013"
-  },
-  {
-    "id": "sj:48c0bb4b-9270-49f7-8ef8-72f592c37b0a",
-    "company": "Momentive",
-    "title": "Data Science Intern - Enterprise Reporting & Analytics",
-    "location": "Niskayuna, NY (Other)",
-    "url": "https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Niskayuna/Summer-2027-Intern---Enterprise-Reporting---Analytics---Data-Science_R9807-1"
   }
 ]
