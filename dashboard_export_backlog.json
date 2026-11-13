@@ -1,33 +1,5 @@
 [
   {
-    "id": "sj:988292e2-9865-480d-8599-0279ef142eb3",
-    "company": "Selective Insurance",
-    "title": "Business Intelligence & Insights Intern",
-    "location": "Branchville, NJ (Other)",
-    "url": "https://jobs.selective.com/jobs/5707?icims=1&lang=en-us"
-  },
-  {
-    "id": "sj:1ab411c4-7013-4eeb-8835-d8bb9baa3f39",
-    "company": "Dick's Sporting Goods",
-    "title": "Product Management Intern - Corporate Internship",
-    "location": "Pittsburgh, PA (Other)",
-    "url": "https://dickssportinggoods.wd1.myworkdayjobs.com/en-US/DSG/job/Customer-Support-Center/Product-Management---Summer-2027-Corporate-Internship_202608791-1"
-  },
-  {
-    "id": "sj:a1c4c9f3-d62d-413d-937e-97b35075c9c6",
-    "company": "RTX",
-    "title": "Systems Co-op",
-    "location": "Cedar Rapids, IA (Other)",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/XMLNAME-2027-Spring-Summer-Co-Op---Systems---AVI-MIL-FMS-DAS_01872835"
-  },
-  {
-    "id": "sj:3b1e5ee1-c09b-4eea-820a-35105021957d",
-    "company": "Marsh & McLennan",
-    "title": "Data & Analytics Intern - Data & Analytics",
-    "location": "Newcastle upon Tyne, UK (Other)",
-    "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/Newcastle---Bank/Oliver-Wyman---Data---Analytics-Summer-Internship-2027---Newcastle_R_364984-1"
-  },
-  {
     "id": "sj:8028ea71-392c-4173-9d2a-1dc31c5a4571",
     "company": "Hadrian",
     "title": "Data Science/Data Engineer Intern",
@@ -679,13 +651,6 @@
     "url": "https://lifeattiktok.com/search/7670876223732762933"
   },
   {
-    "id": "sj:8b5ac2f9-33b4-434d-b7d0-d7d0afcc5357",
-    "company": "TikTok",
-    "title": "Fullstack Software Engineer Intern - Global E-Commerce",
-    "location": "Seattle, WA (Other)",
-    "url": "https://lifeattiktok.com/search/7670700387322300677"
-  },
-  {
     "id": "sj:3eeac721-35f3-4f16-9019-05cfc80ad251",
     "company": "TikTok",
     "title": "Fullstack Software Engineer Intern - Global E-Commerce - 2027 Summer",
@@ -1001,6 +966,13 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Remote/System-Software-Engineering-Intern--GPU---2027_JR2025334"
   },
   {
+    "id": "sj:8f47d73c-faa0-4332-89e2-eebc74191786",
+    "company": "TikTok",
+    "title": "Machine Learning Engineer Intern",
+    "location": "San Jose, CA (Other)",
+    "url": "https://lifeattiktok.com/search/7698822572474583301"
+  },
+  {
     "id": "sj:8a4e9608-ce8b-49b7-8abf-67ae536f0ded",
     "company": "Octant Bio",
     "title": "Software Engineering Intern",
@@ -1090,6 +1062,13 @@
     "title": "Software Engineer Intern",
     "location": "Torrance, CA (Other)",
     "url": "https://jobs.ashbyhq.com/vital-lyfe/5b5e7e6d-d59e-410b-9a7f-619717c3c942/application?embed=true"
+  },
+  {
+    "id": "sj:be6ad631-0dc1-427c-aaf1-88f8916fd4e9",
+    "company": "CoStar Group",
+    "title": "Vision & Learning Intern",
+    "location": "Sunnyvale, CA (Other)",
+    "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Vision---Learning-Intern_R40196"
   },
   {
     "id": "sj:f176d1e9-17ce-4475-93c3-e20392a140d5",
@@ -1260,13 +1239,6 @@
     "url": "https://jobs.ashbyhq.com/shield/db04c516-d21a-449c-8bfd-1cf830eafb5a/application?embed=true"
   },
   {
-    "id": "sj:cbf0ae78-7117-4952-b05e-ab26f07e9803",
-    "company": "RTX",
-    "title": "Software Engineer Intern",
-    "location": "Richardson, TX (Other)",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Intern--Summer-2027-_01888049"
-  },
-  {
     "id": "sj:9ab28903-ae46-4bfe-9491-da387c3a1628",
     "company": "Johns Hopkins Applied Physics Laboratory",
     "title": "Artificial Intelligence Intern - Information Fusion",
@@ -1365,13 +1337,6 @@
     "url": "https://jobs.ashbyhq.com/uipath/4983eab7-099d-4c77-9a5a-8dde72084c04/application?embed=true"
   },
   {
-    "id": "sj:9cd6fe4b-5705-4c78-bd3f-42710712db27",
-    "company": "UiPath",
-    "title": "AI Engineer Intern",
-    "location": "Bellevue, WA (Other)",
-    "url": "https://jobs.ashbyhq.com/uipath/f6857594-645c-4833-aa5b-763e9759b555/application?embed=true"
-  },
-  {
     "id": "sj:60fd1301-4412-4891-b853-6eec26f242df",
     "company": "Tesla",
     "title": "Software Engineer Intern - SI Reinforcement Learning",
@@ -1468,13 +1433,6 @@
     "title": "Software Engineer Intern",
     "location": "Overland Park, KS (Other)",
     "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Internship_REQ380739"
-  },
-  {
-    "id": "sj:e069ea1c-b571-46be-95e2-d1071dbcb2dd",
-    "company": "T-Mobile",
-    "title": "Software Engineering Intern",
-    "location": "Overland Park, KS (Other)",
-    "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Internship_REQ380734"
   },
   {
     "id": "sj:e10ce551-2780-4df7-898b-4416e1679bd9",
@@ -1722,20 +1680,6 @@
     "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern--AIML-Platform---HP-IQ_UNI4800"
   },
   {
-    "id": "sj:62fcafce-1c3e-423e-b12d-6f064a41a6a3",
-    "company": "JM Family",
-    "title": "AI Center of Excellence Delivery Team Intern",
-    "location": "Deerfield Beach, FL (Other)",
-    "url": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/AI-Center-of-Excellence--COE--Delivery-Team-Intern_JR105176"
-  },
-  {
-    "id": "sj:a4762cb5-97a1-457e-a071-427b1e9dd672",
-    "company": "JM Family",
-    "title": "AI & Decision Science Intern",
-    "location": "Deerfield Beach, FL (Other)",
-    "url": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/AI---Decision-Science-Intern_JR105095"
-  },
-  {
     "id": "sj:ffd5cac3-f494-4220-994f-4789d4df9e5c",
     "company": "HP Inc.",
     "title": "Software Engineer Intern - AIML Platform - HP IQ",
@@ -1846,6 +1790,13 @@
     "title": "AI Compiler and Kernel Intern",
     "location": "Austin, TX (Other)",
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Compiler-and-Kernel-Intern---Summer-2027_JR2029220-1"
+  },
+  {
+    "id": "sj:3776b303-0849-4822-8f8b-efd9d1b813dc",
+    "company": "JSX",
+    "title": "Commercial Intern",
+    "location": "Dallas, TX (Other)",
+    "url": "https://jsx.wd503.myworkdayjobs.com/JSX_Careers/job/Dallas-Headquarters/Commercial-Intern_R-100729"
   },
   {
     "id": "sj:51857daa-a08e-4fc3-b2a7-48385a53d13c",
@@ -2469,13 +2420,6 @@
     "title": "Software Analytics Co-op",
     "location": "Grand Rapids, MI (Other)",
     "url": "https://kiongroup.wd3.myworkdayjobs.com/en-US/KION_SCS/job/Grand-Rapids-MI-United-States/Software-Analytics-Co-op_JR-0096723"
-  },
-  {
-    "id": "sj:38820a89-81bd-460a-9b63-b3f7eea30e73",
-    "company": "ABB",
-    "title": "Power BI Intern",
-    "location": "Cary, NC (Other)",
-    "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/Power-BI-Intern--Summer-2027_JR00047437"
   },
   {
     "id": "sj:64ae06b6-64fe-47e8-bae2-98b8c700c590",
@@ -3435,13 +3379,6 @@
     "title": "Finance Transformation & Analytics Intern",
     "location": "Mountain View, CA (Other)",
     "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-finance-transformation-and-analytics-intern/27595/101444103184"
-  },
-  {
-    "id": "sj:b7368293-9c8c-4b02-8787-dddbcf2af626",
-    "company": "Affirm",
-    "title": "Software Engineer Intern - Machine Learning",
-    "location": "SF (Other)",
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/8008645003"
   },
   {
     "id": "sj:55d83f42-3073-4394-a485-5f539341ffe1",
