@@ -826,13 +826,6 @@
     "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519"
   },
   {
-    "id": "sj:b9b52922-5041-4125-b7c7-84b0dd7df700",
-    "company": "TD Bank",
-    "title": "Graduate Leadership Program Commercial Banking Intern",
-    "location": "NYC (New York)",
-    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/US-Graduate-Leadership-Program--Commercial-Banking_R_1508612"
-  },
-  {
     "id": "sj:1795d6df-fcca-45dc-836d-41a82dc36894",
     "company": "Intuit",
     "title": "Software Engineer Intern - Full Stack",
@@ -1020,13 +1013,6 @@
     "title": "Product Manager Intern",
     "location": "London, UK (London / Paris)",
     "url": "https://boards.greenhouse.io/cloudflare/jobs/8328914"
-  },
-  {
-    "id": "sj:79c4704a-2757-414c-8d3f-8786e245bc77",
-    "company": "Pernod Ricard, cr\u00e9ateurs de convivialit\u00e9",
-    "title": "Data & Business Transformation Placement Intern",
-    "location": "London, UK (London / Paris)",
-    "url": "https://pernodricard.wd3.myworkdayjobs.com/pernod-ricard/job/London/Data---Business-Transformation-Placement---June-2027_JR-055452-1"
   },
   {
     "id": "sj:4400b7b2-318d-4cfe-a277-a8687cae1078",
@@ -1302,18 +1288,18 @@
     "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002"
   },
   {
+    "id": "sj:b8ad3dc7-cf43-4e11-909c-85b6cf1d5722",
+    "company": "Zoox",
+    "title": "Data Scientist Intern",
+    "location": "Foster City, CA (Other)",
+    "url": "https://jobs.lever.co/zoox/0f42ac76-3821-4805-8b59-446477d1e1db/apply"
+  },
+  {
     "id": "sj:f7300419-4cb7-4b86-bb44-cac2e3d6a836",
     "company": "Muon Space",
     "title": "Software Engineer Intern - Information Systems",
     "location": "San Jose, CA (Other)",
     "url": "https://job-boards.greenhouse.io/muonspace/jobs/5293973007"
-  },
-  {
-    "id": "sj:3ccd0b28-1c06-43f2-be85-1902e772f95b",
-    "company": "Lightmatter",
-    "title": "Data & AI Platform Intern",
-    "location": "Boston, MA (Other)",
-    "url": "https://boards.greenhouse.io/lightmatter/jobs/5474807008"
   },
   {
     "id": "sj:d3d5d456-9dea-4206-a7a1-3c53ec6ba1c4",
@@ -1370,6 +1356,13 @@
     "title": "Data Engineering Intern",
     "location": "Aurora, IL (Other)",
     "url": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Aurora-IL/Data-Engineering-Intern---Summer-2027_REQ-15839"
+  },
+  {
+    "id": "sj:234a1357-b370-4f07-aa8b-2eebcdcd4464",
+    "company": "ASML",
+    "title": "Data Scientist Intern",
+    "location": "Wilton, CT (Other)",
+    "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Data-Scientist_J-00356462"
   },
   {
     "id": "sj:cf087720-dc7e-4df3-b9fa-d0d59e3b023a",
@@ -1433,13 +1426,6 @@
     "title": "AI/ML Business Intelligence Development Intern",
     "location": "Bossier City, LA (Other)",
     "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Business-Intelligence-Development-Internship_RQ228935"
-  },
-  {
-    "id": "sj:99f21d5c-7198-4ea0-af0f-623286ed3a1f",
-    "company": "Art of Problem Solving",
-    "title": "Data Science Intern",
-    "location": "San Diego, CA (Other)",
-    "url": "https://artofproblemsolving.com/careers/job/8201037003?gh_jid=8201037003"
   },
   {
     "id": "sj:2ebd3798-d01b-4942-8ef2-ac23a6ae5f6f",
@@ -2184,6 +2170,13 @@
     "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Welwyn/Industrial-Placement-Student---Data-Expert--Compliance-by-Design--Data-Capability--DDC--Computational-Sciences-Center-of-Excellence_202610-127533"
   },
   {
+    "id": "sj:82e09811-c21f-4f33-87de-90a940f52865",
+    "company": "Federal Home Loan Bank of Dallas",
+    "title": "Accounting Tech Solutions Intern",
+    "location": "Irving, TX (Other)",
+    "url": "https://fhlb.wd1.myworkdayjobs.com/FHLB_Careers/job/Irving-TX/Accounting-Tech-Solutions-Intern_REQ-444"
+  },
+  {
     "id": "sj:78f2f6fd-9234-4b7c-a26c-189023b24ca7",
     "company": "Simbe Robotics",
     "title": "Data Analytics & Data Science Intern",
@@ -2364,13 +2357,6 @@
     "title": "Operations Analyst Intern",
     "location": "Pleasant Prairie, WI (Other)",
     "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Operations-Analyst-Internship---Summer-2027_R268435"
-  },
-  {
-    "id": "sj:a1713031-4b7f-4d1b-969c-fbfcee4f1a57",
-    "company": "KeyBank",
-    "title": "Marketing Analytics Intern",
-    "location": "Brooklyn, OH (Other)",
-    "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/XMLNAME-2027-Summer-Marketing-Analytics-Internship---Cleveland_R-42822"
   },
   {
     "id": "sj:5e2455ca-73c8-4bfd-9d70-6b4448df0653",
@@ -2653,13 +2639,6 @@
     "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Product-Manager-Intern_JR-0110813"
   },
   {
-    "id": "sj:bcd6d25f-bd8c-4b5e-93ef-c9702e3f39ba",
-    "company": "Tacit",
-    "title": "Data Scientist Intern",
-    "location": "SF (Other)",
-    "url": "https://jobs.ashbyhq.com/tacit/561245bf-8341-45ba-802c-2fa8bb475da0/application?embed=true"
-  },
-  {
     "id": "sj:60881082-3930-422a-9543-38028c8e9208",
     "company": "Amazon",
     "title": "Business Intelligence Engineer Intern",
@@ -2721,13 +2700,6 @@
     "title": "Product Planning Intern",
     "location": "Franklin, TN (Other)",
     "url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Product-Planning-Intern---Summer-2027---Franklin--TN_R00214297"
-  },
-  {
-    "id": "sj:ba21fb5b-f6ae-4a75-a5ce-cb99ba4a0b97",
-    "company": "GE Vernova",
-    "title": "SCS Commercial Strategy & Growth Intern",
-    "location": "Longmont, CO (Other)",
-    "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Longmont/SCS-Commercial-Strategy---Growth-Internship-Summer-2027_R5055048-2"
   },
   {
     "id": "sj:3e820b10-ba47-4208-bb88-525a7dc5290a",
@@ -3498,5 +3470,33 @@
     "title": "IT Information Management Intern",
     "location": "Charlotte, NC (Other)",
     "url": "https://jobs.selective.com/jobs/5757?icims=1&lang=en-us"
+  },
+  {
+    "id": "sj:988292e2-9865-480d-8599-0279ef142eb3",
+    "company": "Selective Insurance",
+    "title": "Business Intelligence & Insights Intern",
+    "location": "Branchville, NJ (Other)",
+    "url": "https://jobs.selective.com/jobs/5707?icims=1&lang=en-us"
+  },
+  {
+    "id": "sj:1ab411c4-7013-4eeb-8835-d8bb9baa3f39",
+    "company": "Dick's Sporting Goods",
+    "title": "Product Management Intern - Corporate Internship",
+    "location": "Pittsburgh, PA (Other)",
+    "url": "https://dickssportinggoods.wd1.myworkdayjobs.com/en-US/DSG/job/Customer-Support-Center/Product-Management---Summer-2027-Corporate-Internship_202608791-1"
+  },
+  {
+    "id": "sj:a1c4c9f3-d62d-413d-937e-97b35075c9c6",
+    "company": "RTX",
+    "title": "Systems Co-op",
+    "location": "Cedar Rapids, IA (Other)",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/XMLNAME-2027-Spring-Summer-Co-Op---Systems---AVI-MIL-FMS-DAS_01872835"
+  },
+  {
+    "id": "sj:3b1e5ee1-c09b-4eea-820a-35105021957d",
+    "company": "Marsh & McLennan",
+    "title": "Data & Analytics Intern - Data & Analytics",
+    "location": "Newcastle upon Tyne, UK (Other)",
+    "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/Newcastle---Bank/Oliver-Wyman---Data---Analytics-Summer-Internship-2027---Newcastle_R_364984-1"
   }
 ]
