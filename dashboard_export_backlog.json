@@ -1,75 +1,5 @@
 [
   {
-    "id": "sj:cf498cbc-375c-45ec-8f68-334ce9a2d7d0",
-    "company": "Edison International",
-    "title": "Data Analytics Intern - Data Science/Applied Math",
-    "location": "Pomona, CA; Rosemead, CA (Other)",
-    "url": "https://apply.edisoncareers.com/job/Rosemead-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-(PomonaRosemead)-1-CA-91770/1425208900/?ats=successfactors"
-  },
-  {
-    "id": "sj:7a58365b-0d72-4b0c-8094-fa29ec18b560",
-    "company": "Edison International",
-    "title": "Data Analytics Intern - Data Science - Applied Math",
-    "location": "Pomona, CA; Rosemead, CA (Other)",
-    "url": "https://apply.edisoncareers.com/job/Rosemead-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-(PomonaRosemead)-CA-91770/1425207700/?ats=successfactors"
-  },
-  {
-    "id": "sj:fbc330bb-a6c5-48a8-b0d9-537f8bf68269",
-    "company": "Travelers",
-    "title": "Business Insights & Analytics Intern - BI&A LDP",
-    "location": "Hartford, CT; St Paul, MN (Other)",
-    "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Business-Insights---Analytics-Leadership-Development-Program--BI-A-LDP--Intern_R-52304"
-  },
-  {
-    "id": "sj:f4db16dc-9fd7-499a-b809-554855fcb08f",
-    "company": "IAT Insurance Group",
-    "title": "Data & Integration Intern",
-    "location": "Milwaukee, WI (Other)",
-    "url": "https://iatinsurancegroup.wd1.myworkdayjobs.com/iat/job/Milwaukee-WI/Data---Integration-Internship_JR100404"
-  },
-  {
-    "id": "sj:4c8571fd-a704-4542-babd-54c89d6aeff3",
-    "company": "Booz Allen",
-    "title": "Systems Engineer Intern",
-    "location": "San Diego, CA (Other)",
-    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Diego-CA/University---2027-Summer-Games-Systems-Engineer-Intern---San-Diego--CA_R0248365"
-  },
-  {
-    "id": "sj:53d8eb96-a4a4-4d3d-a59f-1308691c4a1a",
-    "company": "Booz Allen",
-    "title": "Systems Engineer Intern - Summer Games",
-    "location": "Honolulu, HI (Other)",
-    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Honolulu-HI/University---2027-Summer-Games-Systems-Engineer-Intern---Honolulu--HI_R0248370"
-  },
-  {
-    "id": "sj:0e9bb9cd-7dee-4ce0-a479-654d1552f1bc",
-    "company": "Booz Allen",
-    "title": "Systems Engineer Intern - University",
-    "location": "Colorado Springs, CO (Other)",
-    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Colorado-Springs-CO/University---2027-Summer-Games-Systems-Engineer-Intern---Charleston--SC_R0248369"
-  },
-  {
-    "id": "sj:b8511dba-1f6c-40d2-b3b7-e50e87163026",
-    "company": "Booz Allen",
-    "title": "Systems Engineer Intern - University",
-    "location": "Colorado Springs, CO (Other)",
-    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Colorado-Springs-CO/University---2027-Summer-Games-Systems-Engineer-Intern---Colorado-Springs--CO_R0248368"
-  },
-  {
-    "id": "sj:1cd3e703-e004-4850-8dc5-440acec35de0",
-    "company": "Booz Allen",
-    "title": "Systems Engineer Intern",
-    "location": "McLean, VA (Other)",
-    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University---2027-Summer-Games-Systems-Engineer-Intern---McLean--VA_R0248361"
-  },
-  {
-    "id": "sj:bfc7d59a-2729-48fa-8c25-a3278920ef67",
-    "company": "DraftKings",
-    "title": "Data Science Intern",
-    "location": "Boston, MA (Other)",
-    "url": "https://draftkings.wd1.myworkdayjobs.com/Employee_Referral_Portal/job/Boston-MA/Data-Science-Intern-Referral--Summer-2027-_JR14960"
-  },
-  {
     "id": "sj:183e5059-a65a-4031-89cb-16f14f42f6f0",
     "company": "Booz Allen",
     "title": "Data Scientist Intern",
@@ -854,6 +784,13 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Remote/System-Software-Engineering-Intern--GPU---2027_JR2025334"
   },
   {
+    "id": "sj:d02a74dd-8183-4a37-8203-b66654240269",
+    "company": "NextEra Energy",
+    "title": "Software Engineering Intern - Technical",
+    "location": "St Paul, MN (Other)",
+    "url": "https://jobs.nexteraenergy.com/job/Juno-Beach-Summer-Intern-Technical-FL-33408/1450749000/?ats=successfactors"
+  },
+  {
     "id": "sj:0a8f361d-eac9-4e93-9219-0611e828cf85",
     "company": "TikTok",
     "title": "Machine Learning Scientist Intern - Local Services",
@@ -868,11 +805,32 @@
     "url": "https://lifeattiktok.com/search/7698822572474583301"
   },
   {
-    "id": "sj:d52ae577-609f-49a7-bc5e-5c2a1e928841",
-    "company": "Aurora Innovation",
-    "title": "Software Engineer Intern - Vehicle Platforms",
-    "location": "Mountain View, CA (Other)",
-    "url": "https://jobs.ashbyhq.com/aurora-operations-inc/06daa269-c02b-43a4-88b8-b57a3ba335ef/application?embed=true"
+    "id": "sj:8daf03b5-e8f4-406c-b376-92657de28640",
+    "company": "Pennsylvania State University",
+    "title": "Energy Savings Program Intern",
+    "location": "University Park, State College, PA (Other)",
+    "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Energy-Savings-Program-Intern_REQ_0000084318-1"
+  },
+  {
+    "id": "sj:964f0600-3b5a-41d8-a620-3e3b83c7eba2",
+    "company": "Amgen",
+    "title": "AI-Enabled Knowledge Graphs for Patient Journey Analytics Intern",
+    "location": "Remote in USA (Other)",
+    "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Knowledge-Graph-Applications--Summer-2027-_R-260625"
+  },
+  {
+    "id": "sj:720070f8-5056-4d8c-91ef-204cccb506d9",
+    "company": "Horizon3.ai",
+    "title": "Research Intern - Adversarial Intelligence",
+    "location": "Chicago, IL; West Lafayette, IN (Other)",
+    "url": "https://jobs.ashbyhq.com/horizon3ai/818f854b-f212-4817-8227-3b9e654d39a2/application?embed=true"
+  },
+  {
+    "id": "sj:2090dcc2-c489-4ec4-bd16-8b1af5aa79f2",
+    "company": "Capital Group",
+    "title": "Global Technology Summer Associate Intern",
+    "location": "Irvine, CA (Other)",
+    "url": "https://capgroup.wd1.myworkdayjobs.com/en-US/capitalgroupcareers/job/Irvine/CAMPUS-Global-Technology-Summer-Associate--2027-_JR7798"
   },
   {
     "id": "sj:b93c8f86-a564-4e72-9fa9-39d5a5329901",
@@ -3906,13 +3864,6 @@
     "url": "https://careers.withwaymo.com/jobs?gh_jid=8197899"
   },
   {
-    "id": "sj:ef6779b9-6706-4217-8b3a-09ef98f4faf4",
-    "company": "FNBO",
-    "title": "Technology Intern",
-    "location": "Omaha, NE (Other)",
-    "url": "https://firstnational.wd12.myworkdayjobs.com/fnbocareers/job/Omaha---FN-Tower/Summer-2027---Technology-Intern_R-20261653"
-  },
-  {
     "id": "sj:e772b664-062b-4315-9007-69460c23019c",
     "company": "CACI",
     "title": "Software Engineer Intern - Summer 2027",
@@ -4016,13 +3967,6 @@
     "title": "Vehicle Intent and Prediction Intern",
     "location": "Mountain View, CA (Other)",
     "url": "https://careers.withwaymo.com/jobs?gh_jid=8189848"
-  },
-  {
-    "id": "sj:9a212b5f-a9ed-4a6c-9091-d44030af17cc",
-    "company": "Zipline",
-    "title": "Change Management Intern - Summer 2027",
-    "location": "South SF (Other)",
-    "url": "https://www.zipline.com/open-roles/7991435003?gh_jid=7991435003"
   },
   {
     "id": "sj:7530c688-5657-4159-baad-6d34c53ff482",
@@ -4394,20 +4338,6 @@
     "title": "Physics Engine Development Engineer Intern - Optimus",
     "location": "Palo Alto, CA (Other)",
     "url": "https://www.tesla.com/careers/search/job/282147"
-  },
-  {
-    "id": "sj:ac297577-f4f9-4b73-ab38-00c094342140",
-    "company": "Intel",
-    "title": "Software Engineer Intern",
-    "location": "Austin, TX; Santa Clara, CA; Hillsboro, OR; Folsom, CA; Phoenix, AZ (Other)",
-    "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Graduate_JR0286836"
-  },
-  {
-    "id": "sj:b854fca7-7546-478f-937b-a76b8dbbddae",
-    "company": "Intel",
-    "title": "Software Engineer Intern",
-    "location": "Austin, TX; Santa Clara, CA; Hillsboro, OR; Folsom, CA; Phoenix, AZ (Other)",
-    "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Bachelor-s_JR0286834"
   },
   {
     "id": "sj:1e0ac563-c8ac-4d94-a5c6-f43115f22027",
