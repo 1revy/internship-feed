@@ -784,13 +784,6 @@
     "url": "https://jobs.ashbyhq.com/voleon/57f1b666-2f4b-4bad-aac0-fa42a1c8fdf6/application?embed=true"
   },
   {
-    "id": "sj:bc4407ea-452d-4ef5-b173-3260a4f7db7b",
-    "company": "Sage",
-    "title": "Software Engineer Intern - Full Stack",
-    "location": "NYC (New York)",
-    "url": "https://job-boards.greenhouse.io/sage49/jobs/6131185004"
-  },
-  {
     "id": "sj:14e51d14-067b-43b8-80cf-dcf3c6893565",
     "company": "Notion",
     "title": "Software Engineer Intern - Summer 2027",
@@ -1286,6 +1279,27 @@
     "title": "Data Engineer Intern",
     "location": "Atlanta, GA (Other)",
     "url": "https://jobs.ashbyhq.com/nexus-cognitive/22c64819-67fc-48d0-b206-5b41d370f6a5/application?embed=true"
+  },
+  {
+    "id": "sj:8e9af166-ff54-453a-b560-244a89a45555",
+    "company": "Camping World",
+    "title": "Data Engineering Intern",
+    "location": "Chicago, IL; Lincolnshire, IL (Other)",
+    "url": "https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Chicago-IL/Data-Engineering-Intern_26_09297"
+  },
+  {
+    "id": "sj:2d609f21-b04d-4102-a341-b7fc2585a162",
+    "company": "Camping World",
+    "title": "Data Analyst Intern - AI & Machine Learning Focus",
+    "location": "Chicago, IL; Lincolnshire, IL (Other)",
+    "url": "https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Chicago-IL/Data-Analyst-Intern_26_09300"
+  },
+  {
+    "id": "sj:7c480571-b438-4123-bc21-a130e8090831",
+    "company": "Watts Water",
+    "title": "Product Management Co-op",
+    "location": "Menomonee Falls, WI (Other)",
+    "url": "https://wattswater.wd5.myworkdayjobs.com/external/job/Menomonee-Falls-WI/Product-Management-Co-op--Jan-June-2027_10017702-1"
   },
   {
     "id": "sj:f7300419-4cb7-4b86-bb44-cac2e3d6a836",
@@ -3484,19 +3498,5 @@
     "title": "Data Scientist Intern - Summer 2027",
     "location": "Redwood City, CA (Other)",
     "url": "https://c3.ai/job-description/8738918002?gh_jid=8738918002"
-  },
-  {
-    "id": "sj:dbd3c9f3-3356-4fef-8bb9-245328a2c25f",
-    "company": "Blackhawk Network Holdings",
-    "title": "Product Management Intern",
-    "location": "Coppell, TX (Other)",
-    "url": "https://blackhawknetwork.jibeapply.com/jobs/26868?icims=1"
-  },
-  {
-    "id": "sj:e5cda381-ca4d-4f56-beca-a30990d257a2",
-    "company": "Blackhawk Network Holdings",
-    "title": "Product Management Intern",
-    "location": "Pleasanton, CA (Other)",
-    "url": "https://blackhawknetwork.jibeapply.com/jobs/26869?icims=1"
   }
 ]
