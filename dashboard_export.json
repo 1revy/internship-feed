@@ -210,13 +210,6 @@
     "url": "https://www.google.com/about/careers/applications/jobs/results/134577198026629830"
   },
   {
-    "id": "sj:fcc0a6c7-e090-4804-8107-677c58b416a9",
-    "company": "Guardian Life",
-    "title": "Data Engineering Intern - Digital & Technology",
-    "location": "Holmdel, NJ; NYC; Bethlehem, PA (New York)",
-    "url": "https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Digital---Technology---Data-Engineering_R000110202"
-  },
-  {
     "id": "sj:267a6347-2627-4027-b5a0-8fc2dce16acf",
     "company": "Lyft",
     "title": "Data Science Intern - Algorithms",
@@ -3498,5 +3491,12 @@
     "title": "Data Analytics Intern - Multiple Teams",
     "location": "Portage, MI (Other)",
     "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---Data-Analytics---Michigan_R572601"
+  },
+  {
+    "id": "sj:5f0b34c1-fcc7-46c2-9772-8e8ce4bd4f5f",
+    "company": "Oshkosh",
+    "title": "Product Management Intern",
+    "location": "Appleton, WI (Other)",
+    "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Appleton-Wisconsin-United-States/Product-Management-Intern--Summer-2027-_R49746"
   }
 ]
