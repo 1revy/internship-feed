@@ -854,13 +854,6 @@
     "url": "https://jobs.lever.co/stradaeducation/d8109e92-5156-48e2-879f-c9ea299e971b/apply"
   },
   {
-    "id": "sj:c2e6377c-2c49-47ed-a0e6-12520a2d17a4",
-    "company": "Ingredion",
-    "title": "Digital Innovation Intern",
-    "location": "Bridgewater, NJ (Washington DC / Central NJ)",
-    "url": "https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Bridgewater-NJ/Digital-Innovation-Intern_Req-40180-1"
-  },
-  {
     "id": "sj:35dd8e24-1c88-4e4b-8ba3-f9b9be169b31",
     "company": "The Nuclear Company",
     "title": "Data Science & Machine Learning Fellow Intern",
@@ -3498,5 +3491,12 @@
     "title": "Product Management Intern",
     "location": "Pleasanton, CA (Other)",
     "url": "https://blackhawknetwork.jibeapply.com/jobs/26869?icims=1"
+  },
+  {
+    "id": "sj:4b81bd00-4b97-4ec4-954b-892368c48de0",
+    "company": "TikTok",
+    "title": "Machine Learning Engineer Intern - E-Commerce Knowledge Graph",
+    "location": "San Jose, CA (Other)",
+    "url": "https://lifeattiktok.com/search/7676652813409552645"
   }
 ]
