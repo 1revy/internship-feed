@@ -1610,13 +1610,6 @@
     "url": "https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/XMLNAME-2027-Summer-Internship---Product-Operations-Metrics---Reporting_36053R-1"
   },
   {
-    "id": "sj:fcda4098-94ad-4409-96fc-32ee92289e01",
-    "company": "JM Family",
-    "title": "Data Engineer Intern",
-    "location": "Deerfield Beach, FL (Other)",
-    "url": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Data-Engineering-Intern_JR105086"
-  },
-  {
     "id": "sj:3cf86e15-c45a-4a95-b5cf-55e5af0e518a",
     "company": "Eversource Energy",
     "title": "Electric Operations Intern",
@@ -3498,5 +3491,12 @@
     "title": "Product Management Intern",
     "location": "Appleton, WI (Other)",
     "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Appleton-Wisconsin-United-States/Product-Management-Intern--Summer-2027-_R49746"
+  },
+  {
+    "id": "sj:d3e9acbe-429c-41ea-ad4b-0536beab6782",
+    "company": "Medline",
+    "title": "Product Management Intern - Summer 2027",
+    "location": "Chicago, IL; Northfield, IL (Other)",
+    "url": "https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Northfield-Illinois/Product-Management-Intern---Summer-2027_R2616983"
   }
 ]
