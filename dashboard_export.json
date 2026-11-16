@@ -2114,13 +2114,6 @@
     "url": "https://jobs.constellationenergy.com/jobs/140352?icims=1&lang=en-us"
   },
   {
-    "id": "sj:39c401c3-d14a-4997-a485-e8e68788de4f",
-    "company": "ABB",
-    "title": "Sales Excellence Data Analytics Intern",
-    "location": "Cary, NC (Other)",
-    "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/Sales-Excellence-Data-Analytics-Intern---Summer-2027_JR00050987"
-  },
-  {
     "id": "sj:d74a8f1e-37e1-4db6-b4bc-ed33d69d7ea3",
     "company": "American Family Insurance Group",
     "title": "Business Intelligence Enablement Intern",
@@ -3498,5 +3491,12 @@
     "title": "Product Management Intern",
     "location": "Pleasanton, CA (Other)",
     "url": "https://blackhawknetwork.jibeapply.com/jobs/26869?icims=1"
+  },
+  {
+    "id": "sj:4b81bd00-4b97-4ec4-954b-892368c48de0",
+    "company": "TikTok",
+    "title": "Machine Learning Engineer Intern - E-Commerce Knowledge Graph",
+    "location": "San Jose, CA (Other)",
+    "url": "https://lifeattiktok.com/search/7676652813409552645"
   }
 ]
