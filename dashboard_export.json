@@ -1,5 +1,19 @@
 [
   {
+    "id": "sj:531a491d-17f0-414b-bc44-c2fa4f3f8f09",
+    "company": "Addepar",
+    "title": "Technical Product Management Intern - ADX",
+    "location": "NYC (New York)",
+    "url": "https://job-boards.greenhouse.io/addepar1/jobs/8910324002"
+  },
+  {
+    "id": "sj:3ea65aaa-0297-4b8f-9378-51e35478fb95",
+    "company": "Octaura",
+    "title": "Data Engineer Intern",
+    "location": "NYC (New York)",
+    "url": "https://job-boards.greenhouse.io/octaura/jobs/4662934007"
+  },
+  {
     "id": "sj:6f68ae24-002f-4c1a-9481-237226b8224a",
     "company": "Fanatics",
     "title": "Product Intern",
@@ -21,13 +35,6 @@
     "url": "https://job-boards.greenhouse.io/addepar1/jobs/8910327002"
   },
   {
-    "id": "sj:05db53e8-06ac-4c35-9f36-918e9d7ee3c2",
-    "company": "The New York Times",
-    "title": "Data Analyst Intern",
-    "location": "NYC (New York)",
-    "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4752930005"
-  },
-  {
     "id": "sj:bb4d63c9-3314-4a0d-a295-e15f62bd7a87",
     "company": "Salesforce",
     "title": "Product Management Intern - Product Management",
@@ -47,13 +54,6 @@
     "title": "Business Intelligence Intern",
     "location": "NYC (New York)",
     "url": "https://job-boards.greenhouse.io/jomboymedia/jobs/4478036009"
-  },
-  {
-    "id": "sj:5c521dde-6882-44c5-89a3-a3da7f852020",
-    "company": "The New York Times",
-    "title": "Product Manager Intern",
-    "location": "NYC (New York)",
-    "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748461005"
   },
   {
     "id": "sj:ce8c7adb-0ba0-4fdd-b6e8-4832a9f1043d",
@@ -294,13 +294,6 @@
     "url": "https://job-boards.greenhouse.io/addepar1/jobs/8927531002"
   },
   {
-    "id": "sj:c0f9841a-4867-4a52-8302-9f1d9e05ca08",
-    "company": "The New York Times",
-    "title": "Machine Learning Scientist Intern",
-    "location": "NYC (New York)",
-    "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4752926005"
-  },
-  {
     "id": "sj:84ac8ab7-abcc-40b8-a4f6-f5d5125165dc",
     "company": "Formulary Financial",
     "title": "Software Engineer Intern",
@@ -315,32 +308,11 @@
     "url": "https://jobs.ashbyhq.com/category-labs/248a6400-c18e-4627-9c8c-1b1054869075/application?embed=true"
   },
   {
-    "id": "sj:db6f3fe2-dcd1-4426-8502-58670887b096",
-    "company": "The New York Times",
-    "title": "Backend Engineer Intern",
-    "location": "NYC (New York)",
-    "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751973005"
-  },
-  {
     "id": "sj:e8209fcd-0bd8-4e54-969a-77a28e97d8eb",
     "company": "The New York Times",
     "title": "Android Engineer Intern",
     "location": "NYC (New York)",
     "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751917005"
-  },
-  {
-    "id": "sj:0e942b8e-2ea9-4241-99a8-96482e3de3ee",
-    "company": "The New York Times",
-    "title": "Full-Stack Engineer Intern",
-    "location": "NYC (New York)",
-    "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751907005"
-  },
-  {
-    "id": "sj:4f786492-0f6e-4697-853b-f3fcdb446f60",
-    "company": "The New York Times",
-    "title": "Frontend Engineer Intern",
-    "location": "NYC (New York)",
-    "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751909005"
   },
   {
     "id": "sj:855cf1a4-420b-46b0-a7af-9bc903a1571b",
@@ -693,13 +665,6 @@
     "url": "https://jobs.ashbyhq.com/Talos-Trading/91fd5274-3b6b-43cf-b366-9f6dc2ae5977/application?embed=true"
   },
   {
-    "id": "sj:4d30f64b-9b67-4679-a968-1b62bf57c98e",
-    "company": "Datadog",
-    "title": "Software Engineer Intern - Summer",
-    "location": "Boston, MA; NYC (New York)",
-    "url": "https://careers.datadoghq.com/detail/8052118/?gh_jid=8052118"
-  },
-  {
     "id": "sj:4ba115ac-a103-4581-a244-f76fc0921727",
     "company": "Capital One",
     "title": "AI Engineer Intern",
@@ -945,13 +910,6 @@
     "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Client-Data-and-Engineering-Group-Summer-Internship-Programme-2027-London_JR-0000135782"
   },
   {
-    "id": "sj:75c9bd55-d962-405d-8b35-8302935fa982",
-    "company": "Google",
-    "title": "Associate Product Manager Intern",
-    "location": "London, UK (London / Paris)",
-    "url": "https://www.google.com/about/careers/applications/jobs/results/103464941339452102"
-  },
-  {
     "id": "sj:26b899cd-fb20-45b5-b6b5-8dd3ad3e54c8",
     "company": "Blackstone",
     "title": "Software Engineer Summer Analyst - Technology and Innovations",
@@ -971,20 +929,6 @@
     "title": "Data Science Intern",
     "location": "London, UK (London / Paris)",
     "url": "https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Data-Science-Internship_R3679"
-  },
-  {
-    "id": "sj:affc590b-a2f9-4382-aed2-78c9c3354d5f",
-    "company": "Visa",
-    "title": "Software Engineer Intern",
-    "location": "London, UK (London / Paris)",
-    "url": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/GB---London-United-Kingdom/Software-Engineer-Intern_REF090469W"
-  },
-  {
-    "id": "sj:92a76b0d-306a-41d5-8f29-62685b342a55",
-    "company": "Visa",
-    "title": "Software Engineer Intern",
-    "location": "London, UK (London / Paris)",
-    "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/GB---London-United-Kingdom/Software-Engineer-Intern_REF090469W-1"
   },
   {
     "id": "sj:a8837e6f-d12f-40d3-b941-d2612b28e736",
@@ -1106,13 +1050,6 @@
     "url": "https://boards.greenhouse.io/embed/job_app?token=8847738002"
   },
   {
-    "id": "sj:49dad85f-a6af-4fb4-b6e9-20402bab7e9d",
-    "company": "Google",
-    "title": "Forward Deployed Engineer Intern",
-    "location": "London, UK (London / Paris)",
-    "url": "https://www.google.com/about/careers/applications/jobs/results/135156989620560582"
-  },
-  {
     "id": "sj:510dff44-a111-4a88-8662-b07d88568e6a",
     "company": "G-Research",
     "title": "Software Engineer Intern",
@@ -1230,20 +1167,6 @@
     "title": "Associate Product Manager Intern",
     "location": "Chaska, MN (Other)",
     "url": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Chaska-MN/Associate-Product-Manager-Intern_REQ-15844"
-  },
-  {
-    "id": "sj:4e1d3eca-60ed-4189-856e-6f7c6a717741",
-    "company": "Rocket Mortgage",
-    "title": "Data Analyst Intern",
-    "location": "Detroit, MI (Other)",
-    "url": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Data-Analyst-Intern---Summer-2027_R-083832"
-  },
-  {
-    "id": "sj:2b041c35-8b41-4e11-ab87-232b37636213",
-    "company": "Rocket Mortgage",
-    "title": "Customer Correspondence Analyst Intern",
-    "location": "Detroit, MI (Other)",
-    "url": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Customer-Correspondence-Analyst---Summer-2027_R-085167-1"
   },
   {
     "id": "sj:df6c12ef-a435-45fc-8594-45f85f0d3ec8",
@@ -1407,13 +1330,6 @@
     "url": "https://swib.wd12.myworkdayjobs.com/en-US/ext/job/Madison-Wisconsin/Data-Analytics-Engineering-Intern_R-001330"
   },
   {
-    "id": "sj:a0856c0c-9c02-41ee-9b12-8f018fd3326e",
-    "company": "Panera Bread",
-    "title": "Data Science & AI Analytics Intern",
-    "location": "Newton, MA (Other)",
-    "url": "https://panerabread.wd5.myworkdayjobs.com/panera_careers/job/Newton-Support-Center/Data-Science---AI-Analytics---Summer-2027-Internship-Program_JR0049082"
-  },
-  {
     "id": "sj:402b91bc-9773-4d5f-acdc-da6a76d80934",
     "company": "General Dynamics Information Technology",
     "title": "AI/ML Business Intelligence Development Intern",
@@ -1440,13 +1356,6 @@
     "title": "Portfolio Data Analyst Intern",
     "location": "Edinburgh, UK (Other)",
     "url": "https://job-boards.greenhouse.io/addepar1/jobs/8910310002"
-  },
-  {
-    "id": "sj:da999960-efdd-44de-9632-cb4db8868203",
-    "company": "NVIDIA",
-    "title": "AI Operations Intern - AI Clouds",
-    "location": "Santa Clara, CA (Other)",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Operations-Intern--AI-Clouds---Summer-2027_JR2029119-1"
   },
   {
     "id": "sj:33dafa3e-20d8-47c8-aca6-91cf06a6b50a",
@@ -2513,13 +2422,6 @@
     "url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Product-Planning-Intern---Summer-2027---Franklin--TN_R00214297"
   },
   {
-    "id": "sj:3e820b10-ba47-4208-bb88-525a7dc5290a",
-    "company": "Cadence Solutions",
-    "title": "Product Management Intern",
-    "location": "Remote in USA (Other)",
-    "url": "https://job-boards.greenhouse.io/solutions/jobs/4715294006"
-  },
-  {
     "id": "sj:04082f6d-c15d-4431-bf6a-5ac5f3fd7dc8",
     "company": "Procter & Gamble",
     "title": "IT Technical Specialist Intern",
@@ -2700,13 +2602,6 @@
     "title": "Data Science Intern",
     "location": "Cary, NC (Other)",
     "url": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Cary-North-Carolina/XMLNAME-2027-Summer-Internship---Data-Science_REQ-12799"
-  },
-  {
-    "id": "sj:c32610f4-7f0d-42bd-8186-eb8b18ba634d",
-    "company": "Constellation Energy",
-    "title": "Quantitative Analytics & Data Science Intern",
-    "location": "Baltimore, MD (Other)",
-    "url": "https://jobs.constellationenergy.com/jobs/139494?icims=1"
   },
   {
     "id": "sj:1e39ef9b-ab50-405f-808e-28002f4fc72f",
@@ -3164,13 +3059,6 @@
     "url": "https://jobs.jobvite.com/aarete/job/otGLAfwe?nl=1&nl=1&fr=false"
   },
   {
-    "id": "sj:23dd65c5-13d1-4c38-bf1f-afc1366796ee",
-    "company": "Protective Life",
-    "title": "Business Analytics Intern",
-    "location": "Birmingham, AL (Other)",
-    "url": "https://jobs.lever.co/protective/40354575-2b06-42cd-93fb-f9ea82bdec7c/apply"
-  },
-  {
     "id": "sj:1dbaaa95-dacf-4709-a836-79579d54610e",
     "company": "ID.me",
     "title": "Product Intern",
@@ -3498,5 +3386,117 @@
     "title": "Machine Learning Engineer Intern - E-Commerce Knowledge Graph",
     "location": "San Jose, CA (Other)",
     "url": "https://lifeattiktok.com/search/7676652813409552645"
+  },
+  {
+    "id": "sj:30c6e50a-a52b-4624-ad9a-bff649958700",
+    "company": "TikTok",
+    "title": "Machine Learning Engineer Intern - E-Commerce Knowledge Graph",
+    "location": "Seattle, WA (Other)",
+    "url": "https://lifeattiktok.com/search/7676650607912601861"
+  },
+  {
+    "id": "sj:a980e8b0-12fe-45eb-9fa2-697b990375e7",
+    "company": "Stryker",
+    "title": "Data Analytics Intern - Multiple Teams",
+    "location": "Portage, MI (Other)",
+    "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---Data-Analytics---Michigan_R572601"
+  },
+  {
+    "id": "sj:5f0b34c1-fcc7-46c2-9772-8e8ce4bd4f5f",
+    "company": "Oshkosh",
+    "title": "Product Management Intern",
+    "location": "Appleton, WI (Other)",
+    "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Appleton-Wisconsin-United-States/Product-Management-Intern--Summer-2027-_R49746"
+  },
+  {
+    "id": "sj:d3e9acbe-429c-41ea-ad4b-0536beab6782",
+    "company": "Medline",
+    "title": "Product Management Intern - Summer 2027",
+    "location": "Chicago, IL; Northfield, IL (Other)",
+    "url": "https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Northfield-Illinois/Product-Management-Intern---Summer-2027_R2616983"
+  },
+  {
+    "id": "sj:f6b7f447-ad5a-434e-bf7f-b120f36843eb",
+    "company": "Northwood Space",
+    "title": "Supply Chain Data & Analytics Intern",
+    "location": "LA; Torrance, CA (Other)",
+    "url": "https://jobs.ashbyhq.com/NorthwoodSpace/69f99cd7-3ce7-413a-8cfe-29b7ccbc1490/application?embed=true"
+  },
+  {
+    "id": "sj:f12db905-e4bc-477c-b339-4c9306913d42",
+    "company": "Booz Allen",
+    "title": "Data Scientist Intern - Summer Games",
+    "location": "Rome, NY (Other)",
+    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Rome-NY/University--2027-Summer-Games-Data-Scientist-Intern_R0248143"
+  },
+  {
+    "id": "sj:de4cd0c6-05b6-4e77-9479-486a018a8683",
+    "company": "Booz Allen",
+    "title": "Data Scientist Intern - University",
+    "location": "Charleston, SC (Other)",
+    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Charleston-SC/University---2027-Summer-Games-Data-Scientist-Intern_R0248137"
+  },
+  {
+    "id": "sj:ab6cb65d-01c3-421d-bc8b-48584e8d4cba",
+    "company": "Booz Allen",
+    "title": "Data Scientist Intern - University",
+    "location": "Atlanta, GA (Other)",
+    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/University--2027-Summer-Games-Data-Scientist-Intern_R0248140"
+  },
+  {
+    "id": "sj:25fa3cf0-19e1-48c4-a10b-cd91ace49138",
+    "company": "TELUS Digital",
+    "title": "Product Analyst Intern",
+    "location": "Columbus, OH (Other)",
+    "url": "https://jobs.ashbyhq.com/telus-digital/e1dfd8b7-fb8a-4ce9-957f-0706b13195c7/application?embed=true"
+  },
+  {
+    "id": "sj:e7293c88-f396-415f-920c-742686dde2e3",
+    "company": "Booz Allen",
+    "title": "Data Scientist Intern - University",
+    "location": "San Diego, CA (Other)",
+    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Diego-CA/University---2027-Summer-Games-Data-Scientist-Intern---San-Diego--CA_R0248045"
+  },
+  {
+    "id": "sj:0421e841-beed-4315-83cf-cbc7ffc68617",
+    "company": "WhiteWater Midstream",
+    "title": "Data Science Intern - Summer 2027",
+    "location": "Austin, TX (Other)",
+    "url": "https://job-boards.greenhouse.io/whitewatermidstream/jobs/5217853007"
+  },
+  {
+    "id": "sj:bbd6e777-012d-4311-bbee-2f7372acaa9d",
+    "company": "Brunswick",
+    "title": "Product Management Intern - Oils & Lubricants",
+    "location": "Fond du Lac, WI (Other)",
+    "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Mercury-Marine--Product-Management-Intern---Oils---Lubricants_JR-051213"
+  },
+  {
+    "id": "sj:87b11195-7636-4d15-98ef-a30cea2dff16",
+    "company": "Brunswick",
+    "title": "Systems Engineer Co-op - Software Engineering",
+    "location": "Fond du Lac, WI (Other)",
+    "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Mercury-Marine---Systems-Software-Engineering-Co-op_JR-051212"
+  },
+  {
+    "id": "sj:63b147f7-67e5-40ea-bf27-906ad1de151c",
+    "company": "TikTok",
+    "title": "Product Operations Intern",
+    "location": "LA (Other)",
+    "url": "https://lifeattiktok.com/search/7673361736079329541"
+  },
+  {
+    "id": "sj:9461eef2-85ff-4810-8147-6cf294000c7d",
+    "company": "TikTok",
+    "title": "Product Manager Intern - Pgc",
+    "location": "LA (Other)",
+    "url": "https://lifeattiktok.com/search/7673365416605010229"
+  },
+  {
+    "id": "sj:4890aa3f-9b23-4f72-8e21-fa891322a004",
+    "company": "TikTok",
+    "title": "Product Manager Intern - Pgc",
+    "location": "San Jose, CA (Other)",
+    "url": "https://lifeattiktok.com/search/7673365923163638069"
   }
 ]
