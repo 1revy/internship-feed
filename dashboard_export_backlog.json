@@ -1,47 +1,5 @@
 [
   {
-    "id": "sj:63b147f7-67e5-40ea-bf27-906ad1de151c",
-    "company": "TikTok",
-    "title": "Product Operations Intern",
-    "location": "LA (Other)",
-    "url": "https://lifeattiktok.com/search/7673361736079329541"
-  },
-  {
-    "id": "sj:9461eef2-85ff-4810-8147-6cf294000c7d",
-    "company": "TikTok",
-    "title": "Product Manager Intern - Pgc",
-    "location": "LA (Other)",
-    "url": "https://lifeattiktok.com/search/7673365416605010229"
-  },
-  {
-    "id": "sj:4890aa3f-9b23-4f72-8e21-fa891322a004",
-    "company": "TikTok",
-    "title": "Product Manager Intern - Pgc",
-    "location": "San Jose, CA (Other)",
-    "url": "https://lifeattiktok.com/search/7673365923163638069"
-  },
-  {
-    "id": "sj:cb7c7665-f749-4ac4-82aa-36376548fdc7",
-    "company": "TikTok",
-    "title": "Client Solutions Intern",
-    "location": "San Jose, CA (Other)",
-    "url": "https://lifeattiktok.com/search/7677467052537776437"
-  },
-  {
-    "id": "sj:d5f10439-1231-496b-a535-96be20ab9808",
-    "company": "TikTok",
-    "title": "Client Solutions Intern - Global Business Solutions",
-    "location": "LA (Other)",
-    "url": "https://lifeattiktok.com/search/7677467375487486213"
-  },
-  {
-    "id": "sj:b3e5cba2-cc35-4da5-88b4-0dcc462d5536",
-    "company": "Procter & Gamble",
-    "title": "Data & AI Engineering Intern",
-    "location": "Cincinnati, OH (Other)",
-    "url": "https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Data---AI-Engineering-Internship_R000157499"
-  },
-  {
     "id": "sj:4a6c8dec-bbc4-43b8-a768-fbedfacf95d3",
     "company": "Procter & Gamble",
     "title": "Data Scientist Intern",
@@ -574,6 +532,13 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Remote/System-Software-Engineering-Intern--GPU---2027_JR2025334"
   },
   {
+    "id": "sj:1c9dc088-116a-43ff-a6ae-6ab513f43e5e",
+    "company": "SurePoint Ag Systems",
+    "title": "Drone Imaging Agronomy Intern",
+    "location": "Manhattan, KS (Other)",
+    "url": "https://surepoint.bamboohr.com/careers/109/"
+  },
+  {
     "id": "sj:1766b9ad-6231-4035-b13d-f0f5bf630fbe",
     "company": "Bound",
     "title": "Engineering Intern",
@@ -847,20 +812,6 @@
     "url": "https://jobs.ashbyhq.com/regent/1da518a0-9030-48d1-a58c-15d1f88f0eaa/application?embed=true"
   },
   {
-    "id": "sj:6f89592c-cad0-4384-8d65-14460588b283",
-    "company": "T-Mobile",
-    "title": "Software Engineer Intern - T-Ads",
-    "location": "Philadelphia, PA (Other)",
-    "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Philadelphia-Pennsylvania/Summer-2027-T-Ads-Software-Engineering-Internship_REQ381219"
-  },
-  {
-    "id": "sj:079bf3d3-847a-4fc1-988a-ae3cdbafd70e",
-    "company": "T-Mobile",
-    "title": "Software Engineer Intern",
-    "location": "Philadelphia, PA (Other)",
-    "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Philadelphia-Pennsylvania/Summer-2027-T-Ads-Software-Engineering-Internship_REQ381225"
-  },
-  {
     "id": "sj:1fc7609f-1901-43d7-b514-6dfcc545d605",
     "company": "Eversource Energy",
     "title": "GIS Intern",
@@ -943,13 +894,6 @@
     "title": "Application Development Intern - Application Development",
     "location": "Burlington, VT (Other)",
     "url": "https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Burlington/Summer-2027-Intern--Application-Development_R0020810-1"
-  },
-  {
-    "id": "sj:de7fe0e3-6022-4f95-a291-1b8cc48f3f10",
-    "company": "Fortrea",
-    "title": "AIML Rapid Development Studio Intern",
-    "location": "Remote in USA (Other)",
-    "url": "https://fortrea.wd1.myworkdayjobs.com/Fortrea/job/Durham/AIML-Rapid-Development-Studio-Internship_266655"
   },
   {
     "id": "sj:85e39c78-3214-458c-8c40-cb7cf34d83a1",
@@ -1356,13 +1300,6 @@
     "title": "Software Engineer Intern",
     "location": "Southern Pines, NC (Other)",
     "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Southern-Pines-NC/Software-Engineer-Intern--Summer-2027-_R0031229"
-  },
-  {
-    "id": "sj:1fe84d82-9e4e-4ab2-a67d-5886a1a51abb",
-    "company": "Sierra Nevada Corporation",
-    "title": "Software Engineer Intern",
-    "location": "Southern Pines, NC (Other)",
-    "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Southern-Pines-NC/Software-Engineer-Intern--Summer-2027-_R0031230"
   },
   {
     "id": "sj:f9f2c39b-cbd9-4654-bfd9-2ff0ac221771",
@@ -2926,6 +2863,13 @@
     "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicle--Simulation_JR-202621508"
   },
   {
+    "id": "sj:93d22972-eeaf-42f9-a5b5-5c07e813b18b",
+    "company": "Zipline",
+    "title": "Zip Motion Planning Intern",
+    "location": "South SF (Other)",
+    "url": "https://www.zipline.com/open-roles/7992001003?gh_jid=7992001003"
+  },
+  {
     "id": "sj:48975da5-2bb2-4457-8702-de4898cd805e",
     "company": "Stripe",
     "title": "Software Engineer Intern",
@@ -3743,13 +3687,6 @@
     "title": "Analytics Engineer Intern",
     "location": "SF (Other)",
     "url": "https://boards.greenhouse.io/embed/job_app?token=8175471"
-  },
-  {
-    "id": "sj:8b26c26a-93b7-4702-b463-83420efc11af",
-    "company": "TruStage",
-    "title": "Information Technology Development and Infrastructure Intern",
-    "location": "Madison, WI (Other)",
-    "url": "https://trustage.wd1.myworkdayjobs.com/TruStage/job/Wisconsin---Remote/Enterprise-Information---Technology-Internship--Hybrid-_R-012155"
   },
   {
     "id": "sj:2800fc16-c3a8-41ad-a36d-d60bc2c68380",
@@ -5080,13 +5017,6 @@
     "title": "Software Engineering Intern",
     "location": "Chicago, IL (Other)",
     "url": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4708230005"
-  },
-  {
-    "id": "sj:f09f0a56-4999-4d19-afb4-894ea819d401",
-    "company": "GE Healthcare",
-    "title": "Engineering Development Program Intern - Software",
-    "location": "Waukesha, WI (Other)",
-    "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Edison-Engineering-Development-Program-Intern---Software_R4043933-2"
   },
   {
     "id": "sj:a6f02442-de0a-454f-a56f-8462c72d7c74",
