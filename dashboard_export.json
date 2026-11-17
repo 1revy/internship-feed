@@ -1,5 +1,19 @@
 [
   {
+    "id": "sj:b350f641-a0d1-4539-b545-8c26a0ad9fa7",
+    "company": "Duetti",
+    "title": "Product Intern",
+    "location": "NYC (New York)",
+    "url": "https://jobs.lever.co/duetti/cbc1ad6f-ec3d-42d8-8a53-9cd2712787b2/apply"
+  },
+  {
+    "id": "sj:92f9d8ff-e826-4aa9-b47b-b379a4227b94",
+    "company": "Duetti",
+    "title": "Data Intern",
+    "location": "NYC (New York)",
+    "url": "https://jobs.lever.co/duetti/9db49695-8ec8-40ad-b780-c73bb4594567/apply"
+  },
+  {
     "id": "sj:531a491d-17f0-414b-bc44-c2fa4f3f8f09",
     "company": "Addepar",
     "title": "Technical Product Management Intern - ADX",
@@ -278,6 +292,13 @@
     "title": "Robotics Applied Scientist 2 Intern - Robotics",
     "location": "Seattle, WA; North Reading, MA; NYC; Bellevue, WA; Sunnyvale, CA; Westborough, MA (New York)",
     "url": "https://amazon.jobs/en/jobs/10604778/2027-applied-science-internship-robotics-united-states"
+  },
+  {
+    "id": "sj:218fd898-7718-46b4-bc2b-65b9ee205d5c",
+    "company": "Soros Fund Management",
+    "title": "Trading Intern - Middle and Back Office Dev",
+    "location": "NYC (New York)",
+    "url": "https://job-boards.greenhouse.io/familyoffice/jobs/8202862003"
   },
   {
     "id": "sj:6f84906a-1c80-4e4e-9e1e-e9823c821842",
@@ -1134,6 +1155,20 @@
     "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002"
   },
   {
+    "id": "sj:212428e1-6f7b-4829-bf5f-a43560a86ad7",
+    "company": "Bound",
+    "title": "Product Management Intern",
+    "location": "Ames, IA (Other)",
+    "url": "https://ats.rippling.com/bound/jobs/40a62113-cdcc-4fad-a3e6-008597702316"
+  },
+  {
+    "id": "sj:411d0068-e3dc-4f32-ba5d-69e7b4649fb8",
+    "company": "TikTok",
+    "title": "Client Security & Data Foundation Machine Learning Engineer Intern",
+    "location": "San Jose, CA (Other)",
+    "url": "https://lifeattiktok.com/search/7708750900450134325"
+  },
+  {
     "id": "sj:f7c4221f-6c64-4799-8157-8a32799d7e85",
     "company": "Fanatics",
     "title": "Product Management Intern",
@@ -1314,13 +1349,6 @@
     "title": "Data Engineer Intern",
     "location": "Remote in USA (Other)",
     "url": "https://www.riotgames.com/en/work-with-us/job/8356716?gh_jid=8356716"
-  },
-  {
-    "id": "sj:b886be52-5989-4569-9fe1-b6d2d4e430cd",
-    "company": "FNBO",
-    "title": "Banking Product Intern",
-    "location": "Omaha, NE (Other)",
-    "url": "https://firstnational.wd12.myworkdayjobs.com/fnbocareers/job/Omaha---FN-Tower/Intern--Banking-Product_R-20261996"
   },
   {
     "id": "sj:6148ec5d-dd2a-47df-9649-33d31c25173a",
@@ -3241,13 +3269,6 @@
     "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Diego-CA/University---2027-Summer-Games-Systems-Engineer-Intern---San-Diego--CA_R0248365"
   },
   {
-    "id": "sj:53d8eb96-a4a4-4d3d-a59f-1308691c4a1a",
-    "company": "Booz Allen",
-    "title": "Systems Engineer Intern - Summer Games",
-    "location": "Honolulu, HI (Other)",
-    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Honolulu-HI/University---2027-Summer-Games-Systems-Engineer-Intern---Honolulu--HI_R0248370"
-  },
-  {
     "id": "sj:0e9bb9cd-7dee-4ce0-a479-654d1552f1bc",
     "company": "Booz Allen",
     "title": "Systems Engineer Intern - University",
@@ -3477,26 +3498,5 @@
     "title": "Systems Engineer Co-op - Software Engineering",
     "location": "Fond du Lac, WI (Other)",
     "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Mercury-Marine---Systems-Software-Engineering-Co-op_JR-051212"
-  },
-  {
-    "id": "sj:63b147f7-67e5-40ea-bf27-906ad1de151c",
-    "company": "TikTok",
-    "title": "Product Operations Intern",
-    "location": "LA (Other)",
-    "url": "https://lifeattiktok.com/search/7673361736079329541"
-  },
-  {
-    "id": "sj:9461eef2-85ff-4810-8147-6cf294000c7d",
-    "company": "TikTok",
-    "title": "Product Manager Intern - Pgc",
-    "location": "LA (Other)",
-    "url": "https://lifeattiktok.com/search/7673365416605010229"
-  },
-  {
-    "id": "sj:4890aa3f-9b23-4f72-8e21-fa891322a004",
-    "company": "TikTok",
-    "title": "Product Manager Intern - Pgc",
-    "location": "San Jose, CA (Other)",
-    "url": "https://lifeattiktok.com/search/7673365923163638069"
   }
 ]
