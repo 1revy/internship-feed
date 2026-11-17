@@ -49,13 +49,6 @@
     "url": "https://job-boards.greenhouse.io/addepar1/jobs/8910327002"
   },
   {
-    "id": "sj:bb4d63c9-3314-4a0d-a295-e15f62bd7a87",
-    "company": "Salesforce",
-    "title": "Product Management Intern - Product Management",
-    "location": "SF; NYC (New York)",
-    "url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/Summer-2027-Intern---Product-Management_JR367659"
-  },
-  {
     "id": "sj:000d33ac-e9e5-467f-bca9-5f233205ca83",
     "company": "Salesforce",
     "title": "Product Management Intern - Product Management",
@@ -285,13 +278,6 @@
     "title": "Robotics Applied Scientist 2 Intern - Robotics",
     "location": "Seattle, WA; North Reading, MA; NYC; Bellevue, WA; Sunnyvale, CA; Westborough, MA (New York)",
     "url": "https://amazon.jobs/en/jobs/10604778/2027-applied-science-internship-robotics-united-states"
-  },
-  {
-    "id": "sj:218fd898-7718-46b4-bc2b-65b9ee205d5c",
-    "company": "Soros Fund Management",
-    "title": "Trading Intern - Middle and Back Office Dev",
-    "location": "NYC (New York)",
-    "url": "https://job-boards.greenhouse.io/familyoffice/jobs/8202862003"
   },
   {
     "id": "sj:6f84906a-1c80-4e4e-9e1e-e9823c821842",
@@ -959,13 +945,6 @@
     "url": "https://apply.workable.com/javelin-global-commodities/j/CAF64E75BF/apply"
   },
   {
-    "id": "sj:495230b7-4be6-447a-9ce2-76170fb240a8",
-    "company": "Hiya",
-    "title": "Engineer Intern",
-    "location": "London, UK (London / Paris)",
-    "url": "https://jobs.ashbyhq.com/hiya/046212dd-41e3-46e7-a8ba-48cff5a7f947/application?embed=true"
-  },
-  {
     "id": "sj:2d43585f-8138-4d37-97ac-3ac58db1d2cc",
     "company": "TD Bank",
     "title": "Technology Intern",
@@ -1372,13 +1351,6 @@
     "url": "https://job-boards.greenhouse.io/addepar1/jobs/8910310002"
   },
   {
-    "id": "sj:33dafa3e-20d8-47c8-aca6-91cf06a6b50a",
-    "company": "T-Mobile",
-    "title": "Business Analytics & Reporting Intern",
-    "location": "Bellevue, WA (Other)",
-    "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Business-Analytics---Reporting-Internship_REQ381319"
-  },
-  {
     "id": "sj:ec960685-32ba-4b85-a1ed-2584192d31aa",
     "company": "GlobalFoundries",
     "title": "Systems Engineer Intern",
@@ -1736,13 +1708,6 @@
     "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/IT-Data-Intern---Summer-2027_R9820"
   },
   {
-    "id": "sj:8eb06226-0a94-47f2-a0bb-60bcb7df92c4",
-    "company": "Axiom Space",
-    "title": "Enterprise Data Analyst Intern - Power BI & Data Quality",
-    "location": "Houston, TX (Other)",
-    "url": "https://axiomspace.wd5.myworkdayjobs.com/External_Career_Site/job/Houston/Enterprise-Data-Analyst-Intern--Power-BI---Data-Quality--Summer-2027-_JR100823"
-  },
-  {
     "id": "sj:947ecf5c-75d7-40ab-9352-13a2b8e00ce5",
     "company": "Great American Insurance Company",
     "title": "Content Publishing Developer Intern",
@@ -1944,13 +1909,6 @@
     "title": "Data Analytics & Data Science Intern",
     "location": "Burlingame, CA (Other)",
     "url": "https://jobs.lever.co/SimbeRobotics/96ee45fb-f094-4751-a43d-3e376f32667f/apply"
-  },
-  {
-    "id": "sj:16eb930e-0ac5-48f4-b2e1-0092e4756c31",
-    "company": "Intercontinental Exchange",
-    "title": "Agentic AI Data Science Intern",
-    "location": "Jacksonville, FL (Other)",
-    "url": "https://ice.jibeapply.com/jobs/14070?icims=1"
   },
   {
     "id": "sj:7d0c96ac-b326-411e-84bd-cc3908f4056e",
@@ -3498,5 +3456,47 @@
     "title": "Data & AI Engineering Intern",
     "location": "Cincinnati, OH (Other)",
     "url": "https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Data---AI-Engineering-Internship_R000157499"
+  },
+  {
+    "id": "sj:4a6c8dec-bbc4-43b8-a768-fbedfacf95d3",
+    "company": "Procter & Gamble",
+    "title": "Data Scientist Intern",
+    "location": "Cincinnati, OH (Other)",
+    "url": "https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Data-Scientist--Master-s-Degree--Internship_R000157504"
+  },
+  {
+    "id": "sj:355a0760-208b-425c-9769-6bd234775cfa",
+    "company": "Procter & Gamble",
+    "title": "IT Engineering Internship - Software, Platform, Network",
+    "location": "Cincinnati, OH (Other)",
+    "url": "https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/IT-Engineering-Internship--Software--Platform----Network-_R000157503"
+  },
+  {
+    "id": "sj:7fff5796-fc88-4d04-a6fa-be35e0bdb2e0",
+    "company": "TikTok",
+    "title": "AI Product Manager Intern - Product Social",
+    "location": "San Jose, CA (Other)",
+    "url": "https://lifeattiktok.com/search/7675616554318596357"
+  },
+  {
+    "id": "sj:3085d453-c413-4fb3-9fc6-7da1855ee4f1",
+    "company": "TikTok",
+    "title": "Product Manager Intern - Content and Service Ads",
+    "location": "San Jose, CA (Other)",
+    "url": "https://lifeattiktok.com/search/7676283436713593093"
+  },
+  {
+    "id": "sj:fc548cb2-6ef0-4989-985c-dcdcc863281d",
+    "company": "C3.ai",
+    "title": "Data Scientist Intern",
+    "location": "Redwood City, CA (Other)",
+    "url": "https://job-boards.greenhouse.io/c3ascend/jobs/8738917002"
+  },
+  {
+    "id": "sj:74a4f228-ddb1-4953-9597-1c278c491082",
+    "company": "Vanguard",
+    "title": "Data Science Intern - College to Corporate IT",
+    "location": "Charlotte, NC (Other)",
+    "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Data-Science--NC-_181765"
   }
 ]
