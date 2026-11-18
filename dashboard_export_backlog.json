@@ -1,26 +1,5 @@
 [
   {
-    "id": "sj:5de3980e-8b11-479f-b78e-cce6b70957b5",
-    "company": "Vanguard",
-    "title": "Data Analyst Intern - College to Corporate IT",
-    "location": "Charlotte, NC (Other)",
-    "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Data-Analyst--NC-_181767"
-  },
-  {
-    "id": "sj:b639bba8-cb2b-4262-9125-9b56aeefa4cb",
-    "company": "TikTok",
-    "title": "Software Engineer Intern - TikTok Search Data Infra",
-    "location": "San Jose, CA (Other)",
-    "url": "https://lifeattiktok.com/search/7675128776856029445"
-  },
-  {
-    "id": "sj:5370153e-8623-4e1d-b4f6-986a7ab410a1",
-    "company": "PIMCO",
-    "title": "Software Engineering Intern - Technology Analyst",
-    "location": "Austin, TX (Other)",
-    "url": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Austin-TX-USA/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering_R106745"
-  },
-  {
     "id": "sj:e95cee0e-a2ed-44d1-9017-9befd82e1561",
     "company": "TikTok",
     "title": "Data Engineer Intern - Data Platform Global Live",
@@ -539,6 +518,13 @@
     "url": "https://jobs.ashbyhq.com/reliable-robotics/6112c488-7072-4ce3-8c0f-645faa0e7cf9/application?embed=true"
   },
   {
+    "id": "sj:e40ead49-69ad-422a-8008-5929557e27a4",
+    "company": "General Dynamics Information Technology",
+    "title": "Engineering Intern",
+    "location": "Falls Church, VA; Gaithersburg, MD (Other)",
+    "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Summer-2027-Engineering--General--Internship_RQ232323"
+  },
+  {
     "id": "sj:0a8f361d-eac9-4e93-9219-0611e828cf85",
     "company": "TikTok",
     "title": "Machine Learning Scientist Intern - Local Services",
@@ -824,13 +810,6 @@
     "title": "Research Engineer Intern",
     "location": "San Jose, CA (Other)",
     "url": "https://lifeattiktok.com/search/7704986879082907909"
-  },
-  {
-    "id": "sj:705e5826-affc-452d-a27d-d5d1b43a091e",
-    "company": "Ryan",
-    "title": "Application Development Intern - Application Development",
-    "location": "Burlington, VT (Other)",
-    "url": "https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Burlington/Summer-2027-Intern--Application-Development_R0020810-1"
   },
   {
     "id": "sj:85e39c78-3214-458c-8c40-cb7cf34d83a1",
@@ -2149,13 +2128,6 @@
     "url": "https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Plano/Summer-2027-Intern--Software-Development_R0020822-1"
   },
   {
-    "id": "sj:5bfc436a-9656-4284-9854-0a7cfa20e018",
-    "company": "Ryan",
-    "title": "Application Development Intern",
-    "location": "Plano, TX (Other)",
-    "url": "https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Plano/Summer-2027-Intern--Application-Development_R0020820-1"
-  },
-  {
     "id": "sj:9ca48e9a-a09b-4300-802e-47d9b4466d99",
     "company": "Ryan",
     "title": "Software Engineer Intern",
@@ -2266,13 +2238,6 @@
     "title": "Software Engineer Intern",
     "location": "LA; Los Gatos, CA (Other)",
     "url": "https://explore.jobs.netflix.net/careers/job/790318904468"
-  },
-  {
-    "id": "sj:ae3e214d-ad36-44cf-9706-a3988951b4d2",
-    "company": "Medpace",
-    "title": "Python Developer Intern",
-    "location": "Cincinnati, OH (Other)",
-    "url": "https://careers.medpace.com/jobs/13059?icims=1"
   },
   {
     "id": "sj:342edb51-b682-4daa-80fd-21c355143f3e",
@@ -3127,13 +3092,6 @@
     "title": "AI Research Intern",
     "location": "United States (Other)",
     "url": "https://jobs.ashbyhq.com/oneapp/84beb108-c04b-42d3-a9ae-9a91210201b7/application?embed=true"
-  },
-  {
-    "id": "sj:25230324-75c3-45fd-95c9-96e3284c06d4",
-    "company": "GuideStone",
-    "title": "Software Developer Intern - Software Development",
-    "location": "Dallas, TX (Other)",
-    "url": "https://guidestone.wd1.myworkdayjobs.com/guidestone/job/Dallas-TX/Summer-Intern---Software-Developer_R2129"
   },
   {
     "id": "sj:975bd2a5-144d-43f2-8cf0-a39f60656607",
@@ -4156,13 +4114,6 @@
     "title": "G3 Software Engineer Intern",
     "location": "Oshkosh, WI (Other)",
     "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Oshkosh-WI/Mercury-Marine--Software-Validation-Intern_JR-051160"
-  },
-  {
-    "id": "sj:d6b556fe-abad-41f9-80f2-0377ef5e9b34",
-    "company": "Medpace",
-    "title": "Python Intern - Summer 2027",
-    "location": "Cincinnati, OH (Other)",
-    "url": "https://careers.medpace.com/jobs/12962?icims=1"
   },
   {
     "id": "sj:40a73eb1-1878-4203-a116-82e2ad5c39c2",
