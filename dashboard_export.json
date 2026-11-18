@@ -49,13 +49,6 @@
     "url": "https://job-boards.greenhouse.io/addepar1/jobs/8910327002"
   },
   {
-    "id": "sj:000d33ac-e9e5-467f-bca9-5f233205ca83",
-    "company": "Salesforce",
-    "title": "Product Management Intern - Product Management",
-    "location": "SF; NYC (New York)",
-    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Product-Management_JR367659-1"
-  },
-  {
     "id": "sj:b9c002ea-de62-45ca-a0e0-7210aff84508",
     "company": "Jomboy Media",
     "title": "Business Intelligence Intern",
@@ -264,6 +257,20 @@
     "title": "Sector Data Scientist Intern",
     "location": "NYC (New York)",
     "url": "https://www.citadel.com/careers/details/sector-data-scientist-2027-intern-us/"
+  },
+  {
+    "id": "sj:b0a65ac1-33c7-4ae4-a6e5-f8891c8b8bb2",
+    "company": "Microsoft",
+    "title": "Research Intern - Frontier Tuning",
+    "location": "Boston, MA; SF; Redmond, WA; NYC; Sunnyvale, CA; Mountain View, CA; Baltimore, MD (New York)",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557075074"
+  },
+  {
+    "id": "sj:793b7566-ea82-4894-b777-45367504c6c4",
+    "company": "Basis Research Institute",
+    "title": "Research Intern",
+    "location": "Cambridge, MA; NYC (New York)",
+    "url": "https://jobs.ashbyhq.com/basis-research/efc50ca5-c190-4ef7-ab8a-6b7310b5dd0c/application?embed=true"
   },
   {
     "id": "sj:71ef84ba-69f2-4413-9b83-712ab2b91299",
@@ -1113,6 +1120,41 @@
     "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002"
   },
   {
+    "id": "sj:0c6dc660-1c39-4976-ae4d-67e73ae7f1d6",
+    "company": "Smarty",
+    "title": "Product Management Intern",
+    "location": "Orem, UT (Other)",
+    "url": "https://ats.rippling.com/smarty/jobs/e47afb29-f488-466b-ad29-11280c68f749"
+  },
+  {
+    "id": "sj:af3eb102-71c0-4ec6-b56e-d1109f2abe2b",
+    "company": "Paccar",
+    "title": "Data Scientist Intern",
+    "location": "Denton, TX (Other)",
+    "url": "https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Data-Scientist-TX-76205-7864/1458178433/?ats=successfactors"
+  },
+  {
+    "id": "sj:68916cbe-97cc-414d-8732-d68540a99d35",
+    "company": "APEX Analytix",
+    "title": "Product Management Intern - DevOps",
+    "location": "Greensboro, NC (Other)",
+    "url": "https://ats.rippling.com/apexanalytix-careers/jobs/101ae05c-1f3c-4d80-9f71-216aa078c164"
+  },
+  {
+    "id": "sj:11f69ae2-522e-4819-8898-d55df90e6226",
+    "company": "Constellation Energy",
+    "title": "IT Software Developer Intern",
+    "location": "San Diego, CA (Other)",
+    "url": "https://jobs.constellationenergy.com/jobs/143150?icims=1&lang=en-us"
+  },
+  {
+    "id": "sj:75359d3c-071a-4952-b187-7bdc22a0f482",
+    "company": "Attain Partners",
+    "title": "Data Analytics Intern",
+    "location": "McLean, VA (Other)",
+    "url": "https://job-boards.greenhouse.io/attainpartners/jobs/5485427008"
+  },
+  {
     "id": "sj:793a9ac6-92f9-400d-b060-1bb9144677cd",
     "company": "Road Commission for Oakland County",
     "title": "Geographic Information Systems Intern",
@@ -1694,13 +1736,6 @@
     "url": "https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Newark-DE/Data-Science---Engineering-Intern_R26_000659"
   },
   {
-    "id": "sj:b748b636-64b5-4ca3-b76a-cc941b9c3ab4",
-    "company": "Sonos",
-    "title": "Software Product Manager Intern",
-    "location": "Seattle, WA (Other)",
-    "url": "https://sonos.wd1.myworkdayjobs.com/Sonos/job/Seattle-WA/Software-Product-Management-Intern--Seattle-_R2888-1"
-  },
-  {
     "id": "sj:c1ba6f20-fc24-4161-a598-49b44171c273",
     "company": "Great American Insurance Company",
     "title": "IT Data Intern",
@@ -1911,20 +1946,6 @@
     "url": "https://jobs.lever.co/SimbeRobotics/96ee45fb-f094-4751-a43d-3e376f32667f/apply"
   },
   {
-    "id": "sj:7d0c96ac-b326-411e-84bd-cc3908f4056e",
-    "company": "Intercontinental Exchange",
-    "title": "Product Management Intern",
-    "location": "Atlanta, GA (Other)",
-    "url": "https://ice.jibeapply.com/jobs/14065?icims=1"
-  },
-  {
-    "id": "sj:71b8953a-ea1d-4908-ae9c-af9ae857ee7b",
-    "company": "Intercontinental Exchange",
-    "title": "Data Analyst Intern",
-    "location": "Jacksonville, FL (Other)",
-    "url": "https://ice.jibeapply.com/jobs/14089?icims=1"
-  },
-  {
     "id": "sj:fedc9268-dfe7-4d88-9700-02a53f0ee30f",
     "company": "Amazon",
     "title": "Technical Product Manager Intern",
@@ -2007,13 +2028,6 @@
     "title": "Data Science Intern - Core Telematics",
     "location": "Illinois (Other)",
     "url": "https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---IL-Remote/Arity---Data-Science-Intern--Core-Telematics-_R36285"
-  },
-  {
-    "id": "sj:9147dac1-26c6-4658-9945-d0022e829e9a",
-    "company": "CVS Health",
-    "title": "Medicaid Data Analytics Intern",
-    "location": "Hartford, CT (Other)",
-    "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/Medicaid-Data-Analytics-Corporate-Internship---Summer-2027--Undergraduate-_R1052342"
   },
   {
     "id": "sj:e6f687d4-8b6f-4d74-ac4d-6c6844ea1c93",
@@ -2688,25 +2702,11 @@
     "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Software-Engineering_JR-202620546"
   },
   {
-    "id": "sj:d473bd44-d390-41bc-b173-144940110b9e",
-    "company": "Waymo",
-    "title": "Product Data Science Intern",
-    "location": "SF (Other)",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=8199365"
-  },
-  {
     "id": "sj:43906c1b-7f09-425f-89c4-c110033758ce",
     "company": "The Brattle Group",
     "title": "Energy Analyst Intern - Economics",
     "location": "Boston, MA (Other)",
     "url": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735999005"
-  },
-  {
-    "id": "sj:71d40ca7-1546-417c-8bf5-c360ac814bb0",
-    "company": "Together AI",
-    "title": "Systems Research Engineer Intern - GPU Programming",
-    "location": "SF (Other)",
-    "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238460007"
   },
   {
     "id": "sj:7c51e306-a24c-4fac-b188-b36e0bc3f128",
