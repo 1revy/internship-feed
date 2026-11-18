@@ -483,6 +483,20 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Remote/System-Software-Engineering-Intern--GPU---2027_JR2025334"
   },
   {
+    "id": "sj:57496224-42e6-4869-8a6e-bc34925be9f1",
+    "company": "Raptor Maps",
+    "title": "Software Engineer Intern",
+    "location": "Somerville, MA (Other)",
+    "url": "https://ats.rippling.com/raptor-maps-inc/jobs/be25d98e-262f-42a2-8276-dffbfbbf402a"
+  },
+  {
+    "id": "sj:00b1c762-9ca4-4c23-afff-d070ee8279e6",
+    "company": "Anduril",
+    "title": "Machine Learning Engineer Intern",
+    "location": "Santa Ana, CA (Other)",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5274037007"
+  },
+  {
     "id": "sj:1c9dc088-116a-43ff-a6ae-6ab513f43e5e",
     "company": "SurePoint Ag Systems",
     "title": "Drone Imaging Agronomy Intern",
@@ -502,13 +516,6 @@
     "title": "Software Engineer Intern - C# - ASP.NET",
     "location": "Overland Park, KS (Other)",
     "url": "https://jobs.lever.co/questanalytics/8e5758b7-6945-4c22-9f89-3d029ca9716f/apply"
-  },
-  {
-    "id": "sj:d48bdf87-b0ff-4edc-a9a5-5f5ecca2154c",
-    "company": "Boston Scientific",
-    "title": "AI Acceleration Intern",
-    "location": "Marlborough, MA (Other)",
-    "url": "https://bostonscientific.eightfold.ai/careers/job/563602813862390"
   },
   {
     "id": "sj:ba118afe-7991-4a5a-87c7-f68325d9f99d",
@@ -663,13 +670,6 @@
     "title": "Vision & Learning Intern",
     "location": "Sunnyvale, CA (Other)",
     "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Vision---Learning-Intern_R40196"
-  },
-  {
-    "id": "sj:f176d1e9-17ce-4475-93c3-e20392a140d5",
-    "company": "Airbnb",
-    "title": "Advanced Analytics Intern",
-    "location": "Remote in USA (Other)",
-    "url": "https://careers.airbnb.com/positions/8380007?gh_jid=8380007"
   },
   {
     "id": "sj:e719ef8c-20ed-4bd7-94ce-b443ac1e87a2",
@@ -1036,13 +1036,6 @@
     "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/a28e047a-ee12-452c-883b-ecd995d1b6b2/application?embed=true"
   },
   {
-    "id": "sj:41415b92-15bf-4391-90e1-04a32e549fed",
-    "company": "CrowdStrike",
-    "title": "Intelligence Intern",
-    "location": "Arlington County, Arlington, VA (Other)",
-    "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Arlington-VA/Intelligence-Intern---Summer-2027_R30605"
-  },
-  {
     "id": "sj:10be2e60-c579-4804-8665-b9ea32e009ab",
     "company": "Shield AI",
     "title": "Software Engineer Intern Co-op",
@@ -1230,13 +1223,6 @@
     "title": "Full-Stack Life Sciences Software Engineer Co-op",
     "location": "Durham, NC; Burlington, NC (Other)",
     "url": "https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Co-op---Full-Stack-Life-Sciences-Engineer_2639083"
-  },
-  {
-    "id": "sj:4a439ec1-a49b-456f-b535-4f38a2356cf0",
-    "company": "Sierra Nevada Corporation",
-    "title": "Software Engineer Intern",
-    "location": "Southern Pines, NC (Other)",
-    "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Southern-Pines-NC/Software-Engineer-Intern--Summer-2027-_R0031229"
   },
   {
     "id": "sj:f9f2c39b-cbd9-4654-bfd9-2ff0ac221771",
@@ -1531,13 +1517,6 @@
     "title": "Plasma Physics Intern",
     "location": "Devens, MA (Other)",
     "url": "https://jobs.lever.co/cfsenergy/32987ab7-59ed-4364-a012-91cbece8877a/apply"
-  },
-  {
-    "id": "sj:59c8e11d-c4c9-4e51-895d-4e7e5e98c975",
-    "company": "Amazon",
-    "title": "Database Engineer Intern",
-    "location": "Seattle, WA; East Palo Alto, CA (Other)",
-    "url": "https://amazon.jobs/en/jobs/10590290/database-engineer-intern-summer-2027"
   },
   {
     "id": "sj:0cfe16e4-2974-4718-96e1-30a03de9940e",
@@ -1902,13 +1881,6 @@
     "title": "Software Engineer Intern - Drivers and Utilities",
     "location": "Bristol, UK (Other)",
     "url": "https://job-boards.greenhouse.io/graphcore/jobs/8894376002"
-  },
-  {
-    "id": "sj:269f1429-7b09-4c8c-958f-36696b091490",
-    "company": "Graphcore",
-    "title": "Software Engineer Intern - AI Compute Libraries & Performance",
-    "location": "Bristol, UK (Other)",
-    "url": "https://job-boards.greenhouse.io/graphcore/jobs/8894868002"
   },
   {
     "id": "sj:23e73d43-3b98-441f-abc3-9363e7f5d4aa",
@@ -3598,13 +3570,6 @@
     "url": "https://jobs.ashbyhq.com/allen-control-systems/a7831fef-7125-4c03-b828-5f0472989037/application?embed=true"
   },
   {
-    "id": "sj:b7c13988-0346-4ec4-a700-b203261be2f2",
-    "company": "Revel",
-    "title": "Full Stack Software Engineer Intern",
-    "location": "SF; LA (Other)",
-    "url": "https://jobs.ashbyhq.com/revel/29968ce1-8838-44e8-ac4e-6b1c87ce5314/application?embed=true"
-  },
-  {
     "id": "sj:7b684d8f-d5d1-4f2a-ae66-c9f8f79aec21",
     "company": "Revel",
     "title": "Forward Deployed Engineer Intern - Software",
@@ -3673,13 +3638,6 @@
     "title": "Software Engineer Co-op",
     "location": "Cedar Rapids, IA (Other)",
     "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineer-Co-op--Summer-Fall-2027----Onsite_01871347"
-  },
-  {
-    "id": "sj:75efacf7-58e1-468e-9621-e23a1444acdf",
-    "company": "ICF International",
-    "title": "Software Developer Intern",
-    "location": "Reston, VA (Other)",
-    "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Software-Developer--Reston--VA-_R2603002"
   },
   {
     "id": "sj:492852af-0410-4c62-9c26-766e5ec7b288",
@@ -4151,13 +4109,6 @@
     "url": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Software-Developer-Internship_R_2121"
   },
   {
-    "id": "sj:8a398659-4aa5-4cf4-a9d1-222302c48e50",
-    "company": "Booz Allen",
-    "title": "Software Developer Intern - University",
-    "location": "McLean, VA (Other)",
-    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern_R0248029"
-  },
-  {
     "id": "sj:841e2cd6-9fb6-4ffd-adb4-671a6b81ade2",
     "company": "Booz Allen",
     "title": "Software Developer Intern - Summer Games",
@@ -4296,13 +4247,6 @@
     "title": "Software Engineer Intern - TikTok Search Architecture",
     "location": "San Jose, CA (Other)",
     "url": "https://lifeattiktok.com/search/7675517686256863541"
-  },
-  {
-    "id": "sj:52758ea7-052d-4c85-9fbe-2558a05538f1",
-    "company": "General Matter",
-    "title": "Software Engineering Intern",
-    "location": "LA (Other)",
-    "url": "https://job-boards.greenhouse.io/generalmatter/jobs/5377118008"
   },
   {
     "id": "sj:af0078da-4418-4e04-afb5-17ec87e8381a",
@@ -5150,6 +5094,13 @@
     "title": "AI Developer Technology Engineering Intern - 2027",
     "location": "3 Locations (Other)",
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shenzhen/AI-Developer-Technology-Engineering-Intern---2027_JR2024818"
+  },
+  {
+    "id": "sj:338d9e1a-1a20-438f-a987-cab632ee2298",
+    "company": "Bissell",
+    "title": "AI & Automation Intern",
+    "location": "Grand Rapids, MI (Other)",
+    "url": "https://careers.bissell.com/jobs/9995?icims=1&lang=en-us"
   },
   {
     "id": "sj:7e72d2cd-9045-4a9f-951e-e816064fd1cd",
