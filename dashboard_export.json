@@ -476,18 +476,18 @@
     "url": "https://boards.greenhouse.io/point72/jobs/8885733002"
   },
   {
-    "id": "sj:191ec10e-48aa-42a6-a296-acd2f1d46586",
-    "company": "Boston Consulting Group",
-    "title": "Forward Deployed AI Engineer Intern",
-    "location": "Boston, MA; LA; Chicago, IL; NYC (New York)",
-    "url": "https://careers.bcg.com/global/en/job/59702"
-  },
-  {
     "id": "sj:68895e12-9a1f-4ca5-8dfb-b050f2ea8a43",
     "company": "Google",
     "title": "Forward Deployed Engineer Intern",
     "location": "NYC; Sunnyvale, CA (New York)",
     "url": "https://www.google.com/about/careers/applications/jobs/results/75665705386549958"
+  },
+  {
+    "id": "sj:3c660071-514f-4ae0-933a-05082c35f633",
+    "company": "Google",
+    "title": "People Analytics Intern",
+    "location": "SF; Chicago, IL; NYC; Mountain View, CA; Atlanta, GA (New York)",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/81809776362562246"
   },
   {
     "id": "sj:65d5f968-db70-4ced-968a-605604c841f5",
@@ -847,6 +847,13 @@
     "url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383231008"
   },
   {
+    "id": "sj:382e68bd-7f9a-433c-a906-cf3b15984178",
+    "company": "Fanatics",
+    "title": "Product Intern",
+    "location": "London, UK (London / Paris)",
+    "url": "https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4510585009"
+  },
+  {
     "id": "sj:61cec817-fbbc-4b1c-a32b-3f284958fabd",
     "company": "DraftKings",
     "title": "Data Science Intern",
@@ -957,13 +964,6 @@
     "title": "Technology Intern",
     "location": "London, UK (London / Paris)",
     "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/London-United-Kingdom/XMLNAME-2027-Summer-Internship---Technology_R_1518239"
-  },
-  {
-    "id": "sj:1a7232dc-f554-4d51-a14c-0119b05d8672",
-    "company": "Rothesay",
-    "title": "Software Engineer Intern",
-    "location": "London, UK (London / Paris)",
-    "url": "https://job-boards.greenhouse.io/rothesaygraduates/jobs/8811551002"
   },
   {
     "id": "sj:1962fda2-9358-4d0b-a814-d0e55e225392",
@@ -1741,13 +1741,6 @@
     "title": "IT Data Intern",
     "location": "Cincinnati, OH (Other)",
     "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/IT-Data-Intern---Summer-2027_R9820"
-  },
-  {
-    "id": "sj:947ecf5c-75d7-40ab-9352-13a2b8e00ce5",
-    "company": "Great American Insurance Company",
-    "title": "Content Publishing Developer Intern",
-    "location": "Cincinnati, OH (Other)",
-    "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Content-Publishing-Developer-Intern---Summer-2027_R9813"
   },
   {
     "id": "sj:e0096175-7492-48c9-9a0f-d4b5ba3ce428",
@@ -3498,5 +3491,12 @@
     "title": "Data Science Intern - College to Corporate IT",
     "location": "Charlotte, NC (Other)",
     "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Data-Science--NC-_181765"
+  },
+  {
+    "id": "sj:a8fce259-7cd2-44ea-a7ab-787260c1308e",
+    "company": "Vanguard",
+    "title": "Data Science Intern - Information Technology",
+    "location": "Malvern, PA (Other)",
+    "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Data-Science--PA-_181766"
   }
 ]
