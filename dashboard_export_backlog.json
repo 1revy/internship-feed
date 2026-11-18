@@ -1,12 +1,5 @@
 [
   {
-    "id": "sj:a8fce259-7cd2-44ea-a7ab-787260c1308e",
-    "company": "Vanguard",
-    "title": "Data Science Intern - Information Technology",
-    "location": "Malvern, PA (Other)",
-    "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Data-Science--PA-_181766"
-  },
-  {
     "id": "sj:5de3980e-8b11-479f-b78e-cce6b70957b5",
     "company": "Vanguard",
     "title": "Data Analyst Intern - College to Corporate IT",
@@ -481,6 +474,13 @@
     "title": "System Software Engineering Intern, GPU - 2027",
     "location": "2 Locations (Other)",
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Remote/System-Software-Engineering-Intern--GPU---2027_JR2025334"
+  },
+  {
+    "id": "sj:27c63eb2-f606-4f11-bf9a-3392a2d765f1",
+    "company": "Airbnb",
+    "title": "Software Engineer Intern",
+    "location": "SF (Other)",
+    "url": "https://careers.airbnb.com/positions/8360478?gh_jid=8360478"
   },
   {
     "id": "sj:57496224-42e6-4869-8a6e-bc34925be9f1",
@@ -1841,13 +1841,6 @@
     "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/AI-Software-Intern--Summer-2027-_JR-2604029"
   },
   {
-    "id": "sj:6244dbb0-e314-486b-b2c6-143c829bd211",
-    "company": "Zillow",
-    "title": "Software Development Engineer Intern",
-    "location": "Seattle, WA; Remote in USA (Other)",
-    "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Software-Development-Engineer---Intern_P751630"
-  },
-  {
     "id": "sj:a1f44bba-d5c1-4c7c-ac07-e78ab47ee7a5",
     "company": "Skydio",
     "title": "Mobile Software Engineer Intern",
@@ -2189,13 +2182,6 @@
     "title": "R&D Engineer Intern",
     "location": "Key West, FL (Other)",
     "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Key-West-FL/R-D-Engineer-Intern_REQ_0000083331"
-  },
-  {
-    "id": "sj:55d8577a-649c-47a8-a60f-2fc353841220",
-    "company": "Axiom Space",
-    "title": "Software Engineer Intern",
-    "location": "Houston, TX (Other)",
-    "url": "https://axiomspace.wd5.myworkdayjobs.com/External_Career_Site/job/Houston/Software-Engineering-Intern--Summer-2027-_JR100767"
   },
   {
     "id": "sj:a79f7fb4-d7b1-4429-a9e6-94c1462ee5d1",
