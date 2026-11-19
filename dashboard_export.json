@@ -168,13 +168,6 @@
     "url": "https://sterlingmets.wd5.myworkdayjobs.com/Mets/job/Citi-Field--Queens-New-York/Intern--Data-Science_R1508"
   },
   {
-    "id": "sj:f42402c6-a3a3-4d0e-bebd-ba0e257a821c",
-    "company": "SeatGeek",
-    "title": "Data Analyst Intern",
-    "location": "NYC (New York)",
-    "url": "https://seatgeek.com/jobs/8247554?gh_jid=8247554"
-  },
-  {
     "id": "sj:70c5e345-3c27-4d13-be7f-38b995fcf2ce",
     "company": "Pinterest",
     "title": "Data Science Intern",
@@ -1120,6 +1113,41 @@
     "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002"
   },
   {
+    "id": "sj:1344faa8-1ac5-42aa-9e6f-7777257aca98",
+    "company": "Lucid",
+    "title": "Product Management Intern",
+    "location": "Salt Lake City, UT (Other)",
+    "url": "https://job-boards.greenhouse.io/lucidsoftware/jobs/6239814004"
+  },
+  {
+    "id": "sj:79c63349-953a-4d76-82a2-2c01a95745f7",
+    "company": "Lucid",
+    "title": "Product Management Intern",
+    "location": "Raleigh, NC (Other)",
+    "url": "https://job-boards.greenhouse.io/lucidsoftware/jobs/6239818004"
+  },
+  {
+    "id": "sj:ed7434b9-376e-4899-b642-573225c9c7c9",
+    "company": "Goldman Sachs",
+    "title": "Summer Analyst Intern - Multiple Teams",
+    "location": "Albany, NY (Other)",
+    "url": "https://higher.gs.com/roles/189373?type=students"
+  },
+  {
+    "id": "sj:3966d53c-f47c-411d-add7-e02180c0f986",
+    "company": "Anduril",
+    "title": "Business Systems Engineer Intern",
+    "location": "Costa Mesa, CA (Other)",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5300647007"
+  },
+  {
+    "id": "sj:88c58312-a80b-4a0f-ae5f-cdcf1eb8af12",
+    "company": "Sheetz",
+    "title": "Business Intelligence Analytics Intern",
+    "location": "Pittsburgh, PA (Other)",
+    "url": "https://jobs.sheetz.com/jobs/86015?icims=1&lang=en-us"
+  },
+  {
     "id": "sj:0c6dc660-1c39-4976-ae4d-67e73ae7f1d6",
     "company": "Smarty",
     "title": "Product Management Intern",
@@ -1981,13 +2009,6 @@
     "url": "https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Technology--Production-Support--Summer-Analyst--Tampa---USA--2027_261003298"
   },
   {
-    "id": "sj:8668b886-e169-4a45-ae60-da68a6f0eabd",
-    "company": "Citi",
-    "title": "Technology Analyst Intern - Application Development",
-    "location": "Jacksonville, FL (Other)",
-    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Jacksonville-Florida-United-States/Technology--Application-Development--Summer-Analyst--Jacksonville---USA--2027_261004418"
-  },
-  {
     "id": "sj:fb7c3da2-a194-48d2-ac39-bdfc88cad4d0",
     "company": "Constellation Energy",
     "title": "Data & Digital Transformation Intern - Geysers",
@@ -2392,13 +2413,6 @@
     "title": "Associate Solutions Engineer Intern - Data Warehouse",
     "location": "St. Louis, MO; Effingham, IL (Other)",
     "url": "https://midlandsb.wd1.myworkdayjobs.com/msbcareers/job/Effingham-IL/Intern---Associate-Solutions-Engineer---Data-Warehouse_JR1462"
-  },
-  {
-    "id": "sj:fdc152bc-2ce6-48c0-86db-6a70bc5a49f3",
-    "company": "Koch Industries",
-    "title": "Product Management Intern",
-    "location": "Eden Prairie, MN; Lisle, IL (Other)",
-    "url": "https://koch.avature.net/en_US/careers/JobDetail/195099"
   },
   {
     "id": "sj:af2c6dba-8d51-48ed-84a8-04702a77d384",
@@ -2868,20 +2882,6 @@
     "title": "IT Data Engineering Intern",
     "location": "Baltimore, MD (Other)",
     "url": "https://jobs.constellationenergy.com/jobs/138716?icims=1"
-  },
-  {
-    "id": "sj:2649b240-bda5-4d10-bbcc-5ddb74bb2202",
-    "company": "Perpay",
-    "title": "Data Engineering Intern",
-    "location": "Philadelphia, PA (Other)",
-    "url": "https://job-boards.greenhouse.io/perpay/jobs/4076965007"
-  },
-  {
-    "id": "sj:8b79a805-42b6-4285-b58c-d06a34e663df",
-    "company": "Veeam Software",
-    "title": "Data Analytics & Programs Intern",
-    "location": "Georgia (Other)",
-    "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955300101"
   },
   {
     "id": "sj:14536234-60d9-4e3f-a4e0-395db39bd0ea",
@@ -3479,13 +3479,6 @@
     "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Data-Science--PA-_181766"
   },
   {
-    "id": "sj:5de3980e-8b11-479f-b78e-cce6b70957b5",
-    "company": "Vanguard",
-    "title": "Data Analyst Intern - College to Corporate IT",
-    "location": "Charlotte, NC (Other)",
-    "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Data-Analyst--NC-_181767"
-  },
-  {
     "id": "sj:b639bba8-cb2b-4262-9125-9b56aeefa4cb",
     "company": "TikTok",
     "title": "Software Engineer Intern - TikTok Search Data Infra",
@@ -3498,5 +3491,12 @@
     "title": "Software Engineering Intern - Technology Analyst",
     "location": "Austin, TX (Other)",
     "url": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Austin-TX-USA/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering_R106745"
+  },
+  {
+    "id": "sj:e95cee0e-a2ed-44d1-9017-9befd82e1561",
+    "company": "TikTok",
+    "title": "Data Engineer Intern - Data Platform Global Live",
+    "location": "San Jose, CA (Other)",
+    "url": "https://lifeattiktok.com/search/7674032146438162693"
   }
 ]
