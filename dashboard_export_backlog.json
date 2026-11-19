@@ -1,12 +1,5 @@
 [
   {
-    "id": "sj:e95cee0e-a2ed-44d1-9017-9befd82e1561",
-    "company": "TikTok",
-    "title": "Data Engineer Intern - Data Platform Global Live",
-    "location": "San Jose, CA (Other)",
-    "url": "https://lifeattiktok.com/search/7674032146438162693"
-  },
-  {
     "id": "sj:d1f12ffa-cc86-44c9-aad3-b6def1a50517",
     "company": "TikTok",
     "title": "Product Solutions and Operations Intern - Commerce Ads",
@@ -413,13 +406,6 @@
     "url": "https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Milwaukee-WI/Data-Engineering-Intern-OR-Student-Co-Op_JR0000037453-1"
   },
   {
-    "id": "sj:33d87281-2914-4356-ad13-441114284934",
-    "company": "AQR Capital Management",
-    "title": "Engineering Summer Analyst Intern",
-    "location": "Greenwich, CT (Other)",
-    "url": "https://careers.aqr.com/jobs?gh_jid=7926647&gh_jid=7926647"
-  },
-  {
     "id": "sj:69225149-308a-4cc5-84fa-f22b334b94b9",
     "company": "Marmon Holdings",
     "title": "Data Engineering Intern/Co-op",
@@ -455,18 +441,18 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Remote/System-Software-Engineering-Intern--GPU---2027_JR2025334"
   },
   {
+    "id": "sj:b0ce7f24-559f-4b1c-bed2-b832cc9c2944",
+    "company": "Toyota Research Institute",
+    "title": "Robotics Intern - Generalist Robot Learning",
+    "location": "Los Altos, CA (Other)",
+    "url": "https://jobs.lever.co/tri/4cac9569-cc90-4dcd-96b8-d9777c35c943/apply"
+  },
+  {
     "id": "sj:27c63eb2-f606-4f11-bf9a-3392a2d765f1",
     "company": "Airbnb",
     "title": "Software Engineer Intern",
     "location": "SF (Other)",
     "url": "https://careers.airbnb.com/positions/8360478?gh_jid=8360478"
-  },
-  {
-    "id": "sj:57496224-42e6-4869-8a6e-bc34925be9f1",
-    "company": "Raptor Maps",
-    "title": "Software Engineer Intern",
-    "location": "Somerville, MA (Other)",
-    "url": "https://ats.rippling.com/raptor-maps-inc/jobs/be25d98e-262f-42a2-8276-dffbfbbf402a"
   },
   {
     "id": "sj:00b1c762-9ca4-4c23-afff-d070ee8279e6",
@@ -824,20 +810,6 @@
     "title": "Advanced Analysis Intern",
     "location": "Phoenix, AZ (Other)",
     "url": "https://aaaie.wd1.myworkdayjobs.com/CSAACareers2/job/Arizona---Home-Teleworkers/Advanced-Analysis-Intern_R8005-1"
-  },
-  {
-    "id": "sj:f65fae53-12fa-41c7-8b16-6ac0f05a0256",
-    "company": "J.M. Smucker",
-    "title": "Finance Technology Intern",
-    "location": "Orrville, OH (Other)",
-    "url": "https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Orrville-OH/Finance-Technology-Intern--Summer-2027_116135"
-  },
-  {
-    "id": "sj:b90323c9-0bc8-4283-aa0f-b384fce8003f",
-    "company": "UiPath",
-    "title": "Software Engineer Intern",
-    "location": "Bellevue, WA (Other)",
-    "url": "https://jobs.ashbyhq.com/uipath/4983eab7-099d-4c77-9a5a-8dde72084c04/application?embed=true"
   },
   {
     "id": "sj:60fd1301-4412-4891-b853-6eec26f242df",
@@ -1890,13 +1862,6 @@
     "url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---Palo-Alto/Summer-2027-Intern---AI-Research_JR365111"
   },
   {
-    "id": "sj:6a3ffcb1-96f3-4dcf-9344-d12e0cc51231",
-    "company": "Ryan",
-    "title": "Application Engineering Intern",
-    "location": "Plano, TX (Other)",
-    "url": "https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Plano/Summer-2027-Intern--Application-Engineering_R0020808-2"
-  },
-  {
     "id": "sj:df54723a-af5c-4a60-bdf7-9724974c60a7",
     "company": "Salesforce",
     "title": "AI Research Intern",
@@ -2266,13 +2231,6 @@
     "title": "Geospatial Intern",
     "location": "Boulder, CO (Other)",
     "url": "https://apply.workable.com/scout-clean-energy/j/56C8F2E503/apply"
-  },
-  {
-    "id": "sj:2c73ca1b-9721-4b27-8136-c1168f53106c",
-    "company": "Waymo",
-    "title": "Intern - Multiple Teams",
-    "location": "Mountain View, CA (Other)",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=8248411"
   },
   {
     "id": "sj:551b27cd-0375-45c3-8b66-039b365faebc",
