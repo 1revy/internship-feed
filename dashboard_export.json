@@ -1008,13 +1008,6 @@
     "url": "https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Machine-Learning-Engineer-Intern_R3773"
   },
   {
-    "id": "sj:97279dfa-d506-4a6b-be36-a783c8647797",
-    "company": "Arondite",
-    "title": "Software Engineer Intern",
-    "location": "London, UK (London / Paris)",
-    "url": "https://apply.workable.com/arondite/j/D3211449EF/apply"
-  },
-  {
     "id": "sj:956eedbe-799d-459b-8556-9184a7f7f706",
     "company": "Databricks",
     "title": "Software Engineer Intern",
@@ -2541,13 +2534,6 @@
     "url": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Cary-North-Carolina/XMLNAME-2027-Summer-Internship---Data-Science_REQ-12799"
   },
   {
-    "id": "sj:6236ea31-fdc8-485d-a8fc-b2fe9c0aa953",
-    "company": "Itron",
-    "title": "Data Science Intern - Distributed Intelligence",
-    "location": "Liberty Lake, WA (Other)",
-    "url": "https://itron.wd5.myworkdayjobs.com/Early_Careers/job/United-States-of-America-Washington-Liberty-Lake/Intern---Data-Science--Distributed-Intelligence_JR102942-2"
-  },
-  {
     "id": "sj:1c05aeb6-1548-460d-ac98-cca04204d3a7",
     "company": "POET",
     "title": "Data Engineer Intern",
@@ -2996,13 +2982,6 @@
     "url": "https://jobs.selective.com/jobs/5757?icims=1&lang=en-us"
   },
   {
-    "id": "sj:988292e2-9865-480d-8599-0279ef142eb3",
-    "company": "Selective Insurance",
-    "title": "Business Intelligence & Insights Intern",
-    "location": "Branchville, NJ (Other)",
-    "url": "https://jobs.selective.com/jobs/5707?icims=1&lang=en-us"
-  },
-  {
     "id": "sj:1ab411c4-7013-4eeb-8835-d8bb9baa3f39",
     "company": "Dick's Sporting Goods",
     "title": "Product Management Intern - Corporate Internship",
@@ -3437,13 +3416,6 @@
     "url": "https://job-boards.greenhouse.io/c3ascend/jobs/8738917002"
   },
   {
-    "id": "sj:74a4f228-ddb1-4953-9597-1c278c491082",
-    "company": "Vanguard",
-    "title": "Data Science Intern - College to Corporate IT",
-    "location": "Charlotte, NC (Other)",
-    "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Data-Science--NC-_181765"
-  },
-  {
     "id": "sj:a8fce259-7cd2-44ea-a7ab-787260c1308e",
     "company": "Vanguard",
     "title": "Data Science Intern - Information Technology",
@@ -3498,5 +3470,33 @@
     "title": "Data Science Intern - Advertisement Team",
     "location": "San Jose, CA (Other)",
     "url": "https://lifeattiktok.com/search/7673226686054107445"
+  },
+  {
+    "id": "sj:2546c60d-b4b4-495a-927e-6a112bdefc69",
+    "company": "TikTok",
+    "title": "Product Operations Intern - TikTok Shop Apps and API",
+    "location": "Seattle, WA (Other)",
+    "url": "https://lifeattiktok.com/search/7669705525866383621"
+  },
+  {
+    "id": "sj:e68caf69-cb51-4c52-933d-ace225ef6fb3",
+    "company": "TikTok",
+    "title": "Product Manager Intern - Signal and Identity Product",
+    "location": "San Jose, CA (Other)",
+    "url": "https://lifeattiktok.com/search/7672554809555192117"
+  },
+  {
+    "id": "sj:fc4e61cf-8b0d-41bc-a27f-9081dc511bca",
+    "company": "TikTok",
+    "title": "Product Manager Intern - Commerce Ads",
+    "location": "San Jose, CA (Other)",
+    "url": "https://lifeattiktok.com/search/7672557943224961333"
+  },
+  {
+    "id": "sj:bbd533a0-34b2-491f-a386-2c10df203595",
+    "company": "TikTok",
+    "title": "Product Manager Intern - Ads Interface and Platform",
+    "location": "San Jose, CA (Other)",
+    "url": "https://lifeattiktok.com/search/7672562486917286149"
   }
 ]
