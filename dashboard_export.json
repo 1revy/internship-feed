@@ -252,13 +252,6 @@
     "url": "https://www.citadel.com/careers/details/sector-data-scientist-2027-intern-us/"
   },
   {
-    "id": "sj:3f1088e9-3742-4919-8f86-1fb30cc82265",
-    "company": "DriveWealth",
-    "title": "AI Consulting Associate Program People Analytics Intern",
-    "location": "Chicago, IL; NYC (New York)",
-    "url": "https://jobs.ashbyhq.com/drivewealth/85147395-3dfa-4c16-880f-8c7522a538ec/application?embed=true"
-  },
-  {
     "id": "sj:b0a65ac1-33c7-4ae4-a6e5-f8891c8b8bb2",
     "company": "Microsoft",
     "title": "Research Intern - Frontier Tuning",
@@ -1155,13 +1148,6 @@
     "url": "https://ats.rippling.com/smarty/jobs/e47afb29-f488-466b-ad29-11280c68f749"
   },
   {
-    "id": "sj:af3eb102-71c0-4ec6-b56e-d1109f2abe2b",
-    "company": "Paccar",
-    "title": "Data Scientist Intern",
-    "location": "Denton, TX (Other)",
-    "url": "https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Data-Scientist-TX-76205-7864/1458178433/?ats=successfactors"
-  },
-  {
     "id": "sj:68916cbe-97cc-414d-8732-d68540a99d35",
     "company": "APEX Analytix",
     "title": "Product Management Intern - DevOps",
@@ -1323,13 +1309,6 @@
     "url": "https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Chicago-IL-60607/XMLNAME-2027-Summer-Internship---Contract-Operations---Analytics_36238R-1"
   },
   {
-    "id": "sj:c61c3197-26ec-4fec-a5f5-e604bd6d0899",
-    "company": "T-Mobile",
-    "title": "Data Product Intern",
-    "location": "Bellevue, WA (Other)",
-    "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Data-Product-Internship_REQ381212"
-  },
-  {
     "id": "sj:48f299b0-6d42-4aea-8ef4-9d6c0d9fc484",
     "company": "Stanley Black & Decker",
     "title": "Data Analyst Intern",
@@ -1342,13 +1321,6 @@
     "title": "Product Management Intern",
     "location": "Colorado Springs, CO (Other)",
     "url": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Rockrimmon-Colorado-Springs-CO/Product-Management-Intern_REQ-15838"
-  },
-  {
-    "id": "sj:26ed8f15-5f1f-4a5a-9cca-0403cf4d7334",
-    "company": "Entegris",
-    "title": "Data Engineering Intern",
-    "location": "Aurora, IL (Other)",
-    "url": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Aurora-IL/Data-Engineering-Intern---Summer-2027_REQ-15839"
   },
   {
     "id": "sj:234a1357-b370-4f07-aa8b-2eebcdcd4464",
@@ -3498,5 +3470,33 @@
     "title": "Data Engineer Intern - Data Platform Global Live",
     "location": "San Jose, CA (Other)",
     "url": "https://lifeattiktok.com/search/7674032146438162693"
+  },
+  {
+    "id": "sj:d1f12ffa-cc86-44c9-aad3-b6def1a50517",
+    "company": "TikTok",
+    "title": "Product Solutions and Operations Intern - Commerce Ads",
+    "location": "San Jose, CA (Other)",
+    "url": "https://lifeattiktok.com/search/7673340525029673221"
+  },
+  {
+    "id": "sj:a0ec26fd-db0f-4eb4-9bed-73b9409cabc5",
+    "company": "TikTok",
+    "title": "Product Manager Intern - Content and Services",
+    "location": "San Jose, CA (Other)",
+    "url": "https://lifeattiktok.com/search/7673337777708550405"
+  },
+  {
+    "id": "sj:56973e0e-ee92-4898-b2d3-7f5df827f064",
+    "company": "TikTok",
+    "title": "Product Manager Intern - Scaled Growth",
+    "location": "San Jose, CA (Other)",
+    "url": "https://lifeattiktok.com/search/7673559305519794437"
+  },
+  {
+    "id": "sj:5c3d16dc-fd92-4496-aeb5-c3bead9bdd18",
+    "company": "TikTok",
+    "title": "Data Science Intern - Advertisement Team",
+    "location": "San Jose, CA (Other)",
+    "url": "https://lifeattiktok.com/search/7673226686054107445"
   }
 ]
