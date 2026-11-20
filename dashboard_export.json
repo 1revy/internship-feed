@@ -7,6 +7,13 @@
     "url": "https://ats.rippling.com/barrys-careers/jobs/1205224b-cfd0-4b9e-afc1-fc041da94c7f"
   },
   {
+    "id": "sj:8c654982-1044-49dc-939c-7d279e1eb3b2",
+    "company": "iCapital Network",
+    "title": "Data Solutions Intern",
+    "location": "NYC (New York)",
+    "url": "https://job-boards.greenhouse.io/icapitalnetwork/jobs/8945261002"
+  },
+  {
     "id": "sj:b350f641-a0d1-4539-b545-8c26a0ad9fa7",
     "company": "Duetti",
     "title": "Product Intern",
@@ -922,6 +929,13 @@
     "title": "Informatics Intern",
     "location": "London, UK (London / Paris)",
     "url": "https://careers.medpace.com/jobs/13079?icims=1&lang=en-us"
+  },
+  {
+    "id": "sj:f84657de-2b3a-491a-b7f8-d95bf1c942fd",
+    "company": "Medpace",
+    "title": "Feasibility Informatics Industrial Placement Intern",
+    "location": "London, UK (London / Paris)",
+    "url": "https://careers.medpace.com/jobs/13130?icims=1&lang=en-us"
   },
   {
     "id": "sj:6748ee09-8ba9-42eb-a423-934641666a7c",
@@ -2065,13 +2079,6 @@
     "url": "https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---IL-Remote/Arity---Product-Management-Advertising-Intern_R36280"
   },
   {
-    "id": "sj:274daa15-b592-485a-8d98-cc56d12ebdca",
-    "company": "Toyota",
-    "title": "Data Science Intern",
-    "location": "Plano, TX (Other)",
-    "url": "https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/XMLNAME-2027-TFS-Data-Science-Internship_10338545-1"
-  },
-  {
     "id": "sj:12643349-9dbf-44e4-96de-6f938fdd7979",
     "company": "Amplify",
     "title": "Data Analytics Intern",
@@ -3171,13 +3178,6 @@
     "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Reedsville-Pennsylvania-United-States/Co-op-Data-Engineering-Reedsville--PA-July-December-2027_587486"
   },
   {
-    "id": "sj:c82530ca-dbef-4fab-9d6f-c3146e43aeb8",
-    "company": "Johnson & Johnson",
-    "title": "Data Science Co-op - Summer 2027",
-    "location": "Cincinnati, OH (Other)",
-    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Data-Science-Co-Op--Summer-2027_R-096746"
-  },
-  {
     "id": "sj:e1ba63cb-576e-4561-8453-e83787707f2c",
     "company": "NJM Insurance Group",
     "title": "Insurance Product Management Analyst Intern 3",
@@ -3253,13 +3253,6 @@
     "title": "Machine Learning Engineer Intern - E-Commerce Knowledge Graph",
     "location": "Seattle, WA (Other)",
     "url": "https://lifeattiktok.com/search/7676650607912601861"
-  },
-  {
-    "id": "sj:a980e8b0-12fe-45eb-9fa2-697b990375e7",
-    "company": "Stryker",
-    "title": "Data Analytics Intern - Multiple Teams",
-    "location": "Portage, MI (Other)",
-    "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---Data-Analytics---Michigan_R572601"
   },
   {
     "id": "sj:5f0b34c1-fcc7-46c2-9772-8e8ce4bd4f5f",
@@ -3498,5 +3491,12 @@
     "title": "Product Manager Intern - Ads Interface and Platform",
     "location": "Seattle, WA (Other)",
     "url": "https://lifeattiktok.com/search/7672569081632229685"
+  },
+  {
+    "id": "sj:37258bf6-9a8c-4245-bc45-0fb8e73fecca",
+    "company": "TikTok",
+    "title": "Machine Learning Engineer Intern - E-Commerce Recommendation Foundation",
+    "location": "San Jose, CA (Other)",
+    "url": "https://lifeattiktok.com/search/7672883129493948677"
   }
 ]
