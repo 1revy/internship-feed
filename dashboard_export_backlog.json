@@ -1,12 +1,5 @@
 [
   {
-    "id": "sj:0e6104ee-b59a-435c-af2d-24c7e880c109",
-    "company": "TikTok",
-    "title": "Product Manager Intern - Ads Interface and Platform",
-    "location": "Seattle, WA (Other)",
-    "url": "https://lifeattiktok.com/search/7672569081632229685"
-  },
-  {
     "id": "sj:37258bf6-9a8c-4245-bc45-0fb8e73fecca",
     "company": "TikTok",
     "title": "Machine Learning Engineer Intern - E-Commerce Recommendation Foundation",
@@ -385,11 +378,81 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Remote/System-Software-Engineering-Intern--GPU---2027_JR2025334"
   },
   {
+    "id": "sj:8cf12030-dee3-49e9-baaa-ea5dfb834537",
+    "company": "Lucid Motors",
+    "title": "Infotainment Software Intern",
+    "location": "Newark, CA (Other)",
+    "url": "https://lucidmotors.com/careers/search/5290921007?gh_jid=5290921007"
+  },
+  {
+    "id": "sj:a25956ba-3ed6-4f4c-86b1-999dbee31f1e",
+    "company": "Microsoft",
+    "title": "Research Intern - Deep Learning Group",
+    "location": "Redmond, WA (Other)",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557076095"
+  },
+  {
+    "id": "sj:8ce53ad1-615a-4bd5-83f3-e14b8358c09c",
+    "company": "Pivotal Software",
+    "title": "Autonomy Intern - Autonomy - Path Planning",
+    "location": "Palo Alto, CA (Other)",
+    "url": "https://jobs.lever.co/pivotal/092eb283-16ac-4f68-a6e9-b6a0a9564067/apply"
+  },
+  {
+    "id": "sj:62a276ae-a9d7-4971-91d6-af6673585530",
+    "company": "Waymo",
+    "title": "Agentic AI Intern",
+    "location": "Mountain View, CA (Other)",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8401116"
+  },
+  {
+    "id": "sj:607497f0-972c-423b-b3f6-8b9572402c4a",
+    "company": "Publicis Groupe",
+    "title": "Identity Analytics Intern",
+    "location": "Chicago, IL (Other)",
+    "url": "https://careers.publicisgroupe.com/jobs/182970?icims=1&lang=en-us"
+  },
+  {
+    "id": "sj:8852c8f4-a5d6-4db0-992b-756b12ff255e",
+    "company": "Publicis Groupe",
+    "title": "Identity Analytics Intern",
+    "location": "Chicago, IL (Other)",
+    "url": "https://publicisgroupe.jibeapply.com/jobs/182970?icims=1&lang=en-us"
+  },
+  {
+    "id": "sj:9899cc5e-cd33-4e2f-bb15-2a840111ad55",
+    "company": "Amperity",
+    "title": "Software Development Engineer Intern",
+    "location": "Seattle, WA (Other)",
+    "url": "https://amperity.com/careers?gh_jid=8393990#openpositions"
+  },
+  {
     "id": "sj:b0ce7f24-559f-4b1c-bed2-b832cc9c2944",
     "company": "Toyota Research Institute",
     "title": "Robotics Intern - Generalist Robot Learning",
     "location": "Los Altos, CA (Other)",
     "url": "https://jobs.lever.co/tri/4cac9569-cc90-4dcd-96b8-d9777c35c943/apply"
+  },
+  {
+    "id": "sj:9f29143b-2192-4ae7-b0aa-ddb9eacb3449",
+    "company": "Snowflake",
+    "title": "Software Engineer Intern - AI / ML",
+    "location": "Menlo Park, CA; Bellevue, WA (Other)",
+    "url": "https://jobs.ashbyhq.com/snowflake/185d165c-09c7-4b57-9281-ff7c2c541907/application?embed=true"
+  },
+  {
+    "id": "sj:b4ef0d6c-f65b-48c0-b030-61b50a0eb09b",
+    "company": "Snowflake",
+    "title": "Software Engineer Intern - Core - Infrastructure & Security",
+    "location": "Menlo Park, CA; Bellevue, WA (Other)",
+    "url": "https://jobs.ashbyhq.com/snowflake/e194759e-3a20-47c9-868d-f47179613897/application?embed=true"
+  },
+  {
+    "id": "sj:00cd908d-fc5f-4712-97e8-b714c9ca0b11",
+    "company": "Snowflake",
+    "title": "Software Engineer Intern - Database Engineering",
+    "location": "Menlo Park, CA; Bellevue, WA (Other)",
+    "url": "https://jobs.ashbyhq.com/snowflake/0223923d-4f0f-44e6-9649-0d1a9eda950d/application?embed=true"
   },
   {
     "id": "sj:27c63eb2-f606-4f11-bf9a-3392a2d765f1",
@@ -404,13 +467,6 @@
     "title": "Machine Learning Engineer Intern",
     "location": "Santa Ana, CA (Other)",
     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5274037007"
-  },
-  {
-    "id": "sj:1c9dc088-116a-43ff-a6ae-6ab513f43e5e",
-    "company": "SurePoint Ag Systems",
-    "title": "Drone Imaging Agronomy Intern",
-    "location": "Manhattan, KS (Other)",
-    "url": "https://surepoint.bamboohr.com/careers/109/"
   },
   {
     "id": "sj:1766b9ad-6231-4035-b13d-f0f5bf630fbe",
@@ -565,13 +621,6 @@
     "title": "Software Engineer Intern",
     "location": "Torrance, CA (Other)",
     "url": "https://jobs.ashbyhq.com/vital-lyfe/5b5e7e6d-d59e-410b-9a7f-619717c3c942/application?embed=true"
-  },
-  {
-    "id": "sj:e719ef8c-20ed-4bd7-94ce-b443ac1e87a2",
-    "company": "Woolpert",
-    "title": "Aviation Modeling & Simulation Intern",
-    "location": "San Rafael, CA; Berkeley, CA (Other)",
-    "url": "https://job-boards.greenhouse.io/woolpert/jobs/4430700009"
   },
   {
     "id": "sj:7e6b380e-ef69-43cd-a4de-89c7773ae701",
@@ -1778,13 +1827,6 @@
     "url": "https://jobs.ashbyhq.com/integrate/7681f59b-70c0-414b-96d9-ae8925cc2ed3/application?embed=true"
   },
   {
-    "id": "sj:eba86e55-1480-473d-814f-7d863ebba833",
-    "company": "DriveWealth",
-    "title": "AI Consulting Associate Program \u2013 AI Engineer Intern",
-    "location": "Chicago, IL (Other)",
-    "url": "https://jobs.ashbyhq.com/drivewealth/a214dd6c-e3ac-481e-8308-bf74c2032b8a/application?embed=true"
-  },
-  {
     "id": "sj:90ce8440-7b7f-4a23-9faf-98290634d956",
     "company": "DriveWealth",
     "title": "AI Consulting Associate Program Brokerage Intern",
@@ -2380,13 +2422,6 @@
     "url": "https://job-boards.greenhouse.io/purestorage/jobs/8249749"
   },
   {
-    "id": "sj:ecea0a0c-194c-4478-8605-93cac5731cb2",
-    "company": "Signifyd",
-    "title": "Engineering Intern",
-    "location": "Belfast, UK (Other)",
-    "url": "https://job-boards.greenhouse.io/signifyd95/jobs/8240551"
-  },
-  {
     "id": "sj:6682ab3e-72f8-49a9-928c-220d51a81e0d",
     "company": "F5",
     "title": "Software Development Engineer Intern",
@@ -2870,20 +2905,6 @@
     "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-Software-Development-Internship_RQ228931-2"
   },
   {
-    "id": "sj:fbed94d0-207f-4923-97dd-2c066c0e8d6a",
-    "company": "General Dynamics Information Technology",
-    "title": "AI Network Engineering Intern",
-    "location": "Bossier City, LA (Other)",
-    "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-Network-Engineering-Internship_RQ228934-2"
-  },
-  {
-    "id": "sj:03a8913b-a007-4657-8f59-bc29a722beda",
-    "company": "General Dynamics Information Technology",
-    "title": "Generative AI Software Development Intern",
-    "location": "Bossier City, LA (Other)",
-    "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-Generative-AI-Software-Development-Internship_RQ228933-1"
-  },
-  {
     "id": "sj:93ae3a0d-e1e0-4d7a-ad67-4adba9311b49",
     "company": "Rippling",
     "title": "Machine Learning Software Engineer Intern - Summer 2027",
@@ -3008,13 +3029,6 @@
     "title": "AI Developer Co-op - Graduate Program",
     "location": "Ewing Township, NJ (Other)",
     "url": "https://churchdwight.wd1.myworkdayjobs.com/chdcareers/job/USA-Ewing-NJ/AI-Developer-Co-op---Graduate-Program--9-Months-_R2026-15686"
-  },
-  {
-    "id": "sj:5efdb72a-819f-4637-a0fb-6f7ed73f2383",
-    "company": "Waymo",
-    "title": "Machine Learning Intern - Computer Vision",
-    "location": "Mountain View, CA (Other)",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=8202025"
   },
   {
     "id": "sj:886b58df-3da6-4888-8b8d-ac9eef06b1a7",
@@ -3386,13 +3400,6 @@
     "title": "Software Engineer Intern - Corporate Internship",
     "location": "Pittsburgh, PA (Other)",
     "url": "https://dickssportinggoods.wd1.myworkdayjobs.com/en-US/DSG/job/Customer-Support-Center/Software-Engineering---Summer-2027-Corporate-Internship_202608792-1"
-  },
-  {
-    "id": "sj:911c267d-707d-47ba-a37d-e740550bcd4f",
-    "company": "Motorola",
-    "title": "Software Engineer Intern",
-    "location": "Chicago, IL (Other)",
-    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Software-Engineering-Intern---Summer-2027_R68388"
   },
   {
     "id": "sj:391c6a07-d7ad-4fb2-acb2-cffeb02a8a12",
@@ -4627,13 +4634,6 @@
     "url": "https://jobs.ashbyhq.com/circleback/2bb6be67-d1a8-42f7-bb1b-64ee36bf613f/application?embed=true"
   },
   {
-    "id": "sj:cf73adb5-c92f-4caf-8bbc-8d6e4ab23e39",
-    "company": "Old Mission",
-    "title": "Software Engineer Intern",
-    "location": "Chicago, IL (Other)",
-    "url": "https://jobs.ashbyhq.com/old-mission-capital/d003aaa4-a1e9-46b5-b271-eaccc15db9d6/application?embed=true"
-  },
-  {
     "id": "sj:f0aadc2c-2a47-404c-bc18-f3863ab3e456",
     "company": "Pylon",
     "title": "Software Engineer Intern",
@@ -4849,6 +4849,13 @@
     "title": "AI Developer Technology Engineering Intern - 2027",
     "location": "3 Locations (Other)",
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shenzhen/AI-Developer-Technology-Engineering-Intern---2027_JR2024818"
+  },
+  {
+    "id": "sj:6088d4cc-1e5f-4495-8f41-33af9ea62bde",
+    "company": "Formlabs",
+    "title": "API & Automation Intern",
+    "location": "Somerville, MA (Other)",
+    "url": "https://careers.formlabs.com/job/8400855/apply/?gh_jid=8400855"
   },
   {
     "id": "sj:338d9e1a-1a20-438f-a987-cab632ee2298",
