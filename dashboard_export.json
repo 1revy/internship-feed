@@ -392,13 +392,6 @@
     "url": "https://davidyurman.wd1.myworkdayjobs.com/DavidYurmanCareers/job/New-York-NY/Strategic-Analytics-Intern_R-101176"
   },
   {
-    "id": "sj:b4e0a3a3-103b-4d99-a55c-4456842414c8",
-    "company": "Intercontinental Exchange",
-    "title": "Software Engineer Intern",
-    "location": "NYC (New York)",
-    "url": "https://ice.jibeapply.com/jobs/14105?icims=1"
-  },
-  {
     "id": "sj:95437628-8de3-4f6f-ba65-44f3b0ed0be8",
     "company": "MongoDB",
     "title": "Software Engineer Intern",
@@ -873,13 +866,6 @@
     "title": "Product Manager Intern",
     "location": "London, UK (London / Paris)",
     "url": "https://boards.greenhouse.io/cloudflare/jobs/8328914"
-  },
-  {
-    "id": "sj:4400b7b2-318d-4cfe-a277-a8687cae1078",
-    "company": "FTI Consulting",
-    "title": "Data & Analytics Intern",
-    "location": "London, UK (London / Paris)",
-    "url": "https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/London-United-Kingdom/XMLNAME-2027-Summer-Internship--Data---Analytics_JR260771"
   },
   {
     "id": "sj:2374fd2a-48e1-49bd-b761-a8ff1bc13220",
@@ -1449,13 +1435,6 @@
     "url": "https://job-boards.greenhouse.io/scoutmotors/jobs/5287137007"
   },
   {
-    "id": "sj:4b696a25-371d-4850-bd83-a776f749aa20",
-    "company": "Trilogy Health Services",
-    "title": "Information Systems Developer of AI and Automated Solutions Intern",
-    "location": "Louisville, KY (Other)",
-    "url": "https://jobs.trilogyhs.com/jobs/214624?icims=1&lang=en-us"
-  },
-  {
     "id": "sj:bd1b4d1a-84e5-40d5-8a7e-517d1e227f85",
     "company": "Badger Meter",
     "title": "Product Management Intern",
@@ -1755,13 +1734,6 @@
     "title": "IT Data Intern",
     "location": "Cincinnati, OH (Other)",
     "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/IT-Data-Intern---Summer-2027_R9820"
-  },
-  {
-    "id": "sj:e0096175-7492-48c9-9a0f-d4b5ba3ce428",
-    "company": "Walmart",
-    "title": "Corporate Intern: Data & Tech Transformation Intern",
-    "location": "Bentonville, AR (Other)",
-    "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Always-AR-Bentonville-Home-Office/XMLNAME--USA--Summer-2027-Corporate-Intern---Data---Tech-Transformation-intern_R-2690457-1"
   },
   {
     "id": "sj:f4f35bed-74e7-4e07-a1ef-07c8f4fbf615",
@@ -2609,13 +2581,6 @@
     "title": "Business Analyst Intern",
     "location": "Reading, UK (Other)",
     "url": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Reading-Berkshire-United-Kingdom/Placement-Year---Business-Analyst-Intern_UNI4893-1"
-  },
-  {
-    "id": "sj:c6ad75c6-e86c-4602-8344-eb52b14bb37e",
-    "company": "Epic Games",
-    "title": "Data Science Intern",
-    "location": "Cary, NC (Other)",
-    "url": "https://epicgames.com/careers/jobs/6202675004?gh_jid=6202675004"
   },
   {
     "id": "sj:02dee7ff-6975-4a5e-8aea-ee0dc2ebfde9",
@@ -3498,5 +3463,40 @@
     "title": "Machine Learning Engineer Intern - E-Commerce Recommendation Foundation",
     "location": "San Jose, CA (Other)",
     "url": "https://lifeattiktok.com/search/7672883129493948677"
+  },
+  {
+    "id": "sj:0d1a5d14-2cc4-4c85-a1a6-aa02ecc2b4f8",
+    "company": "TikTok",
+    "title": "Machine Learning Engineer Intern - E-Commerce Recommendation Foundation",
+    "location": "Seattle, WA (Other)",
+    "url": "https://lifeattiktok.com/search/7672881840860940597"
+  },
+  {
+    "id": "sj:baeedb05-7415-43b1-a352-ff0efdc23b6b",
+    "company": "TikTok",
+    "title": "Machine Learning Engineer Intern - E-Commerce Recommendation Mall",
+    "location": "Seattle, WA (Other)",
+    "url": "https://lifeattiktok.com/search/7672920375646488885"
+  },
+  {
+    "id": "sj:d0e6095d-b7d9-4b98-9b30-5bc4f60fed04",
+    "company": "ByteDance",
+    "title": "Data Lake Infrastructure & Data Analytics Research Engineer Intern - Applied Machine Learning Ark",
+    "location": "Seattle, WA (Other)",
+    "url": "https://jobs.bytedance.com/en/position/7672394389001816325/detail"
+  },
+  {
+    "id": "sj:b54ab32d-a9c1-471a-8365-6e0bdc0eaeb0",
+    "company": "TikTok",
+    "title": "AI Safety Evaluation & Governance Product Manager Intern - Multiple Teams",
+    "location": "San Jose, CA (Other)",
+    "url": "https://lifeattiktok.com/search/7670529537944766773"
+  },
+  {
+    "id": "sj:f57a89f7-f1c7-44ac-826b-23f1d9a409cf",
+    "company": "ByteDance",
+    "title": "Data Lake Infrastructure and Data Analytics Research Engineer Intern - Applied Machine Learning Ark",
+    "location": "San Jose, CA (Other)",
+    "url": "https://jobs.bytedance.com/en/position/7671109787509213445/detail"
   }
 ]
