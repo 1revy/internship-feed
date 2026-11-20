@@ -1,5 +1,12 @@
 [
   {
+    "id": "sj:19246e69-1bac-489d-834d-e6d274bdfbc3",
+    "company": "Barry's",
+    "title": "Undergraduate Summer Scholar Intern - Data Analyst",
+    "location": "NYC (New York)",
+    "url": "https://ats.rippling.com/barrys-careers/jobs/1205224b-cfd0-4b9e-afc1-fc041da94c7f"
+  },
+  {
     "id": "sj:b350f641-a0d1-4539-b545-8c26a0ad9fa7",
     "company": "Duetti",
     "title": "Product Intern",
@@ -903,6 +910,13 @@
     "url": "https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Data-Science-Internship_R3679"
   },
   {
+    "id": "sj:939451e2-8c78-4360-b92b-ed64ad9dbd93",
+    "company": "Deliveroo",
+    "title": "Software Engineer Intern",
+    "location": "London, UK (London / Paris)",
+    "url": "https://job-boards.greenhouse.io/deliveroo/jobs/8398982"
+  },
+  {
     "id": "sj:e7dcd505-2d1c-4e95-8afb-68a14ae0ad14",
     "company": "Medpace",
     "title": "Informatics Intern",
@@ -1022,13 +1036,6 @@
     "url": "https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Software-Engineering-Intern_R3746"
   },
   {
-    "id": "sj:1567fd06-d23c-423d-bdd7-1b3068d7257a",
-    "company": "Waymo",
-    "title": "Software Engineering Intern - Multiple Teams",
-    "location": "London, UK (London / Paris)",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=8208465"
-  },
-  {
     "id": "sj:4f347ab5-fa7b-479b-810e-e7a276bc14e8",
     "company": "Talos",
     "title": "Software Engineer Intern - Trading",
@@ -1099,6 +1106,20 @@
     "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002"
   },
   {
+    "id": "sj:23c15372-9632-404c-a541-af54e55a15f8",
+    "company": "Lucid Motors",
+    "title": "AI & Data Intern - Applied AI/Machine Learning",
+    "location": "Newark, CA (Other)",
+    "url": "https://lucidmotors.com/careers/search/5290919007?gh_jid=5290919007"
+  },
+  {
+    "id": "sj:8ba99fbd-63b7-40d0-a543-94677e208bdd",
+    "company": "Piper Sandler",
+    "title": "Data Engineering Intern",
+    "location": "Minneapolis, MN (Other)",
+    "url": "https://pipersandler.wd501.myworkdayjobs.com/Piper_Sandler_Careers/job/Minneapolis-MN---HQ/XMLNAME-2027-Summer-Internship-Program---Data-Engineering_R-100805"
+  },
+  {
     "id": "sj:1344faa8-1ac5-42aa-9e6f-7777257aca98",
     "company": "Lucid",
     "title": "Product Management Intern",
@@ -1132,13 +1153,6 @@
     "title": "Business Intelligence Analytics Intern",
     "location": "Pittsburgh, PA (Other)",
     "url": "https://jobs.sheetz.com/jobs/86015?icims=1&lang=en-us"
-  },
-  {
-    "id": "sj:0c6dc660-1c39-4976-ae4d-67e73ae7f1d6",
-    "company": "Smarty",
-    "title": "Product Management Intern",
-    "location": "Orem, UT (Other)",
-    "url": "https://ats.rippling.com/smarty/jobs/e47afb29-f488-466b-ad29-11280c68f749"
   },
   {
     "id": "sj:68916cbe-97cc-414d-8732-d68540a99d35",
@@ -1659,13 +1673,6 @@
     "url": "https://jobs.selective.com/jobs/5689?icims=1&lang=en-us"
   },
   {
-    "id": "sj:ef971fc9-99f7-453f-91a9-664481b3b831",
-    "company": "Sierra Nevada Corporation",
-    "title": "Data Science Intern - Summer 2027",
-    "location": "Sparks, NV (Other)",
-    "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Sparks-NV/Data-Science-Intern--Summer-2027-_R0031257"
-  },
-  {
     "id": "sj:de7b4b55-30be-4b9e-bfbd-814812a2192f",
     "company": "Applied Materials",
     "title": "Data Intelligence/Technical Program Manager Intern",
@@ -2063,13 +2070,6 @@
     "title": "Data Science Intern",
     "location": "Plano, TX (Other)",
     "url": "https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/XMLNAME-2027-TFS-Data-Science-Internship_10338545-1"
-  },
-  {
-    "id": "sj:80919054-b40e-4ff9-9a11-e6e21dcf9d98",
-    "company": "DriveWealth",
-    "title": "AI Consulting Associate Program Product Owner Intern",
-    "location": "Chicago, IL (Other)",
-    "url": "https://jobs.ashbyhq.com/drivewealth/ec17ef99-dea9-4150-b935-5f74750d7b87/application?embed=true"
   },
   {
     "id": "sj:12643349-9dbf-44e4-96de-6f938fdd7979",
@@ -3171,13 +3171,6 @@
     "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Reedsville-Pennsylvania-United-States/Co-op-Data-Engineering-Reedsville--PA-July-December-2027_587486"
   },
   {
-    "id": "sj:6bc3a8d6-0d8e-4176-8474-a6f1eff9fd6b",
-    "company": "DraftKings",
-    "title": "Data Science Intern - Summer 2027",
-    "location": "Boston, MA (Other)",
-    "url": "https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Boston-MA/Data-Science-Intern--Summer-2027-_JR14958"
-  },
-  {
     "id": "sj:c82530ca-dbef-4fab-9d6f-c3146e43aeb8",
     "company": "Johnson & Johnson",
     "title": "Data Science Co-op - Summer 2027",
@@ -3498,5 +3491,12 @@
     "title": "Product Manager Intern - Ads Interface and Platform",
     "location": "San Jose, CA (Other)",
     "url": "https://lifeattiktok.com/search/7672562486917286149"
+  },
+  {
+    "id": "sj:0e6104ee-b59a-435c-af2d-24c7e880c109",
+    "company": "TikTok",
+    "title": "Product Manager Intern - Ads Interface and Platform",
+    "location": "Seattle, WA (Other)",
+    "url": "https://lifeattiktok.com/search/7672569081632229685"
   }
 ]
