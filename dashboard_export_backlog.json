@@ -1,40 +1,5 @@
 [
   {
-    "id": "sj:0d1a5d14-2cc4-4c85-a1a6-aa02ecc2b4f8",
-    "company": "TikTok",
-    "title": "Machine Learning Engineer Intern - E-Commerce Recommendation Foundation",
-    "location": "Seattle, WA (Other)",
-    "url": "https://lifeattiktok.com/search/7672881840860940597"
-  },
-  {
-    "id": "sj:baeedb05-7415-43b1-a352-ff0efdc23b6b",
-    "company": "TikTok",
-    "title": "Machine Learning Engineer Intern - E-Commerce Recommendation Mall",
-    "location": "Seattle, WA (Other)",
-    "url": "https://lifeattiktok.com/search/7672920375646488885"
-  },
-  {
-    "id": "sj:d0e6095d-b7d9-4b98-9b30-5bc4f60fed04",
-    "company": "ByteDance",
-    "title": "Data Lake Infrastructure & Data Analytics Research Engineer Intern - Applied Machine Learning Ark",
-    "location": "Seattle, WA (Other)",
-    "url": "https://jobs.bytedance.com/en/position/7672394389001816325/detail"
-  },
-  {
-    "id": "sj:b54ab32d-a9c1-471a-8365-6e0bdc0eaeb0",
-    "company": "TikTok",
-    "title": "AI Safety Evaluation & Governance Product Manager Intern - Multiple Teams",
-    "location": "San Jose, CA (Other)",
-    "url": "https://lifeattiktok.com/search/7670529537944766773"
-  },
-  {
-    "id": "sj:f57a89f7-f1c7-44ac-826b-23f1d9a409cf",
-    "company": "ByteDance",
-    "title": "Data Lake Infrastructure and Data Analytics Research Engineer Intern - Applied Machine Learning Ark",
-    "location": "San Jose, CA (Other)",
-    "url": "https://jobs.bytedance.com/en/position/7671109787509213445/detail"
-  },
-  {
     "id": "sj:d1768aee-f240-4353-b609-278b04785c95",
     "company": "TikTok",
     "title": "Software Engineer Intern - Global E-commerce-Search",
@@ -364,6 +329,13 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Remote/System-Software-Engineering-Intern--GPU---2027_JR2025334"
   },
   {
+    "id": "sj:80c2eec1-d0db-47f0-b9ce-67834cfa6455",
+    "company": "Systems Planning and Analysis",
+    "title": "Integrated Analytics Intern",
+    "location": "Alexandria, VA (Other)",
+    "url": "https://spa.jibeapply.com/jobs/23729?icims=1&lang=en-us"
+  },
+  {
     "id": "sj:100a3877-0948-435a-a35c-03be89ef5d7f",
     "company": "iA",
     "title": "Software Development Engineer Intern",
@@ -383,6 +355,13 @@
     "title": "Infotainment Software Intern",
     "location": "Newark, CA (Other)",
     "url": "https://lucidmotors.com/careers/search/5290921007?gh_jid=5290921007"
+  },
+  {
+    "id": "sj:aebb523a-9619-4c64-9e37-32778713a349",
+    "company": "Symbotic",
+    "title": "Software Engineer Intern - Front-End",
+    "location": "Austin, TX (Other)",
+    "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Austin-TX/Intern--Software-Engineer--Front-End_R8567-1"
   },
   {
     "id": "sj:a25956ba-3ed6-4f4c-86b1-999dbee31f1e",
@@ -481,13 +460,6 @@
     "title": "Software Engineer Intern - C# - ASP.NET",
     "location": "Overland Park, KS (Other)",
     "url": "https://jobs.lever.co/questanalytics/8e5758b7-6945-4c22-9f89-3d029ca9716f/apply"
-  },
-  {
-    "id": "sj:ba118afe-7991-4a5a-87c7-f68325d9f99d",
-    "company": "Boston Scientific",
-    "title": "AI Engineer Intern - Generative & Agentic AI",
-    "location": "Marlborough, MA; Maple Grove, MN; Arden Hills, MN (Other)",
-    "url": "https://bostonscientific.eightfold.ai/careers/job/563602813827837"
   },
   {
     "id": "sj:30bd4dfd-b823-4a01-841f-76c3c17f0de1",
@@ -677,13 +649,6 @@
     "title": "Software Engineer Intern",
     "location": "Edinburgh, UK (Other)",
     "url": "https://job-boards.greenhouse.io/addepar1/jobs/8927507002"
-  },
-  {
-    "id": "sj:ae7750b1-899e-4303-94dc-793bbd2be58d",
-    "company": "Matillion",
-    "title": "Computer Science Intern - Software Engineering with AI",
-    "location": "Manchester, UK (Other)",
-    "url": "https://jobs.lever.co/matillion/72564dd8-fed7-4fc5-9b16-8c7a2cfd3f22/apply"
   },
   {
     "id": "sj:55e6b934-6590-46a7-97c8-0304e24dd3bb",
@@ -1652,13 +1617,6 @@
     "url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Massachusetts---Cambridge-320-Bent-Street/XMLNAME-2027-Future-Talent-Program---AI-ML-Biomedical-Imaging-and-Computational-Pathology---Intern_R423515"
   },
   {
-    "id": "sj:b03555c3-944d-4213-aab1-95db2f80fabf",
-    "company": "KLA Corporation",
-    "title": "Software Engineer Intern - C++ - Linux",
-    "location": "Milpitas, CA (Other)",
-    "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineer-Intern--C----Linux----Summer-2027_2641878"
-  },
-  {
     "id": "sj:baf68adf-358f-4898-99b5-1bb3a08bd7f6",
     "company": "Huntington Bancshares",
     "title": "Enterprise Payments Intern",
@@ -1916,13 +1874,6 @@
     "title": "Robot Manipulation Intern",
     "location": "Wilmington, MA (Other)",
     "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Intern--Robot-Manipulation_R8278"
-  },
-  {
-    "id": "sj:75a57c7c-d53e-471f-ad32-b424227e9f4a",
-    "company": "The Toro Company",
-    "title": "Cloud Software Developer Intern",
-    "location": "Frederick, CO (Other)",
-    "url": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Frederick-CO/Cloud-Software-Development-Intern---The-Toro-Company_JR17498"
   },
   {
     "id": "sj:46965922-9d94-4b6d-9e87-ff3889d5d343",
@@ -2807,13 +2758,6 @@
     "url": "https://careers.withwaymo.com/jobs?gh_jid=8227640"
   },
   {
-    "id": "sj:dffa3f5f-d496-43e5-90e0-105b940da03c",
-    "company": "Motorola",
-    "title": "Software Engineer Intern - Summer 2027",
-    "location": "Plantation, FL (Other)",
-    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Software-Engineering-Intern---Summer-2027_R69136"
-  },
-  {
     "id": "sj:6aab9099-e210-40cb-8088-d27b253dd0a7",
     "company": "Radiance Technologies",
     "title": "Modeling Engineer Intern - Analytics, Simulation Sciences, Mass",
@@ -2966,13 +2910,6 @@
     "title": "Software Development Intern",
     "location": "Lawrenceville, GA (Other)",
     "url": "https://jobs.jobvite.com/tylertech/job/oAVOAfwD?nl=1&nl=1&fr=false"
-  },
-  {
-    "id": "sj:c9f1a3d2-c7ac-44dd-85c0-72319685dbe3",
-    "company": "Farmers Mutual Hail",
-    "title": "AI Intern",
-    "location": "West Des Moines, IA (Other)",
-    "url": "https://job-boards.greenhouse.io/farmersmutualhailinsurancecompany/jobs/4404387009"
   },
   {
     "id": "sj:1ab1a45d-f5cc-4187-9f03-f2e2c5c3e021",
@@ -3759,20 +3696,6 @@
     "url": "https://blackhawknetwork.jibeapply.com/jobs/26867?icims=1"
   },
   {
-    "id": "sj:8254bef8-0753-4347-9bd2-47e5536eab40",
-    "company": "Stryker",
-    "title": "Software Engineering Intern - Software Engineering",
-    "location": "Fort Lauderdale, FL (Other)",
-    "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Lauderdale-Florida/Summer-2027-Internship---Software-Engineering---Florida_R572629-1"
-  },
-  {
-    "id": "sj:3c6dc4c7-bd24-4215-a600-0d55a3952673",
-    "company": "Stryker",
-    "title": "Software Engineering Intern - Multiple Teams",
-    "location": "Fort Wayne, IN (Other)",
-    "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Wayne-Indiana/Summer-2027-Internship---Software-Engineering---Indiana_R572631"
-  },
-  {
     "id": "sj:ac16b37b-d5ee-4a02-8d77-305bc1ab5168",
     "company": "Stryker",
     "title": "Software Engineering Intern - Multiple Teams",
@@ -3785,13 +3708,6 @@
     "title": "Software Engineer Intern - Summer 2027",
     "location": "Boston, MA (Other)",
     "url": "https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Boston-MA/Software-Engineer-Intern--Summer-2027-_JR14928"
-  },
-  {
-    "id": "sj:f1913663-f443-410e-930f-eb7dff9c3450",
-    "company": "DraftKings",
-    "title": "Analytics Intern - Summer 2027",
-    "location": "Boston, MA (Other)",
-    "url": "https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Boston-MA/Analyst-Intern--Summer-2027-_JR14927"
   },
   {
     "id": "sj:5b170a7d-3303-481f-8fa2-580c9e7274b4",
