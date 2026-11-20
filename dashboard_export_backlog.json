@@ -1,12 +1,5 @@
 [
   {
-    "id": "sj:37258bf6-9a8c-4245-bc45-0fb8e73fecca",
-    "company": "TikTok",
-    "title": "Machine Learning Engineer Intern - E-Commerce Recommendation Foundation",
-    "location": "San Jose, CA (Other)",
-    "url": "https://lifeattiktok.com/search/7672883129493948677"
-  },
-  {
     "id": "sj:0d1a5d14-2cc4-4c85-a1a6-aa02ecc2b4f8",
     "company": "TikTok",
     "title": "Machine Learning Engineer Intern - E-Commerce Recommendation Foundation",
@@ -329,13 +322,6 @@
     "url": "https://boards.greenhouse.io/embed/job_app?token=6883068002"
   },
   {
-    "id": "sj:fe8fd0a0-0ded-47c1-8bba-8ac16fdd2926",
-    "company": "Cybernetic Labs",
-    "title": "Full-Stack Software Engineer Intern - Product",
-    "location": "SF (Other)",
-    "url": "https://jobs.ashbyhq.com/netic/f291394a-f3c5-4f46-9b87-77aea3d487ef/application?embed=true"
-  },
-  {
     "id": "sj:04c61af9-3fff-42ea-b8cb-7e2f17ca3778",
     "company": "Marmon Holdings",
     "title": "Data Engineering Intern Co-op",
@@ -376,6 +362,20 @@
     "title": "System Software Engineering Intern, GPU - 2027",
     "location": "2 Locations (Other)",
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Remote/System-Software-Engineering-Intern--GPU---2027_JR2025334"
+  },
+  {
+    "id": "sj:100a3877-0948-435a-a35c-03be89ef5d7f",
+    "company": "iA",
+    "title": "Software Development Engineer Intern",
+    "location": "Binghamton, NY (Other)",
+    "url": "https://workforcenow.adp.com/job?cid=93fdfc70-37a2-4cde-ba86-0da4925db4c8&jobId=9200936414429_1"
+  },
+  {
+    "id": "sj:d263736b-e32b-4826-90b6-26e21a6d1a7d",
+    "company": "Melaleuca",
+    "title": "Software Development Intern",
+    "location": "Idaho Falls, ID (Other)",
+    "url": "https://recruiting2.ultipro.com/MEL1001MEL/JobBoard/d5ffce96-7247-41c4-831b-454b3454c233/OpportunityDetail?opportunityId=da1623df-5176-4008-9b62-c1c59dda63bf"
   },
   {
     "id": "sj:8cf12030-dee3-49e9-baaa-ea5dfb834537",
@@ -887,13 +887,6 @@
     "title": "Summer Engineer Intern",
     "location": "Middleburg Heights, OH (Other)",
     "url": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---MIDDLEBURG-HEIGHTS-OHMID/XMLNAME-2027-Summer-Engineering-Intern---Cleveland-OH_R26039950"
-  },
-  {
-    "id": "sj:540fffcc-1cee-4834-9b92-ebc48f062b36",
-    "company": "Public Service Enterprise Group",
-    "title": "Staff Intern - Corporate Citizenship - Federal Affairs & Sustainability",
-    "location": "Newark, NJ (Other)",
-    "url": "https://jobs.pseg.com/job/Newark-Summer-2027-Intern-Corporate-Citizenship-Federal-Affairs-&-Sustainability-NJ-07101/1448352900/?ats=successfactors"
   },
   {
     "id": "sj:60ae9031-138a-419b-bd54-f4237a95f0ea",
@@ -1825,13 +1818,6 @@
     "title": "Software Engineer Intern",
     "location": "Seattle, WA (Other)",
     "url": "https://jobs.ashbyhq.com/integrate/7681f59b-70c0-414b-96d9-ae8925cc2ed3/application?embed=true"
-  },
-  {
-    "id": "sj:90ce8440-7b7f-4a23-9faf-98290634d956",
-    "company": "DriveWealth",
-    "title": "AI Consulting Associate Program Brokerage Intern",
-    "location": "Chicago, IL (Other)",
-    "url": "https://jobs.ashbyhq.com/drivewealth/b11409e6-a86d-4504-b4da-36636f888c16/application?embed=true"
   },
   {
     "id": "sj:9c3549d6-12b9-488c-9b34-de7b9deb3d97",
@@ -2898,13 +2884,6 @@
     "url": "https://job-boards.greenhouse.io/astranis/jobs/4705214006"
   },
   {
-    "id": "sj:2700d5af-4dd9-4008-bfe0-97fa121a955c",
-    "company": "General Dynamics Information Technology",
-    "title": "Software Development Intern",
-    "location": "Bossier City, LA (Other)",
-    "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-Software-Development-Internship_RQ228931-2"
-  },
-  {
     "id": "sj:93ae3a0d-e1e0-4d7a-ad67-4adba9311b49",
     "company": "Rippling",
     "title": "Machine Learning Software Engineer Intern - Summer 2027",
@@ -3689,13 +3668,6 @@
     "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Annapolis-Junction-MD/University---2027-Summer-Games-Software-Developer-Intern---Annapolis-Junction--MD_R0248403"
   },
   {
-    "id": "sj:635bf0d1-e3cb-4d15-98d1-86f3a5f11691",
-    "company": "Johnson & Johnson",
-    "title": "Software Engineer Co-op",
-    "location": "Cincinnati, OH (Other)",
-    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Software-Engineering-Co-Op-Summer-2027_R-096743"
-  },
-  {
     "id": "sj:df045001-6540-4f6a-989a-92d2042973dd",
     "company": "Newrez",
     "title": "Software Developer Intern",
@@ -3799,13 +3771,6 @@
     "title": "Software Engineering Intern - Multiple Teams",
     "location": "Fort Wayne, IN (Other)",
     "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Wayne-Indiana/Summer-2027-Internship---Software-Engineering---Indiana_R572631"
-  },
-  {
-    "id": "sj:ca835172-bf35-4ed0-b110-8dec8dc954ea",
-    "company": "Stryker",
-    "title": "Software Engineering Intern - Software Engineering",
-    "location": "Portage, MI (Other)",
-    "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---Software-Engineering---Michigan_R572632-1"
   },
   {
     "id": "sj:ac16b37b-d5ee-4a02-8d77-305bc1ab5168",
@@ -4611,20 +4576,6 @@
     "title": "Software Engineering Intern",
     "location": "Chicago, IL (Other)",
     "url": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4708230005"
-  },
-  {
-    "id": "sj:a6f02442-de0a-454f-a56f-8462c72d7c74",
-    "company": "Cybernetic Labs",
-    "title": "Software Engineer Intern - Agent Platform",
-    "location": "SF (Other)",
-    "url": "https://jobs.ashbyhq.com/netic/b0ea7aab-8eea-4d31-96f9-278364180ae7/application?embed=true"
-  },
-  {
-    "id": "sj:d939c49f-1d93-4ba9-aa2f-32e4e7398633",
-    "company": "Cybernetic Labs",
-    "title": "Forward Deployed Engineer Intern",
-    "location": "SF (Other)",
-    "url": "https://jobs.ashbyhq.com/netic/ffd6af1a-cebb-41f5-ac1d-e695adfd067c/application?embed=true"
   },
   {
     "id": "sj:75892e9b-bebc-4e60-9e4b-a763af8e0759",
