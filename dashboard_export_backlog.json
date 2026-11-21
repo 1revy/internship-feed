@@ -1,5 +1,82 @@
 [
   {
+    "id": "sj:2546c60d-b4b4-495a-927e-6a112bdefc69",
+    "company": "TikTok",
+    "title": "Product Operations Intern - TikTok Shop Apps and API",
+    "location": "Seattle, WA (Other)",
+    "url": "https://lifeattiktok.com/search/7669705525866383621"
+  },
+  {
+    "id": "sj:e68caf69-cb51-4c52-933d-ace225ef6fb3",
+    "company": "TikTok",
+    "title": "Product Manager Intern - Signal and Identity Product",
+    "location": "San Jose, CA (Other)",
+    "url": "https://lifeattiktok.com/search/7672554809555192117"
+  },
+  {
+    "id": "sj:fc4e61cf-8b0d-41bc-a27f-9081dc511bca",
+    "company": "TikTok",
+    "title": "Product Manager Intern - Commerce Ads",
+    "location": "San Jose, CA (Other)",
+    "url": "https://lifeattiktok.com/search/7672557943224961333"
+  },
+  {
+    "id": "sj:bbd533a0-34b2-491f-a386-2c10df203595",
+    "company": "TikTok",
+    "title": "Product Manager Intern - Ads Interface and Platform",
+    "location": "San Jose, CA (Other)",
+    "url": "https://lifeattiktok.com/search/7672562486917286149"
+  },
+  {
+    "id": "sj:0e6104ee-b59a-435c-af2d-24c7e880c109",
+    "company": "TikTok",
+    "title": "Product Manager Intern - Ads Interface and Platform",
+    "location": "Seattle, WA (Other)",
+    "url": "https://lifeattiktok.com/search/7672569081632229685"
+  },
+  {
+    "id": "sj:37258bf6-9a8c-4245-bc45-0fb8e73fecca",
+    "company": "TikTok",
+    "title": "Machine Learning Engineer Intern - E-Commerce Recommendation Foundation",
+    "location": "San Jose, CA (Other)",
+    "url": "https://lifeattiktok.com/search/7672883129493948677"
+  },
+  {
+    "id": "sj:0d1a5d14-2cc4-4c85-a1a6-aa02ecc2b4f8",
+    "company": "TikTok",
+    "title": "Machine Learning Engineer Intern - E-Commerce Recommendation Foundation",
+    "location": "Seattle, WA (Other)",
+    "url": "https://lifeattiktok.com/search/7672881840860940597"
+  },
+  {
+    "id": "sj:baeedb05-7415-43b1-a352-ff0efdc23b6b",
+    "company": "TikTok",
+    "title": "Machine Learning Engineer Intern - E-Commerce Recommendation Mall",
+    "location": "Seattle, WA (Other)",
+    "url": "https://lifeattiktok.com/search/7672920375646488885"
+  },
+  {
+    "id": "sj:d0e6095d-b7d9-4b98-9b30-5bc4f60fed04",
+    "company": "ByteDance",
+    "title": "Data Lake Infrastructure & Data Analytics Research Engineer Intern - Applied Machine Learning Ark",
+    "location": "Seattle, WA (Other)",
+    "url": "https://jobs.bytedance.com/en/position/7672394389001816325/detail"
+  },
+  {
+    "id": "sj:b54ab32d-a9c1-471a-8365-6e0bdc0eaeb0",
+    "company": "TikTok",
+    "title": "AI Safety Evaluation & Governance Product Manager Intern - Multiple Teams",
+    "location": "San Jose, CA (Other)",
+    "url": "https://lifeattiktok.com/search/7670529537944766773"
+  },
+  {
+    "id": "sj:f57a89f7-f1c7-44ac-826b-23f1d9a409cf",
+    "company": "ByteDance",
+    "title": "Data Lake Infrastructure and Data Analytics Research Engineer Intern - Applied Machine Learning Ark",
+    "location": "San Jose, CA (Other)",
+    "url": "https://jobs.bytedance.com/en/position/7671109787509213445/detail"
+  },
+  {
     "id": "sj:d1768aee-f240-4353-b609-278b04785c95",
     "company": "TikTok",
     "title": "Software Engineer Intern - Global E-commerce-Search",
@@ -329,6 +406,69 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Remote/System-Software-Engineering-Intern--GPU---2027_JR2025334"
   },
   {
+    "id": "sj:612e81e2-c670-4480-bb34-d840b958320e",
+    "company": "Acuity Insurance",
+    "title": "Software Engineer Intern",
+    "location": "Remote in USA; Sheboygan, WI (Other)",
+    "url": "https://recruiting2.ultipro.com/her1001acfin/JobBoard/ab33798a-3521-417b-8db8-a8e435c475fa/OpportunityDetail?opportunityId=57946ef1-ca27-4ef4-b48d-829da2dfd217"
+  },
+  {
+    "id": "sj:c7a7d18b-2854-4ff1-895e-d8615d3b70b6",
+    "company": "Acuity Insurance",
+    "title": "Strategic Information Intern",
+    "location": "Sheboygan, WI (Other)",
+    "url": "https://recruiting2.ultipro.com/her1001acfin/JobBoard/ab33798a-3521-417b-8db8-a8e435c475fa/OpportunityDetail?opportunityId=3cb5586d-26d4-442b-9461-5c97f9b52cf7"
+  },
+  {
+    "id": "sj:a5485083-cfbd-4ff6-9b07-9cdf7b51cc81",
+    "company": "Werner Electric Supply",
+    "title": "AI Intern",
+    "location": "Appleton, WI (Other)",
+    "url": "https://recruiting2.ultipro.com/WER1000WERE/JobBoard/9cc9fbca-288f-4c69-99d7-b81d31b89844/OpportunityDetail?opportunityId=48ee1836-bd71-4533-a83a-a5170a0e984d"
+  },
+  {
+    "id": "sj:4cfcbda9-a456-478d-b056-40194e240ac7",
+    "company": "Ulteig",
+    "title": "GIS Intern",
+    "location": "Remote in USA; Minneapolis, MN; Greenwood Village, CO (Other)",
+    "url": "https://recruiting2.ultipro.com/ULT1008ULTE/JobBoard/71bc1da6-c7b0-4b37-9f7b-076d7d68c57b/OpportunityDetail?opportunityId=06de9c99-c3f6-41e6-867e-05efb7cfa5fa"
+  },
+  {
+    "id": "sj:64a27bb1-56d9-4534-a69b-3c743cf72633",
+    "company": "Microsoft",
+    "title": "Research Intern - Quantum Applications",
+    "location": "Redmond, WA (Other)",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557076525"
+  },
+  {
+    "id": "sj:6b449a8b-e1a2-4ab1-984d-36413f2940f2",
+    "company": "Avista",
+    "title": "Central Analytics Intern - Multiple Teams",
+    "location": "Spokane, WA (Other)",
+    "url": "https://recruiting2.ultipro.com/avi1000amast/JobBoard/362abf68-95c3-4b17-a39d-76a6efe5ff18/OpportunityDetail?opportunityId=6985c6f8-7b03-4906-8c45-1636863e8a58"
+  },
+  {
+    "id": "sj:4639a999-7834-40d5-a4ab-f1da249fc026",
+    "company": "The Allen Institute for AI",
+    "title": "Research Intern - Climate Modeling",
+    "location": "Seattle, WA (Other)",
+    "url": "https://job-boards.greenhouse.io/thealleninstitute/jobs/8404052"
+  },
+  {
+    "id": "sj:0e3c923c-bece-473a-bc86-752ab836e558",
+    "company": "Gusto",
+    "title": "Economics Research Intern",
+    "location": "SF (Other)",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8400148"
+  },
+  {
+    "id": "sj:c4cc35c2-b5a9-489d-bd2f-538c715c8761",
+    "company": "Lucid Motors",
+    "title": "AI/ML Intern - Vehicle Infotainment - Summer 2027",
+    "location": "Newark, CA (Other)",
+    "url": "https://lucidmotors.com/careers/search/5290923007?gh_jid=5290923007"
+  },
+  {
     "id": "sj:80c2eec1-d0db-47f0-b9ce-67834cfa6455",
     "company": "Systems Planning and Analysis",
     "title": "Integrated Analytics Intern",
@@ -362,6 +502,20 @@
     "title": "Software Engineer Intern - Front-End",
     "location": "Austin, TX (Other)",
     "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Austin-TX/Intern--Software-Engineer--Front-End_R8567-1"
+  },
+  {
+    "id": "sj:ebfeb2eb-8fcc-4883-8688-30e1f57055e0",
+    "company": "Shield AI",
+    "title": "Operational Analysis Intern - Operational Analysis",
+    "location": "Arlington County, Arlington, VA (Other)",
+    "url": "https://jobs.ashbyhq.com/shield/683deced-ddc9-4857-8783-323994263f2a/application?embed=true"
+  },
+  {
+    "id": "sj:61ec4acd-f407-4303-9ca8-5d49036bce4c",
+    "company": "Shield AI",
+    "title": "Operational Analysis Intern - Operational Analysis",
+    "location": "Arlington County, Arlington, VA (Other)",
+    "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/683deced-ddc9-4857-8783-323994263f2a/application?embed=true"
   },
   {
     "id": "sj:a25956ba-3ed6-4f4c-86b1-999dbee31f1e",
@@ -1244,13 +1398,6 @@
     "title": "Compiler Software Engineer Intern",
     "location": "Redmond, WA (Other)",
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-WA-Redmond/Compiler-Software-Engineering-Intern---Summer-2027_JR2028607"
-  },
-  {
-    "id": "sj:e1cafb2f-2420-4d7e-9cc6-5c161ba89dd3",
-    "company": "Great American Insurance Company",
-    "title": "DevOps Developer Intern",
-    "location": "Cincinnati, OH (Other)",
-    "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/DevOps-Developer-Intern---Summer-2027_R9826"
   },
   {
     "id": "sj:93157a2c-d04f-4785-b701-eb8a4beb6fd7",
@@ -3164,13 +3311,6 @@
     "url": "https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Nashville-TN-City-Center/GIS-Intern---Summer-2027_R-31562-2"
   },
   {
-    "id": "sj:07e245b0-b4de-4587-a8b2-5891870634da",
-    "company": "Waymo",
-    "title": "Vehicle Intent and Prediction Intern",
-    "location": "Mountain View, CA (Other)",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=8189848"
-  },
-  {
     "id": "sj:7530c688-5657-4159-baad-6d34c53ff482",
     "company": "Bedrock Robotics",
     "title": "Onboard Infrastructure Engineer Intern - ML Inference",
@@ -3344,13 +3484,6 @@
     "title": "Software Engineer Intern - Summer 2027",
     "location": "Durham, NC (Other)",
     "url": "https://apply.workable.com/enfos-inc/j/CA15908E0A/apply"
-  },
-  {
-    "id": "sj:344ab169-a8ca-4178-8d88-e864f5408c19",
-    "company": "Zipline",
-    "title": "Aircraft Software Integration Intern",
-    "location": "South SF (Other)",
-    "url": "https://www.zipline.com/open-roles/7986848003?gh_jid=7986848003"
   },
   {
     "id": "sj:58cf8fe8-1a98-42de-92d9-2a915d02739d",
