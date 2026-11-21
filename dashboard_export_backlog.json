@@ -406,6 +406,13 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Remote/System-Software-Engineering-Intern--GPU---2027_JR2025334"
   },
   {
+    "id": "sj:cdb1ef31-7f9b-4574-bbe4-01e83315372f",
+    "company": "Lucid Motors",
+    "title": "ADAS Platform Tools Intern",
+    "location": "Newark, CA (Other)",
+    "url": "https://lucidmotors.com/careers/search/5290796007?gh_jid=5290796007"
+  },
+  {
     "id": "sj:612e81e2-c670-4480-bb34-d840b958320e",
     "company": "Acuity Insurance",
     "title": "Software Engineer Intern",
@@ -1239,25 +1246,11 @@
     "url": "https://www.weareroku.com/jobs/8258241?gh_jid=8258241"
   },
   {
-    "id": "sj:80f18dd7-dd58-4635-88b5-28ffe8a06439",
-    "company": "KLA Corporation",
-    "title": "Software Engineer Intern",
-    "location": "Austin, TX (Other)",
-    "url": "https://kla.wd1.myworkdayjobs.com/search/job/Austin-TX/Software-Engineering-Intern_2642004-1"
-  },
-  {
     "id": "sj:8c36b3e9-bb7e-465c-8e59-8add0c4ab3da",
     "company": "LabCorp",
     "title": "Full-Stack Life Sciences Software Engineer Co-op",
     "location": "Durham, NC; Burlington, NC (Other)",
     "url": "https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Co-op---Full-Stack-Life-Sciences-Engineer_2639083"
-  },
-  {
-    "id": "sj:f9f2c39b-cbd9-4654-bfd9-2ff0ac221771",
-    "company": "KLA Corporation",
-    "title": "Software Engineer Intern",
-    "location": "Austin, TX (Other)",
-    "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Austin-TX/Software-Engineering-Intern_2642004"
   },
   {
     "id": "sj:3776b303-0849-4822-8f8b-efd9d1b813dc",
@@ -1659,13 +1652,6 @@
     "url": "https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Santa-Clara-CA---USA-Office/Software-Engineering-Intern--Summer-2027-_R04791-2"
   },
   {
-    "id": "sj:af44a97e-7851-4c17-95b2-1f4d3f8e5d53",
-    "company": "Skydio",
-    "title": "Autonomy Engineer Intern - Simulation & Robotics",
-    "location": "San Mateo, CA (Other)",
-    "url": "https://jobs.ashbyhq.com/skydio/6f5caf41-fa1d-4208-9bdc-82c72e5d3f17/application?embed=true"
-  },
-  {
     "id": "sj:2507d753-2e29-4433-be1b-355a19295f16",
     "company": "Shield AI",
     "title": "Software Engineer Intern",
@@ -1762,13 +1748,6 @@
     "title": "Future Talent Program Intern - AI/ML Biomedical Imaging and Computational Pathology",
     "location": "Cambridge, MA (Other)",
     "url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Massachusetts---Cambridge-320-Bent-Street/XMLNAME-2027-Future-Talent-Program---AI-ML-Biomedical-Imaging-and-Computational-Pathology---Intern_R423515"
-  },
-  {
-    "id": "sj:baf68adf-358f-4898-99b5-1bb3a08bd7f6",
-    "company": "Huntington Bancshares",
-    "title": "Enterprise Payments Intern",
-    "location": "Detroit, MI; Minnetonka, MN; Columbus, OH (Other)",
-    "url": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Summer-2027-Enterprise-Payments-Internship_R0077171"
   },
   {
     "id": "sj:82185a0f-af48-47f8-a2bc-af676ba67dc3",
@@ -2163,13 +2142,6 @@
     "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue/GE-Vernova---AGI---Grid-Foundational-Models-Intern---Summer-2027_R5054820-3"
   },
   {
-    "id": "sj:42f5973e-2aff-404f-84c2-f2aaba6998d1",
-    "company": "GE Vernova",
-    "title": "AI Post-Training and Model Alignment Intern",
-    "location": "Bellevue, WA (Other)",
-    "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue/GE-Vernova---AGI---AI-Post-Training-and-Model-Alignment-Intern---Summer-2027_R5054822-2"
-  },
-  {
     "id": "sj:53234b9a-baaf-49c1-88e1-4e5356cdcbd8",
     "company": "J.M. Smucker",
     "title": "Net Revenue Optimization Intern",
@@ -2343,13 +2315,6 @@
     "title": "Software Application Development Engineer Intern",
     "location": "Pleasanton, CA (Other)",
     "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Software-Application-Development-Engineer-Intern_JR-0110811"
-  },
-  {
-    "id": "sj:2ab54297-543e-4470-b71e-2e95b53cd687",
-    "company": "Workday",
-    "title": "Software Engineer Intern",
-    "location": "Pleasanton, CA (Other)",
-    "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Software-Development-Engineer-Intern_JR-0110810"
   },
   {
     "id": "sj:a88c4837-dfcb-4510-8be0-2b25c43d5754",
@@ -2702,13 +2667,6 @@
     "url": "https://job-boards.greenhouse.io/amca/jobs/4425120009"
   },
   {
-    "id": "sj:4e50989c-28b7-441b-aabc-eb291b528b95",
-    "company": "DraftKings",
-    "title": "Analytics Intern",
-    "location": "Boston, MA (Other)",
-    "url": "https://draftkings.wd1.myworkdayjobs.com/Employee_Referral_Portal/job/Boston-MA/Analyst-Intern-Referral--Summer-2027-_JR15187"
-  },
-  {
     "id": "sj:14085e38-d7e6-4dde-89a8-5714d59445d5",
     "company": "Illinois Tool Works",
     "title": "Software Engineer Intern",
@@ -2940,13 +2898,6 @@
     "url": "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/XMLNAME-2027-Modeling--Analytics----Simulation-Sciences--MASS--Engineer-Intern_HR102441"
   },
   {
-    "id": "sj:90c4aeeb-3983-4bd2-9dfe-15097a7f2d59",
-    "company": "Waymo",
-    "title": "Machine Learning Engineer Intern - Road Understanding",
-    "location": "Mountain View, CA (Other)",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=8224746"
-  },
-  {
     "id": "sj:9e770238-e3ff-491f-baa6-08a85518e661",
     "company": "Illinois Tool Works",
     "title": "Software Engineer Intern",
@@ -3071,13 +3022,6 @@
     "title": "Industrial Engineering Intern - Americas Region",
     "location": "United States (Other)",
     "url": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/XMLNAME-2027-Americas-Region-Industrial-Engineering-Summer-Intern_R26032989"
-  },
-  {
-    "id": "sj:371c8592-d416-40cf-88fb-3f95ac049ad3",
-    "company": "Waymo",
-    "title": "Scenes Intern",
-    "location": "Mountain View, CA (Other)",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=8210170"
   },
   {
     "id": "sj:21da8578-625e-4937-b949-fcc1669b7dee",
@@ -3827,13 +3771,6 @@
     "title": "Technology Intern",
     "location": "Pleasanton, CA (Other)",
     "url": "https://blackhawknetwork.jibeapply.com/jobs/26867?icims=1"
-  },
-  {
-    "id": "sj:ac16b37b-d5ee-4a02-8d77-305bc1ab5168",
-    "company": "Stryker",
-    "title": "Software Engineering Intern - Multiple Teams",
-    "location": "Fremont, CA; San Jose, CA (Other)",
-    "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/San-Jose-California/Summer-2027-Internship---Software-Engineering---California_R572624"
   },
   {
     "id": "sj:fa15def7-0f05-40dd-be86-fa6ef407a9ef",
