@@ -1204,6 +1204,13 @@
     "url": "https://recruiting2.ultipro.com/goo1038gomn/JobBoard/75022464-9dbd-43d2-af44-2840603d5823/OpportunityDetail?opportunityId=016d2b83-b435-4bb0-bb74-cb0555970a87"
   },
   {
+    "id": "sj:b4668eae-16c6-4c57-927b-a0dc130281a9",
+    "company": "AriensCo",
+    "title": "Product Management Intern",
+    "location": "Brillion, WI (Other)",
+    "url": "https://arienscompany.wd5.myworkdayjobs.com/external/job/WI---Brillion/Product-Management-Intern_R-04305"
+  },
+  {
     "id": "sj:23c15372-9632-404c-a541-af54e55a15f8",
     "company": "Lucid Motors",
     "title": "AI & Data Intern - Applied AI/Machine Learning",
@@ -1216,6 +1223,13 @@
     "title": "Data Engineering Intern",
     "location": "Minneapolis, MN (Other)",
     "url": "https://pipersandler.wd501.myworkdayjobs.com/Piper_Sandler_Careers/job/Minneapolis-MN---HQ/XMLNAME-2027-Summer-Internship-Program---Data-Engineering_R-100805"
+  },
+  {
+    "id": "sj:b5c5b115-3401-43ce-ac29-ea46e184089f",
+    "company": "Compassion International",
+    "title": "Summer Intern - Data and Software Engineering",
+    "location": "Colorado Springs, CO (Other)",
+    "url": "https://compassion.wd5.myworkdayjobs.com/compassioncareers/job/USA---Global-Ministry-Center/XMLNAME-2027-Summer-Internship---Data-and-Software-Engineering_R8840"
   },
   {
     "id": "sj:1344faa8-1ac5-42aa-9e6f-7777257aca98",
@@ -1293,6 +1307,13 @@
     "title": "Client Security & Data Foundation Machine Learning Engineer Intern",
     "location": "San Jose, CA (Other)",
     "url": "https://lifeattiktok.com/search/7708750900450134325"
+  },
+  {
+    "id": "sj:436c4c36-f3de-487a-83b6-492a4266d8ff",
+    "company": "Blizzard Entertainment",
+    "title": "Data Platform Engineering Intern - Data Platform Engineering",
+    "location": "Irvine, CA (Other)",
+    "url": "https://xboxgaming.wd1.myworkdayjobs.com/Blizzard_External_Careers/job/Irvine---Blizzard---Blizzard-Way/Blizzard-2027-Summer-Internships---Data-Platform-Engineering_R028358"
   },
   {
     "id": "sj:f7c4221f-6c64-4799-8157-8a32799d7e85",
@@ -1398,13 +1419,6 @@
     "title": "Data Science Intern",
     "location": "Needham, MA (Other)",
     "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4727539006"
-  },
-  {
-    "id": "sj:6d3f5916-cf7c-49e6-a3dc-a48791bec4fd",
-    "company": "Microsoft",
-    "title": "Data Scientist Intern - CoreAI",
-    "location": "Redmond, WA (Other)",
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393557027390"
   },
   {
     "id": "sj:e0eaa7f8-aae0-4a96-b1f6-10ad994f4751",
@@ -1888,13 +1902,6 @@
     "title": "Global Product Solutions and Operations Intern - Global Monetization Product and Technology",
     "location": "San Jose, CA (Other)",
     "url": "https://lifeattiktok.com/search/7701069870360627509"
-  },
-  {
-    "id": "sj:5f0aa1ea-dfb4-4cfb-8224-5f3d9fd07cf0",
-    "company": "The Federal Reserve System",
-    "title": "REIN Data Intern",
-    "location": "Atlanta, GA (Other)",
-    "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---REIN-Data-Intern_R-0000033089"
   },
   {
     "id": "sj:01d6a7ab-cfb5-4eec-8014-19bba35efccb",
@@ -3491,12 +3498,5 @@
     "title": "Product Manager Intern - Scaled Growth",
     "location": "San Jose, CA (Other)",
     "url": "https://lifeattiktok.com/search/7673559305519794437"
-  },
-  {
-    "id": "sj:5c3d16dc-fd92-4496-aeb5-c3bead9bdd18",
-    "company": "TikTok",
-    "title": "Data Science Intern - Advertisement Team",
-    "location": "San Jose, CA (Other)",
-    "url": "https://lifeattiktok.com/search/7673226686054107445"
   }
 ]
