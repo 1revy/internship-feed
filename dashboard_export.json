@@ -1211,6 +1211,20 @@
     "url": "https://arienscompany.wd5.myworkdayjobs.com/external/job/WI---Brillion/Product-Management-Intern_R-04305"
   },
   {
+    "id": "sj:aa0bb621-9994-4c59-bf19-588c3ec268c6",
+    "company": "Advance Auto Parts",
+    "title": "Data Science Intern",
+    "location": "Raleigh, NC (Other)",
+    "url": "https://advanceauto.wd5.myworkdayjobs.com/advanceexternalcareers/job/Raleigh-NC/Data-Science-Intern_R-0620261-1"
+  },
+  {
+    "id": "sj:7621fa9b-ec20-4491-982c-595a00ea2cc0",
+    "company": "NVIDIA",
+    "title": "Technical Marketing Engineer Intern - Digital Biology and Scientific Computing",
+    "location": "Santa Clara, CA (Other)",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Marketing-Engineering-Intern--Digital-Biology-and-Scientific-Computing---Summer-2027_JR2029793"
+  },
+  {
     "id": "sj:23c15372-9632-404c-a541-af54e55a15f8",
     "company": "Lucid Motors",
     "title": "AI & Data Intern - Applied AI/Machine Learning",
@@ -1230,6 +1244,13 @@
     "title": "Summer Intern - Data and Software Engineering",
     "location": "Colorado Springs, CO (Other)",
     "url": "https://compassion.wd5.myworkdayjobs.com/compassioncareers/job/USA---Global-Ministry-Center/XMLNAME-2027-Summer-Internship---Data-and-Software-Engineering_R8840"
+  },
+  {
+    "id": "sj:57adff29-a237-40f3-ac3f-a81367ed791b",
+    "company": "TransUnion",
+    "title": "Data Science and Analytics Intern",
+    "location": "Chicago, IL (Other)",
+    "url": "https://transunion.wd5.myworkdayjobs.com/en-US/TransUnion/job/Chicago-Illinois/Data-Science---Analytics-Internship---Summer-2027_19043450"
   },
   {
     "id": "sj:1344faa8-1ac5-42aa-9e6f-7777257aca98",
@@ -3477,26 +3498,5 @@
     "title": "Data Engineer Intern - Data Platform Global Live",
     "location": "San Jose, CA (Other)",
     "url": "https://lifeattiktok.com/search/7674032146438162693"
-  },
-  {
-    "id": "sj:d1f12ffa-cc86-44c9-aad3-b6def1a50517",
-    "company": "TikTok",
-    "title": "Product Solutions and Operations Intern - Commerce Ads",
-    "location": "San Jose, CA (Other)",
-    "url": "https://lifeattiktok.com/search/7673340525029673221"
-  },
-  {
-    "id": "sj:a0ec26fd-db0f-4eb4-9bed-73b9409cabc5",
-    "company": "TikTok",
-    "title": "Product Manager Intern - Content and Services",
-    "location": "San Jose, CA (Other)",
-    "url": "https://lifeattiktok.com/search/7673337777708550405"
-  },
-  {
-    "id": "sj:56973e0e-ee92-4898-b2d3-7f5df827f064",
-    "company": "TikTok",
-    "title": "Product Manager Intern - Scaled Growth",
-    "location": "San Jose, CA (Other)",
-    "url": "https://lifeattiktok.com/search/7673559305519794437"
   }
 ]
