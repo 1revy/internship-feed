@@ -2086,13 +2086,6 @@
     "url": "https://jobs.constellationenergy.com/jobs/140352?icims=1&lang=en-us"
   },
   {
-    "id": "sj:d74a8f1e-37e1-4db6-b4bc-ed33d69d7ea3",
-    "company": "American Family Insurance Group",
-    "title": "Business Intelligence Enablement Intern",
-    "location": "Madison, WI; Boston, MA (Other)",
-    "url": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Intern---Business-Intelligence-Enablement_R39531"
-  },
-  {
     "id": "sj:d0db8f05-2c60-4b81-919a-f0aa54b9cb8c",
     "company": "Allstate",
     "title": "Data Analytics Engineer Intern",
@@ -2392,13 +2385,6 @@
     "title": "Data Scaling Intern - Data Scaling - Embodied AI",
     "location": "Sunnyvale, CA (Other)",
     "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Data-Scaling--Embodied-AI_JR-202622132"
-  },
-  {
-    "id": "sj:3bcb752a-418d-4efe-88b2-389292a7eed0",
-    "company": "Workday",
-    "title": "Product Manager Intern",
-    "location": "Pleasanton, CA (Other)",
-    "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Product-Manager-Intern_JR-0110813"
   },
   {
     "id": "sj:60881082-3930-422a-9543-38028c8e9208",
@@ -3498,5 +3484,19 @@
     "title": "Product Manager Intern - Content and Services",
     "location": "San Jose, CA (Other)",
     "url": "https://lifeattiktok.com/search/7673337777708550405"
+  },
+  {
+    "id": "sj:56973e0e-ee92-4898-b2d3-7f5df827f064",
+    "company": "TikTok",
+    "title": "Product Manager Intern - Scaled Growth",
+    "location": "San Jose, CA (Other)",
+    "url": "https://lifeattiktok.com/search/7673559305519794437"
+  },
+  {
+    "id": "sj:5c3d16dc-fd92-4496-aeb5-c3bead9bdd18",
+    "company": "TikTok",
+    "title": "Data Science Intern - Advertisement Team",
+    "location": "San Jose, CA (Other)",
+    "url": "https://lifeattiktok.com/search/7673226686054107445"
   }
 ]
