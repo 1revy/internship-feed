@@ -973,13 +973,6 @@
     "url": "https://apply.workable.com/javelin-global-commodities/j/CAF64E75BF/apply"
   },
   {
-    "id": "sj:2d43585f-8138-4d37-97ac-3ac58db1d2cc",
-    "company": "TD Bank",
-    "title": "Technology Intern",
-    "location": "London, UK (London / Paris)",
-    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/London-United-Kingdom/XMLNAME-2027-Summer-Internship---Technology_R_1518239"
-  },
-  {
     "id": "sj:1962fda2-9358-4d0b-a814-d0e55e225392",
     "company": "Amazon",
     "title": "Software Developer Intern",
@@ -2084,13 +2077,6 @@
     "title": "Technology Summer Analyst Intern - Application Development",
     "location": "Irving, TX (Other)",
     "url": "https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Technology--Application-Development--Summer-Analyst--Irving---USA--2027_261003288"
-  },
-  {
-    "id": "sj:b2378902-0565-466e-8c16-f3e53b4f62e3",
-    "company": "Citi",
-    "title": "Technology Summer Analyst Intern - Production Support",
-    "location": "Tampa, FL (Other)",
-    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Technology--Production-Support--Summer-Analyst--Tampa---USA--2027_261003298"
   },
   {
     "id": "sj:fb7c3da2-a194-48d2-ac39-bdfc88cad4d0",
@@ -3498,5 +3484,19 @@
     "title": "Data Engineer Intern - Data Platform Global Live",
     "location": "San Jose, CA (Other)",
     "url": "https://lifeattiktok.com/search/7674032146438162693"
+  },
+  {
+    "id": "sj:d1f12ffa-cc86-44c9-aad3-b6def1a50517",
+    "company": "TikTok",
+    "title": "Product Solutions and Operations Intern - Commerce Ads",
+    "location": "San Jose, CA (Other)",
+    "url": "https://lifeattiktok.com/search/7673340525029673221"
+  },
+  {
+    "id": "sj:a0ec26fd-db0f-4eb4-9bed-73b9409cabc5",
+    "company": "TikTok",
+    "title": "Product Manager Intern - Content and Services",
+    "location": "San Jose, CA (Other)",
+    "url": "https://lifeattiktok.com/search/7673337777708550405"
   }
 ]
