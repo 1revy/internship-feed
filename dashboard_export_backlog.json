@@ -1,40 +1,5 @@
 [
   {
-    "id": "sj:a0ec26fd-db0f-4eb4-9bed-73b9409cabc5",
-    "company": "TikTok",
-    "title": "Product Manager Intern - Content and Services",
-    "location": "San Jose, CA (Other)",
-    "url": "https://lifeattiktok.com/search/7673337777708550405"
-  },
-  {
-    "id": "sj:56973e0e-ee92-4898-b2d3-7f5df827f064",
-    "company": "TikTok",
-    "title": "Product Manager Intern - Scaled Growth",
-    "location": "San Jose, CA (Other)",
-    "url": "https://lifeattiktok.com/search/7673559305519794437"
-  },
-  {
-    "id": "sj:5c3d16dc-fd92-4496-aeb5-c3bead9bdd18",
-    "company": "TikTok",
-    "title": "Data Science Intern - Advertisement Team",
-    "location": "San Jose, CA (Other)",
-    "url": "https://lifeattiktok.com/search/7673226686054107445"
-  },
-  {
-    "id": "sj:2546c60d-b4b4-495a-927e-6a112bdefc69",
-    "company": "TikTok",
-    "title": "Product Operations Intern - TikTok Shop Apps and API",
-    "location": "Seattle, WA (Other)",
-    "url": "https://lifeattiktok.com/search/7669705525866383621"
-  },
-  {
-    "id": "sj:e68caf69-cb51-4c52-933d-ace225ef6fb3",
-    "company": "TikTok",
-    "title": "Product Manager Intern - Signal and Identity Product",
-    "location": "San Jose, CA (Other)",
-    "url": "https://lifeattiktok.com/search/7672554809555192117"
-  },
-  {
     "id": "sj:fc4e61cf-8b0d-41bc-a27f-9081dc511bca",
     "company": "TikTok",
     "title": "Product Manager Intern - Commerce Ads",
@@ -427,11 +392,25 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Remote/System-Software-Engineering-Intern--GPU---2027_JR2025334"
   },
   {
+    "id": "sj:44661bd9-b43c-446d-a232-8a1d4bd6d3c6",
+    "company": "APEX Analytix",
+    "title": "Software Engineer Intern - Platform Tooling",
+    "location": "Greensboro, NC (Other)",
+    "url": "https://ats.rippling.com/apexanalytix-careers/jobs/0ab75bb7-08ee-403a-bbe5-3937bb948b19"
+  },
+  {
     "id": "sj:9894da93-252f-4667-9ffe-fea0d126c96b",
     "company": "First Resonance",
     "title": "Software Engineer Intern - Platform",
     "location": "LA (Other)",
     "url": "https://jobs.ashbyhq.com/first-resonance/0c88b508-432d-442d-aa5f-486e08aaf5a7/application?embed=true"
+  },
+  {
+    "id": "sj:a628d336-09fd-45c3-bd3c-fcfe8c92c533",
+    "company": "Benchling",
+    "title": "Software Engineer Intern",
+    "location": "SF (Other)",
+    "url": "https://jobs.ashbyhq.com/benchling/96370d1b-d35e-446b-8e26-dce088860099/application?embed=true"
   },
   {
     "id": "sj:cc0456f2-4b03-4d99-8bb3-90e5b9259771",
@@ -546,20 +525,6 @@
     "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Austin-TX/Intern--Software-Engineer--Front-End_R8567-1"
   },
   {
-    "id": "sj:ebfeb2eb-8fcc-4883-8688-30e1f57055e0",
-    "company": "Shield AI",
-    "title": "Operational Analysis Intern - Operational Analysis",
-    "location": "Arlington County, Arlington, VA (Other)",
-    "url": "https://jobs.ashbyhq.com/shield/683deced-ddc9-4857-8783-323994263f2a/application?embed=true"
-  },
-  {
-    "id": "sj:61ec4acd-f407-4303-9ca8-5d49036bce4c",
-    "company": "Shield AI",
-    "title": "Operational Analysis Intern - Operational Analysis",
-    "location": "Arlington County, Arlington, VA (Other)",
-    "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/683deced-ddc9-4857-8783-323994263f2a/application?embed=true"
-  },
-  {
     "id": "sj:28b10e18-b290-443b-b1ae-dca8536f1cd0",
     "company": "Woodward Governor",
     "title": "AI Intern",
@@ -572,13 +537,6 @@
     "title": "Operational Analysis Intern - Summer 2027",
     "location": "Cambridge, MA (Other)",
     "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Operational-Analysis-Intern--Summer-2027-_JR003182"
-  },
-  {
-    "id": "sj:e65ac273-7487-4451-9dbc-cc524774e498",
-    "company": "General Dynamics Information Technology",
-    "title": "AI and Estimation Intern - Interns",
-    "location": "Falls Church, VA (Other)",
-    "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Summer-2027-AI-and-Estimation-Intern_RQ232867"
   },
   {
     "id": "sj:955f9057-3b81-448d-8411-92be965c2e8a",
@@ -684,13 +642,6 @@
     "title": "Machine Learning Engineer Intern",
     "location": "Santa Ana, CA (Other)",
     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5274037007"
-  },
-  {
-    "id": "sj:1766b9ad-6231-4035-b13d-f0f5bf630fbe",
-    "company": "Bound",
-    "title": "Engineering Intern",
-    "location": "Ames, IA (Other)",
-    "url": "https://ats.rippling.com/bound/jobs/f489575d-5484-4c43-9b6d-a9dce9b29bcd"
   },
   {
     "id": "sj:2d118061-4df0-42b0-bb7c-a4062ea46dd1",
@@ -866,13 +817,6 @@
     "title": "Human-Centered AI Research Intern - Causal Reasoning Models",
     "location": "Los Altos, CA (Other)",
     "url": "https://jobs.lever.co/tri/be41a03c-460e-4ff7-b817-f012aa1c4b37/apply"
-  },
-  {
-    "id": "sj:d9461ffc-f97d-4212-9d5c-5603ebac867a",
-    "company": "International",
-    "title": "Artificial Intelligence/Machine Learning Intern",
-    "location": "Lisle, IL (Other)",
-    "url": "https://careers.international.com/jobs/60456?icims=1&lang=en-us"
   },
   {
     "id": "sj:ae9aa4de-c8a0-4a11-9445-175734afdd68",
@@ -1972,13 +1916,6 @@
     "title": "Software Engineer Intern",
     "location": "Orlando, FL (Other)",
     "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/216262"
-  },
-  {
-    "id": "sj:9e472e5e-45ed-46ff-833d-4b4506676f0f",
-    "company": "Electronic Arts",
-    "title": "Software Engineer Intern",
-    "location": "Orlando, FL (Other)",
-    "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/216250"
   },
   {
     "id": "sj:e5fc4725-7c7e-4f70-8b44-393f041df42f",
@@ -3612,13 +3549,6 @@
     "url": "https://jobs.bytedance.com/en/position/7678451067500529925/detail"
   },
   {
-    "id": "sj:8b46d013-f73a-4d7b-bd75-7775fa71d342",
-    "company": "Tesla",
-    "title": "Physics Engine Development Engineer Intern - Optimus",
-    "location": "Palo Alto, CA (Other)",
-    "url": "https://www.tesla.com/careers/search/job/282147"
-  },
-  {
     "id": "sj:1e0ac563-c8ac-4d94-a5c6-f43115f22027",
     "company": "TWG Global",
     "title": "AI Engineer Intern - Summer 2027",
@@ -4639,13 +4569,6 @@
     "title": "Machine Learning Research Intern",
     "location": "Chicago, IL (Other)",
     "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4907430101"
-  },
-  {
-    "id": "sj:ffc1f08c-7dd5-4fce-986e-2e3b824aabb4",
-    "company": "Palantir",
-    "title": "Forward Deployed Software Engineer Intern - Commercial",
-    "location": "Chicago, IL (Other)",
-    "url": "https://jobs.lever.co/palantir/d5486403-c050-4920-b2e0-91b69b61ebb2/apply"
   },
   {
     "id": "sj:fef80be2-32b2-45c7-8fd7-acdeba3b2295",
