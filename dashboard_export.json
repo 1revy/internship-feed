@@ -224,13 +224,6 @@
     "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002"
   },
   {
-    "id": "sj:ce15dae3-7399-4de2-93b2-1047bc6aedc8",
-    "company": "Schonfeld",
-    "title": "Data Science Intern",
-    "location": "NYC (New York)",
-    "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8171692"
-  },
-  {
     "id": "sj:16a27c2f-e977-4813-bb03-f6736d8f1f5f",
     "company": "Ernst & Young",
     "title": "Product Manager Intern - Tax - Other Tax",
@@ -264,6 +257,13 @@
     "title": "Sector Data Scientist Intern",
     "location": "NYC (New York)",
     "url": "https://www.citadel.com/careers/details/sector-data-scientist-2027-intern-us/"
+  },
+  {
+    "id": "sj:a5b1e709-3c40-4f69-9d26-a662fedb49e8",
+    "company": "Playfly Sports",
+    "title": "Research & Insights Intern",
+    "location": "NYC (New York)",
+    "url": "https://www.playfly.com/careers?gh_jid=4486378009"
   },
   {
     "id": "sj:3e95bd83-3d96-4d6d-b233-f8ff7fe4738b",
@@ -460,13 +460,6 @@
     "title": "Software Engineer Intern",
     "location": "NYC (New York)",
     "url": "https://boards.greenhouse.io/point72/jobs/8885733002"
-  },
-  {
-    "id": "sj:68895e12-9a1f-4ca5-8dfb-b050f2ea8a43",
-    "company": "Google",
-    "title": "Forward Deployed Engineer Intern",
-    "location": "NYC; Sunnyvale, CA (New York)",
-    "url": "https://www.google.com/about/careers/applications/jobs/results/75665705386549958"
   },
   {
     "id": "sj:3c660071-514f-4ae0-933a-05082c35f633",
@@ -952,13 +945,6 @@
     "url": "https://jobs.ashbyhq.com/trainline/b0174860-8a94-4bd3-a307-373eeab586dd/application?embed=true"
   },
   {
-    "id": "sj:a8837e6f-d12f-40d3-b941-d2612b28e736",
-    "company": "CrowdStrike",
-    "title": "Intelligence Launch Intern",
-    "location": "London, UK; Reading, UK (London / Paris)",
-    "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/United-Kingdom---Reading/Intelligence-Launch-Intern---Summer-2027_R30500"
-  },
-  {
     "id": "sj:d4c53c63-9dbe-4a0d-8121-cf0a9a7d853c",
     "company": "DraftKings",
     "title": "Software Engineer Intern",
@@ -1062,13 +1048,6 @@
     "title": "Software Engineer Intern - Multiple Teams",
     "location": "London, UK (London / Paris)",
     "url": "https://boards.greenhouse.io/figma/jobs/6152695004"
-  },
-  {
-    "id": "sj:1032792e-ebaa-4f37-8619-e4388cda6fbc",
-    "company": "Scale AI",
-    "title": "Software Engineer Intern - Summer 2027",
-    "location": "London, UK (London / Paris)",
-    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730846005"
   },
   {
     "id": "sj:49740871-4c1c-4e2d-9d6d-42cca17e1b2f",
@@ -1897,13 +1876,6 @@
     "url": "https://jobs.constellationenergy.com/jobs/140400?icims=1&lang=en-us"
   },
   {
-    "id": "sj:d7027afa-efad-4c6a-8b5a-853c11811670",
-    "company": "Uline",
-    "title": "International Operations Analyst Intern",
-    "location": "Pleasant Prairie, WI (Other)",
-    "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/International-Operations-Analyst-Internship---Summer-2027_R268694"
-  },
-  {
     "id": "sj:a2bf8715-fb02-46c9-8a4f-a645ea60e64c",
     "company": "Applied Materials",
     "title": "Business Intelligence Analyst Intern",
@@ -1993,13 +1965,6 @@
     "title": "Enterprise Data Governance Intern",
     "location": "Pittsburgh, PA (Other)",
     "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/Summer-2027-Enterprise-Data-Governance-enGen-Undergraduate-Internship_J289807"
-  },
-  {
-    "id": "sj:4932b03e-a9cc-4ba5-b920-5bf313404094",
-    "company": "Zebra Technologies",
-    "title": "Product Management Intern",
-    "location": "Lincolnshire, IL (Other)",
-    "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Product-Management_JR103652"
   },
   {
     "id": "sj:c9e31c4f-86b8-46c5-9152-5c9ae49ea875",
@@ -3498,5 +3463,40 @@
     "title": "Product Solutions and Operations Intern - Commerce Ads",
     "location": "San Jose, CA (Other)",
     "url": "https://lifeattiktok.com/search/7673340525029673221"
+  },
+  {
+    "id": "sj:a0ec26fd-db0f-4eb4-9bed-73b9409cabc5",
+    "company": "TikTok",
+    "title": "Product Manager Intern - Content and Services",
+    "location": "San Jose, CA (Other)",
+    "url": "https://lifeattiktok.com/search/7673337777708550405"
+  },
+  {
+    "id": "sj:56973e0e-ee92-4898-b2d3-7f5df827f064",
+    "company": "TikTok",
+    "title": "Product Manager Intern - Scaled Growth",
+    "location": "San Jose, CA (Other)",
+    "url": "https://lifeattiktok.com/search/7673559305519794437"
+  },
+  {
+    "id": "sj:5c3d16dc-fd92-4496-aeb5-c3bead9bdd18",
+    "company": "TikTok",
+    "title": "Data Science Intern - Advertisement Team",
+    "location": "San Jose, CA (Other)",
+    "url": "https://lifeattiktok.com/search/7673226686054107445"
+  },
+  {
+    "id": "sj:2546c60d-b4b4-495a-927e-6a112bdefc69",
+    "company": "TikTok",
+    "title": "Product Operations Intern - TikTok Shop Apps and API",
+    "location": "Seattle, WA (Other)",
+    "url": "https://lifeattiktok.com/search/7669705525866383621"
+  },
+  {
+    "id": "sj:e68caf69-cb51-4c52-933d-ace225ef6fb3",
+    "company": "TikTok",
+    "title": "Product Manager Intern - Signal and Identity Product",
+    "location": "San Jose, CA (Other)",
+    "url": "https://lifeattiktok.com/search/7672554809555192117"
   }
 ]
