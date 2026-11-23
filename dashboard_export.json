@@ -273,6 +273,13 @@
     "url": "https://job-boards.greenhouse.io/biohub/jobs/8400682"
   },
   {
+    "id": "sj:32c50724-f6fc-4017-90f7-6d760a94adec",
+    "company": "Genentech",
+    "title": "AI for Drug Discovery Intern - AI for Drug Discovery - AIDD",
+    "location": "NYC (New York)",
+    "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/New-York-City/XMLNAME-2027-Summer-Intern---AI-for-Drug-Discovery--AIDD-_202611-129550-1"
+  },
+  {
     "id": "sj:b0a65ac1-33c7-4ae4-a6e5-f8891c8b8bb2",
     "company": "Microsoft",
     "title": "Research Intern - Frontier Tuning",
@@ -1113,6 +1120,13 @@
     "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002"
   },
   {
+    "id": "sj:f991c7b0-97df-4f9d-a32d-33542afe619f",
+    "company": "First Resonance",
+    "title": "Product Management Intern",
+    "location": "El Segundo, CA (Other)",
+    "url": "https://jobs.ashbyhq.com/first-resonance/56d901c8-ad63-4206-b5cb-b5691585b741/application?embed=true"
+  },
+  {
     "id": "sj:f9d36ef7-8b25-4124-a93e-859b264cd811",
     "company": "Koch Industries",
     "title": "Data and Analytics Intern",
@@ -1216,6 +1230,13 @@
     "title": "Technical Marketing Engineer Intern - Digital Biology and Scientific Computing",
     "location": "Santa Clara, CA (Other)",
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Marketing-Engineering-Intern--Digital-Biology-and-Scientific-Computing---Summer-2027_JR2029793"
+  },
+  {
+    "id": "sj:c4789610-8d62-4348-8bfe-4437a419921e",
+    "company": "CSAA Insurance Group",
+    "title": "Product Strategy & Development Intern",
+    "location": "Arizona (Other)",
+    "url": "https://aaaie.wd1.myworkdayjobs.com/CSAACareers2/job/Arizona---Home-Teleworkers/PS-D-Innovation-Intern_R8004"
   },
   {
     "id": "sj:23c15372-9632-404c-a541-af54e55a15f8",
@@ -3477,26 +3498,5 @@
     "title": "Product Solutions and Operations Intern - Commerce Ads",
     "location": "San Jose, CA (Other)",
     "url": "https://lifeattiktok.com/search/7673340525029673221"
-  },
-  {
-    "id": "sj:a0ec26fd-db0f-4eb4-9bed-73b9409cabc5",
-    "company": "TikTok",
-    "title": "Product Manager Intern - Content and Services",
-    "location": "San Jose, CA (Other)",
-    "url": "https://lifeattiktok.com/search/7673337777708550405"
-  },
-  {
-    "id": "sj:56973e0e-ee92-4898-b2d3-7f5df827f064",
-    "company": "TikTok",
-    "title": "Product Manager Intern - Scaled Growth",
-    "location": "San Jose, CA (Other)",
-    "url": "https://lifeattiktok.com/search/7673559305519794437"
-  },
-  {
-    "id": "sj:5c3d16dc-fd92-4496-aeb5-c3bead9bdd18",
-    "company": "TikTok",
-    "title": "Data Science Intern - Advertisement Team",
-    "location": "San Jose, CA (Other)",
-    "url": "https://lifeattiktok.com/search/7673226686054107445"
   }
 ]
