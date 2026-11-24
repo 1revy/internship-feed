@@ -1,5 +1,47 @@
 [
   {
+    "id": "sj:5370153e-8623-4e1d-b4f6-986a7ab410a1",
+    "company": "PIMCO",
+    "title": "Software Engineering Intern - Technology Analyst",
+    "location": "Austin, TX (Other)",
+    "url": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Austin-TX-USA/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering_R106745"
+  },
+  {
+    "id": "sj:e95cee0e-a2ed-44d1-9017-9befd82e1561",
+    "company": "TikTok",
+    "title": "Data Engineer Intern - Data Platform Global Live",
+    "location": "San Jose, CA (Other)",
+    "url": "https://lifeattiktok.com/search/7674032146438162693"
+  },
+  {
+    "id": "sj:d1f12ffa-cc86-44c9-aad3-b6def1a50517",
+    "company": "TikTok",
+    "title": "Product Solutions and Operations Intern - Commerce Ads",
+    "location": "San Jose, CA (Other)",
+    "url": "https://lifeattiktok.com/search/7673340525029673221"
+  },
+  {
+    "id": "sj:a0ec26fd-db0f-4eb4-9bed-73b9409cabc5",
+    "company": "TikTok",
+    "title": "Product Manager Intern - Content and Services",
+    "location": "San Jose, CA (Other)",
+    "url": "https://lifeattiktok.com/search/7673337777708550405"
+  },
+  {
+    "id": "sj:56973e0e-ee92-4898-b2d3-7f5df827f064",
+    "company": "TikTok",
+    "title": "Product Manager Intern - Scaled Growth",
+    "location": "San Jose, CA (Other)",
+    "url": "https://lifeattiktok.com/search/7673559305519794437"
+  },
+  {
+    "id": "sj:5c3d16dc-fd92-4496-aeb5-c3bead9bdd18",
+    "company": "TikTok",
+    "title": "Data Science Intern - Advertisement Team",
+    "location": "San Jose, CA (Other)",
+    "url": "https://lifeattiktok.com/search/7673226686054107445"
+  },
+  {
     "id": "sj:2546c60d-b4b4-495a-927e-6a112bdefc69",
     "company": "TikTok",
     "title": "Product Operations Intern - TikTok Shop Apps and API",
@@ -392,6 +434,13 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Remote/System-Software-Engineering-Intern--GPU---2027_JR2025334"
   },
   {
+    "id": "sj:637771ab-fcba-4414-9c25-99bfe21fa777",
+    "company": "RF-SMART",
+    "title": "Software Developer Intern",
+    "location": "Highlands Ranch, CO; Jacksonville, FL (Other)",
+    "url": "https://job-boards.greenhouse.io/rfsmart/jobs/5446867008"
+  },
+  {
     "id": "sj:5bd02a56-3f5c-4870-94a4-f361d51200c9",
     "company": "Illumio",
     "title": "Engineering Intern - Architecture Platform",
@@ -565,13 +614,6 @@
     "title": "Software Engineer Intern - Front-End",
     "location": "Austin, TX (Other)",
     "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Austin-TX/Intern--Software-Engineer--Front-End_R8567-1"
-  },
-  {
-    "id": "sj:28b10e18-b290-443b-b1ae-dca8536f1cd0",
-    "company": "Woodward Governor",
-    "title": "AI Intern",
-    "location": "Niles, IL; Fort Collins, CO (Other)",
-    "url": "https://woodward.wd5.myworkdayjobs.com/woodward/job/Fort-Collins---Lincoln-Campus-HQ/AI-Summer-2027-Internship_JR114291"
   },
   {
     "id": "sj:5d9cf1d9-cbae-4dab-b874-4482a9c1b0af",
@@ -1076,6 +1118,13 @@
     "title": "Summer Engineer Intern",
     "location": "Middleburg Heights, OH (Other)",
     "url": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---MIDDLEBURG-HEIGHTS-OHMID/XMLNAME-2027-Summer-Engineering-Intern---Cleveland-OH_R26039950"
+  },
+  {
+    "id": "sj:29a084d4-fdf6-4ef2-b926-16e740b71190",
+    "company": "Esri",
+    "title": "Software Engineer Intern",
+    "location": "St. Louis, MO (Other)",
+    "url": "https://job-boards.greenhouse.io/studentprogram/jobs/5286753007"
   },
   {
     "id": "sj:60ae9031-138a-419b-bd54-f4237a95f0ea",
@@ -1904,6 +1953,13 @@
     "url": "https://job-boards.greenhouse.io/graphcore/jobs/8894376002"
   },
   {
+    "id": "sj:5e2cf9c9-69d5-49c2-9404-377291b8f21c",
+    "company": "ISO New England",
+    "title": "Market Analysis Tool Intern - Market Analysis Tool",
+    "location": "Holyoke, MA (Other)",
+    "url": "https://job-boards.greenhouse.io/studentinternships/jobs/4456528009"
+  },
+  {
     "id": "sj:42a95ff5-5f92-41eb-adfe-953c89780b72",
     "company": "Graphcore",
     "title": "Software Engineer Intern - Drivers and Utilities",
@@ -2303,6 +2359,20 @@
     "url": "https://job-boards.greenhouse.io/gcmgrosvenor/jobs/8015792003"
   },
   {
+    "id": "sj:d727438a-4b85-414c-ac96-678d4eddeb40",
+    "company": "Energy Solutions",
+    "title": "Solar Intern",
+    "location": "Remote in USA (Other)",
+    "url": "https://job-boards.greenhouse.io/energysolutionsinternships/jobs/5229243007"
+  },
+  {
+    "id": "sj:aac9fffd-b652-4588-b9d2-d5e8c7c2c4c3",
+    "company": "Energy Solutions",
+    "title": "Clean Transportation Intern",
+    "location": "Remote in USA (Other)",
+    "url": "https://job-boards.greenhouse.io/energysolutionsinternships/jobs/5229251007"
+  },
+  {
     "id": "sj:e41412f4-5392-4dee-bf68-676610efe34c",
     "company": "General Motors",
     "title": "AI Research Intern - Embodied AI",
@@ -2658,6 +2728,27 @@
     "title": "Software Engineer Intern",
     "location": "Orlando, FL (Other)",
     "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/216263"
+  },
+  {
+    "id": "sj:a87676d0-1e21-4807-9d97-fa492a9143c8",
+    "company": "CarGurus",
+    "title": "Software Engineer Intern - Full Stack",
+    "location": "Boston, MA (Other)",
+    "url": "https://job-boards.greenhouse.io/ecjobb/jobs/8230777"
+  },
+  {
+    "id": "sj:44e1b845-a722-4cb6-842c-45e7848f74cd",
+    "company": "CarGurus",
+    "title": "Software Engineer Intern - Full Stack",
+    "location": "Boston, MA (Other)",
+    "url": "https://job-boards.greenhouse.io/ecjobb/jobs/8230763"
+  },
+  {
+    "id": "sj:4652d869-e739-4f9b-b01e-bfb28992cd97",
+    "company": "CarGurus",
+    "title": "Software Development Engineer Intern",
+    "location": "Boston, MA (Other)",
+    "url": "https://job-boards.greenhouse.io/ecjobb/jobs/8231504"
   },
   {
     "id": "sj:cde86f58-8020-4b23-a2f5-f3b3b886a06d",
@@ -3836,6 +3927,20 @@
     "url": "https://lifeattiktok.com/search/7672671220798818613"
   },
   {
+    "id": "sj:c6fcfa7b-64c5-438b-b327-e3f5af651cac",
+    "company": "Esri",
+    "title": "GIS Engineer Intern",
+    "location": "Redlands, CA (Other)",
+    "url": "https://job-boards.greenhouse.io/studentprogram/jobs/5217904007"
+  },
+  {
+    "id": "sj:3d67817e-0fda-4e2d-a390-58eb5f728d03",
+    "company": "Esri",
+    "title": "Software Development Engineer Intern",
+    "location": "Redlands, CA (Other)",
+    "url": "https://job-boards.greenhouse.io/studentprogram/jobs/5217883007"
+  },
+  {
     "id": "sj:a19e6481-79f8-4c12-b497-9d6b4566b45d",
     "company": "Compeer Financial",
     "title": "Engineering Intern",
@@ -4506,13 +4611,6 @@
     "title": "Software Engineer Intern",
     "location": "Overland Park, KS (Other)",
     "url": "https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Software-Engineer-Intern--Summer-2027-Internship-_R015667"
-  },
-  {
-    "id": "sj:e142c984-ca46-4624-af2c-e5061b8b60f2",
-    "company": "HPR (Hyannis Port Research)",
-    "title": "Software Engineer Intern",
-    "location": "Needham, MA (Other)",
-    "url": "https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822989003"
   },
   {
     "id": "sj:8b98f33d-21b5-4ae4-af04-3b7378193f39",
