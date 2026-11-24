@@ -91,13 +91,6 @@
     "url": "https://ice.jibeapply.com/jobs/14100?icims=1"
   },
   {
-    "id": "sj:9511f77b-8a3f-49b1-b411-bee7198a96c1",
-    "company": "Intercontinental Exchange",
-    "title": "Trading System Development Intern",
-    "location": "NYC (New York)",
-    "url": "https://ice.jibeapply.com/jobs/14102?icims=1"
-  },
-  {
     "id": "sj:6a174ad0-4fd8-4f76-829f-53459f3b42f1",
     "company": "Intercontinental Exchange",
     "title": "Regulatory Products Intern",
@@ -1099,11 +1092,46 @@
     "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002"
   },
   {
+    "id": "sj:f01f8423-8219-4906-b1ce-6506e4b2e32d",
+    "company": "Culver's",
+    "title": "Business Analytics Intern",
+    "location": "Prairie du Sac, WI (Other)",
+    "url": "https://recruiting2.ultipro.com/CUL1004CULFS/JobBoard/e532cf53-c07c-4c3b-ba54-03feb99aa4f3/OpportunityDetail?opportunityId=737547cd-aea2-4209-b596-9be908de7f79"
+  },
+  {
+    "id": "sj:a59dace8-5aed-4def-bb71-8aca612be915",
+    "company": "Noblis",
+    "title": "Data Innovations Intern",
+    "location": "Springfield, VA; Reston, VA (Other)",
+    "url": "https://careers.noblis.org/jobs/28005?icims=1&lang=en-us"
+  },
+  {
     "id": "sj:f991c7b0-97df-4f9d-a32d-33542afe619f",
     "company": "First Resonance",
     "title": "Product Management Intern",
     "location": "El Segundo, CA (Other)",
     "url": "https://jobs.ashbyhq.com/first-resonance/56d901c8-ad63-4206-b5cb-b5691585b741/application?embed=true"
+  },
+  {
+    "id": "sj:d8798f63-531c-47ef-a0f2-a422a9611e12",
+    "company": "Illumio",
+    "title": "Product Manager Intern",
+    "location": "Sunnyvale, CA (Other)",
+    "url": "https://jobs.ashbyhq.com/illumio/1dbbc51c-ede6-4067-98df-9e4d9d06f6d3/application?embed=true"
+  },
+  {
+    "id": "sj:d4d02a87-3f6c-4b9a-b614-18bdc7e716cd",
+    "company": "Illumio",
+    "title": "Product Management Intern - Solution Economics",
+    "location": "Sunnyvale, CA (Other)",
+    "url": "https://jobs.ashbyhq.com/illumio/96759634-4161-4931-9cf3-5933035be101/application?embed=true"
+  },
+  {
+    "id": "sj:88475193-513e-4bc0-bf5d-77cc8441c769",
+    "company": "Illumio",
+    "title": "Technical Product Management Intern",
+    "location": "Sunnyvale, CA (Other)",
+    "url": "https://jobs.ashbyhq.com/illumio/37c87203-d74b-40f9-8ce6-30559f1594af/application?embed=true"
   },
   {
     "id": "sj:f9d36ef7-8b25-4124-a93e-859b264cd811",
@@ -1190,13 +1218,6 @@
     "url": "https://recruiting2.ultipro.com/goo1038gomn/JobBoard/75022464-9dbd-43d2-af44-2840603d5823/OpportunityDetail?opportunityId=016d2b83-b435-4bb0-bb74-cb0555970a87"
   },
   {
-    "id": "sj:b4668eae-16c6-4c57-927b-a0dc130281a9",
-    "company": "AriensCo",
-    "title": "Product Management Intern",
-    "location": "Brillion, WI (Other)",
-    "url": "https://arienscompany.wd5.myworkdayjobs.com/external/job/WI---Brillion/Product-Management-Intern_R-04305"
-  },
-  {
     "id": "sj:aa0bb621-9994-4c59-bf19-588c3ec268c6",
     "company": "Advance Auto Parts",
     "title": "Data Science Intern",
@@ -1244,6 +1265,13 @@
     "title": "Data Science and Analytics Intern",
     "location": "Chicago, IL (Other)",
     "url": "https://transunion.wd5.myworkdayjobs.com/en-US/TransUnion/job/Chicago-Illinois/Data-Science---Analytics-Internship---Summer-2027_19043450"
+  },
+  {
+    "id": "sj:bf7be755-266e-4016-ad50-096a56afdd42",
+    "company": "DraftKings",
+    "title": "Data Engineer Intern",
+    "location": "Boston, MA (Other)",
+    "url": "https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Boston-MA/Data-Engineer-Intern--Summer-2027-_JR15464"
   },
   {
     "id": "sj:1344faa8-1ac5-42aa-9e6f-7777257aca98",
@@ -1365,20 +1393,6 @@
     "url": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Chaska-MN/Associate-Product-Manager-Intern_REQ-15844"
   },
   {
-    "id": "sj:df6c12ef-a435-45fc-8594-45f85f0d3ec8",
-    "company": "Vertex Pharmaceuticals",
-    "title": "Data Analytics Intern - OSD Process Data Analytics",
-    "location": "Boston, MA (Other)",
-    "url": "https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Summer-Intern-2027--OSD-Process-Data-Analytics_REQ-31312"
-  },
-  {
-    "id": "sj:ecba7dcd-8896-44c3-bb7f-3f2b3b3fb4d6",
-    "company": "Vertex Pharmaceuticals",
-    "title": "Data Analytics Intern - OSD Process Data Analytics",
-    "location": "Boston, MA (Other)",
-    "url": "https://vrtx.wd501.myworkdayjobs.com/vertex_intern/job/Boston-MA/Summer-Intern-2027--OSD-Process-Data-Analytics_REQ-31312-2"
-  },
-  {
     "id": "sj:49430b88-122f-4342-8266-38570cdaf59c",
     "company": "TC Energy",
     "title": "Intelligent Operations Technology Intern",
@@ -1412,6 +1426,13 @@
     "title": "Product Management Co-op",
     "location": "Menomonee Falls, WI (Other)",
     "url": "https://wattswater.wd5.myworkdayjobs.com/external/job/Menomonee-Falls-WI/Product-Management-Co-op--Jan-June-2027_10017702-1"
+  },
+  {
+    "id": "sj:80590ce8-e65c-44a9-907c-6a3ed264022d",
+    "company": "Strava",
+    "title": "Machine Learning Engineer Intern - AI/ML Data Products",
+    "location": "SF (Other)",
+    "url": "https://jobs.ashbyhq.com/Strava/e4e04f82-bc91-4bc1-b775-85b2b2549023/application?embed=true"
   },
   {
     "id": "sj:f7300419-4cb7-4b86-bb44-cac2e3d6a836",
@@ -2035,13 +2056,6 @@
     "title": "Product Manager Intern - ALA",
     "location": "Seattle, WA (Other)",
     "url": "https://amazon.jobs/en/jobs/10491935/2027-amazon-leadership-accelerator-ala-product-manager-internship"
-  },
-  {
-    "id": "sj:dc4fde37-ff4b-4326-ad59-9a80cfc0019f",
-    "company": "Citi",
-    "title": "Technology Placement Analyst Intern - Application Development",
-    "location": "Belfast, UK (Other)",
-    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Belfast--United-Kingdom/Technology---Application-Development--Placement-Analyst--Belfast-2027_261002927"
   },
   {
     "id": "sj:69f01b48-7d56-4df4-946d-c163ffc2eacc",
@@ -3484,19 +3498,5 @@
     "title": "Data Science Intern - Advertisement Team",
     "location": "San Jose, CA (Other)",
     "url": "https://lifeattiktok.com/search/7673226686054107445"
-  },
-  {
-    "id": "sj:2546c60d-b4b4-495a-927e-6a112bdefc69",
-    "company": "TikTok",
-    "title": "Product Operations Intern - TikTok Shop Apps and API",
-    "location": "Seattle, WA (Other)",
-    "url": "https://lifeattiktok.com/search/7669705525866383621"
-  },
-  {
-    "id": "sj:e68caf69-cb51-4c52-933d-ace225ef6fb3",
-    "company": "TikTok",
-    "title": "Product Manager Intern - Signal and Identity Product",
-    "location": "San Jose, CA (Other)",
-    "url": "https://lifeattiktok.com/search/7672554809555192117"
   }
 ]
