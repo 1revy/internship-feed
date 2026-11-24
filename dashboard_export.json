@@ -1,5 +1,12 @@
 [
   {
+    "id": "sj:3563c76a-b34e-4368-8653-6f067348425a",
+    "company": "Fanatics",
+    "title": "Product Management Intern - Card Tech",
+    "location": "NYC (New York)",
+    "url": "https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4519886009"
+  },
+  {
     "id": "sj:d852e2be-c244-4a6b-993b-affc40e36ccb",
     "company": "iCapital Network",
     "title": "Product Management Intern",
@@ -250,6 +257,13 @@
     "title": "Sector Data Scientist Intern",
     "location": "NYC (New York)",
     "url": "https://www.citadel.com/careers/details/sector-data-scientist-2027-intern-us/"
+  },
+  {
+    "id": "sj:9ef6ba15-7af9-4747-b59e-e6f15665463e",
+    "company": "iCapital Network",
+    "title": "SI and Annuities Intern",
+    "location": "NYC (New York)",
+    "url": "https://job-boards.greenhouse.io/icapitalnetwork/jobs/8958714002"
   },
   {
     "id": "sj:a5b1e709-3c40-4f69-9d26-a662fedb49e8",
@@ -1239,6 +1253,13 @@
     "url": "https://aaaie.wd1.myworkdayjobs.com/CSAACareers2/job/Arizona---Home-Teleworkers/PS-D-Innovation-Intern_R8004"
   },
   {
+    "id": "sj:653df457-3dc0-4d64-87af-18df2883960b",
+    "company": "Plains All American Pipeline",
+    "title": "Operations Management System Intern - Digital & AI Innovation",
+    "location": "Houston, TX (Other)",
+    "url": "https://plains.wd1.myworkdayjobs.com/plains/job/Houston-TX/Intern--Operations-Management-System--Digital---AI-Innovation_R0015266-1"
+  },
+  {
     "id": "sj:23c15372-9632-404c-a541-af54e55a15f8",
     "company": "Lucid Motors",
     "title": "AI & Data Intern - Applied AI/Machine Learning",
@@ -1412,13 +1433,6 @@
     "title": "Data Engineering Intern",
     "location": "Chicago, IL; Lincolnshire, IL (Other)",
     "url": "https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Chicago-IL/Data-Engineering-Intern_26_09297"
-  },
-  {
-    "id": "sj:2d609f21-b04d-4102-a341-b7fc2585a162",
-    "company": "Camping World",
-    "title": "Data Analyst Intern - AI & Machine Learning Focus",
-    "location": "Chicago, IL; Lincolnshire, IL (Other)",
-    "url": "https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Chicago-IL/Data-Analyst-Intern_26_09300"
   },
   {
     "id": "sj:7c480571-b438-4123-bc21-a130e8090831",
@@ -1727,20 +1741,6 @@
     "title": "Sales Data Analytics Intern",
     "location": "Arlington County, Arlington, VA; Sunnyvale, CA (Other)",
     "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Sales-Data-Analytics-Intern_R30801"
-  },
-  {
-    "id": "sj:519aa545-7ad9-4720-9fc1-926b6e963038",
-    "company": "Invesco",
-    "title": "Digital Product Management Intern",
-    "location": "Atlanta, GA (Other)",
-    "url": "https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Atlanta-Georgia/Early-Career-Intern---Digital-Product-Management_R-15876-1"
-  },
-  {
-    "id": "sj:d8cc7189-431c-4e08-938a-58fd924c969f",
-    "company": "Invesco",
-    "title": "Digital Product Management Intern",
-    "location": "Atlanta, GA (Other)",
-    "url": "https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/Atlanta-Georgia/Early-Career-Intern---Digital-Product-Management_R-15876"
   },
   {
     "id": "sj:0c7e5252-d2b8-45c7-880c-9923fc29984a",
@@ -2359,6 +2359,13 @@
     "url": "https://job-boards.greenhouse.io/affirm/jobs/8011375003"
   },
   {
+    "id": "sj:2dcc58d5-e980-425f-8373-76d26b5546c2",
+    "company": "Amazon",
+    "title": "Business Analyst Intern",
+    "location": "Bellevue, WA (Other)",
+    "url": "https://amazon.jobs/en/jobs/10575250/business-analyst-intern-summer-2027"
+  },
+  {
     "id": "sj:8b95518e-7880-4858-a78a-07273d000e53",
     "company": "Papa John's",
     "title": "Data Science Intern",
@@ -2562,6 +2569,48 @@
     "url": "https://metlife.avature.net/en_US/ml/JobDetail/20702"
   },
   {
+    "id": "sj:ee404af2-610e-42a2-8a2e-cf5fe7ca9de9",
+    "company": "CarGurus",
+    "title": "Product Management Intern",
+    "location": "Boston, MA (Other)",
+    "url": "https://job-boards.greenhouse.io/ecjobb/jobs/8230686"
+  },
+  {
+    "id": "sj:99fe7134-4906-4bd6-a0ab-47d4ab11103b",
+    "company": "CarGurus",
+    "title": "Product Data Analyst Intern",
+    "location": "Boston, MA (Other)",
+    "url": "https://job-boards.greenhouse.io/ecjobb/jobs/8230677"
+  },
+  {
+    "id": "sj:5d18bb66-893c-41fc-ae16-41e29cd81046",
+    "company": "CarGurus",
+    "title": "Finance AI Solutions Intern",
+    "location": "Boston, MA (Other)",
+    "url": "https://job-boards.greenhouse.io/ecjobb/jobs/8231798"
+  },
+  {
+    "id": "sj:9966d0c4-2f1f-41c0-b665-32e7860ef0e3",
+    "company": "CarGurus",
+    "title": "Data Platform Engineer Intern",
+    "location": "Boston, MA (Other)",
+    "url": "https://job-boards.greenhouse.io/ecjobb/jobs/8230750"
+  },
+  {
+    "id": "sj:b730a995-0701-41d5-84f5-aa52b4735693",
+    "company": "CarGurus",
+    "title": "Data Governance Engineer Intern",
+    "location": "Boston, MA (Other)",
+    "url": "https://job-boards.greenhouse.io/ecjobb/jobs/8230749"
+  },
+  {
+    "id": "sj:a6e5ed37-0eb9-42d7-9d15-0448e72fb148",
+    "company": "CarGurus",
+    "title": "Data Analytics Engineer Intern",
+    "location": "Boston, MA (Other)",
+    "url": "https://job-boards.greenhouse.io/ecjobb/jobs/8231510"
+  },
+  {
     "id": "sj:6545cac1-80c8-4ecb-9b22-e6dc11411f9d",
     "company": "Life Fitness",
     "title": "Marketing Analytics Intern",
@@ -2672,6 +2721,13 @@
     "title": "Business Analyst Intern",
     "location": "Reading, UK (Other)",
     "url": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Reading-Berkshire-United-Kingdom/Placement-Year---Business-Analyst-Intern_UNI4893-1"
+  },
+  {
+    "id": "sj:5207bd70-eb5d-4242-aba6-0714d0d37365",
+    "company": "Esri",
+    "title": "Enterprise Business Intelligence Intern",
+    "location": "Redlands, CA (Other)",
+    "url": "https://job-boards.greenhouse.io/studentprogram/jobs/5246028007"
   },
   {
     "id": "sj:02dee7ff-6975-4a5e-8aea-ee0dc2ebfde9",
@@ -3003,25 +3059,11 @@
     "url": "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7986695003"
   },
   {
-    "id": "sj:ec82070a-1dec-4b05-9e7d-e8e93eab62f9",
-    "company": "Selective Insurance",
-    "title": "IT Commercial Lines Summer Intern",
-    "location": "Charlotte, NC; Hartford, CT (Other)",
-    "url": "https://jobs.selective.com/jobs/5701?icims=1&lang=en-us"
-  },
-  {
     "id": "sj:d1cc7b38-cd60-45a0-a763-480753694ed9",
     "company": "Selective Insurance",
     "title": "Commercial Lines Product Intern",
     "location": "Short Hills, Millburn, NJ; Hartford, CT (Other)",
     "url": "https://jobs.selective.com/jobs/5709?icims=1&lang=en-us"
-  },
-  {
-    "id": "sj:9a604003-28ad-46f3-991d-0d27170b494c",
-    "company": "Selective Insurance",
-    "title": "IT Information Management Intern",
-    "location": "Short Hills, Millburn, NJ (Other)",
-    "url": "https://jobs.selective.com/jobs/5777?icims=1&lang=en-us"
   },
   {
     "id": "sj:1bd5c700-e454-4a26-bbbd-9880cefb4be7",
@@ -3456,47 +3498,5 @@
     "title": "Software Engineer Intern - TikTok Search Data Infra",
     "location": "San Jose, CA (Other)",
     "url": "https://lifeattiktok.com/search/7675128776856029445"
-  },
-  {
-    "id": "sj:5370153e-8623-4e1d-b4f6-986a7ab410a1",
-    "company": "PIMCO",
-    "title": "Software Engineering Intern - Technology Analyst",
-    "location": "Austin, TX (Other)",
-    "url": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Austin-TX-USA/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering_R106745"
-  },
-  {
-    "id": "sj:e95cee0e-a2ed-44d1-9017-9befd82e1561",
-    "company": "TikTok",
-    "title": "Data Engineer Intern - Data Platform Global Live",
-    "location": "San Jose, CA (Other)",
-    "url": "https://lifeattiktok.com/search/7674032146438162693"
-  },
-  {
-    "id": "sj:d1f12ffa-cc86-44c9-aad3-b6def1a50517",
-    "company": "TikTok",
-    "title": "Product Solutions and Operations Intern - Commerce Ads",
-    "location": "San Jose, CA (Other)",
-    "url": "https://lifeattiktok.com/search/7673340525029673221"
-  },
-  {
-    "id": "sj:a0ec26fd-db0f-4eb4-9bed-73b9409cabc5",
-    "company": "TikTok",
-    "title": "Product Manager Intern - Content and Services",
-    "location": "San Jose, CA (Other)",
-    "url": "https://lifeattiktok.com/search/7673337777708550405"
-  },
-  {
-    "id": "sj:56973e0e-ee92-4898-b2d3-7f5df827f064",
-    "company": "TikTok",
-    "title": "Product Manager Intern - Scaled Growth",
-    "location": "San Jose, CA (Other)",
-    "url": "https://lifeattiktok.com/search/7673559305519794437"
-  },
-  {
-    "id": "sj:5c3d16dc-fd92-4496-aeb5-c3bead9bdd18",
-    "company": "TikTok",
-    "title": "Data Science Intern - Advertisement Team",
-    "location": "San Jose, CA (Other)",
-    "url": "https://lifeattiktok.com/search/7673226686054107445"
   }
 ]
