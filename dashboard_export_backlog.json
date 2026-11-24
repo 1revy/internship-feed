@@ -1,5 +1,19 @@
 [
   {
+    "id": "sj:2546c60d-b4b4-495a-927e-6a112bdefc69",
+    "company": "TikTok",
+    "title": "Product Operations Intern - TikTok Shop Apps and API",
+    "location": "Seattle, WA (Other)",
+    "url": "https://lifeattiktok.com/search/7669705525866383621"
+  },
+  {
+    "id": "sj:e68caf69-cb51-4c52-933d-ace225ef6fb3",
+    "company": "TikTok",
+    "title": "Product Manager Intern - Signal and Identity Product",
+    "location": "San Jose, CA (Other)",
+    "url": "https://lifeattiktok.com/search/7672554809555192117"
+  },
+  {
     "id": "sj:fc4e61cf-8b0d-41bc-a27f-9081dc511bca",
     "company": "TikTok",
     "title": "Product Manager Intern - Commerce Ads",
@@ -42,25 +56,11 @@
     "url": "https://lifeattiktok.com/search/7672920375646488885"
   },
   {
-    "id": "sj:d0e6095d-b7d9-4b98-9b30-5bc4f60fed04",
-    "company": "ByteDance",
-    "title": "Data Lake Infrastructure & Data Analytics Research Engineer Intern - Applied Machine Learning Ark",
-    "location": "Seattle, WA (Other)",
-    "url": "https://jobs.bytedance.com/en/position/7672394389001816325/detail"
-  },
-  {
     "id": "sj:b54ab32d-a9c1-471a-8365-6e0bdc0eaeb0",
     "company": "TikTok",
     "title": "AI Safety Evaluation & Governance Product Manager Intern - Multiple Teams",
     "location": "San Jose, CA (Other)",
     "url": "https://lifeattiktok.com/search/7670529537944766773"
-  },
-  {
-    "id": "sj:f57a89f7-f1c7-44ac-826b-23f1d9a409cf",
-    "company": "ByteDance",
-    "title": "Data Lake Infrastructure and Data Analytics Research Engineer Intern - Applied Machine Learning Ark",
-    "location": "San Jose, CA (Other)",
-    "url": "https://jobs.bytedance.com/en/position/7671109787509213445/detail"
   },
   {
     "id": "sj:d1768aee-f240-4353-b609-278b04785c95",
@@ -392,6 +392,34 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Remote/System-Software-Engineering-Intern--GPU---2027_JR2025334"
   },
   {
+    "id": "sj:5bd02a56-3f5c-4870-94a4-f361d51200c9",
+    "company": "Illumio",
+    "title": "Engineering Intern - Architecture Platform",
+    "location": "Sunnyvale, CA (Other)",
+    "url": "https://jobs.ashbyhq.com/illumio/a211377c-7db7-4c62-97ba-8176c5a61293/application?embed=true"
+  },
+  {
+    "id": "sj:94a72a59-20ae-4fcc-a654-f08453eb1a00",
+    "company": "Illinois Tool Works",
+    "title": "Software or Computer Engineer Intern",
+    "location": "Fairmont, MN (Other)",
+    "url": "https://careers.itw.com/global/en/job/JR11356"
+  },
+  {
+    "id": "sj:a6e7484a-77b3-4267-ac3d-8200ef4a75c1",
+    "company": "Amazon",
+    "title": "Software Development Engineer Intern - Artificial General Intelligence",
+    "location": "Boston, MA; Seattle, WA; Bellevue, WA; Sunnyvale, CA (Other)",
+    "url": "https://amazon.jobs/en/jobs/10606968/software-development-engineer-intern-artificial-general-intelligence-summer-2027"
+  },
+  {
+    "id": "sj:95a334fe-a4fa-4bb9-8388-e02bf718a1d7",
+    "company": "Samsung Research America",
+    "title": "Computer Vision Intern",
+    "location": "Mountain View, CA (Other)",
+    "url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8955802002"
+  },
+  {
     "id": "sj:44661bd9-b43c-446d-a232-8a1d4bd6d3c6",
     "company": "APEX Analytix",
     "title": "Software Engineer Intern - Platform Tooling",
@@ -411,6 +439,20 @@
     "title": "Software Engineer Intern",
     "location": "SF (Other)",
     "url": "https://jobs.ashbyhq.com/benchling/96370d1b-d35e-446b-8e26-dce088860099/application?embed=true"
+  },
+  {
+    "id": "sj:cea3cf41-7e95-4fed-a73b-125fa23ce04c",
+    "company": "Shield AI",
+    "title": "Software Engineering Intern",
+    "location": "Dallas, TX (Other)",
+    "url": "https://jobs.ashbyhq.com/shield/f96617c2-a120-4b3b-844d-790fcda42503/application?embed=true"
+  },
+  {
+    "id": "sj:98d9b14e-853a-429a-9a9a-6a691a2e503b",
+    "company": "Illumio",
+    "title": "Security Platforms Engineer Intern - Security Platforms",
+    "location": "Sunnyvale, CA (Other)",
+    "url": "https://jobs.ashbyhq.com/illumio/95bc7491-9b2f-493c-9297-e9cb36a63b45/application?embed=true"
   },
   {
     "id": "sj:cc0456f2-4b03-4d99-8bb3-90e5b9259771",
@@ -595,27 +637,6 @@
     "url": "https://jobs.lever.co/tri/4cac9569-cc90-4dcd-96b8-d9777c35c943/apply"
   },
   {
-    "id": "sj:9f29143b-2192-4ae7-b0aa-ddb9eacb3449",
-    "company": "Snowflake",
-    "title": "Software Engineer Intern - AI / ML",
-    "location": "Menlo Park, CA; Bellevue, WA (Other)",
-    "url": "https://jobs.ashbyhq.com/snowflake/185d165c-09c7-4b57-9281-ff7c2c541907/application?embed=true"
-  },
-  {
-    "id": "sj:b4ef0d6c-f65b-48c0-b030-61b50a0eb09b",
-    "company": "Snowflake",
-    "title": "Software Engineer Intern - Core - Infrastructure & Security",
-    "location": "Menlo Park, CA; Bellevue, WA (Other)",
-    "url": "https://jobs.ashbyhq.com/snowflake/e194759e-3a20-47c9-868d-f47179613897/application?embed=true"
-  },
-  {
-    "id": "sj:00cd908d-fc5f-4712-97e8-b714c9ca0b11",
-    "company": "Snowflake",
-    "title": "Software Engineer Intern - Database Engineering",
-    "location": "Menlo Park, CA; Bellevue, WA (Other)",
-    "url": "https://jobs.ashbyhq.com/snowflake/0223923d-4f0f-44e6-9649-0d1a9eda950d/application?embed=true"
-  },
-  {
     "id": "sj:572a3070-6f92-4edc-be94-f839a0986464",
     "company": "NVIDIA",
     "title": "Applied Research Scientist Intern - Agentic Biology",
@@ -719,6 +740,34 @@
     "title": "Animation & Cinematic Tools Engineering Intern - Animation & Cinematic Tools Engineering",
     "location": "Irvine, CA (Other)",
     "url": "https://xboxgaming.wd1.myworkdayjobs.com/Blizzard_External_Careers/job/Irvine---Blizzard---Blizzard-Way/Blizzard-2027-Summer-Internships---Animation---Cinematic-Tools-Engineering_R028350"
+  },
+  {
+    "id": "sj:6678365d-b71e-422c-99d3-6c158aae7a49",
+    "company": "Strava",
+    "title": "Software Engineer Intern - Android - Subscriptions",
+    "location": "SF (Other)",
+    "url": "https://jobs.ashbyhq.com/Strava/02999001-164a-45c2-a763-03dedf458f0c/application?embed=true"
+  },
+  {
+    "id": "sj:1ed4dcbd-dc04-4740-93c7-3f5a4478d760",
+    "company": "Strava",
+    "title": "Software Engineer Intern - Server - Comms",
+    "location": "SF (Other)",
+    "url": "https://jobs.ashbyhq.com/Strava/96968b02-dde9-4e0d-b6a8-d2363f550126/application?embed=true"
+  },
+  {
+    "id": "sj:bb5c00e9-57e3-48fd-8113-a2d429c4d05c",
+    "company": "Strava",
+    "title": "Software Engineer Intern - Server - User Lifecycle",
+    "location": "SF (Other)",
+    "url": "https://jobs.ashbyhq.com/Strava/12d85f67-5fac-4dfa-8fd7-a4f886b4a10a/application?embed=true"
+  },
+  {
+    "id": "sj:5adba604-3ce4-40d7-82ce-ffed95ed3ef1",
+    "company": "Strava",
+    "title": "Software Engineer Intern - Server - Next Sports",
+    "location": "SF (Other)",
+    "url": "https://jobs.ashbyhq.com/Strava/0a1c94e3-c19c-47a4-9974-5cc86b74e3e9/application?embed=true"
   },
   {
     "id": "sj:b93c8f86-a564-4e72-9fa9-39d5a5329901",
@@ -1083,13 +1132,6 @@
     "title": "Research Analytics & Insights Intern",
     "location": "Chicago, IL (Other)",
     "url": "https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Chicago-IL-60607/XMLNAME-2027-Summer-Internship---Research-Analytics---Insights_36064R-2"
-  },
-  {
-    "id": "sj:5e01c887-e95d-4785-9a00-436d4da36038",
-    "company": "Shield AI",
-    "title": "Software Engineer Intern Co-op",
-    "location": "Dallas, TX (Other)",
-    "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/a28e047a-ee12-452c-883b-ecd995d1b6b2/application?embed=true"
   },
   {
     "id": "sj:10be2e60-c579-4804-8665-b9ea32e009ab",
@@ -1659,13 +1701,6 @@
     "url": "https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Santa-Clara-CA---USA-Office/Software-Engineering-Intern--Summer-2027-_R04791-2"
   },
   {
-    "id": "sj:2507d753-2e29-4433-be1b-355a19295f16",
-    "company": "Shield AI",
-    "title": "Software Engineer Intern",
-    "location": "San Diego, CA (Other)",
-    "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/db04c516-d21a-449c-8bfd-1cf830eafb5a/application?embed=true"
-  },
-  {
     "id": "sj:baa25da2-9ee0-403d-8396-0d4788626830",
     "company": "Skydio",
     "title": "Autonomy Engineer Intern - Deep Learning / Computer Vision",
@@ -2098,13 +2133,6 @@
     "title": "Semantics Intern",
     "location": "Mountain View, CA (Other)",
     "url": "https://careers.withwaymo.com/jobs?gh_jid=8244128"
-  },
-  {
-    "id": "sj:f3fe5670-e9b7-400c-b35b-2d10dd196257",
-    "company": "Muon Space",
-    "title": "Ground Software Engineer Intern",
-    "location": "San Jose, CA (Other)",
-    "url": "https://job-boards.greenhouse.io/muonspace/jobs/5266679007"
   },
   {
     "id": "sj:33bbbdb3-7bf2-4ddd-90dc-200d4e2d8f82",
@@ -3073,13 +3101,6 @@
     "url": "https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Boston-MA/Analyst-Intern--Summer-2027-_JR15147"
   },
   {
-    "id": "sj:8b5f96a8-b90d-4f41-9ff7-1c4b1bc8089b",
-    "company": "Lunar Outpost",
-    "title": "Robotics Engineer Intern",
-    "location": "Golden, CO (Other)",
-    "url": "https://lunaroutpost.bamboohr.com/careers/391/"
-  },
-  {
     "id": "sj:97d67a9f-ceb5-40f2-9511-3c86c813689a",
     "company": "Lunar Outpost",
     "title": "Ground Software Engineer Intern - Summer 2027",
@@ -3148,13 +3169,6 @@
     "title": "Human Behavior Analytics Intern - Safety Research",
     "location": "Mountain View, CA (Other)",
     "url": "https://careers.withwaymo.com/jobs?gh_jid=8197899"
-  },
-  {
-    "id": "sj:e772b664-062b-4315-9007-69460c23019c",
-    "company": "CACI",
-    "title": "Software Engineer Intern - Summer 2027",
-    "location": "Remote in USA; Sterling, VA; Denver, CO (Other)",
-    "url": "https://caci.wd1.myworkdayjobs.com/external/job/437-DENVER-CO/Cleared-Software-Engineer-Intern---Summer-2027_331999"
   },
   {
     "id": "sj:a9b15888-79e1-4d34-b682-700189ca37f3",
@@ -3400,13 +3414,6 @@
     "title": "Software Engineer Co-op",
     "location": "Cedar Rapids, IA (Other)",
     "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineer-Co-op--Summer-Fall-2027----Onsite_01871347"
-  },
-  {
-    "id": "sj:492852af-0410-4c62-9c26-766e5ec7b288",
-    "company": "ENFOS",
-    "title": "Software Engineer Intern - Summer 2027",
-    "location": "Durham, NC (Other)",
-    "url": "https://apply.workable.com/enfos-inc/j/CA15908E0A/apply"
   },
   {
     "id": "sj:58cf8fe8-1a98-42de-92d9-2a915d02739d",
@@ -4109,13 +4116,6 @@
     "url": "https://jobs.bytedance.com/en/position/7670354800621603125/detail"
   },
   {
-    "id": "sj:f89dbf35-2e68-4087-a28a-1092da1e72d4",
-    "company": "Roblox",
-    "title": "Software Engineer Intern",
-    "location": "San Mateo, CA (Other)",
-    "url": "https://careers.roblox.com/jobs/8072713?gh_jid=8072713"
-  },
-  {
     "id": "sj:633fde2a-eea3-462a-91b6-f0c8025fba8d",
     "company": "TikTok",
     "title": "Machine Learning Engineer Intern - Search",
@@ -4751,6 +4751,13 @@
     "title": "AI Developer Technology Engineering Intern - 2027",
     "location": "3 Locations (Other)",
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shenzhen/AI-Developer-Technology-Engineering-Intern---2027_JR2024818"
+  },
+  {
+    "id": "sj:225c690b-8396-44d6-946a-9df808bff1e7",
+    "company": "CornerStone Partners",
+    "title": "AI and Automation Intern",
+    "location": "Charlottesville, VA (Other)",
+    "url": "https://csptest2025.applytojob.com/apply/zkjZABQZka/AI-And-Automation-Intern-Summer-2027"
   },
   {
     "id": "sj:6088d4cc-1e5f-4495-8f41-33af9ea62bde",
