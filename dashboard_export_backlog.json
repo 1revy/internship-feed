@@ -1,19 +1,5 @@
 [
   {
-    "id": "sj:5370153e-8623-4e1d-b4f6-986a7ab410a1",
-    "company": "PIMCO",
-    "title": "Software Engineering Intern - Technology Analyst",
-    "location": "Austin, TX (Other)",
-    "url": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Austin-TX-USA/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering_R106745"
-  },
-  {
-    "id": "sj:e95cee0e-a2ed-44d1-9017-9befd82e1561",
-    "company": "TikTok",
-    "title": "Data Engineer Intern - Data Platform Global Live",
-    "location": "San Jose, CA (Other)",
-    "url": "https://lifeattiktok.com/search/7674032146438162693"
-  },
-  {
     "id": "sj:d1f12ffa-cc86-44c9-aad3-b6def1a50517",
     "company": "TikTok",
     "title": "Product Solutions and Operations Intern - Commerce Ads",
@@ -432,6 +418,13 @@
     "title": "System Software Engineering Intern, GPU - 2027",
     "location": "2 Locations (Other)",
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Remote/System-Software-Engineering-Intern--GPU---2027_JR2025334"
+  },
+  {
+    "id": "sj:dae50b6f-3c3c-4e59-bfb9-a823062c400b",
+    "company": "Amazon",
+    "title": "Front-End Engineer Intern",
+    "location": "Seattle, WA; Chicago, IL; Bellevue, WA (Other)",
+    "url": "https://amazon.jobs/en/jobs/10609992/front-end-engineer-internship-2027-us"
   },
   {
     "id": "sj:637771ab-fcba-4414-9c25-99bfe21fa777",
@@ -1132,13 +1125,6 @@
     "title": "Human-Centered AI Research Intern - Human Language Models",
     "location": "Los Altos, CA (Other)",
     "url": "https://jobs.lever.co/tri/d4184c04-b963-489a-9a0b-91bc57d6267e/apply"
-  },
-  {
-    "id": "sj:b7daac34-0a43-4511-bd61-102463daf2e2",
-    "company": "Toyota Research Institute",
-    "title": "Automated Driving Advanced Development Intern - Machine Learning Research",
-    "location": "Los Altos, CA (Other)",
-    "url": "https://jobs.lever.co/tri/62b161d6-21e0-4d10-9997-ff7ae91a2ff4/apply"
   },
   {
     "id": "sj:34d5b977-2661-420f-8b7b-cd912b8eecb7",
@@ -2891,13 +2877,6 @@
     "url": "https://careers.withwaymo.com/jobs?gh_jid=8227411"
   },
   {
-    "id": "sj:c79fefe1-fbce-4cf7-ab66-bed442b0c2cb",
-    "company": "General Dynamics Information Technology",
-    "title": "AI/ML Software Development and Engineering Intern",
-    "location": "Bossier City, LA (Other)",
-    "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Software-Development-and-Engineering-Internship_RQ228939"
-  },
-  {
     "id": "sj:8f6df37f-2adf-4d38-9a4d-3b01fd227f46",
     "company": "Bedrock Robotics",
     "title": "State Estimation Intern - Learned Mapping & Semantic SLAM",
@@ -3444,13 +3423,6 @@
     "url": "https://jobs.ashbyhq.com/allen-control-systems/a7831fef-7125-4c03-b828-5f0472989037/application?embed=true"
   },
   {
-    "id": "sj:7b684d8f-d5d1-4f2a-ae66-c9f8f79aec21",
-    "company": "Revel",
-    "title": "Forward Deployed Engineer Intern - Software",
-    "location": "SF; LA (Other)",
-    "url": "https://jobs.ashbyhq.com/revel/34f97b81-c981-4c4b-9f4d-d471c33b46cc/application?embed=true"
-  },
-  {
     "id": "sj:08c7a9a4-0fd0-4812-8402-73293523d1b4",
     "company": "Aramco Americas",
     "title": "Research and Development Intern - Boston Research Center - 2027 Summer Student Program",
@@ -3701,13 +3673,6 @@
     "title": "Software Engineer Intern",
     "location": "Waterboro, ME (Other)",
     "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342550"
-  },
-  {
-    "id": "sj:5489cdce-696e-4c2f-b1ae-e937cff71c6c",
-    "company": "Textron",
-    "title": "Software Engineer Intern - Crewed Land",
-    "location": "Slidell, LA (Other)",
-    "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342915"
   },
   {
     "id": "sj:9562e72a-a657-4f9c-9e2e-f8d62e41c42c",
