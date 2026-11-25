@@ -1904,13 +1904,6 @@
     "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/San-Francisco-California-United-States-of-America/Software-Systems-Intern_UNI4801"
   },
   {
-    "id": "sj:84cc2b26-b1b3-4d2b-b9c5-6358d90c3cf1",
-    "company": "HP Inc.",
-    "title": "Software Systems Intern - IQ",
-    "location": "SF (Other)",
-    "url": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/San-Francisco-California-United-States-of-America/Software-Systems-Intern_UNI4801-1"
-  },
-  {
     "id": "sj:c3c93546-bbf2-43f9-ba0a-0dab4d0b469a",
     "company": "TikTok",
     "title": "Global Product Solutions and Operations Intern - Global Monetization Product and Technology",
@@ -3498,5 +3491,12 @@
     "title": "Data Engineer Intern - Data Platform Global Live",
     "location": "San Jose, CA (Other)",
     "url": "https://lifeattiktok.com/search/7674032146438162693"
+  },
+  {
+    "id": "sj:d1f12ffa-cc86-44c9-aad3-b6def1a50517",
+    "company": "TikTok",
+    "title": "Product Solutions and Operations Intern - Commerce Ads",
+    "location": "San Jose, CA (Other)",
+    "url": "https://lifeattiktok.com/search/7673340525029673221"
   }
 ]
