@@ -1,5 +1,40 @@
 [
   {
+    "id": "sj:b639bba8-cb2b-4262-9125-9b56aeefa4cb",
+    "company": "TikTok",
+    "title": "Software Engineer Intern - TikTok Search Data Infra",
+    "location": "San Jose, CA (Other)",
+    "url": "https://lifeattiktok.com/search/7675128776856029445"
+  },
+  {
+    "id": "sj:5370153e-8623-4e1d-b4f6-986a7ab410a1",
+    "company": "PIMCO",
+    "title": "Software Engineering Intern - Technology Analyst",
+    "location": "Austin, TX (Other)",
+    "url": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Austin-TX-USA/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering_R106745"
+  },
+  {
+    "id": "sj:e95cee0e-a2ed-44d1-9017-9befd82e1561",
+    "company": "TikTok",
+    "title": "Data Engineer Intern - Data Platform Global Live",
+    "location": "San Jose, CA (Other)",
+    "url": "https://lifeattiktok.com/search/7674032146438162693"
+  },
+  {
+    "id": "sj:d1f12ffa-cc86-44c9-aad3-b6def1a50517",
+    "company": "TikTok",
+    "title": "Product Solutions and Operations Intern - Commerce Ads",
+    "location": "San Jose, CA (Other)",
+    "url": "https://lifeattiktok.com/search/7673340525029673221"
+  },
+  {
+    "id": "sj:a0ec26fd-db0f-4eb4-9bed-73b9409cabc5",
+    "company": "TikTok",
+    "title": "Product Manager Intern - Content and Services",
+    "location": "San Jose, CA (Other)",
+    "url": "https://lifeattiktok.com/search/7673337777708550405"
+  },
+  {
     "id": "sj:56973e0e-ee92-4898-b2d3-7f5df827f064",
     "company": "TikTok",
     "title": "Product Manager Intern - Scaled Growth",
@@ -399,6 +434,55 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Remote/System-Software-Engineering-Intern--GPU---2027_JR2025334"
   },
   {
+    "id": "sj:f99113e1-f288-4983-b8bd-49e4b32664be",
+    "company": "Total Quality Logistics",
+    "title": "Software Development Intern",
+    "location": "Cincinnati, OH (Other)",
+    "url": "https://tql.avature.net/en_US/TQLexternalcareers/JobDetail/19763"
+  },
+  {
+    "id": "sj:c4e37c25-c2af-42ad-a27a-13daa426ddf8",
+    "company": "OpenSesame",
+    "title": "Software Engineer Intern",
+    "location": "Remote in USA (Other)",
+    "url": "https://boards.greenhouse.io/opensesame/jobs/8418272"
+  },
+  {
+    "id": "sj:9fed7089-fee2-42d5-9fda-8831aeb4c8ec",
+    "company": "Veeva Systems",
+    "title": "Software Engineer Intern",
+    "location": "Pleasanton, CA (Other)",
+    "url": "https://jobs.lever.co/veeva/f277bc52-1dd6-4447-ac3b-a6127e625ec7/apply"
+  },
+  {
+    "id": "sj:6311d082-0432-408e-9686-a1c52be3cc65",
+    "company": "Veeva Systems",
+    "title": "Software Engineer Intern",
+    "location": "Boston, MA (Other)",
+    "url": "https://jobs.lever.co/veeva/4738ae75-9f7b-4082-b129-69fb82f6d7b2/apply"
+  },
+  {
+    "id": "sj:907ac2b0-1ba3-4cc3-bce0-e61334c9d123",
+    "company": "ManTech",
+    "title": "C++ Developer Intern",
+    "location": "Lexington Park, MD (Other)",
+    "url": "https://mantech.avature.net/en_US/careers/JobDetail/67268"
+  },
+  {
+    "id": "sj:e3e053b8-8e7b-4690-9875-c136637ed047",
+    "company": "Tesla",
+    "title": "Robotics Audio DSP Engineer Intern",
+    "location": "Palo Alto, CA (Other)",
+    "url": "https://www.tesla.com/careers/search/job/291227"
+  },
+  {
+    "id": "sj:33e34902-06c8-45f2-b648-693e90686d24",
+    "company": "Waymo",
+    "title": "Summer Intern - Driver Understanding and Evaluation - Large Model Evaluation",
+    "location": "Mountain View, CA (Other)",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8415223"
+  },
+  {
     "id": "sj:0ac4d045-ae34-4b4e-a936-b96916afbe0a",
     "company": "Bandwidth",
     "title": "Software Engineer Intern",
@@ -467,6 +551,13 @@
     "title": "Engineering Intern - Architecture Platform",
     "location": "Sunnyvale, CA (Other)",
     "url": "https://jobs.ashbyhq.com/illumio/a211377c-7db7-4c62-97ba-8176c5a61293/application?embed=true"
+  },
+  {
+    "id": "sj:18fb7fb1-2e9a-4339-bab0-009982dfb6c8",
+    "company": "Blizzard Entertainment",
+    "title": "Tech Art Intern",
+    "location": "Irvine, CA (Other)",
+    "url": "https://xboxgaming.wd1.myworkdayjobs.com/Blizzard_External_Careers/job/Irvine---Blizzard---Blizzard-Way/Blizzard-2027-Summer-Internships---Tech-Art_R028383"
   },
   {
     "id": "sj:94a72a59-20ae-4fcc-a654-f08453eb1a00",
