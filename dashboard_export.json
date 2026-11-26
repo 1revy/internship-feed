@@ -1169,6 +1169,13 @@
     "url": "https://jobs.ashbyhq.com/illumio/37c87203-d74b-40f9-8ce6-30559f1594af/application?embed=true"
   },
   {
+    "id": "sj:043e1238-ba2a-410a-8bcb-baa0657e8cf4",
+    "company": "Zebra Technologies",
+    "title": "Product Management Intern",
+    "location": "Lincolnshire, IL (Other)",
+    "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Product-Management_JR103660"
+  },
+  {
     "id": "sj:f9d36ef7-8b25-4124-a93e-859b264cd811",
     "company": "Koch Industries",
     "title": "Data and Analytics Intern",
@@ -3491,12 +3498,5 @@
     "title": "Data Scientist Intern",
     "location": "Redwood City, CA (Other)",
     "url": "https://job-boards.greenhouse.io/c3ascend/jobs/8738917002"
-  },
-  {
-    "id": "sj:a8fce259-7cd2-44ea-a7ab-787260c1308e",
-    "company": "Vanguard",
-    "title": "Data Science Intern - Information Technology",
-    "location": "Malvern, PA (Other)",
-    "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Data-Science--PA-_181766"
   }
 ]
