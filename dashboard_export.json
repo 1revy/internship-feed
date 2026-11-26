@@ -371,13 +371,6 @@
     "url": "https://jobs.ashbyhq.com/notion/43ffba97-b64a-4c6a-ac13-c803253c9413/application?embed=true"
   },
   {
-    "id": "sj:e00d51e8-391a-473d-a100-37fa803e306d",
-    "company": "Andreessen Horowitz",
-    "title": "Research Intern - Frontier",
-    "location": "NYC (New York)",
-    "url": "https://a16z.com/about/jobs/?gh_jid=8046730003"
-  },
-  {
     "id": "sj:c5138e81-eb36-45f4-8460-5c616a7abbf5",
     "company": "Amazon",
     "title": "Software Engineer Intern - Machine Learning/Automated Reasoning",
@@ -1076,6 +1069,48 @@
     "title": "Software Engineer Intern",
     "location": "London, UK; Chicago, IL (London / Paris)",
     "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002"
+  },
+  {
+    "id": "sj:769a4faf-656a-4ce2-847a-d28a826c5857",
+    "company": "Total Quality Logistics",
+    "title": "Product Management Intern",
+    "location": "Cincinnati, OH (Other)",
+    "url": "https://tql.avature.net/en_US/TQLexternalcareers/JobDetail/19765"
+  },
+  {
+    "id": "sj:932ed6de-e1b8-42d6-8ade-34ff02f9d30a",
+    "company": "Total Quality Logistics",
+    "title": "Data Science & Analytics Intern",
+    "location": "Cincinnati, OH (Other)",
+    "url": "https://tql.avature.net/en_US/TQLexternalcareers/JobDetail/19764"
+  },
+  {
+    "id": "sj:51fa4d0a-47cf-41d3-853f-4943a72b7221",
+    "company": "Total Quality Logistics",
+    "title": "AI Product Intern",
+    "location": "Cincinnati, OH (Other)",
+    "url": "https://tql.avature.net/en_US/TQLexternalcareers/JobDetail/19757"
+  },
+  {
+    "id": "sj:04493088-dacd-4059-920a-cf86ac5d3a7e",
+    "company": "OpenSesame",
+    "title": "Product Intern",
+    "location": "Remote in USA (Other)",
+    "url": "https://boards.greenhouse.io/opensesame/jobs/8418204"
+  },
+  {
+    "id": "sj:e06c4577-b257-4bee-aa38-cc5006c57d9f",
+    "company": "Jack Henry",
+    "title": "Enterprise Pricing & Data Analytics Intern",
+    "location": "Allen, TX; Birmingham, AL; Monett, MO; Lenexa, KS; Springfield, MO; Overland Park, KS (Other)",
+    "url": "https://jackhenry.avature.net/careers/JobDetail/17682"
+  },
+  {
+    "id": "sj:07fa3ffd-e710-430b-b375-70c3bfd7b64a",
+    "company": "Apex",
+    "title": "Software Engineering Operating Systems Intern",
+    "location": "LA (Other)",
+    "url": "https://jobs.ashbyhq.com/apex-technology-inc/3ce65300-2818-4601-9ee4-34a3c012d915/application?embed=true"
   },
   {
     "id": "sj:423cda84-329b-4121-b2ca-e7f6f637cda7",
@@ -3463,40 +3498,5 @@
     "title": "Data Science Intern - Information Technology",
     "location": "Malvern, PA (Other)",
     "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Data-Science--PA-_181766"
-  },
-  {
-    "id": "sj:b639bba8-cb2b-4262-9125-9b56aeefa4cb",
-    "company": "TikTok",
-    "title": "Software Engineer Intern - TikTok Search Data Infra",
-    "location": "San Jose, CA (Other)",
-    "url": "https://lifeattiktok.com/search/7675128776856029445"
-  },
-  {
-    "id": "sj:5370153e-8623-4e1d-b4f6-986a7ab410a1",
-    "company": "PIMCO",
-    "title": "Software Engineering Intern - Technology Analyst",
-    "location": "Austin, TX (Other)",
-    "url": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Austin-TX-USA/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering_R106745"
-  },
-  {
-    "id": "sj:e95cee0e-a2ed-44d1-9017-9befd82e1561",
-    "company": "TikTok",
-    "title": "Data Engineer Intern - Data Platform Global Live",
-    "location": "San Jose, CA (Other)",
-    "url": "https://lifeattiktok.com/search/7674032146438162693"
-  },
-  {
-    "id": "sj:d1f12ffa-cc86-44c9-aad3-b6def1a50517",
-    "company": "TikTok",
-    "title": "Product Solutions and Operations Intern - Commerce Ads",
-    "location": "San Jose, CA (Other)",
-    "url": "https://lifeattiktok.com/search/7673340525029673221"
-  },
-  {
-    "id": "sj:a0ec26fd-db0f-4eb4-9bed-73b9409cabc5",
-    "company": "TikTok",
-    "title": "Product Manager Intern - Content and Services",
-    "location": "San Jose, CA (Other)",
-    "url": "https://lifeattiktok.com/search/7673337777708550405"
   }
 ]
