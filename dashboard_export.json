@@ -1120,13 +1120,6 @@
     "url": "https://careers.kimley-horn.com/jobs/29737?icims=1&lang=en-us"
   },
   {
-    "id": "sj:ccee3e39-6a88-4c3c-b913-c7af244fc90c",
-    "company": "Johns Hopkins Applied Physics Laboratory",
-    "title": "Artificial Intelligence and Complex Systems Intern",
-    "location": "Laurel, MD (Other)",
-    "url": "https://careers.jhuapl.edu/jobs/60935?icims=1&lang=en-us"
-  },
-  {
     "id": "sj:f01f8423-8219-4906-b1ce-6506e4b2e32d",
     "company": "Culver's",
     "title": "Business Analytics Intern",
@@ -3498,5 +3491,12 @@
     "title": "Data Scientist Intern",
     "location": "Redwood City, CA (Other)",
     "url": "https://job-boards.greenhouse.io/c3ascend/jobs/8738917002"
+  },
+  {
+    "id": "sj:a8fce259-7cd2-44ea-a7ab-787260c1308e",
+    "company": "Vanguard",
+    "title": "Data Science Intern - Information Technology",
+    "location": "Malvern, PA (Other)",
+    "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Data-Science--PA-_181766"
   }
 ]
