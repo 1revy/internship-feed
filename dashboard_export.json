@@ -56,6 +56,13 @@
     "url": "https://job-boards.greenhouse.io/octaura/jobs/4662934007"
   },
   {
+    "id": "sj:e36215ee-22f4-4838-820e-3fb56c3da112",
+    "company": "ICONIQ Capital",
+    "title": "Data & Analytics Intern",
+    "location": "NYC (New York)",
+    "url": "https://job-boards.greenhouse.io/iconiqhandshake/jobs/8391973"
+  },
+  {
     "id": "sj:6f68ae24-002f-4c1a-9481-237226b8224a",
     "company": "Fanatics",
     "title": "Product Intern",
@@ -252,11 +259,11 @@
     "url": "https://lifeattiktok.com/search/7677467375486765317"
   },
   {
-    "id": "sj:de926b0a-99e7-4dbd-94cd-334ec565be9f",
-    "company": "Citadel",
-    "title": "Sector Data Scientist Intern",
-    "location": "NYC (New York)",
-    "url": "https://www.citadel.com/careers/details/sector-data-scientist-2027-intern-us/"
+    "id": "sj:fc6955f6-8ff8-4433-b4eb-739c55ab20e0",
+    "company": "Atoms",
+    "title": "Software Engineer Intern",
+    "location": "Seattle, WA; SF; LA; NYC; Mountain View, CA (New York)",
+    "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8963704002"
   },
   {
     "id": "sj:9ef6ba15-7af9-4747-b59e-e6f15665463e",
@@ -1377,6 +1384,13 @@
     "title": "Client Security & Data Foundation Machine Learning Engineer Intern",
     "location": "San Jose, CA (Other)",
     "url": "https://lifeattiktok.com/search/7708750900450134325"
+  },
+  {
+    "id": "sj:d4e5b166-f1fd-4172-85ae-9b4ba4ffd6df",
+    "company": "ICONIQ Capital",
+    "title": "Data Science Intern - Science",
+    "location": "SF (Other)",
+    "url": "https://job-boards.greenhouse.io/iconiqhandshake/jobs/8391972"
   },
   {
     "id": "sj:436c4c36-f3de-487a-83b6-492a4266d8ff",
@@ -3484,19 +3498,5 @@
     "title": "Product Manager Intern - Content and Service Ads",
     "location": "San Jose, CA (Other)",
     "url": "https://lifeattiktok.com/search/7676283436713593093"
-  },
-  {
-    "id": "sj:fc548cb2-6ef0-4989-985c-dcdcc863281d",
-    "company": "C3.ai",
-    "title": "Data Scientist Intern",
-    "location": "Redwood City, CA (Other)",
-    "url": "https://job-boards.greenhouse.io/c3ascend/jobs/8738917002"
-  },
-  {
-    "id": "sj:a8fce259-7cd2-44ea-a7ab-787260c1308e",
-    "company": "Vanguard",
-    "title": "Data Science Intern - Information Technology",
-    "location": "Malvern, PA (Other)",
-    "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Data-Science--PA-_181766"
   }
 ]
