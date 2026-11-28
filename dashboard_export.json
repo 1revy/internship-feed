@@ -112,13 +112,6 @@
     "url": "https://ice.jibeapply.com/jobs/14101?icims=1"
   },
   {
-    "id": "sj:02b720b7-6299-4c34-a21d-fd42406e00f5",
-    "company": "Citi",
-    "title": "Technology Summer Analyst Intern - Application Development",
-    "location": "Jersey City, NJ; NYC (New York)",
-    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Jersey-City-New-Jersey-United-States/Technology--Application-Development--Summer-Analyst--New-York-Or-New-Jersey---USA--2027_261004378"
-  },
-  {
     "id": "sj:986abdef-dc72-4aa6-a4da-fbbcadaadc49",
     "company": "CVS Health",
     "title": "Innovation & Technology Software Engineering: Data & Intelligence Intern",
@@ -1078,6 +1071,20 @@
     "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002"
   },
   {
+    "id": "sj:b4b316f2-73f4-4cbc-acd9-c0cc67ba0d78",
+    "company": "Applied Materials",
+    "title": "Data Analyst Intern",
+    "location": "Santa Clara, CA (Other)",
+    "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Data-Finance-Analyst-Intern--Bachelor-s--Santa-Clara--CA-_R2626652"
+  },
+  {
+    "id": "sj:c2c9e307-708a-4d6b-8cdb-7fd2df9f24cb",
+    "company": "Baker Hughes",
+    "title": "Modelling and Data Analytics Intern",
+    "location": "Farnborough, UK (Other)",
+    "url": "https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/GB-HA-FARNBOROUGH-107-RANGE-ROAD/Intern---Modelling-and-Data-Analytics---2027_R173444"
+  },
+  {
     "id": "sj:769a4faf-656a-4ce2-847a-d28a826c5857",
     "company": "Total Quality Logistics",
     "title": "Product Management Intern",
@@ -1120,11 +1127,60 @@
     "url": "https://jobs.ashbyhq.com/apex-technology-inc/3ce65300-2818-4601-9ee4-34a3c012d915/application?embed=true"
   },
   {
+    "id": "sj:a014bdcb-b818-451c-b76b-0622a8e2cd29",
+    "company": "Signet Jewelers",
+    "title": "Software Engineer Intern - Digital Commerce",
+    "location": "Irving, TX (Other)",
+    "url": "https://signetjewelers.wd1.myworkdayjobs.com/SignetCorporateCareers/job/Support-Center---Irving-TX/Software-Engineering-Intern--Digital-Commerce_REQ_84703"
+  },
+  {
+    "id": "sj:04c78092-3f94-4e7e-a5f8-754e0bfa3a4b",
+    "company": "Generac",
+    "title": "Consumer Experience Data Analyst Intern",
+    "location": "Pewaukee, WI (Other)",
+    "url": "https://generac.wd5.myworkdayjobs.com/en-US/external/job/Pewaukee-WI---USA/Consumer-Experience-Data-Analyst-Intern_JR17206"
+  },
+  {
+    "id": "sj:8609e4f1-e274-4b9c-9dc2-bec25213f987",
+    "company": "Signet Jewelers",
+    "title": "Software Engineer Intern - Digital Commerce",
+    "location": "Irving, TX (Other)",
+    "url": "https://signetjewelers.wd1.myworkdayjobs.com/SignetCorporateCareers/job/Support-Center---Irving-TX/Software-Engineering-Intern--Digital-Commerce_REQ_84709"
+  },
+  {
     "id": "sj:423cda84-329b-4121-b2ca-e7f6f637cda7",
     "company": "Kimley-Horn",
     "title": "Data Science Intern",
     "location": "Mesa, AZ (Other)",
     "url": "https://careers.kimley-horn.com/jobs/29737?icims=1&lang=en-us"
+  },
+  {
+    "id": "sj:75ae59c1-6620-4618-9191-6fc87e899ff2",
+    "company": "Nasdaq",
+    "title": "Data Engineer Intern",
+    "location": "Denver, CO (Other)",
+    "url": "https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/Denver-18-Street/Data-Engineering-Intern---2027-Summer-Internship_R0027379"
+  },
+  {
+    "id": "sj:9e91688a-6bad-488e-8e45-b49824eba783",
+    "company": "Alexion",
+    "title": "Business Partner Intern - Business Partner",
+    "location": "Boston, MA (Other)",
+    "url": "https://astrazeneca.wd3.myworkdayjobs.com/alexion/job/US---Boston---MA/Summer-2027-Intern---Business-Partner_R-264992"
+  },
+  {
+    "id": "sj:bc12a50a-23a7-4265-8ea4-1c51833cca64",
+    "company": "ASML",
+    "title": "Data Analyst Intern",
+    "location": "San Jose, CA (Other)",
+    "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---Data-Analyst_J-00355833"
+  },
+  {
+    "id": "sj:3a509517-b97a-45ca-8f3a-dc7a5b9f434f",
+    "company": "CrowdStrike",
+    "title": "Product Engineer Intern - Falcon Guardian",
+    "location": "Redmond, WA; Sunnyvale, CA (Other)",
+    "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Product-Engineering-Intern---Falcon-Guardian_R30622"
   },
   {
     "id": "sj:f01f8423-8219-4906-b1ce-6506e4b2e32d",
@@ -1174,6 +1230,20 @@
     "title": "Product Management Intern",
     "location": "Lincolnshire, IL (Other)",
     "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Product-Management_JR103660"
+  },
+  {
+    "id": "sj:e9a209ed-db55-4f33-b300-02831e3529f3",
+    "company": "Federal Home Loan Bank of Dallas",
+    "title": "Digital Transformation Intern",
+    "location": "Irving, TX (Other)",
+    "url": "https://fhlb.wd1.myworkdayjobs.com/FHLB_Careers/job/Irving-TX/XMLNAME-2027-Summer-Digital-Transformation-Intern_REQ-457"
+  },
+  {
+    "id": "sj:ec1965e3-23dc-426a-9f35-ab4422b2d42e",
+    "company": "The Toro Company",
+    "title": "Data Science Intern",
+    "location": "Bloomington, MN (Other)",
+    "url": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Data-Science-Intern---The-Toro-Company_JR17932"
   },
   {
     "id": "sj:f9d36ef7-8b25-4124-a93e-859b264cd811",
@@ -1281,6 +1351,20 @@
     "url": "https://plains.wd1.myworkdayjobs.com/plains/job/Houston-TX/Intern--Operations-Management-System--Digital---AI-Innovation_R0015266-1"
   },
   {
+    "id": "sj:c9b83bec-92da-48c2-9bc7-3f9565a83da5",
+    "company": "TravisMathew",
+    "title": "Product Development Intern",
+    "location": "Huntington Beach, CA (Other)",
+    "url": "https://tcbrands.wd1.myworkdayjobs.com/TravisMathew-Careers/job/TM---HQ---Huntington-Beach/Summer-2027-Internship---Product-Development_JR2023-16922"
+  },
+  {
+    "id": "sj:1fc01373-3f95-46c4-839e-7c5f8ae8795c",
+    "company": "State Street",
+    "title": "Product Internship - Data Intelligence",
+    "location": "Cambridge, MA (Other)",
+    "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Cambridge-Massachusetts/State-Street-Product-Team---Data-Intelligence---2027-Summer-Internship_R-801340"
+  },
+  {
     "id": "sj:23c15372-9632-404c-a541-af54e55a15f8",
     "company": "Lucid Motors",
     "title": "AI & Data Intern - Applied AI/Machine Learning",
@@ -1307,6 +1391,20 @@
     "title": "Data Science and Analytics Intern",
     "location": "Chicago, IL (Other)",
     "url": "https://transunion.wd5.myworkdayjobs.com/en-US/TransUnion/job/Chicago-Illinois/Data-Science---Analytics-Internship---Summer-2027_19043450"
+  },
+  {
+    "id": "sj:6833143b-60fe-448d-82ed-097ea19d1645",
+    "company": "LabCorp",
+    "title": "IT Product Owner Intern",
+    "location": "Durham, NC (Other)",
+    "url": "https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Intern---Product-Owner_2638059"
+  },
+  {
+    "id": "sj:a0de0241-28d4-4bd8-92dc-bcf180391490",
+    "company": "Highmark Health",
+    "title": "Healthcare Interoperability Data Engineer & Analyst Intern",
+    "location": "Pittsburgh, PA (Other)",
+    "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/Summer-2027-Data-Engineer---Analyst-enGen-Undergraduate-Intern_J291722"
   },
   {
     "id": "sj:1344faa8-1ac5-42aa-9e6f-7777257aca98",
@@ -1344,6 +1442,34 @@
     "url": "https://jobs.sheetz.com/jobs/86015?icims=1&lang=en-us"
   },
   {
+    "id": "sj:cf9b9985-c85c-40db-86bb-428737c72eed",
+    "company": "Sallie Mae",
+    "title": "Data Lifecycle and Governance Intern",
+    "location": "Newark, DE (Other)",
+    "url": "https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Newark-DE/Data-Lifecycle-and-Governance-Intern_R26_000697"
+  },
+  {
+    "id": "sj:2af4ca94-a7c2-4090-808d-1cdb480ca83b",
+    "company": "State Street",
+    "title": "Data Engineering & Product Intern",
+    "location": "Boston, MA (Other)",
+    "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Data-Engineering---Product--Technology-Intern---Full-time-Internship--Jan---June-2027-_R-801274"
+  },
+  {
+    "id": "sj:6c7b43f4-b15e-4ae1-8489-6a0258f733c5",
+    "company": "State Street",
+    "title": "Data Engineering & Product Intern",
+    "location": "Quincy, MA (Other)",
+    "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Data-Engineering---Product--Technology-Intern---Full-time-Internship--Jan---June-2027-_R-801276"
+  },
+  {
+    "id": "sj:881e0fd8-4e57-4368-bf12-8091121232b1",
+    "company": "Great American Insurance Company",
+    "title": "Data Engineer Intern",
+    "location": "Cincinnati, OH (Other)",
+    "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Data-Engineer-Developer-Intern---Summer-2027_R9919"
+  },
+  {
     "id": "sj:68916cbe-97cc-414d-8732-d68540a99d35",
     "company": "APEX Analytix",
     "title": "Product Management Intern - DevOps",
@@ -1370,6 +1496,20 @@
     "title": "Geographic Information Systems Intern",
     "location": "Michigan (Other)",
     "url": "https://rcoc.bamboohr.com/careers/314/"
+  },
+  {
+    "id": "sj:e9eb6d51-8c37-4196-9134-c0b9b44e674b",
+    "company": "State Street",
+    "title": "Data Scientist Intern - Data Scientist",
+    "location": "Boston, MA (Other)",
+    "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/State-Street-Investment-Management---Data-Scientist---Summer-Internship-2027_R-801213"
+  },
+  {
+    "id": "sj:698ee8e4-6937-4178-bf2c-79763e223213",
+    "company": "Great American Insurance Company",
+    "title": "Technical Product Management Intern - Summer 2027",
+    "location": "Cincinnati, OH (Other)",
+    "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Technical-Product-Management-Intern---Summer-2027_R9883-1"
   },
   {
     "id": "sj:212428e1-6f7b-4829-bf5f-a43560a86ad7",
@@ -1405,6 +1545,13 @@
     "title": "Data Analyst Intern",
     "location": "Chicago, IL (Other)",
     "url": "https://transunion.wd5.myworkdayjobs.com/en-US/TransUnion/job/Chicago-Illinois/Data-Analysis-Internship---Summer-2027_19042654"
+  },
+  {
+    "id": "sj:42bdd847-2571-4cca-801f-b1585ae84011",
+    "company": "Entegris",
+    "title": "Materials Solutions Engineer Intern",
+    "location": "Aurora, IL (Other)",
+    "url": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Aurora-IL/Materials-Solutions-Engineering-Intern---Summer-2027_REQ-15856"
   },
   {
     "id": "sj:f7c4221f-6c64-4799-8157-8a32799d7e85",
@@ -3351,152 +3498,5 @@
     "title": "Machine Learning Engineer Intern - E-Commerce Knowledge Graph",
     "location": "San Jose, CA (Other)",
     "url": "https://lifeattiktok.com/search/7676652813409552645"
-  },
-  {
-    "id": "sj:30c6e50a-a52b-4624-ad9a-bff649958700",
-    "company": "TikTok",
-    "title": "Machine Learning Engineer Intern - E-Commerce Knowledge Graph",
-    "location": "Seattle, WA (Other)",
-    "url": "https://lifeattiktok.com/search/7676650607912601861"
-  },
-  {
-    "id": "sj:5f0b34c1-fcc7-46c2-9772-8e8ce4bd4f5f",
-    "company": "Oshkosh",
-    "title": "Product Management Intern",
-    "location": "Appleton, WI (Other)",
-    "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Appleton-Wisconsin-United-States/Product-Management-Intern--Summer-2027-_R49746"
-  },
-  {
-    "id": "sj:d3e9acbe-429c-41ea-ad4b-0536beab6782",
-    "company": "Medline",
-    "title": "Product Management Intern - Summer 2027",
-    "location": "Chicago, IL; Northfield, IL (Other)",
-    "url": "https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Northfield-Illinois/Product-Management-Intern---Summer-2027_R2616983"
-  },
-  {
-    "id": "sj:f12db905-e4bc-477c-b339-4c9306913d42",
-    "company": "Booz Allen",
-    "title": "Data Scientist Intern - Summer Games",
-    "location": "Rome, NY (Other)",
-    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Rome-NY/University--2027-Summer-Games-Data-Scientist-Intern_R0248143"
-  },
-  {
-    "id": "sj:de4cd0c6-05b6-4e77-9479-486a018a8683",
-    "company": "Booz Allen",
-    "title": "Data Scientist Intern - University",
-    "location": "Charleston, SC (Other)",
-    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Charleston-SC/University---2027-Summer-Games-Data-Scientist-Intern_R0248137"
-  },
-  {
-    "id": "sj:ab6cb65d-01c3-421d-bc8b-48584e8d4cba",
-    "company": "Booz Allen",
-    "title": "Data Scientist Intern - University",
-    "location": "Atlanta, GA (Other)",
-    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/University--2027-Summer-Games-Data-Scientist-Intern_R0248140"
-  },
-  {
-    "id": "sj:25fa3cf0-19e1-48c4-a10b-cd91ace49138",
-    "company": "TELUS Digital",
-    "title": "Product Analyst Intern",
-    "location": "Columbus, OH (Other)",
-    "url": "https://jobs.ashbyhq.com/telus-digital/e1dfd8b7-fb8a-4ce9-957f-0706b13195c7/application?embed=true"
-  },
-  {
-    "id": "sj:e7293c88-f396-415f-920c-742686dde2e3",
-    "company": "Booz Allen",
-    "title": "Data Scientist Intern - University",
-    "location": "San Diego, CA (Other)",
-    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Diego-CA/University---2027-Summer-Games-Data-Scientist-Intern---San-Diego--CA_R0248045"
-  },
-  {
-    "id": "sj:0421e841-beed-4315-83cf-cbc7ffc68617",
-    "company": "WhiteWater Midstream",
-    "title": "Data Science Intern - Summer 2027",
-    "location": "Austin, TX (Other)",
-    "url": "https://job-boards.greenhouse.io/whitewatermidstream/jobs/5217853007"
-  },
-  {
-    "id": "sj:bbd6e777-012d-4311-bbee-2f7372acaa9d",
-    "company": "Brunswick",
-    "title": "Product Management Intern - Oils & Lubricants",
-    "location": "Fond du Lac, WI (Other)",
-    "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Mercury-Marine--Product-Management-Intern---Oils---Lubricants_JR-051213"
-  },
-  {
-    "id": "sj:87b11195-7636-4d15-98ef-a30cea2dff16",
-    "company": "Brunswick",
-    "title": "Systems Engineer Co-op - Software Engineering",
-    "location": "Fond du Lac, WI (Other)",
-    "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Mercury-Marine---Systems-Software-Engineering-Co-op_JR-051212"
-  },
-  {
-    "id": "sj:63b147f7-67e5-40ea-bf27-906ad1de151c",
-    "company": "TikTok",
-    "title": "Product Operations Intern",
-    "location": "LA (Other)",
-    "url": "https://lifeattiktok.com/search/7673361736079329541"
-  },
-  {
-    "id": "sj:9461eef2-85ff-4810-8147-6cf294000c7d",
-    "company": "TikTok",
-    "title": "Product Manager Intern - Pgc",
-    "location": "LA (Other)",
-    "url": "https://lifeattiktok.com/search/7673365416605010229"
-  },
-  {
-    "id": "sj:4890aa3f-9b23-4f72-8e21-fa891322a004",
-    "company": "TikTok",
-    "title": "Product Manager Intern - Pgc",
-    "location": "San Jose, CA (Other)",
-    "url": "https://lifeattiktok.com/search/7673365923163638069"
-  },
-  {
-    "id": "sj:cb7c7665-f749-4ac4-82aa-36376548fdc7",
-    "company": "TikTok",
-    "title": "Client Solutions Intern",
-    "location": "San Jose, CA (Other)",
-    "url": "https://lifeattiktok.com/search/7677467052537776437"
-  },
-  {
-    "id": "sj:d5f10439-1231-496b-a535-96be20ab9808",
-    "company": "TikTok",
-    "title": "Client Solutions Intern - Global Business Solutions",
-    "location": "LA (Other)",
-    "url": "https://lifeattiktok.com/search/7677467375487486213"
-  },
-  {
-    "id": "sj:b3e5cba2-cc35-4da5-88b4-0dcc462d5536",
-    "company": "Procter & Gamble",
-    "title": "Data & AI Engineering Intern",
-    "location": "Cincinnati, OH (Other)",
-    "url": "https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Data---AI-Engineering-Internship_R000157499"
-  },
-  {
-    "id": "sj:4a6c8dec-bbc4-43b8-a768-fbedfacf95d3",
-    "company": "Procter & Gamble",
-    "title": "Data Scientist Intern",
-    "location": "Cincinnati, OH (Other)",
-    "url": "https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Data-Scientist--Master-s-Degree--Internship_R000157504"
-  },
-  {
-    "id": "sj:355a0760-208b-425c-9769-6bd234775cfa",
-    "company": "Procter & Gamble",
-    "title": "IT Engineering Internship - Software, Platform, Network",
-    "location": "Cincinnati, OH (Other)",
-    "url": "https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/IT-Engineering-Internship--Software--Platform----Network-_R000157503"
-  },
-  {
-    "id": "sj:7fff5796-fc88-4d04-a6fa-be35e0bdb2e0",
-    "company": "TikTok",
-    "title": "AI Product Manager Intern - Product Social",
-    "location": "San Jose, CA (Other)",
-    "url": "https://lifeattiktok.com/search/7675616554318596357"
-  },
-  {
-    "id": "sj:3085d453-c413-4fb3-9fc6-7da1855ee4f1",
-    "company": "TikTok",
-    "title": "Product Manager Intern - Content and Service Ads",
-    "location": "San Jose, CA (Other)",
-    "url": "https://lifeattiktok.com/search/7676283436713593093"
   }
 ]
